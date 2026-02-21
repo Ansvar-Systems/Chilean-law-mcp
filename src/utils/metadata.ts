@@ -30,12 +30,11 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (bcn.cl/leychile) — Government (State Chancellery of Chilean)',
-    jurisdiction: 'EE',
+    data_source: 'LeyChile (Biblioteca del Congreso Nacional de Chile) — https://www.bcn.cl/leychile',
+    jurisdiction: 'CL',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Chilean). ' +
-      'Always verify with the official Official Legal Database portal (bcn.cl/leychile).',
+      'This dataset is sourced from Chile\'s official LeyChile service. ' +
+      'Always verify citations against the official portal.',
     freshness,
   };
 }

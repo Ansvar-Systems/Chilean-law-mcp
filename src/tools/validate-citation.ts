@@ -32,27 +32,40 @@ export interface ValidateCitationResult {
  */
 function parseCitation(citation: string): { documentRef: string; sectionRef?: string } | null {
   const trimmed = citation.trim();
+  if (trimmed.length === 0) return null;
+
+  // Normalize optional comma/semicolon after the section token.
+  const normalizedSectionFirst = trimmed.replace(
+    /^Section\s+([0-9A-Za-z()]+)\s*[,;]\s+/i,
+    'Section $1 ',
+  );
 
   // "Section N <Act>" or "Section N, <Act>"
-  const sectionFirst = trimmed.match(
-    /^Section\s+(\d+[A-Za-z]*(?:\(\d+\))?)\s*[,;]?\s+(.+)$/i
-  );
+  const sectionFirst = normalizedSectionFirst.match(/^Section\s+([0-9A-Za-z()]+)\s+(.+)$/i);
   if (sectionFirst) {
     return { documentRef: sectionFirst[2].trim(), sectionRef: sectionFirst[1] };
   }
 
+  // Normalize optional comma/semicolon before section suffix.
+  const normalizedSectionLast = trimmed
+    .replace(/^(.+?)\s*[,;]\s+s\s+([0-9A-Za-z()]+)$/i, '$1 s $2')
+    .replace(/^(.+?)\s*[,;]\s+s\.\s+([0-9A-Za-z()]+)$/i, '$1 s. $2');
+
   // "<Act> s N" or "<Act>, s N" or "<Act> s. N"
-  const sectionLast = trimmed.match(
-    /^(.+?)\s*[,;]?\s+s\.?\s+(\d+[A-Za-z]*(?:\(\d+\))?)$/i
-  );
+  const sectionLast =
+    normalizedSectionLast.match(/^(.+?)\s+s\s+([0-9A-Za-z()]+)$/i)
+    ?? normalizedSectionLast.match(/^(.+?)\s+s\.\s+([0-9A-Za-z()]+)$/i);
   if (sectionLast) {
     return { documentRef: sectionLast[1].trim(), sectionRef: sectionLast[2] };
   }
 
-  // "<Act> Section N" or "<Act>, Section N"
-  const sectionWordLast = trimmed.match(
-    /^(.+?)\s*[,;]?\s+Section\s+(\d+[A-Za-z]*(?:\(\d+\))?)$/i
+  const normalizedSectionWordLast = trimmed.replace(
+    /^(.+?)\s*[,;]\s+Section\s+([0-9A-Za-z()]+)$/i,
+    '$1 Section $2',
   );
+
+  // "<Act> Section N" or "<Act>, Section N"
+  const sectionWordLast = normalizedSectionWordLast.match(/^(.+?)\s+Section\s+([0-9A-Za-z()]+)$/i);
   if (sectionWordLast) {
     return { documentRef: sectionWordLast[1].trim(), sectionRef: sectionWordLast[2] };
   }

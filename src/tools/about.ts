@@ -44,12 +44,12 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Official Legal Database',
-      authority: 'Government (State Chancellery of Chilean)',
+      name: 'LeyChile',
+      authority: 'Biblioteca del Congreso Nacional de Chile (BCN)',
       url: 'https://www.bcn.cl/leychile',
-      license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
-      jurisdiction: 'EE',
-      languages: ['en'],
+      license: 'Official legal information service',
+      jurisdiction: 'CL',
+      languages: ['es', 'en'],
     },
   };
 }

@@ -28,7 +28,6 @@ export function buildFtsQueryVariants(sanitized: string): string[] {
   }
 
   const terms = sanitized.split(/\s+/).filter(t => t.length > 0);
-  if (terms.length === 0) return [];
 
   const variants: string[] = [];
 
