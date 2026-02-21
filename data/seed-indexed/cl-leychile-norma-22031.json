@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-22031",
+  "type": "statute",
+  "title": "FERROCARRIL ENTRE LA ESTACION DE RANCAGUA I EL PUEBLO DE PENCO",
+  "short_name": "Ley 170",
+  "status": "in_force",
+  "issued_date": "1894-01-22",
+  "in_force_date": "1894-01-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22031",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Concédese a don Gustavo A.\nOehninger permiso para construir un ferrocarril que partiendo de la estacion de Rancagua, llegue al pueblo de Penco, conforme a los estudios i trazados que existen en la Direccion Jeneral de Obras Públicas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se declaran de utilidad pública los terrenos particulares i municipales necesarios para la construccion de la línea, sus estaciones i edificios anexos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El concesionario queda facultado para tomar una copia de los planos existentes en la Direccion de Obras Públicas una vez depositada la garantía que determina el artículo 4.°"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Dentro del plazo de seis meses el concesionario otorgará una garantía de cinco mil pesos a satisfaccion del Director del Tesoro para responder a las obligaciones que le impone el artículo siguiente, i si no lo hiciere, caducará la concesion. La suma anterior se adjudicará al Fisco si el concesionario no cumpliese con alguna de dichas obligaciones."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Los trabajos de construccion de la línea se comenzarán en el término de un año, a contar desde la fecha de la promulgacion de esta lei, i la línea estará concluida i entregada al tráfico público en el término de treinta meses, a contar desde la espiracion del plazo anterior."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Las tarifas de fletes i de pasajeros serán sometidas a la aprobacion del Presidente de la República. Igual aprobacion deberá recaer sobre los planos, caso que los existentes sean modificados."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ART. 7.° El concesionario estará obligado a vender al Estado la línea i su material, prévio aviso que deberá dársele con un año de anticipacion.\nDos peritos, nombrados uno por el Presidente de la República i el otro por el concesionario, fijarán el valor de la línea i su material, sin tomar en cuenta su valor comercial; la tasacion así efectuada, mas un diez por ciento, será el valor que pagará el Estado.\nEn caso de desacuerdo será éste resuelto por un perito que nombrará la Corte de Apelaciones en cuya jurisdiccion esté ubicada la línea."
+    }
+  ],
+  "definitions": []
+}

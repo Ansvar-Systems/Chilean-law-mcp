@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21968",
+  "type": "statute",
+  "title": "PRESUPUESTO DE GUERRA",
+  "short_name": "Ley 102",
+  "status": "in_force",
+  "issued_date": "1893-09-11",
+  "in_force_date": "1893-09-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21968",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Sustitúyense los ítems 4, 5 i 6 de la partida 32 del presupuesto de Guerra para 1893 por los siguientes:\nItem 4 Para adquirir una maquinaria para la\nfabricacion de cartuchos, ciento\ncincuenta i cinco mil pesos__________ $ 155,000\n\" 5 Para atender el material i completar\nlas municiones de Artillería,\nveintiocho mil pesos_________________ $ 28,000\n\" 6 Para refaccionar el cuartel de\nArtillería de Costa de Talcahuano,\ndiezisiete mil pesos_________________ $ 17,000"
+    }
+  ],
+  "definitions": []
+}

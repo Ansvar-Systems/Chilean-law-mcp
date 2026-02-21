@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22044",
+  "type": "statute",
+  "title": "INDEMNIZACION",
+  "short_name": "Ley 184",
+  "status": "in_force",
+  "issued_date": "1894-07-25",
+  "in_force_date": "1894-07-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22044",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Autorízase al Presidente de la República para que invierta la suma de veinticinco mil novecientos cincuenta y un pesos diez centavos ($ 25,951.10), producto del seguro de la Escuela Normal de Preceptoras de Santiago, en indemnizar, proporcionalmente, a las profesoras, empleadas i alumnas damnificadas por el incendio ocurrido en ese establecimiento el 3 de Junio de 1894."
+    }
+  ],
+  "definitions": []
+}

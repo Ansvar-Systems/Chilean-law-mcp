@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21949",
+  "type": "statute",
+  "title": "ASOCIACION DE ARTESANOS DE VALPARAISO",
+  "short_name": "Ley 78",
+  "status": "in_force",
+  "issued_date": "1893-08-16",
+  "in_force_date": "1893-08-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21949",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a la corporacion denominada \"Asociacion de Artesanos de Valparaiso\" el permiso requerido por el artículo 556 del Código Civil para que pueda conservar por treinta años la propiedad de un bien raiz que tiene adquirido en la calle del Hospital en la ciudad de Valparaiso."
+    }
+  ],
+  "definitions": []
+}

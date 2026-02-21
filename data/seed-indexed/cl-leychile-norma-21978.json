@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-21978",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 113",
+  "status": "in_force",
+  "issued_date": "1893-10-30",
+  "in_force_date": "1893-10-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21978",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Se declaran libres de derechos de internación los cianuros de potasio y sodio, el ferrocianuro de potasio ó prusiato amarillo, el ferrocianuro de potasio ó prusiato rojo y el bisulfato de sosa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Esta ley comenzará á regir veinticinco días después de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

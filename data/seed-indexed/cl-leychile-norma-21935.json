@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21935",
+  "type": "statute",
+  "title": "PENSION DE MONTEPIO",
+  "short_name": "Ley 62",
+  "status": "in_force",
+  "issued_date": "1893-08-07",
+  "in_force_date": "1893-08-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21935",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese, por gracia, a la viuda e hijos de don Luis Borgoño la pension de montepío correspondiente al empleo de coronel, debiendo gozarla con arreglo a la lei de montepío militar."
+    }
+  ],
+  "definitions": []
+}

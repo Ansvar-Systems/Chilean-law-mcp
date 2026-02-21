@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-21999",
+  "type": "statute",
+  "title": "COLACION DE GRADOS UNIVERSITARIOS",
+  "short_name": "Ley 137",
+  "status": "in_force",
+  "issued_date": "1893-12-22",
+  "in_force_date": "1893-12-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21999",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Para obtener los grados universitarios no será necesario haber rendido exámenes anuales i solo se exijirán pruebas finales en conformidad a un reglamento que debe dictar el Consejo de Instrucción Pública con aprobacion del Presidente de la República.\nLos que aspiren al bachillerato en humanidades, deberán ademas haber rendido tres años ántes, a lo ménos, un exámen que comprenda la mitad del curso segun el mismo reglamento a que se refiere el inciso anterior.\nLos aspirantes que no hubieren obtenido aprobacion en las pruebas solo podrán repetirlas despues de transcurrido el plazo que fijen los reglamentos, el que no podrá exceder de un año ni bajar de dos meses."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Las comisiones examinadoras se compondrán de cuatro miembros.\nPara cada prueba habrá dos o mas comisiones, i de ellas, una a lo ménos será compuesta esclusivamente de profesores o ex-profesores de Estado, i otra mixta, compuesta de número igual de profesores o ex-profesores del Estado i de profesores o ex-profesores de la enseñanza particular si lo hubiere.\nLos candidatos podrán rendir exámenes ante cualquiera de las comisiones"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Los nombramientos de examinadores se harán por el Presidente de la República i deberán recaer en personas que se hayan ocupado por mas de cuatro años en la enseñanza i que hayan sido profesores de los ramos a que las pruebas se refieren.\nPara este efecto, el Consejo de Instruccion Pública pasará oportunamente al Presidente de la República una nómina de los profesores o ex-profesores que reunan las condiciones requeridas en el inciso precedente."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Los miembros de las comisiones examinadoras serán remunerados con una cantidad, por cada hora de trabajo, que no ex-cederá de seis pesos ni bajará de tres.\nEl Consejo de Instruccion, con aprobacion del Presidente de la República, fijará, segun la naturaleza de las pruebas la remuneracion correspondiente.\nLos profesores del Estado estarán obligados a desempeñar el cargo de miembros de las comisiones examinadoras de los ramos que enseñen, siempre que deban ejercer esas funciones en el lugar mismo de su residencia, i les corresponderá igual remuneracion especial como a los demas examinadores."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULOS TRASITORIOS {ARTS. 1-2} ART. 1.º Los alumnos que hayan iniciado sus estudios con arreglo al plan vijente, podrán obtener los grados en conformidad a las reglas que rijen en la actualidad hasta el 31 de Diciembre de 1897.\nPara este efecto, los exámenes anuales se rendirán ante comisiones nombradas en la misma forma que indican los artículos anteriores.\nEstas comisiones funcionarán en los colejios a que pertenezcan los examinados, salvo que no tengan, a juicio de la misma comision, los elementos o útiles indispensables para apreciar los conocimientos de los alumnos."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "ART. 2.° Los reglamentos que requiera la ejecucion de esta lei serán dictados dentro del término de seis meses."
+    }
+  ],
+  "definitions": []
+}

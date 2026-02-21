@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-22101",
+  "type": "statute",
+  "title": "FERROCARRIL A LAS CONDES",
+  "short_name": "Ley 247",
+  "status": "in_force",
+  "issued_date": "1895-01-05",
+  "in_force_date": "1895-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22101",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se autoriza al Presidente de la República para conceder permiso para construir un ferrocarril que una la línea férrea del Estado con el mineral de las Condes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° El Presidente de la República pedirá propuestas cerradas para otorgar el permiso, i las propuestas serán presentadas dentro del plazo de noventa dias, contados desde la publicacion en el Diario Oficial del decreto supremo en que se pidan."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Serán motivos de preferencia para conceder el permiso:\n1.° El mayor número de intereses industriales que favorezca la línea;\n2.° Los menores perjuicios que produzca el trabajo de la línea en las propiedades municipales i particulares que atraviese; i\n3.° La mejor garantía o manifestacion de recursos en seguridad de que se llevará a efecto la obra."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Los planos de la obra serán sometidos a la aprobacion del Presidente de la República dentro de noventa dias desde la concesion del permiso; los trabajos de la línea se comenzarán dentro de treinta dias de la aprobacion de los planos i la línea estará concluida i entregada al servicio público dentro de cuatro años, contados desde la misma aprobacion de los planos.\nLa línea no podrá pasar por dentro de los límites urbanos de la ciudad de Santiago."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Las propuestas deberán presentarse con caucion especial por la suma de veinte mil pesos, i la que no lleve ese requisito no será tomada en consideracion.\nEl concesionario deberá otorgar caucion por la suma de cincuenta mil pesos para garantir el cumplimiento de la obligacion que impone el art. 4.° de esta lei, i la espresada suma quedará a beneficio fiscal si el concesionario no cumple en tiempo debido esas obligaciones.\nEn tal caso caducará tambien esta concesion."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Se declaran de utilidad pública los terrenos municipales i particulares necesarios para la construccion de la vía i sus estaciones."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ART. 7.° Se concede ademas:\na) El uso de los terrenos fiscales necesarios para la construccion de la vía i sus estaciones;\nb) El uso de los caminos públicos en la parte en que los atraviese la línea, sin perjuicio del tráfico público."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ART. 8.° La autorizacion concedida al Presidente de la República por esta lei durará por el término de un año."
+    }
+  ],
+  "definitions": []
+}

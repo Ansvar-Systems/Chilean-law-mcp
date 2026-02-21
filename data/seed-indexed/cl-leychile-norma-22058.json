@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22058",
+  "type": "statute",
+  "title": "PENSION",
+  "short_name": "Ley 200",
+  "status": "in_force",
+  "issued_date": "1894-08-25",
+  "in_force_date": "1894-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22058",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Concédese por gracia a doña Cármen Peñailillo, viuda del jeneral de brigada don José Hinojosa, i a sus hijas solteras, una pension anual vitalicia de mil ochocientos pesos ($1,800), la que gozarán en conformidad a la lei de montepío militar i con esclusion de toda otra asignacion fiscal."
+    }
+  ],
+  "definitions": []
+}

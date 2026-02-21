@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22112",
+  "type": "statute",
+  "title": "AUXILIO A CIUDADANOS CHILENOS DAMNIFICADOS EN LA INUNDACION DE MENDOZA",
+  "short_name": "Ley 258",
+  "status": "in_force",
+  "issued_date": "1895-01-19",
+  "in_force_date": "1895-01-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22112",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la cantidad de diez mil pesos oro en auxiliar a los ciudadanos chilenos damnificados con motivo de la reciente inundacion ocurrida en Mendoza."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21901",
+  "type": "statute",
+  "title": "SERVICIO DE DEUDAS MUNICIPALES",
+  "short_name": "Ley 17",
+  "status": "in_force",
+  "issued_date": "1893-02-01",
+  "in_force_date": "1893-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21901",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Las deudas municipales que, en virtud del art. 4.° de las disposiciones transitorias de la Lei de Municipalidades de 22 de Diciembre de 1891, deberian ser pagadas por el Estadio, continuarán servidas por el Erario Nacional en los mismos términos i condiciones en que fueron contratadas, siempre que procedan de emisiones cuyo interes no exceda de seis por ciento anual, o que, ganando un interes superior, no puedan ser redimidas a la par.\nLas demas deudas a que se refiere el artículo ya citado de la Lei de Municipalidades, que no se encuentren en los casos consultados en el inciso precedente, serán pagadas en conformidad a lo dispuesto en aquel artículo."
+    }
+  ],
+  "definitions": []
+}

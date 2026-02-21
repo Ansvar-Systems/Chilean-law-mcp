@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21909",
+  "type": "statute",
+  "title": "SE DEROGAN VARIOS ARTICULOS DE LA LEI DE CONVERSION METÁLICA",
+  "short_name": "Ley 36",
+  "status": "in_force",
+  "issued_date": "1893-05-13",
+  "in_force_date": "1893-05-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21909",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se derogan los artículos 1.°, 2.°, 3.°, 4.°, 5.°, 6.° i 8.° de la lei de 26 de Noviembre de 1892.\nEl producto de la última venta de bonos enajenados en conformidad a la lei de 26 de Noviembre de 1892, se destinará al pago de la deuda flotante del Estado."
+    }
+  ],
+  "definitions": []
+}

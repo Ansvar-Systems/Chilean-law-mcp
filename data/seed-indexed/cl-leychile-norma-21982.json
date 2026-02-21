@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-21982",
+  "type": "statute",
+  "title": "FERROCARRIL A VAPOR ENTRE LA ESTACION DE TINGUIRIRICA I EL CERRO DE LOS LAGARTOS",
+  "short_name": "Ley 117",
+  "status": "in_force",
+  "issued_date": "1893-11-15",
+  "in_force_date": "1893-11-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21982",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Concédese a don Guillermo Lira E., i a don Macario Sierralta permiso paa construir i esplotar un ferrocarril a vapor que partiendo de la estacion de Tinguiririca, en la provincia de Colchagua se dirija al oriente hasta el cerro de los Lagartos en la cordillera de los Andes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se declaran de utilidad pública los terrenos de propiedad municipal o de particulares que se necesiten para el trazado de la línea, sus estaciones i edificios anexos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Los planos de la obra, así como las tarifas de cargas i pasajeros, serán sometidos a la aprobacion del Presidente de la República."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Los concesionarios deberán iniciar los trabajos en el plazo de dos años, contados desde la promulgacion de la presente lei i entregar la línea concluida al tráfico público cinco años despues de iniciados los trabajos.\nLa Direccion Jeneral de Obras Públicas dictará declaracion de haberse iniciado los trabajos a satisfaccion de ella, prévia justificacion que de éste deben hacerle los concesionarios."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Si los concesionarios no iniciaren los trabajos o no entregaren concluida la línea dentro de los plazos indicados, caducará la concesion i pagarán a beneficio fiscal una multa de cinco mil pesos.\nPara responder a este pago, constituirán, en el término de dos meses, una garantía a satisfaccion del Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

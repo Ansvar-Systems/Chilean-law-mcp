@@ -26,6 +26,9 @@ npx @ansvar/chilean-law-mcp
 Official Chilean legislation from LeyChile (Biblioteca del Congreso Nacional), ingested via the public JSON service endpoint.
 The local database includes a full Ley/Lei metadata index and full article-level text for the 10 core statutes in this MCP corpus.
 
+To progressively ingest full article-level text for all indexed laws, run:
+`npm run ingest:all-laws-fulltext -- --limit 50` (resumable, checkpointed).
+
 ## License
 
 Apache-2.0

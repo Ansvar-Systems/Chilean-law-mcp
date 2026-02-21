@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21971",
+  "type": "statute",
+  "title": "ENRIQUE VALDES VERGARA",
+  "short_name": "Ley 105",
+  "status": "in_force",
+  "issued_date": "1893-09-12",
+  "in_force_date": "1893-09-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21971",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para que invierta hasta la suma de cinco mil pesos ($ 5,000) en la ereccion de un mausoleo destinado a honrar los restos de don Enrique Valdes Vergara."
+    }
+  ],
+  "definitions": []
+}

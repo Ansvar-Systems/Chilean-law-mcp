@@ -28,7 +28,7 @@ export interface FetchResult {
   json?: LeyChileResponse;
 }
 
-function buildLawUrl(lawNumber: number): string {
+function buildLawNumberUrl(lawNumber: number): string {
   const params = new URLSearchParams({
     idNorma: '',
     idVersion: '',
@@ -42,8 +42,21 @@ function buildLawUrl(lawNumber: number): string {
   return `https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?${params.toString()}`;
 }
 
-export async function fetchLawByNumber(lawNumber: number, maxRetries = 3): Promise<FetchResult> {
-  const url = buildLawUrl(lawNumber);
+function buildNormaIdUrl(idNorma: string | number): string {
+  const params = new URLSearchParams({
+    idNorma: String(idNorma),
+    idVersion: '',
+    idLey: '',
+    tipoVersion: '2',
+    cve: '',
+    agrupa_partes: '1',
+    r: String(Date.now()),
+  });
+
+  return `https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?${params.toString()}`;
+}
+
+async function fetchLawJson(url: string, label: string, maxRetries = 3): Promise<FetchResult> {
   await rateLimit();
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
@@ -60,7 +73,7 @@ export async function fetchLawByNumber(lawNumber: number, maxRetries = 3): Promi
     if (response.status === 429 || response.status >= 500) {
       if (attempt < maxRetries) {
         const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} (Ley ${lawNumber}), retrying in ${backoff}ms...`);
+        console.log(`  HTTP ${response.status} (${label}), retrying in ${backoff}ms...`);
         await new Promise(resolve => setTimeout(resolve, backoff));
         continue;
       }
@@ -83,5 +96,15 @@ export async function fetchLawByNumber(lawNumber: number, maxRetries = 3): Promi
     };
   }
 
-  throw new Error(`Failed to fetch Ley ${lawNumber} after ${maxRetries} retries`);
+  throw new Error(`Failed to fetch ${label} after ${maxRetries} retries`);
+}
+
+export async function fetchLawByNumber(lawNumber: number, maxRetries = 3): Promise<FetchResult> {
+  const url = buildLawNumberUrl(lawNumber);
+  return fetchLawJson(url, `Ley ${lawNumber}`, maxRetries);
+}
+
+export async function fetchLawByNormaId(idNorma: string | number, maxRetries = 3): Promise<FetchResult> {
+  const url = buildNormaIdUrl(idNorma);
+  return fetchLawJson(url, `idNorma ${idNorma}`, maxRetries);
 }

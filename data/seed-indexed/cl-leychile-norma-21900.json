@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21900",
+  "type": "statute",
+  "title": "LEI SOBRE PERSONAL DEL EJERCITO PERMANENTE",
+  "short_name": "Ley 26",
+  "status": "in_force",
+  "issued_date": "1893-02-03",
+  "in_force_date": "1893-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21900",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Suspéndese por el término de un año los efectos del artículo 2.° de la lei de 30 de Enero de 1892 en lo relativo a los jefes i oficiales a que dicho artículo se refiere."
+    }
+  ],
+  "definitions": []
+}

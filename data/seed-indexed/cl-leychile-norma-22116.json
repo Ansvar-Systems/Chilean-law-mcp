@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22116",
+  "type": "statute",
+  "title": "PENSION",
+  "short_name": "Ley 262",
+  "status": "in_force",
+  "issued_date": "1895-02-04",
+  "in_force_date": "1895-02-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22116",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese, por gracia, a doña Dolores Arteaga una pension correspondiente al montepío de sarjento mayor de Ejército."
+    }
+  ],
+  "definitions": []
+}

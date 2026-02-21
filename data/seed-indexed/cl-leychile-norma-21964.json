@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-21964",
+  "type": "statute",
+  "title": "RAMAL DE FERROCARRIL ENTRE EL KILOMETRO 35 DE LA LINEA QUE ESTIENDE DE AGUA SANTA A CALETA BUENA I EL CANTON SALITRERO DE HUARA.",
+  "short_name": "Ley 98",
+  "status": "in_force",
+  "issued_date": "1893-09-02",
+  "in_force_date": "1893-09-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21964",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Concédese a don Carlos Swinburn, representante de la Compañía de Salitres i Ferrocarril de Agua Santa, permiso para construir un ramal de ferrocarril que, partiendo del kilómetro treita i cinco de la línea que se estiende de Agua Santa a Caleta Buena, llegue al canton salitrero de Huara.\nConcédese tambien permiso para construir desvíos del ramal a las diversas oficinas salitreras dentro del canton de Huara."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédese igualmente el uso de los terrenos fiscales necesarios para la construccion de la línea, sus estaciones i edificios anexos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se declaran de utilidad pública los terrenos particulares i municipales necesarios para la construccion de la línea i sus estaciones."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Los planos de la obra serán sometidos a la aprobacion del Presidente de la República dentro del término de seis meses; los trabajos de construccion de la línea se comenzarán en el término de noventa dias desde la aprobacion de los planos, i la línea estará concluida i entregada al servicio público en el término de un año, contado desde la misma aprobacion de los planos."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Dentro del término de tres meses, el concesionario otorgará una garantía de cincuenta mil pesos ($ 50,000) a satisfaccion del Director del Tesoro para responder a las obligaciones que le impone el artículo anterior; i si no la otorgare, caducará la concesion. Estos cincuenta mil pesos se adjudicarán al Fisco si el concesionario no cumpliere cualquiera de dichas obligaciones."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Las tarifas de fletes i pasajeros desde el puerto de Caleta Buena hasta el término de la línea serán sometidas anualmente a la aprobacion del Presidente de la República, quien tendrá para este efecto la facultad de inspeccionar la contabilidad de la Empresa."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ART. 7.° El concesionario estará obligado a vender al Estado la línea i su material cuando se le exija, prévio aviso que deberá dársele con un año de anticipacion.\nDos peritos nombrados uno por el Presidente de la República i el otro por el concesionario, fijarán el valor de la línea i su material, sin tomar en cuenta su valor comercial i la tasacion así efectuada, mas un diez por ciento, será el precio de adquisicion que pagará el Estado.\nEn caso de desacuerdo, será éste resuelto por un tercero que nombrará la Corte de Apelaciones en cuyo distrito jurisdiccional estuviere ubicada la línea."
+    }
+  ],
+  "definitions": []
+}

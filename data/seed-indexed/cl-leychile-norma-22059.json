@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22059",
+  "type": "statute",
+  "title": "MONTEPIO",
+  "short_name": "Ley 201",
+  "status": "in_force",
+  "issued_date": "1894-08-25",
+  "in_force_date": "1894-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22059",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Se concede por gracia a doña Margarita Arteaga Alemparte la pension de montepío que señala la lei de 22 de Setiembre de 1890, a la hija soltera de un jeneral de division.\nEsta pension es incompatible con el goce de cualquiera otra asignacion fiscal."
+    }
+  ],
+  "definitions": []
+}

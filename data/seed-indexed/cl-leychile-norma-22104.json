@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22104",
+  "type": "statute",
+  "title": "IGLESIA EPISCOPAL ANGLICANA DE VALPARAISO",
+  "short_name": "Ley 250",
+  "status": "in_force",
+  "issued_date": "1895-01-21",
+  "in_force_date": "1895-01-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22104",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza a la corporacion denominada \"Iglesia Episcopal Anglicana de Valparaiso\" para que, en conformidad a lo dispuesto en el art. 556 del Código Civil, pueda conservar por treinta años la propiedad del inmueble que actualmente posee en el cerro de la Concepcion de esa ciudad."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21903",
+  "type": "statute",
+  "title": "MUNICIPALIDAD DEL DEPARTAMENTO DE LA SERENA",
+  "short_name": "Ley 29",
+  "status": "in_force",
+  "issued_date": "1893-02-04",
+  "in_force_date": "1893-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21903",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. El décimo dia despues de la promulgacion de la presente lei, la Municipalidad del departamento de la Serena procederá a constituirse en conformidad a la lei.\nLas funciones que han desempeñado los miembros de esa corporacion con anterioridad al dia dieciocho de Enero del presente año, se mirarán como conferidas legalmente para los efectos de la responsabilidad de que trata el título IX de la lei de 12 de Setiembre de 1887.\nLas funciones judiciales que hayan ejecutado los municipales no podrán ser objetadas por la ilegalidad de la constitucion de la Municipalidad."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-21906",
+  "type": "statute",
+  "title": "Retiro militar",
+  "short_name": "Ley 33",
+  "status": "in_force",
+  "issued_date": "1893-02-04",
+  "in_force_date": "1893-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21906",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º El retiro absoluto o temporal de los oficiales jenerales, jefes u oficiales del Ejército i Armada, se decretará tomando por base el 75 por ciento del sueldo de actividad correspondiente a sus respectivos empleos, i asignándoles tantas cuarentavas partes de dicho sueldo como años de servicios hubieren cumplido.\nSi el retiro se decretase por invalidez absoluta o relativa ocasionada por acto determinado del servicio, se tomará por base el sueldo de actividad del respectivo empleo para asignarle las cuarentavas partes que correspondan."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° La calificacion de servicios que decretase el Presidente de la República se hará tomando por base para la pension de retiro el 50 por ciento del sueldo de actividad correspondiente al empleo del calificado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Los oficiales jenerales, i oficiales del Ejército i Armada que estén retirados absolutamente, tendrán derecho para que sirva de base a su pension de retiro el sueldo de actividad de la lei jeneral de sueldos últimamente dictada, siempre que hayan hecho la campaña de la independencia ó que estén retirados por invalidez absoluta o relativa, causada por acto determinado del servicio en las campañas de la restauracion o de la guerra de 1879.\nLos que no se hallaren en este caso solo tendrán derecho a que su pension se fije tomando por base el cincuenta por ciento de los sueldos últimamente fijados o a que se mantenga la que actualmente gozan."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Se derogan los artículos 1.° i 3.° de los transitorios de la lei de sueldos del Ejército i Armada."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Desde la vijencia de esta lei la gratificacion correspondiente a los primeros jefes de los cuerpos será de mil pesos anuales."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Los pagos de sueldos i gratificaciones que deban hacerse en el estranjero a los empleados a que esta lei se refiere se harán en libras esterlinas, a razon de siete pesos cincuenta centavos cada una."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULO TRANSITORIO {ARTS. 1-2} ART. 1.º Miéntras se dicta la lei de organización del Ejército, los oficiales jenerales i jefes que desempeñen los cargos de comandantes jenerales de Armas de Santiago i Valparaiso tendrán derecho a gozar del sueldo de actividad correspondiente a sus respectivos empleos.\nTendrán tambien derecho al sueldo de actividad los jefes i oficiales que desempeñaren algun empleo de la dotacion de dichas oficinas."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "ART. 2.° Los cirujanos actuales conservarán el rango que tienen hoi dia."
+    }
+  ],
+  "definitions": []
+}

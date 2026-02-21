@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22086",
+  "type": "statute",
+  "title": "SUPLEMENTO",
+  "short_name": "Ley 230",
+  "status": "in_force",
+  "issued_date": "1894-12-26",
+  "in_force_date": "1894-12-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22086",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de tres mil pesos ($ 3,000) al ítem 24 de la partida 55 del presupuesto de Instruccion Pública, para gastos jenerales de reparaciones de la Escuela Normal de Preceptoras del Sur, mobiliario i material de enseñanza, libros i útiles de dibujo i caligrafía."
+    }
+  ],
+  "definitions": []
+}

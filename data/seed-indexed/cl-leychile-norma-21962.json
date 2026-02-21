@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-21962",
+  "type": "statute",
+  "title": "MONTEPIO",
+  "short_name": "Ley 95",
+  "status": "in_force",
+  "issued_date": "1893-09-07",
+  "in_force_date": "1893-09-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21962",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se declara que han comprometido la gratitud nacional todos los ciudadanos que en defensa de la Constitucion fueron víctimas en la matanza de \"Lo Cañas\" el 18 i 19 de Agosto de 1891."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédese igualmente a los parientes de los ciudadanos a que el artículo anterior se refiere el montepío que acuerdan los arts. 11 i 12 de la lei de 22 de Diciembre de 1881 a los deudos de un capitan de Ejército muerto en accion de guerra."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Tendrán derecho al goce de la pension establecida en el artículo anterior, en defecto las personas llamadas por la lei de Montepío militar, los ascendientes mas próximos, i a falta de ascendientes las hermanas solteras o viudas de los agraciados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Las pensiones que concede esta lei comenzarán a pagarse desde el dia en que sean solicitadas por las personas llamadas a disfrutarlas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Se asigna la suma de tres mil pesos ($ 3,000) para distribuir entre los obreros auxiliares que se encontraron en \"Lo Cañas\" en las noches del 18 i del 19 de Agosto de 1891, prévio informe de una comision que nombrará el Presidente de la República para determinar las personas que han de gozar de este beneficio."
+    }
+  ],
+  "definitions": []
+}

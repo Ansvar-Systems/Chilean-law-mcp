@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21925",
+  "type": "statute",
+  "title": "SUPLEMENTOS",
+  "short_name": "Ley 52",
+  "status": "in_force",
+  "issued_date": "1893-07-31",
+  "in_force_date": "1893-08-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21925",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédense los siguientes suplementos a los ítems de la partida 132 del Presupuesto de Instruccion Pública:\nAl ítem. 1.- Para construccion de edificios para establecimientos de instruccion secundaria, superior, especial i primaria i adquisicion de locales para los mismos, cien mil pesos.\nAl ítem 2. Para conservacion i reparacion de edificios, diez mil pesos."
+    }
+  ],
+  "definitions": []
+}

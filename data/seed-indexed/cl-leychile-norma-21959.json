@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21959",
+  "type": "statute",
+  "title": "JUNTA DE BENEFICENCIA DE VALPARAÍSO",
+  "short_name": "Ley 91",
+  "status": "in_force",
+  "issued_date": "1893-09-04",
+  "in_force_date": "1893-09-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21959",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Del producto de la próxima venta de los terrenos vacantes del malecon de Valparaiso, se destinará la suma de trescientos noventa i cuatro mil cuatrocientos cincuenta i un pesos ochenta i nueve centavos ($ 394,451.89) a saldar el déficit que arrojan las cuentas de la Junta de Beneficencia."
+    }
+  ],
+  "definitions": []
+}

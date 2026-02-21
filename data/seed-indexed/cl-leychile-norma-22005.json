@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-22005",
+  "type": "statute",
+  "title": "Venta de propiedades Municipales",
+  "short_name": "Ley 143",
+  "status": "in_force",
+  "issued_date": "1894-01-02",
+  "in_force_date": "1894-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22005",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se fija un nuevo plazo de un año, contado desde la fecha de la presente lei, para que las municipalidades procedan a la venta de sus propiedades, en conformidad al artículo 3.° de los transitorios de la lei de 22 de Diciembre 1891.\nSi la enajenacion se acordare despues de instaladas las nuevas municipalidades, se procederá en conformidad a lo dispuesto en el artículo 31 de citada lei de 22 de Diciembre de 1891."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Miéntras se verifica la enajenacion, el producido de dichas propiedades se repartirá en conformidad a lo dispuesto en el artículo 3.° de las disposiciones transitorias de la lei de 22 de Diciembre de 1891."
+    }
+  ],
+  "definitions": []
+}

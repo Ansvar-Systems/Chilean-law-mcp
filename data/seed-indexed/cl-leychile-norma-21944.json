@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21944",
+  "type": "statute",
+  "title": "SUPLEMENTO",
+  "short_name": "Ley 73",
+  "status": "in_force",
+  "issued_date": "1893-08-08",
+  "in_force_date": "1893-08-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21944",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de un millon de pesos ($ 1.000,000) al ítem 1 de la partida 33 del Presupuesto del Ministerio de Marina, para la construccion del Dique de Talcahuano, autorizada por la lei de 1.° de Febrero de 1888."
+    }
+  ],
+  "definitions": []
+}

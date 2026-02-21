@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21932",
+  "type": "statute",
+  "title": "MONTEPIO",
+  "short_name": "Ley 59",
+  "status": "in_force",
+  "issued_date": "1893-08-07",
+  "in_force_date": "1893-08-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21932",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a doña Francisca Argomedo, hermana del teniente don Diego Aurelio Argomedo, el montepío correspondiente al emplo de teniente de Ejército."
+    }
+  ],
+  "definitions": []
+}

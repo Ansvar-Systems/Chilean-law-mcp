@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21977",
+  "type": "statute",
+  "title": "ESTADO DE SITIO",
+  "short_name": "Ley 112",
+  "status": "in_force",
+  "issued_date": "1893-10-30",
+  "in_force_date": "1893-10-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21977",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Derógase la lei de 29 de Abril último que autorizó al Presidente de la República hasta el 31 de Diciembre del corriente año, para ejercer en las provincias de Aconcagua, Valparaiso, Santiago i O'Higgins las facultades que otorga el artículo 152 de la Constitucion."
+    }
+  ],
+  "definitions": []
+}

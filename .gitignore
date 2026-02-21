@@ -6,3 +6,5 @@ dist/
 .vercel
 .DS_Store
 coverage/
+data/source/fulltext-ingest-state.json
+data/source/indexed/

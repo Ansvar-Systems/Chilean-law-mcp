@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22050",
+  "type": "statute",
+  "title": "PENSION",
+  "short_name": "Ley 191",
+  "status": "in_force",
+  "issued_date": "1894-08-20",
+  "in_force_date": "1894-08-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22050",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Considérase que el sarjento Juan Jesus Bravo fué muerto a consecuencia de una accion de guerra, i asígnase a su viuda e hijos lejítimos la pension que señala el artículo 13 de la lei de 22 de Diciembre de 1881, la que gozarán en conformidad a las prescripciones de dicha lei."
+    }
+  ],
+  "definitions": []
+}

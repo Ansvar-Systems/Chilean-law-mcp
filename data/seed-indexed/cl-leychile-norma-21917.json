@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21917",
+  "type": "statute",
+  "title": "EMPRESTITOS MUNICIPALES",
+  "short_name": "Ley 44",
+  "status": "in_force",
+  "issued_date": "1893-06-26",
+  "in_force_date": "1893-06-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21917",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase a las Municipalidades que a continuacion se espresan para levantar empréstitos hasta por las cantidades que en seguida se indican, con el objeto de atender al servicio de policía de seguridad i aseo durante el presente año.\nA la Municipalidad de Limache, siete mil pesos ($ 7,000);\nA la de San Bernardo, veintiocho mil pesos ($ 28,000);\nA la de Maipo, quince mil pesos ($ 15,000);\nA la de Lontué, cuatro mil pesos ($ 4,000);\nA la de Traiguen, veinte mil pesos ($ 20,000); i A la de Valdivia, veinte mil pesos ($ 20,000).\nLas deudas que las Municipalidades contraigan en virtud de esta autorizacion deberán ser canceladas en el año en curso con las entradas ordinarias de esas corporaciones."
+    }
+  ],
+  "definitions": []
+}

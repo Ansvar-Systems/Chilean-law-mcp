@@ -1,0 +1,27 @@
+{
+  "id": "cl-leychile-norma-21916",
+  "type": "statute",
+  "title": "REFORMA DE LA CONSTITUCION",
+  "short_name": "Ley 43",
+  "status": "in_force",
+  "issued_date": "1893-06-26",
+  "in_force_date": "1893-06-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21916",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "PROPOSICION DE REFORMA CONSTITUCIONAL",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se sustituye el artículo 36 de la Constitucion por el siguiente:\nART. 36. Si las dos Cámaras aprobaren las observaciones hechas por el Presidente de la República, el proyecto tendrá fuerza de lei i se devolverá al Presidente para su promulgacion.\nSi las dos Cámaras no aceptaren las observaciones del Presidente de la República e insisteren por dos tercios de sus miembros presentes en el proyecto aprobado por ellas, tendrá éste fuerza de lei i se devolverá al Presidente para su promulgacion.\nNo podrán votarse las observaciones en ninguna de las dos Cámaras sin la asistencia de la mayoría absoluta de los miembros de que se componen."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "PROPOSICION DE REFORMA CONSTITUCIONAL",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se suprimen los artículos 37, 38 i 39 de la Constitucion."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "cl-leychile-norma-21891",
+  "type": "statute",
+  "title": "AMNISTIA",
+  "short_name": "Ley 27",
+  "status": "in_force",
+  "issued_date": "1893-02-04",
+  "in_force_date": "1893-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21891",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se concede amnistía a los individuos del Ejército que sirvieron a la dictadura en los empleos de jeneral o coronel i a los jefes de la Armada que no fueron comprendidos en la lei de 25 de Diciembre de 1891."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se esceptúa de este indulto los que dispusieron el ataque del Blanco Encalada o tomaron parte en su ejecucion, los que tomaron parte en el complot para poner la torpedera Lynch a disposición del dictador, los que tuvieron participación en el suceso de Lo Cañas, los que como vocales o fiscales de tribunales militares hayan concurrido con su voto o dictámen a imponer sentencia condenatoria, los que en el carácter de jeneral en jefe, comandante de división o comandante jeneral de armas organizado dichos tribunales y aprobado sus sentencias, i los que hayan hecho de delitos comunes, i sin perjuicio, en todo caso, de la acción que corresponde a los particulares."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El Presidente de la República podrá llamar a calificar servicios, dentro de un año, a todos los individuos del Ejército i de la Armada que, hallándose comprendidos en la presente amnistía o en la que concedió la lei de 25 de Diciembre de 1891, hubieren formado parte de dicho Ejército o Armada durante la guerra de 1879.\nLa calificación de servicios prescrita en este artículo no autoriza al Gobierno para reincorporar al Ejército a los militares a que se refiere esta lei, desde sarjento mayor a jeneral inclusive, sin previo acuerdo del Senado."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Perderán el derecho a pensión de retiro que se concede por esta lei todos los que incurrieren en cualquier delito contra el órden constitucional i legal actualmente establecido, inclusive la tentativa, conspiracion i proposicion para cometerlo; los que ejecutaren cualquier acto encaminado al restablecimiento del réjimen de la dictadura, i los que llamados a ingresar al Ejército, no quisieren incorporarse en sus filas sin tener impedimento físico para hacerlo."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° La pérdida del derecho a la pensión será declarada por los tribunales ordinarios de justicia, procediendo breve i sumariamente i a peticion del ministerio público o de cualquiera del pueblo.\nEn estos procesos se procederá de oficio i el juez podrá disponer, segun sea el mérito del proceso, que se suspenda el pago de la pension de retiro.\nSerá admisible en ellos toda clase de pruebas i los jueces deberán apreciarlas con sujecion a las reglas de la sana crítica para declarar si han o no incurrido en la pérdida del derecho a esta pension.\nEsta declaracion tendrá valor, no obstante lo que se resuelva en el juicio criminal que se siga para la aplicacion de las otras penas personales."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Servirá de base para esta pension de retiro el empleo i número de años de servicios que los agraciados hubieren tenido el 31 de Diciembre de 1890 i el sueldo de cuartel i de asamblea que la lei de 22 de Setiembre de 1882 señala a los oficiales jenerales, jefes i oficiales respectivamente."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ART. 7.° Quedan escluidos del goce de la pension de retiro que concede la presente lei, los que habiendo sido amnistiados por delitos militares no lo hubieren sido por los actos ejecutados en el desempeño de otras funciones públicas; los que habiendo fondos del Estado no rindieron cuenta legal; los que hubieren cometido atentado contra las personas o las propiedades, i los que durante la dictadura sirvieron el puesto de Comandante de Policía."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ART. 8.° No serán privados de los derechos que les otorga la lei de montepío militar las familias de los individuos del Ejército o Armada que, si no hubieran fallecido, se encontraran comprendidos en el retiro que esta lei concede."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULOS TRANSITORIOS.- {ARTS. 1-2}\n1.° Las pensiones a que se refiere el art. 3.° serán de cargo a la presente lei;"
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "2.° Las personas comprendidas en el art. 3.° deberán presentarse al Ministerio de Guerra ántes del 31 de Diciembre del corriente año, debiendo acompañar a sus solicitudes todos los datos conducentes a probar que les alcanzan los beneficios de la presente lei."
+    }
+  ],
+  "definitions": []
+}

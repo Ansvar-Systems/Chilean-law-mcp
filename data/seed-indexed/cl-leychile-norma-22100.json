@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22100",
+  "type": "statute",
+  "title": "MONTEPIO",
+  "short_name": "Ley 246",
+  "status": "in_force",
+  "issued_date": "1895-01-11",
+  "in_force_date": "1895-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22100",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. En atencion a los servicios prestados por el teniente 2.° de Marina don Avelino Rodríguez, muerto a consecuencia de heridas recibidas en la batalla de Miraflores, concédese a su hermana doña María Teresa Rodríguez el montepío correspondiente segun la lei de 22 de Setiembre de 1890."
+    }
+  ],
+  "definitions": []
+}

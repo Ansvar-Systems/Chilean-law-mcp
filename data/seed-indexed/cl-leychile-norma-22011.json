@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22011",
+  "type": "statute",
+  "title": "SUPLEMENTOS",
+  "short_name": "Ley 149",
+  "status": "in_force",
+  "issued_date": "1893-12-30",
+  "in_force_date": "1893-12-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22011",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédense los siguientes suplementos a los ítems i partidas del presupuesto de Guerra que se espresan:\nCuarenta i cinco mil pesos al ítem 1 de la partida 30 destinado a construccion i reparacion de cuarteles, almacenes de pólvora, fortalezas, etc;\nSiete mil pesos al ítem 26 de la partida 34, destinado a recompensar a los empleados de las ambulancias i demas servicios anexos a la campaña constitucional que no han tenido gratificacion;\nCuarenta i cinco mil pesos al ítem único de la partida 36, destinado al pago de haberes rezagados de individuos del Ejército; i\nNoventa mil pesos al ítem único de la partida 37, destinado al pago de los gastos hechos hasta el 31 de Diciembre cuya liquidacion no ha alcanzado a efectuarse, i para cancelar cuentas atrasadas."
+    }
+  ],
+  "definitions": []
+}

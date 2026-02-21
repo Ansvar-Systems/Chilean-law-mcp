@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-22111",
+  "type": "statute",
+  "title": "SERVICIOS DE AGUA POTABLE I DESAGUES DE LA CIUDAD DE VALDIVIA",
+  "short_name": "Ley 257",
+  "status": "in_force",
+  "issued_date": "1895-01-23",
+  "in_force_date": "1895-01-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22111",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se declara obligatorio el uso de los desagües, con servicio de agua potable, en la ciudad de Valdivia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédese a la Municipalidad de Valdivia la propiedad del terreno fiscal comprendido entre el estero Llancahue i el de Piedra Blanca."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se declara de utilidad pública el terreno que don Cárlos Roullet i doña Delfina Coronado poseen a continuacion del que se cede a la Municipalidad de Valdivia por el artículo anterior.\nLa espropiacion se verificará en conformidad a lo dispuesto en la lei de 18 de Junio de 1857."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Se declaran libres de derechos los materiales que se importen del estranjero para la construccion de los servicios del agua potable i desagües de la ciudad de Valdivia.\nEl Presidente de la República fijará la cantidad a que se estiende la liberacion de derechos en vista de los presupuestos de la obra aprobados por la Direccion Jeneral de Obras Públicas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Se autoriza a la Municipalidad de Valdivia para que pueda contratar hasta por treinta años la esplotacion de los servicios de agua potable i desagües."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° En virtud de lo dispuesto en el artículo 1.°, los propietarios de inmuebles situados dentro del barrio en que se construyan cañerías de agua potable i desagües i a medida que éstas se entreguen al servicio, tendrán las obligaciones siguientes:\na) Instalar dentro de sus propiedades i a su costa las cañerías de desagües i las de agua potable i demas aparatos necesarios para el buen servicio de los desagües;\nb) Someterse a la inspeccion que del servicio de desagües debe practicar la autoridad local;\nc) Cegar dentro de sus propiedades los pozos destinados a escusados;\nd) Pagar el servicio de desagües en conformidad a las bases que la Municipalidad establezca i de agua potable en cuanto sea necesario para los desagües.\nEl gravámen que el servicio de desagües imponga a los vecinos no podrá exceder de tres por mil anual del valor de la propiedad, estimado conforme al avalúo practicado para el cobro de la contribucion de haberes, siempre que este gravámen no baje de un peso al mes ni suba de doce por edificio."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ART. 7.° La Municipalidad ejecutará los trabajos a que se refieren los incisos anteriores a costa de los propietarios, si éstos no los ejecutaren.\nSi la propiedad valiera ménos de dos mil pesos segun el avalúo hecho para los efectos de la contribucion municipal i su dueño careciere de recursos para efectuar el trabajo, serán hechas por cuenta de la Municipalidad las instalaciones espresadas, sin cargo a los interesados."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ART. 8.° La Municipalidad de Valdivia dictará las ordenanzas i reglamentos necesarios para la instalacion, inspeccion i mantenimiento de los servicios de agua potable i desagües, aun dentro de las propiedades particulares, pudiendo imponer multas de cinco a cincuenta pesos a los que no cumplieren sus disposiciones.\nEn caso de hacerse el servicio por empresarios, quedarán éstos sujetos a las disposiciones que con relacion a la hijiene pública i al estado sanitario de la localidad puedan dictarse en conformidad a lo dispuesto en el artículo 24 de la Lei de Municipalidades."
+    }
+  ],
+  "definitions": []
+}

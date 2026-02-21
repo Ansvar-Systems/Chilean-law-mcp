@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21957",
+  "type": "statute",
+  "title": "AMNISTIA",
+  "short_name": "Ley 89",
+  "status": "in_force",
+  "issued_date": "1893-08-28",
+  "in_force_date": "1893-08-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21957",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se concede amnistía para los delitos políticos cometidos desde el 1.° de Enero hasta el 28 de Agosto de 1891 i que no hubieren sido comprendidos en las leyes de 25 de Diciembre de 1891 i 4 de Febrero de 1893.\nSe esceptúan de esta amnistía los responsables en el suceso de \" Lo Cañas\" i los ex-Ministros de Estado que firmaron el decreto que estableció la dictadura i cuya acusacion pende ante el Senado."
+    }
+  ],
+  "definitions": []
+}

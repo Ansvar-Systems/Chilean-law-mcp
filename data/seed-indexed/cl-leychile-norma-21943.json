@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-21943",
+  "type": "statute",
+  "title": "MONTEPIO",
+  "short_name": "Ley 71",
+  "status": "in_force",
+  "issued_date": "1893-08-08",
+  "in_force_date": "1893-08-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21943",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a doña Ana Mac-Sorley, viuda del injeniero 1.° de la Armada don Jorje Titus, el montepío correspondiente al empleo de capitan de fragata."
+    }
+  ],
+  "definitions": []
+}

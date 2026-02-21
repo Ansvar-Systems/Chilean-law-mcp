@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-21908",
+  "type": "statute",
+  "title": "Emision de vales de Tesorería",
+  "short_name": "Ley 35",
+  "status": "in_force",
+  "issued_date": "1893-05-13",
+  "in_force_date": "1893-05-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=21908",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se autoriza al Presidente de la República, por el término de seis meses, para emitir vales de Tesorería a dos años de plazo, sin interes, por el monto de los créditos reconocidos a favor de los Bancos por las exacciones a que se refiere la lei de 1.° de Febrero del presente año.\nEstos vales serán de los tipos de cien i de mil pesos, i se otorgarán a la órden de los bancos acreedores en cancelacion de esos créditos i en reemplazo de los que se les entregaron en virtud de lo dispuesto por decreto de 19 de Marzo último.\nCon el endoso al portador del Banco primitivamente acreedor del Estado, estos vales serán recibidos en todas las oficinas del Estado en pago de contribuciones i servicios públicos, quedando esos mismos Bancos obligados a pagarlos como billetes de su propia emision.\nEl depósito en billetes fiscales constituido por los Bancos, en cumplimiento de lo dispuesto por el artículo 10 de la lei de 14 de Marzo de 1887 para responder de su emision menor de diez pesos, podrá ser reemplazado por los vales autorizados por la presente lei."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Las sumas que el Fisco perciba en pago de los créditos a que se refiere la lei de 1.° de Febrero de 1893, se destinarán al pago de la deuda flotante del Estado, i en lo que sobrare a la amortizacion de los vales de Tesorería a que se refiere el artículo anterior.\nLlegado el vencimiento de estos vales, se cancelarán los que quedaren en circulacion en la forma i con los recursos establecidos en la citada lei de 1.° de Febrero."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se deroga la lei de 1.° de Febrero de 1893 en lo que fuere contraria a la presente."
+    }
+  ],
+  "definitions": []
+}

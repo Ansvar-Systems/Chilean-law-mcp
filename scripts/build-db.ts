@@ -17,6 +17,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
+const INDEXED_SEED_DIR = path.resolve(__dirname, '../data/seed-indexed');
 const ALL_LAWS_INDEX_PATH = path.resolve(__dirname, '../data/source/cl-all-laws-index.json');
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
 
@@ -288,6 +289,14 @@ function inferIndexedStatus(rec: AllLawsIndexRecord): DocumentSeed['status'] {
   return 'in_force';
 }
 
+function listSeedFiles(seedDir: string): string[] {
+  if (!fs.existsSync(seedDir)) return [];
+
+  return fs.readdirSync(seedDir)
+    .filter(f => f.endsWith('.json') && !f.startsWith('.') && !f.startsWith('_'))
+    .sort();
+}
+
 function extractEuReferences(text: string): ExtractedEUReference[] {
   if (!text || text.trim().length === 0) return [];
 
@@ -389,16 +398,12 @@ function buildDatabase(): void {
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
-  if (!fs.existsSync(SEED_DIR)) {
-    console.log(`No seed directory at ${SEED_DIR} — creating empty database.`);
-    db.close();
-    return;
-  }
+  const seedEntries = [
+    ...listSeedFiles(SEED_DIR).map(file => ({ dir: SEED_DIR, file })),
+    ...listSeedFiles(INDEXED_SEED_DIR).map(file => ({ dir: INDEXED_SEED_DIR, file })),
+  ];
 
-  const seedFiles = fs.readdirSync(SEED_DIR)
-    .filter(f => f.endsWith('.json') && !f.startsWith('.') && !f.startsWith('_'));
-
-  if (seedFiles.length === 0) {
+  if (seedEntries.length === 0) {
     console.log('No seed files found. Database created with empty schema.');
     db.close();
     return;
@@ -412,12 +417,16 @@ function buildDatabase(): void {
   let indexedLawDocs = 0;
   const primaryImplementationByDocument = new Set<string>();
   const knownNormaIds = new Set<string>();
+  const seenDocIds = new Set<string>();
 
   const loadAll = db.transaction(() => {
-    for (const file of seedFiles) {
-      const filePath = path.join(SEED_DIR, file);
+    for (const entry of seedEntries) {
+      const filePath = path.join(entry.dir, entry.file);
       const content = fs.readFileSync(filePath, 'utf-8');
       const seed = JSON.parse(content) as DocumentSeed;
+      if (!seed.id || seenDocIds.has(seed.id)) {
+        continue;
+      }
 
       insertDoc.run(
         seed.id, seed.type ?? 'statute', seed.title, seed.title_en ?? null,
@@ -425,6 +434,7 @@ function buildDatabase(): void {
         seed.issued_date ?? null, seed.in_force_date ?? null,
         seed.url ?? null, seed.description ?? null,
       );
+      seenDocIds.add(seed.id);
       totalDocs++;
       const seedNormaId = extractIdNormaFromUrl(seed.url ?? null);
       if (seedNormaId) knownNormaIds.add(seedNormaId);
