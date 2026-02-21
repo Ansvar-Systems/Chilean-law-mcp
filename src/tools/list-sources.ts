@@ -44,15 +44,14 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Official Legal Database',
-          authority: 'Government (State Chancellery of Chilean)',
+          name: 'LeyChile',
+          authority: 'Biblioteca del Congreso Nacional de Chile (BCN)',
           url: 'https://www.bcn.cl/leychile',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          license: 'Public legal texts provided by BCN; see portal terms',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Chilean laws focused on data protection, cybersecurity, telecommunications, ' +
+            'transparency, fintech, e-signatures, and related statutes',
+          languages: ['es', 'en'],
         },
       ],
       database: {

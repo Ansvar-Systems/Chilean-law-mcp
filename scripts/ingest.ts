@@ -1,39 +1,24 @@
 #!/usr/bin/env tsx
 /**
- * Chilean Law MCP -- Ingestion Pipeline
- *
- * Fetches Chilean legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Chilean Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
+ * Chilean Law MCP -- Real-data ingestion from LeyChile.
  *
  * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Chilean legislation is public domain under Art. 4 of the Copyright Act
+ *   npm run ingest
+ *   npm run ingest -- --limit 3
+ *   npm run ingest -- --skip-fetch
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseChileanHtml, KEY_CHILEAN_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchLawByNumber } from './lib/fetcher.js';
+import { KEY_CHILEAN_ACTS, parseLeyChileResponse, type ActIndexEntry, type LeyChileResponse, type ParsedAct } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
-
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
 
 function parseArgs(): { limit: number | null; skipFetch: boolean } {
   const args = process.argv.slice(2);
@@ -42,7 +27,7 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
+      limit = Number.parseInt(args[i + 1], 10);
       i++;
     } else if (args[i] === '--skip-fetch') {
       skipFetch = true;
@@ -52,94 +37,89 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
+function readSourceFile(sourceFile: string): LeyChileResponse {
+  const raw = fs.readFileSync(sourceFile, 'utf-8');
+  return JSON.parse(raw) as LeyChileResponse;
 }
 
 async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Chilean Acts from api.sejm.gov.pl...\n`);
+  console.log(`\nProcessing ${acts.length} Chilean laws from LeyChile...\n`);
 
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
 
   let processed = 0;
-  let skipped = 0;
+  let cached = 0;
   let failed = 0;
   let totalProvisions = 0;
   let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
+
+  const results: { law: string; provisions: number; definitions: number; status: string }[] = [];
 
   for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
-
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
-    }
+    const sourceFile = path.join(SOURCE_DIR, `${act.id}.json`);
+    const seedFile = path.join(SEED_DIR, act.seedFile);
 
     try {
-      let html: string;
+      let source: LeyChileResponse;
 
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
+      if (skipFetch && fs.existsSync(sourceFile)) {
+        source = readSourceFile(sourceFile);
+        cached++;
+        console.log(`  Using cached source for Ley ${act.lawNumber}`);
       } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
+        process.stdout.write(`  Fetching Ley ${act.lawNumber}...`);
+        const fetched = await fetchLawByNumber(act.lawNumber);
 
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
+        if (fetched.status !== 200) {
+          console.log(` HTTP ${fetched.status}`);
           failed++;
           processed++;
+          results.push({ law: `Ley ${act.lawNumber}`, provisions: 0, definitions: 0, status: `HTTP ${fetched.status}` });
           continue;
         }
 
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
+        if (!fetched.json) {
+          console.log(' INVALID_JSON');
           failed++;
           processed++;
+          results.push({ law: `Ley ${act.lawNumber}`, provisions: 0, definitions: 0, status: 'INVALID_JSON' });
           continue;
         }
 
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
+        source = fetched.json;
+        fs.writeFileSync(sourceFile, JSON.stringify(source, null, 2));
+        const title = source.metadatos?.titulo_norma?.slice(0, 60) ?? '';
+        console.log(` OK (${title})`);
       }
 
-      const parsed = parseChileanHtml(html, act);
+      const parsed = parseLeyChileResponse(source, act);
+
+      if (!parsed.provisions.length) {
+        failed++;
+        processed++;
+        results.push({ law: `Ley ${act.lawNumber}`, provisions: 0, definitions: 0, status: 'NO_PROVISIONS' });
+        console.log('    -> no provisions extracted');
+        continue;
+      }
+
       fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
+
       totalProvisions += parsed.provisions.length;
       totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
       results.push({
-        act: act.shortName,
+        law: `Ley ${act.lawNumber}`,
         provisions: parsed.provisions.length,
         definitions: parsed.definitions.length,
         status: 'OK',
       });
+
+      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions`);
     } catch (error) {
       const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
       failed++;
+      results.push({ law: `Ley ${act.lawNumber}`, provisions: 0, definitions: 0, status: `ERROR: ${msg.slice(0, 80)}` });
+      console.log(`  ERROR Ley ${act.lawNumber}: ${msg}`);
     }
 
     processed++;
@@ -148,18 +128,19 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
   console.log(`\n${'='.repeat(72)}`);
   console.log('Ingestion Report');
   console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Chilean Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
+  console.log('\n  Source:       LeyChile (Biblioteca del Congreso Nacional de Chile)');
+  console.log('  Endpoint:     nuevo.leychile.cl/servicios/Navegar/get_norma_json');
+  console.log('  Retrieval:    JSON service via idLey + tipoVersion=2 (latest)');
+  console.log(`  Processed:    ${processed}`);
+  console.log(`  Cached:       ${cached}`);
+  console.log(`  Failed:       ${failed}`);
+  console.log(`  Provisions:   ${totalProvisions}`);
+  console.log(`  Definitions:  ${totalDefinitions}`);
+  console.log('\n  Per-law breakdown:');
+  console.log(`  ${'Law'.padEnd(18)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(14)}`);
+  console.log(`  ${'-'.repeat(18)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(14)}`);
   for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+    console.log(`  ${r.law.padEnd(18)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(14)}`);
   }
   console.log('');
 }
@@ -167,14 +148,14 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
 async function main(): Promise<void> {
   const { limit, skipFetch } = parseArgs();
 
-  console.log('Chilean Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Chilean Copyright Act)`);
+  console.log('Chilean Law MCP -- Real Data Ingestion');
+  console.log('=======================================\n');
+  console.log('  Source: LeyChile (Biblioteca del Congreso Nacional de Chile)');
+  console.log('  Endpoint: https://nuevo.leychile.cl/servicios/Navegar/get_norma_json');
+  console.log('  Rate limit: 1.2s/request');
 
   if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  if (skipFetch) console.log('  --skip-fetch');
 
   const acts = limit ? KEY_CHILEAN_ACTS.slice(0, limit) : KEY_CHILEAN_ACTS;
   await fetchAndParseActs(acts, skipFetch);

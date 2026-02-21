@@ -34,7 +34,7 @@ describe('Database integrity', () => {
 
   it('should have FTS index', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'datos'"
     ).get() as { cnt: number };
     expect(row.cnt).toBeGreaterThanOrEqual(0);
   });
@@ -53,7 +53,7 @@ describe('Article retrieval', () => {
 describe('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'datos'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });

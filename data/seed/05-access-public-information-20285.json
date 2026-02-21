@@ -1,112 +1,450 @@
 {
   "id": "cl-ley-20285-transparencia",
   "type": "statute",
-  "title": "Ley 20.285 sobre Acceso a la Información Pública",
-  "title_en": "Law 20.285 on Access to Public Information (Transparency Law)",
+  "title": "SOBRE ACCESO A LA INFORMACIÓN PÚBLICA",
+  "title_en": "Law 20.285 on Access to Public Information",
   "short_name": "Ley 20.285",
-  "status": "in_force",
-  "issued_date": "2008-08-20",
-  "in_force_date": "2009-04-20",
+  "status": "amended",
+  "issued_date": "2008-08-11",
+  "in_force_date": "2025-07-11",
   "url": "https://www.bcn.cl/leychile/navegar?idNorma=276363",
-  "description": "Law 20.285 establishes the right of access to public information in Chile, implementing the principles of transparency and accountability in public administration. It creates the Council for Transparency (Consejo para la Transparencia) as the independent body responsible for promoting and protecting this right, and establishes the procedures for information requests and the grounds for withholding information.",
   "provisions": [
     {
-      "provision_ref": "art1",
-      "section": "1",
-      "title": "Article 1. Scope and Definitions",
-      "content": "This Law regulates the principle of transparency in public administration, the right of persons to access information held by the State's administrative bodies, the fundamental grounds for maintaining secrecy or reserve of such information, and the procedures for the exercise and protection of this right. The Law applies to the agencies, services, and bodies of the central and regional administration of the State, and to other organs of the State that are expressly included. 'Administrative information' means any data processed by organs covered by this Law in the exercise of their administrative functions. 'Active transparency' refers to the obligation to make information available without requiring a prior request. 'Passive transparency' refers to the obligation to respond to specific requests for information. 'Council for Transparency' means the autonomous public body created to promote and protect the right of access to public information."
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- Apruébase la siguiente ley de transparencia de la función pública y de acceso a la información de la Administración del Estado:"
     },
     {
-      "provision_ref": "art2",
-      "section": "2",
-      "title": "Article 2. Principle of Transparency",
-      "content": "The principle of transparency of the State's administrative functions requires that the agencies, services, and bodies of the State make publicly available information about their organisation, functioning, decision-making procedures, and the content of decisions adopted in the exercise of their functions. The principle of transparency is derived from the general principle of publicity established in Article 8 of the Chilean Constitution, which provides that the acts and resolutions of State bodies and their foundations are public, as well as the documents supporting them and the applicable procedures. Limitations on publicity and transparency shall be established only by law and must be based on grounds explicitly stated in the Constitution, including national security, individual privacy, and the legitimate commercial interests of third parties."
+      "provision_ref": "art1-del-art-primero",
+      "chapter": "TITULO I Normas Generales",
+      "section": "1 (DEL ART. PRIMERO)",
+      "title": "Artículo 1 (DEL ART. PRIMERO)",
+      "content": "Artículo 1°.- La presente ley regula el principio de transparencia de la función pública, el derecho de acceso a la información de los órganos de la Administración del Estado, los procedimientos para el ejercicio del derecho y para su amparo, y las excepciones a la publicidad de la información.\nPara los efectos de esta ley se entenderá por:\n1. La autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado: es la autoridad con competencia comunal, provincial, regional o, en su caso, el jefe superior del servicio a nivel nacional.\n2. El Consejo: el Consejo para la Transparencia.\n3. Días hábiles o plazo de días hábiles: es el plazo de días establecido en el artículo 25 de la ley Nº 19.880 , sobre Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado, entendiéndose por inhábiles los sábados, los domingos y los festivos.\n4. La Ley de Transparencia: la presente Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado.\n5. Los órganos o servicios de la Administración del Estado: los señalados en el inciso segundo del artículo 1º de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado está contenido en el D.F.L. Nº 1-19.653, de 2001, del Ministerio Secretaría General de la Presidencia.\n6. Sitios electrónicos: También denominados \"sitios web\". Dispositivos tecnológicos que permiten transmitir información por medio de computadores, líneas telefónicas o mediante el empleo de publicaciones digitales."
     },
     {
-      "provision_ref": "art3",
-      "section": "3",
-      "title": "Article 3. Active Transparency Obligations",
-      "content": "Organs of the State administration shall maintain permanently available, updated, and in digital format, at least the following information: (a) the legal structure, organisation chart, and functions of the organ and each of its divisions; (b) the personal data and remuneration of the authorities and senior officials; (c) the information relating to the contracting of goods and services, procurement, and public works; (d) the subsidies and transfers made; (e) the acts and resolutions that have effects on third parties; (f) the procedures and deadlines for processing information requests; (g) the mechanisms for citizen participation; (h) the expenditure budget and implementation; (i) the results of inspections, controls, and audits. This information shall be updated at least monthly and shall be maintained on the official website of the organ in a format accessible to all persons."
+      "provision_ref": "art2-del-art-primero",
+      "chapter": "TITULO I Normas Generales",
+      "section": "2 (DEL ART. PRIMERO)",
+      "title": "Artículo 2 (DEL ART. PRIMERO)",
+      "content": "Artículo 2°.- Las disposiciones de esta ley serán aplicables a los ministerios, las intendencias, las gobernaciones, los gobiernos regionales, las municipalidades, las Fuerzas Armadas, de Orden y Seguridad Pública, y los órganos y servicios públicos creados para el cumplimiento de la función administrativa.\nLa Contraloría General de la República y el Banco Central se ajustarán a las disposiciones de esta ley que expresamente ésta señale, y a las de sus respectivas leyes orgánicas que versen sobre los asuntos a que se refiere el artículo 1º precedente.\nTambién se aplicarán las disposiciones que esta ley expresamente señale a las empresas públicas creadas por ley y a las empresas del Estado y sociedades en que éste tenga participación accionaria superior al 50% o mayoría en el directorio.\nLos demás órganos del Estado se ajustarán a las disposiciones de sus respectivas leyes orgánicas que versen sobre los asuntos a que se refiere el artículo 1º precedente."
     },
     {
-      "provision_ref": "art4",
-      "section": "4",
-      "title": "Article 4. Right of Access to Information",
-      "content": "Any person has the right to require information from State organs, in the manner established in this Law, without being required to state reasons or interests. All information held by the organs covered by this Law is presumed public, unless access is restricted by applicable law or by grounds established in this Law. Access to information shall be provided in the format requested by the petitioner to the extent technically and economically feasible. The right of access to information may be exercised by any person, whether natural or legal, national or foreign, domiciled or resident in Chile or abroad. Organs shall make information available without discrimination based on the identity or affiliation of the requester. The right of access to information shall be interpreted in the broadest manner possible, with doubts resolved in favour of disclosure."
+      "provision_ref": "art3-del-art-primero",
+      "chapter": "TITULO I Normas Generales",
+      "section": "3 (DEL ART. PRIMERO)",
+      "title": "Artículo 3 (DEL ART. PRIMERO)",
+      "content": "Artículo 3°.- La función pública se ejerce con transparencia, de modo que permita y promueva el conocimiento de los procedimientos, contenidos y decisiones que se adopten en ejercicio de ella."
     },
     {
-      "provision_ref": "art5",
-      "section": "5",
-      "title": "Article 5. Submission and Processing of Requests",
-      "content": "Requests for access to information shall be directed to the head of the organ, through the designated transparency official or through the organ's established channels. Requests may be submitted in person, by mail, or by electronic means. The requester shall indicate the information sought with sufficient specificity to enable the organ to identify and retrieve it. The organ shall respond to the request within twenty business days of its receipt. This period may be extended by ten additional business days where there are justified reasons, with prior written notification to the requester. The organ shall make available to the requester the information identified or shall indicate the reasons why access cannot be provided, citing specific applicable legal grounds. Where access is denied in whole or in part, the requester shall be informed of the right to appeal to the Council for Transparency."
+      "provision_ref": "art4-del-art-primero",
+      "chapter": "TITULO I Normas Generales",
+      "section": "4 (DEL ART. PRIMERO)",
+      "title": "Artículo 4 (DEL ART. PRIMERO)",
+      "content": "Artículo 4°.- Las autoridades, cualquiera que sea la denominación con que las designen la Constitución y las leyes, y los funcionarios de la Administración del Estado, deberán dar estricto cumplimiento al principio de transparencia de la función pública.\nEl principio de transparencia de la función pública consiste en respetar y cautelar la publicidad de los actos, resoluciones, procedimientos y documentos de la Administración, así como la de sus fundamentos, y en facilitar el acceso de cualquier persona a esa información, a través de los medios y procedimientos que al efecto establezca la ley."
     },
     {
-      "provision_ref": "art6",
-      "section": "6",
-      "title": "Article 6. Grounds for Withholding Information",
-      "content": "The right of access to information may be withheld on the following grounds: (a) the information's disclosure would affect the due compliance of the functions of the organ; (b) the information's disclosure would obstruct or hinder current judicial or administrative investigations; (c) the information's disclosure would affect Chile's international relations; (d) the information's disclosure would affect personal safety or the security of persons; (e) the information's disclosure would affect public economic, financial, monetary, or commercial interests; (f) the disclosure of classified information is prevented by law; (g) the information is classified as secret or reserved by applicable regulations. Where information is withheld on any of these grounds, the decision shall be fully reasoned, citing the specific ground and demonstrating that disclosure would cause the specified harm. Grounds for withholding are applied on the basis of a harm test."
+      "provision_ref": "art5-del-art-primero",
+      "chapter": "TITULO II De la Publicidad de la Información de los Organos de la Administración del Estado",
+      "section": "5 (DEL ART. PRIMERO)",
+      "title": "Artículo 5 (DEL ART. PRIMERO)",
+      "content": "Artículo 5°.- En virtud del principio de transparencia de la función pública, los actos y resoluciones de los órganos de la Administración del Estado, sus fundamentos, los documentos que les sirvan de sustento o complemento directo y esencial, y los procedimientos que se utilicen para su dictación, son públicos, salvo las excepciones que establece esta ley y las previstas en otras leyes de quórum calificado.\nAsimismo, es pública la información elaborada con presupuesto público y toda otra información que obre en poder de los órganos de la Administración, cualquiera sea su formato, soporte, fecha de creación, origen, clasificación o procesamiento, a menos que esté sujeta a las excepciones señaladas."
     },
     {
-      "provision_ref": "art7",
-      "section": "7",
-      "title": "Article 7. Council for Transparency",
-      "content": "The Council for Transparency is an autonomous public body with legal personality and its own assets, created to promote transparency in public administration and the right of access to information. The Council's functions include: ensuring compliance with the obligations of active and passive transparency; hearing and deciding amparo actions filed by persons who consider their right of access to information has been violated; imposing sanctions on organs that fail to comply with applicable obligations; preparing, implementing, and evaluating programmes to promote the right of access to information; advising State organs on the implementation of their transparency obligations; and reporting to the President and Congress on the state of transparency in public administration."
+      "provision_ref": "art6-del-art-primero",
+      "chapter": "TITULO II De la Publicidad de la Información de los Organos de la Administración del Estado",
+      "section": "6 (DEL ART. PRIMERO)",
+      "title": "Artículo 6 (DEL ART. PRIMERO)",
+      "content": "Artículo 6°.- Los actos y documentos que han sido objeto de publicación en el Diario Oficial y aquellos que digan relación con las funciones, competencias y responsabilidades de los órganos de la Administración del Estado, deberán encontrarse a disposición permanente del público y en los sitios electrónicos del servicio respectivo, el que deberá llevar un registro actualizado en las oficinas de información y atención del público usuario de la Administración del Estado."
     },
     {
-      "provision_ref": "art8",
-      "section": "8",
-      "title": "Article 8. Amparo Action before the Council",
-      "content": "Any person who considers that their request for information has been denied without justification, improperly, or incompletely, or who has not received a response within the applicable period, may file an amparo action before the Council for Transparency. The action shall be filed within fifteen business days of the occurrence of the challenged act or omission. The Council shall admit or reject the action and shall notify the relevant organ of its content. The organ shall respond within ten business days, presenting its defence and the grounds for its decision. The Council shall resolve the action within the applicable period, either granting or rejecting the amparo, and shall notify the parties and the Comptroller General. The Council may order the release of the withheld information, impose sanctions, and instruct measures to prevent future violations."
+      "provision_ref": "art7-del-art-primero",
+      "chapter": "TITULO III De la Transparencia Activa",
+      "section": "7 (DEL ART. PRIMERO)",
+      "title": "Artículo 7 (DEL ART. PRIMERO)",
+      "content": "Artículo 7°.- Los órganos de la Administración del Estado señalados en el artículo 2°, deberán mantener a disposición permanente del público, a través de sus sitios electrónicos, los siguientes antecedentes actualizados, al menos, una vez al mes:\na) Su estructura orgánica.\nb) Las facultades, funciones y atribuciones de cada una de sus unidades u órganos internos.\nc) El marco normativo que les sea aplicable.\nd) La planta del personal y el personal a contrata y a honorarios, con las correspondientes remuneraciones.\ne) Las contrataciones para el suministro de bienes muebles, para la prestación de servicios, para la ejecución de acciones de apoyo y para la ejecución de obras, y las contrataciones de estudios, asesorías y consultorías relacionadas con proyectos de inversión, con indicación de los contratistas e identificación de los socios y accionistas principales de las sociedades o empresas prestadoras, en su caso.\nf) Las transferencias de fondos públicos que efectúen, incluyendo todo aporte económico entregado a personas jurídicas o naturales, directamente o mediante procedimientos concursales, sin que éstas o aquéllas realicen una contraprestación recíproca en bienes o servicios.\ng) Los actos y resoluciones que tengan efectos sobre terceros.\nh) Los trámites y requisitos que debe cumplir el interesado para tener acceso a los servicios que preste el respectivo órgano.\ni) El diseño, montos asignados y criterio de acceso a los programas de subsidios y otros beneficios que entregue el respectivo órgano, además de las nóminas de beneficiarios de los programas sociales en ejecución.\nNo se incluirán en estos antecedentes los datos sensibles, esto es, los datos personales que se refieren a las características físicas o morales de las personas o a hechos o circunstancias de su vida privada o intimidad, tales como los hábitos personales, el origen social, las ideologías y opiniones políticas, las creencias o convicciones religiosas, los estados de salud físicos o psíquicos y la vida sexual.\nj) Los mecanismos de participación ciudadana, en su caso.\nk) La información sobre el presupuesto asignado, así como los informes sobre su ejecución, en los términos previstos en la respectiva Ley de Presupuestos de cada año.\nl) Los resultados de las auditorías al ejercicio presupuestario del respectivo órgano y, en su caso, las aclaraciones que procedan.\nm) Todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que la justifica.\nLa información anterior deberá incorporarse en los sitios electrónicos en forma completa y actualizada, y de un modo que permita su fácil identificación y un acceso expedito. Aquellos órganos y servicios que no cuenten con sitios electrónicos propios, mantendrán esta información en el medio electrónico del ministerio del cual dependen o se relacionen con el Ejecutivo, sin perjuicio de lo cual serán responsables de preparar la automatización, presentación y contenido de la información que les corresponda.\nEn el caso de la información indicada en la letra e) anterior, tratándose de adquisiciones y contrataciones sometidas al Sistema de Compras Públicas, cada institución incluirá, en su medio electrónico institucional, un vínculo al portal de compras públicas, a través del cual deberá accederse directamente a la información correspondiente al respectivo servicio u organismo. Las contrataciones no sometidas a dicho Sistema deberán incorporarse a un registro separado, al cual también deberá accederse desde el sitio electrónico institucional.\nEn el caso de la información indicada en la letra f) anterior, tratándose de transferencias reguladas por la ley N° 19.862, cada institución incluirá, en su sitio electrónico institucional, los registros a que obliga dicha ley, sin perjuicio de lo establecido en el artículo 9° de la misma norma legal. Las transferencias no regidas por dicha ley deberán incorporarse a un registro separado, al cual también deberá accederse desde el sitio electrónico institucional."
     },
     {
-      "provision_ref": "art9",
-      "section": "9",
-      "title": "Article 9. Judicial Review",
-      "content": "Resolutions of the Council for Transparency may be challenged before the Court of Appeals of Santiago through an action for illegality. The action for illegality shall be filed within fifteen business days of the notification of the challenged resolution. The Court shall hear the parties and resolve the action within applicable procedural timeframes. Actions challenging Council resolutions that order the disclosure of information may include as a party the person to whom the withheld information relates, where such person is different from the organ that withheld the information. Judicial review shall consider whether the Council applied the applicable legal standards correctly and whether it provided adequate reasons for its decision. The filing of an action for illegality does not automatically suspend the execution of the Council's resolution."
+      "provision_ref": "art8-del-art-primero",
+      "chapter": "TITULO III De la Transparencia Activa",
+      "section": "8 (DEL ART. PRIMERO)",
+      "title": "Artículo 8 (DEL ART. PRIMERO)",
+      "content": "Artículo 8°.- Cualquier persona podrá presentar un reclamo ante el Consejo si alguno de los organismos de la Administración no informa lo prescrito en el artículo anterior. Esta acción estará sometida al mismo procedimiento que la acción regulada en los artículos 24 y siguientes."
     },
     {
-      "provision_ref": "art10",
-      "section": "10",
-      "title": "Article 10. Personal Data Protection in Transparency",
-      "content": "The application of this Law shall be consistent with applicable personal data protection law. Where information requested contains personal data of third parties, the organ shall apply a proportionality test balancing the public interest in disclosure against the privacy interests of the persons whose data would be disclosed. Personal data may be disclosed in response to an information request where: the public interest in disclosure clearly outweighs the privacy interest; or the person whose data would be disclosed has consented to disclosure. Organs shall not disclose personal data of third parties beyond what is necessary for the purpose of the information request. Where information relating to a third party is at issue, the organ shall notify the third party and give them an opportunity to oppose disclosure, before the Council issues its resolution."
+      "provision_ref": "art9-del-art-primero",
+      "chapter": "TITULO III De la Transparencia Activa",
+      "section": "9 (DEL ART. PRIMERO)",
+      "title": "Artículo 9 (DEL ART. PRIMERO)",
+      "content": "Artículo 9°.- Las reparticiones encargadas del control interno de los órganos u organismos de la Administración, tendrán la obligación de velar por la observancia de las normas de este Título, sin perjuicio de las atribuciones y funciones que esta ley encomienda al Consejo y a la Contraloría General de la República."
     },
     {
-      "provision_ref": "art11",
-      "section": "11",
-      "title": "Article 11. Records and Document Management",
-      "content": "Organs of the State administration shall create, maintain, and preserve records of their activities in a manner that enables compliance with their transparency obligations. Records shall be managed in accordance with applicable legal requirements, including the archiving law and applicable records management standards. Organs shall not destroy, alter, or conceal records in a manner that impairs the exercise of the right of access to information. Digital records shall be maintained in accessible formats and shall be subject to appropriate preservation measures ensuring their long-term accessibility. Organs shall develop and implement records management plans specifying the records they create, the systems in which they are maintained, retention periods, and disposition procedures. The Council for Transparency shall provide guidance on records management practices supporting transparency."
+      "provision_ref": "art10-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "10 (DEL ART. PRIMERO)",
+      "title": "Artículo 10 (DEL ART. PRIMERO)",
+      "content": "Artículo 10.- Toda persona tiene derecho a solicitar y recibir información de cualquier órgano de la Administración del Estado, en la forma y condiciones que establece esta ley.\nEl acceso a la información comprende el derecho de acceder a las informaciones contenidas en actos, resoluciones, actas, expedientes, contratos y acuerdos, así como a toda información elaborada con presupuesto público, cualquiera sea el formato o soporte en que se contenga, salvo las excepciones legales."
     },
     {
-      "provision_ref": "art12",
-      "section": "12",
-      "title": "Article 12. Transparency in Public Procurement",
-      "content": "Information relating to public procurement shall be subject to enhanced transparency obligations. State organs shall publish on the national public procurement platform (Mercado Público) all procurement processes, including specifications, evaluation criteria, offers received, evaluation results, and awarded contracts. Contract performance information including payments made and any penalties applied shall also be published. Procurement information shall be published in a timely and complete manner enabling effective monitoring by citizens, the press, and oversight bodies. The Comptroller General and the Council for Transparency shall coordinate on the monitoring of transparency in public procurement. Exceptional procurement outside standard processes shall be subject to additional transparency requirements."
+      "provision_ref": "art11-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "11 (DEL ART. PRIMERO)",
+      "title": "Artículo 11 (DEL ART. PRIMERO)",
+      "content": "Artículo 11.- El derecho de acceso a la información de los órganos de la Administración del Estado reconoce, entre otros, los siguientes principios:\na) Principio de la relevancia, conforme al cual se presume relevante toda información que posean los órganos de la Administración del Estado, cualquiera sea su formato, soporte, fecha de creación, origen, clasificación o procesamiento.\nb) Principio de la libertad de información, de acuerdo al que toda persona goza del derecho a acceder a la información que obre en poder de los órganos de la Administración del Estado, con las solas excepciones o limitaciones establecidas por leyes de quórum calificado.\nc) Principio de apertura o transparencia, conforme al cual toda la información en poder de los órganos de la Administración del Estado se presume pública, a menos que esté sujeta a las excepciones señaladas.\nd) Principio de máxima divulgación, de acuerdo al que los órganos de la Administración del Estado deben proporcionar información en los términos más amplios posibles, excluyendo sólo aquello que esté sujeto a las excepciones constitucionales o legales.\ne) Principio de la divisibilidad, conforme al cual si un acto administrativo contiene información que puede ser conocida e información que debe denegarse en virtud de causa legal, se dará acceso a la primera y no a la segunda.\nf) Principio de facilitación, conforme al cual los mecanismos y procedimientos para el acceso a la información de los órganos de la Administración del Estado deben facilitar el ejercicio del derecho, excluyendo exigencias o requisitos que puedan obstruirlo o impedirlo.\ng) Principio de la no discriminación, de acuerdo al que los órganos de la Administración del Estado deberán entregar información a todas las personas que lo soliciten, en igualdad de condiciones, sin hacer distinciones arbitrarias y sin exigir expresión de causa o motivo para la solicitud.\nh) Principio de la oportunidad, conforme al cual los órganos de la Administración del Estado deben proporcionar respuesta a las solicitudes de información dentro de los plazos legales, con la máxima celeridad posible y evitando todo tipo de trámites dilatorios.\ni) Principio del control, de acuerdo al que el cumplimiento de las normas que regulan el derecho de acceso a la información será objeto de fiscalización permanente, y las resoluciones que recaigan en solicitudes de acceso a la información son reclamables ante un órgano externo.\nj) Principio de la responsabilidad, conforme al cual el incumplimiento de las obligaciones que esta ley impone a los órganos de la Administración del Estado, origina responsabilidades y da lugar a las sanciones que establece esta ley.\nk) Principio de gratuidad, de acuerdo al cual el acceso a la información de los órganos de la Administración es gratuito, sin perjuicio de lo establecido en esta ley."
     },
     {
-      "provision_ref": "art13",
-      "section": "13",
-      "title": "Article 13. Proactive Open Data",
-      "content": "State organs shall, in addition to their active transparency obligations, make information available as open data in machine-readable, interoperable formats to the extent technically and economically feasible. The Government shall maintain a national open data portal providing centralised access to open data published by State organs. State organs shall develop open data strategies identifying priority datasets for publication and specifying quality, format, and update frequency requirements. Open data shall be published under a standard open licence enabling free reuse. The Council for Transparency shall collaborate with the Ministry of Finance and MinTIC on the promotion of open data practices in public administration."
+      "provision_ref": "art12-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "12 (DEL ART. PRIMERO)",
+      "title": "Artículo 12 (DEL ART. PRIMERO)",
+      "content": "Artículo 12.- La solicitud de acceso a la información será formulada por escrito o por sitios electrónicos y deberá contener:\na) Nombre, apellidos y dirección del solicitante y de su apoderado, en su caso.\nb) Identificación clara de la información que se requiere.\nc) Firma del solicitante estampada por cualquier medio habilitado.\nd) Órgano administrativo al que se dirige.\nSi la solicitud no reúne los requisitos señalados en el inciso anterior, se requerirá al solicitante para que, en un plazo de cinco días contado desde la respectiva notificación, subsane la falta, con indicación de que, si así no lo hiciere, se le tendrá por desistido de su petición.\nEl peticionario podrá expresar en la solicitud, su voluntad de ser notificado mediante comunicación electrónica para todas las actuaciones y resoluciones del procedimiento administrativo de acceso a la información, indicando para ello, bajo su responsabilidad, una dirección de correo electrónico habilitada. En los demás casos, las notificaciones a que haya lugar en el procedimiento se efectuarán conforme a las reglas de los artículos 46 y 47 de la ley N° 19.880, sobre Bases de los Procedimientos Administrativos."
     },
     {
-      "provision_ref": "art14",
-      "section": "14",
-      "title": "Article 14. Transparency Obligations of State-Owned Enterprises",
-      "content": "State-owned enterprises and other entities with state participation shall be subject to active transparency obligations proportionate to their public mission and the extent of public ownership. Active transparency obligations shall include: publication of financial statements, audit reports, and executive remuneration; disclosure of procurement activities above applicable thresholds; publication of governance documents including statutes, board minutes, and conflict of interest policies; and disclosure of information about the exercise of any public functions. The Council for Transparency shall have oversight authority over the transparency obligations of state-owned enterprises and shall issue guidelines on applicable transparency standards. State-owned enterprises may be required to respond to passive transparency requests in respect of information relating to their public functions."
+      "provision_ref": "art13-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "13 (DEL ART. PRIMERO)",
+      "title": "Artículo 13 (DEL ART. PRIMERO)",
+      "content": "Artículo 13.- En caso que el órgano de la Administración requerido no sea competente para ocuparse de la solicitud de información o no posea los documentos solicitados, enviará de inmediato la solicitud a la autoridad que deba conocerla según el ordenamiento jurídico, en la medida que ésta sea posible de individualizar, informando de ello al peticionario. Cuando no sea posible individualizar al órgano competente o si la información solicitada pertenece a múltiples organismos, el órgano requerido comunicará dichas circunstancias al solicitante."
     },
     {
-      "provision_ref": "art15",
-      "section": "15",
-      "title": "Article 15. Sanctions and Responsibilities",
-      "content": "Public servants who violate the transparency obligations established by this Law are subject to the disciplinary sanctions applicable to their category of public service employment. The Council for Transparency may recommend disciplinary action against public servants who fail to comply with applicable transparency obligations. Sanctions applicable include: a warning for minor violations; a fine for moderate violations; and more severe disciplinary measures for serious or repeated violations. The failure of a public servant to comply with an order of the Council for Transparency may be treated as a serious breach of duty. The head of the State organ is responsible for ensuring compliance with transparency obligations by the organ and its personnel. The Comptroller General has concurrent oversight authority over transparency compliance in State organs."
+      "provision_ref": "art14-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "14 (DEL ART. PRIMERO)",
+      "title": "Artículo 14 (DEL ART. PRIMERO)",
+      "content": "Artículo 14.- La autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, deberá pronunciarse sobre la solicitud, sea entregando la información solicitada o negándose a ello, en un plazo máximo de veinte días hábiles, contado desde la recepción de la solicitud que cumpla con los requisitos del artículo 12.\nEste plazo podrá ser prorrogado excepcionalmente por otros diez días hábiles, cuando existan circunstancias que hagan difícil reunir la información solicitada, caso en que el órgano requerido deberá comunicar al solicitante, antes del vencimiento del plazo, la prórroga y sus fundamentos."
+    },
+    {
+      "provision_ref": "art15-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "15 (DEL ART. PRIMERO)",
+      "title": "Artículo 15 (DEL ART. PRIMERO)",
+      "content": "Artículo 15.- Cuando la información solicitada esté permanentemente a disposición del público, o lo esté en medios impresos tales como libros, compendios, folletos, archivos públicos de la Administración, así como también en formatos electrónicos disponibles en internet o en cualquier otro medio, se comunicará al solicitante la fuente, el lugar y la forma en que puede tener acceso a dicha información, con lo cual se entenderá que la Administración ha cumplido con su obligación de informar."
+    },
+    {
+      "provision_ref": "art16-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "16 (DEL ART. PRIMERO)",
+      "title": "Artículo 16 (DEL ART. PRIMERO)",
+      "content": "Artículo 16.- La autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, estará obligado a proporcionar la información que se le solicite, salvo que concurra la oposición regulada en el artículo 20 o alguna de las causales de secreto o reserva que establece la ley.\nEn estos casos, su negativa a entregar la información deberá formularse por escrito, por cualquier medio, incluyendo los electrónicos.\nAdemás, deberá ser fundada, especificando la causal legal invocada y las razones que en cada caso motiven su decisión. Todo abuso o exceso en el ejercicio de sus potestades, dará lugar a las acciones y recursos correspondientes.\nLa resolución denegatoria se notificará al requirente en la forma dispuesta en el inciso final del artículo 12 y la reclamación recaída en ella se deducirá con arreglo a lo previsto en los artículos 24 y siguientes."
+    },
+    {
+      "provision_ref": "art17-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "17 (DEL ART. PRIMERO)",
+      "title": "Artículo 17 (DEL ART. PRIMERO)",
+      "content": "Artículo 17.- La información solicitada se entregará en la forma y por el medio que el requirente haya señalado, siempre que ello no importe un costo excesivo o un gasto no previsto en el presupuesto institucional, casos en que la entrega se hará en la forma y a través de los medios disponibles.\nSe deberá contar con un sistema que certifique la entrega efectiva de la información al solicitante, que contemple las previsiones técnicas correspondientes."
+    },
+    {
+      "provision_ref": "art18-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "18 (DEL ART. PRIMERO)",
+      "title": "Artículo 18 (DEL ART. PRIMERO)",
+      "content": "Artículo 18.- Sólo se podrá exigir el pago de los costos directos de reproducción y de los demás valores que una ley expresamente autorice cobrar por la entrega de la información solicitada.\nLa obligación del órgano requerido de entregar la información solicitada se suspende en tanto el interesado no cancele los costos y valores a que se refiere el inciso precedente."
+    },
+    {
+      "provision_ref": "art19-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "19 (DEL ART. PRIMERO)",
+      "title": "Artículo 19 (DEL ART. PRIMERO)",
+      "content": "Artículo 19.- La entrega de copia de los actos y documentos se hará por parte del órgano requerido sin imponer condiciones de uso o restricciones a su empleo, salvo las expresamente estipuladas por la ley."
+    },
+    {
+      "provision_ref": "art20-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "20 (DEL ART. PRIMERO)",
+      "title": "Artículo 20 (DEL ART. PRIMERO)",
+      "content": "Artículo 20.- Cuando la solicitud de acceso se refiera a documentos o antecedentes que contengan información que pueda afectar los derechos de terceros, la autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, dentro del plazo de dos días hábiles, contado desde la recepción de la solicitud que cumpla con los requisitos, deberá comunicar mediante carta certificada, a la o las personas a que se refiere o afecta la información correspondiente, la facultad que les asiste para oponerse a la entrega de los documentos solicitados, adjuntando copia del requerimiento respectivo.\nLos terceros afectados podrán ejercer su derecho de oposición dentro del plazo de tres días hábiles contado desde la fecha de notificación. La oposición deberá presentarse por escrito y requerirá expresión de causa.\nDeducida la oposición en tiempo y forma, el órgano requerido quedará impedido de proporcionar la documentación o antecedentes solicitados, salvo resolución en contrario del Consejo, dictada conforme al procedimiento que establece esta ley.\nEn caso de no deducirse la oposición, se entenderá que el tercero afectado accede a la publicidad de dicha información."
+    },
+    {
+      "provision_ref": "art21-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "21 (DEL ART. PRIMERO)",
+      "title": "Artículo 21 (DEL ART. PRIMERO)",
+      "content": "Artículo 21.- Las únicas causales de secreto o reserva en cuya virtud se podrá denegar total o parcialmente el acceso a la información, son las siguientes:\n1. Cuando su publicidad, comunicación o conocimiento afecte el debido cumplimiento de las funciones del órgano requerido, particularmente:\na) Si es en desmedro de la prevención, investigación y persecución de un crimen o simple delito o se trate de antecedentes necesarios a defensas jurídicas y judiciales.\nb) Tratándose de antecedentes o deliberaciones previas a la adopción de una resolución, medida o política, sin perjuicio que los fundamentos de aquéllas sean públicos una vez que sean adoptadas.\nc) Tratándose de requerimientos de carácter genérico, referidos a un elevado número de actos administrativos o sus antecedentes o cuya atención requiera distraer indebidamente a los funcionarios del cumplimiento regular de sus labores habituales.\n2. Cuando su publicidad, comunicación o conocimiento afecte los derechos de las personas, particularmente tratándose de su seguridad, su salud, la esfera de su vida privada o derechos de carácter comercial o económico.\n3. Cuando su publicidad, comunicación o conocimiento afecte la seguridad de la Nación, particularmente si se refiere a la defensa nacional o la mantención del orden público o la seguridad pública.\n4. Cuando su publicidad, comunicación o conocimiento afecte el interés nacional, en especial si se refieren a la salud pública o las relaciones internacionales y los intereses económicos o comerciales del país.\n5. Cuando se trate de documentos, datos o informaciones que una ley de quórum calificado haya declarado reservados o secretos, de acuerdo a las causales señaladas en el artículo 8º de la Constitución Política."
+    },
+    {
+      "provision_ref": "art22-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "22 (DEL ART. PRIMERO)",
+      "title": "Artículo 22 (DEL ART. PRIMERO)",
+      "content": "Artículo 22.- Los actos que una ley de quórum calificado declare secretos o reservados mantendrán ese carácter hasta que otra ley de la misma jerarquía deje sin efecto dicha calificación.\nTranscurridos cinco años contados desde la notificación del acto que declara la calificación, el servicio u órgano que la formuló, de oficio o a petición de cualquier persona y por una sola vez, podrá prorrogarla por otros cinco años, total o parcialmente, evaluando el peligro de daño que pueda irrogar su terminación.\nSin embargo, el carácter de secreto o reservado será indefinido tratándose de los actos y documentos que, en el ámbito de la defensa nacional, establezcan la planificación militar o estratégica, y de aquéllos cuyo conocimiento o difusión puedan afectar:\na) La integridad territorial de Chile;\nb) La interpretación o el cumplimiento de un tratado internacional suscrito por Chile en materia de límites;\nc) La defensa internacional de los derechos de Chile, y\nd) La política exterior del país de manera grave.\nLos documentos en que consten los actos cuya reserva o secreto fue declarada por una ley de quórum calificado, deberán guardarse en condiciones que garanticen su preservación y seguridad por el respectivo órgano o servicio.\nLos documentos en que consten los actos declarados secretos o reservados por un órgano o servicio, deberán guardarse en condiciones que garanticen su preservación y seguridad por el respectivo órgano o servicio, durante el plazo de diez años, sin perjuicio de las normas que regulen su entrega al Archivo Nacional.\nLos resultados de las encuestas o de sondeos de opinión encargados por los órganos de la Administración del Estado facultados para ello serán reservados hasta que finalice el período presidencial durante el cual fueron efectuados, en resguardo del debido cumplimiento de las funciones de aquéllas."
+    },
+    {
+      "provision_ref": "art23-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "23 (DEL ART. PRIMERO)",
+      "title": "Artículo 23 (DEL ART. PRIMERO)",
+      "content": "Artículo 23.- Los órganos de la Administración del Estado deberán mantener un índice actualizado de los actos y documentos calificados como secretos o reservados de conformidad a esta ley, en las oficinas de información o atención del público usuario de la Administración del Estado, establecidas en el decreto supremo N° 680, de 1990, del Ministerio del Interior.\nEl índice incluirá la denominación de los actos, documentos e informaciones que sean calificados como secretos o reservados de conformidad a esta ley, y la individualización del acto o resolución en que conste tal calificación."
+    },
+    {
+      "provision_ref": "art24-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "24 (DEL ART. PRIMERO)",
+      "title": "Artículo 24 (DEL ART. PRIMERO)",
+      "content": "Artículo 24.- Vencido el plazo previsto en el artículo 14 para la entrega de la documentación requerida, o denegada la petición, el requirente tendrá derecho a recurrir ante el Consejo establecido en el Título V, solicitando amparo a su derecho de acceso a la información.\nLa reclamación deberá señalar claramente la infracción cometida y los hechos que la configuran, y deberá acompañarse de los medios de prueba que los acrediten, en su caso.\nLa reclamación deberá presentarse dentro del plazo de quince días, contado desde la notificación de la denegación de acceso a la información o desde que haya expirado el plazo previsto en el artículo 14 para la entrega de información.\nCuando el requirente tenga su domicilio fuera de la ciudad asiento del Consejo, podrá presentar su reclamo en la respectiva gobernación, la que deberá transmitirla al Consejo de inmediato y por el medio más expedito de que disponga. En estos casos, el reclamo se entenderá presentado en la fecha de su recepción por la gobernación.\nEl Consejo pondrá formularios de reclamos a disposición de los interesados, los que también proporcionará a las gobernaciones."
+    },
+    {
+      "provision_ref": "art25-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "25 (DEL ART. PRIMERO)",
+      "title": "Artículo 25 (DEL ART. PRIMERO)",
+      "content": "Artículo 25.- El Consejo notificará la reclamación al órgano de la Administración del Estado correspondiente y al tercero involucrado, si lo hubiere, mediante carta certificada.\nLa autoridad reclamada y el tercero, en su caso, podrán presentar descargos u observaciones al reclamo dentro del plazo de diez días hábiles, adjuntando los antecedentes y los medios de prueba de que dispusieren.\nEl Consejo, de oficio o a petición de las partes interesadas, podrá, si lo estima necesario, fijar audiencias para recibir antecedentes o medios de prueba."
+    },
+    {
+      "provision_ref": "art26-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "26 (DEL ART. PRIMERO)",
+      "title": "Artículo 26 (DEL ART. PRIMERO)",
+      "content": "Artículo 26.- Cuando la resolución del Consejo que falle el reclamo declare que la información que lo motivó es secreta o reservada, también tendrán dicho carácter los escritos, documentos y actuaciones que hayan servido de base para su pronunciamiento.\nEn caso contrario, la información y dichos antecedentes y actuaciones serán públicos.\nEn la situación prevista en el inciso precedente, el reclamante podrá acceder a la información una vez que quede ejecutoriada la resolución que así lo declare."
+    },
+    {
+      "provision_ref": "art27-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "27 (DEL ART. PRIMERO)",
+      "title": "Artículo 27 (DEL ART. PRIMERO)",
+      "content": "Artículo 27.- La resolución del reclamo se dictará dentro de quinto día hábil de vencido el plazo a que se refiere el artículo 25, sea que se hayan o no presentado descargos. En caso de haberse decretado la audiencia a que se refiere el mismo artículo, este plazo correrá una vez vencido el término fijado para ésta.\nLa resolución del Consejo que otorgue el acceso a la información, fijará un plazo prudencial para su entrega por parte del órgano requerido.\nLa resolución será notificada mediante carta certificada al reclamante, al órgano reclamado y al tercero, si lo hubiere.\nEn la misma resolución, el Consejo podrá señalar la necesidad de iniciar un procedimiento disciplinario para establecer si algún funcionario o autoridad ha incurrido en alguna de las infracciones al Título VI, el que se instruirá conforme a lo señalado en esta ley."
+    },
+    {
+      "provision_ref": "art28-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "28 (DEL ART. PRIMERO)",
+      "title": "Artículo 28 (DEL ART. PRIMERO)",
+      "content": "Artículo 28.- En contra de la resolución del Consejo que deniegue el acceso a la información, procederá el reclamo de ilegalidad ante la Corte de Apelaciones del domicilio del reclamante.\nLos órganos de la Administración del Estado no tendrán derecho a reclamar ante la Corte de Apelaciones de la resolución del Consejo que otorgue el acceso a la información que hubieren denegado, cuando la denegación se hubiere fundado en la causal del número 1 del artículo 21.\nEl afectado también podrá reclamar de la resolución del Consejo ante la Corte de Apelaciones respectiva, cuando la causal invocada hubiere sido la oposición oportunamente deducida por el titular de la información, de conformidad con el artículo 20.\nEl reclamo deberá interponerse en el plazo de quince días corridos, contado desde la notificación de la resolución reclamada, deberá contener los fundamentos de hecho y de derecho en que se apoya y las peticiones concretas que se formulan."
+    },
+    {
+      "provision_ref": "art29-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "29 (DEL ART. PRIMERO)",
+      "title": "Artículo 29 (DEL ART. PRIMERO)",
+      "content": "Artículo 29.- En caso que la resolución reclamada hubiere otorgado el acceso a la información denegada por un órgano de la Administración del Estado, la interposición del reclamo, cuando fuere procedente, suspenderá la entrega de la información solicitada y la Corte no podrá decretar medida alguna que permita el conocimiento o acceso a ella."
+    },
+    {
+      "provision_ref": "art30-del-art-primero",
+      "chapter": "TITULO IV Del Derecho de Acceso a la Información de los Organos de la Administración del Estado",
+      "section": "30 (DEL ART. PRIMERO)",
+      "title": "Artículo 30 (DEL ART. PRIMERO)",
+      "content": "Artículo 30.- La Corte de Apelaciones dispondrá que el reclamo de ilegalidad sea notificado por cédula al Consejo y al tercero interesado, en su caso, quienes dispondrán del plazo de diez días para presentar sus descargos u observaciones.\nEvacuado el traslado por el Consejo, o vencido el plazo de que dispone para formular observaciones, el tribunal ordenará traer los autos en relación y la causa se agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de la sala.\nLa Corte podrá, si lo estima pertinente, abrir un término probatorio que no podrá exceder de siete días, y escuchar los alegatos de las partes.\nLa Corte dictará sentencia dentro del término de diez días, contados desde la fecha en que se celebre la audiencia a que se refiere el inciso tercero de este artículo o, en su caso, desde que quede ejecutoriada la resolución que declare vencido el término probatorio. Contra la resolución de la Corte de Apelaciones no procederá recurso alguno.\nEn caso de acogerse el reclamo de ilegalidad interpuesto contra la denegación del acceso a la información, la sentencia señalará un plazo para la entrega de dicha información.\nEn la misma resolución, el Tribunal podrá señalar la necesidad de iniciar un procedimiento disciplinario para establecer si algún funcionario o autoridad ha incurrido en alguna de las infracciones al Título VI, el que se instruirá conforme a lo señalado en esta ley."
+    },
+    {
+      "provision_ref": "art31-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "31 (DEL ART. PRIMERO)",
+      "title": "Artículo 31 (DEL ART. PRIMERO)",
+      "content": "Artículo 31.- Créase el Consejo para la Transparencia, como una corporación autónoma de derecho público, con personalidad jurídica y patrimonio propio.\nEl domicilio del Consejo será la ciudad de Santiago, sin perjuicio de los domicilios que pueda establecer en otros puntos del país.\nLos decretos supremos que se refieran al Consejo, en que no aparezca una vinculación con un Ministerio determinado, serán expedidos a través del Ministerio Secretaría General de la Presidencia."
+    },
+    {
+      "provision_ref": "art32-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "32 (DEL ART. PRIMERO)",
+      "title": "Artículo 32 (DEL ART. PRIMERO)",
+      "content": "Artículo 32.- El Consejo tiene por objeto promover la transparencia de la función pública, fiscalizar el cumplimiento de las normas sobre transparencia y publicidad de la información de los órganos de la Administración del Estado, y garantizar el derecho de acceso a la información."
+    },
+    {
+      "provision_ref": "art33-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "33 (DEL ART. PRIMERO)",
+      "title": "Artículo 33 (DEL ART. PRIMERO)",
+      "content": "Artículo 33.- El Consejo tendrá las siguientes funciones y atribuciones:\na) Fiscalizar el cumplimiento de las disposiciones de esta ley y aplicar las sanciones en caso de infracción a ellas.\nb) Resolver, fundadamente, los reclamos por denegación de acceso a la información que le sean formulados de conformidad a esta ley.\nc) Promover la transparencia de la función pública, la publicidad de la información de los órganos de la Administración del Estado, y el derecho de acceso a la información, por cualquier medio de publicación.\nd) Dictar instrucciones generales para el cumplimiento de la legislación sobre transparencia y acceso a la información por parte de los órganos de la Administración del Estado, y requerir a éstos para que ajusten sus procedimientos y sistemas de atención de público a dicha legislación.\ne) Formular recomendaciones a los órganos de la Administración del Estado tendientes a perfeccionar la transparencia de su gestión y a facilitar el acceso a la información que posean.\nf) Proponer al Presidente de la República y al Congreso Nacional, en su caso, las normas, instructivos y demás perfeccionamientos normativos para asegurar la transparencia y el acceso a la información.\ng) Realizar, directamente o a través de terceros, actividades de capacitación de funcionarios públicos en materias de transparencia y acceso a la información.\nh) Realizar actividades de difusión e información al público, sobre las materias de su competencia.\ni) Efectuar estadísticas y reportes sobre transparencia y acceso a la información de los órganos de la Administración del Estado y sobre el cumplimiento de esta ley.\nj) Velar por la debida reserva de los datos e informaciones que conforme a la Constitución y a la ley tengan carácter secreto o reservado.\nk) Colaborar con y recibir cooperación de órganos públicos y personas jurídicas o naturales, nacionales o extranjeras, en el ámbito de su competencia.\nl) Celebrar los demás actos y contratos necesarios para el cumplimiento de sus funciones.\nm) Velar por el adecuado cumplimiento de la ley Nº 19.628, de protección de datos de carácter personal, por parte de los órganos de la Administración del Estado."
+    },
+    {
+      "provision_ref": "art34-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "34 (DEL ART. PRIMERO)",
+      "title": "Artículo 34 (DEL ART. PRIMERO)",
+      "content": "Artículo 34.- Para el ejercicio de sus atribuciones, el Consejo podrá solicitar la colaboración de los distintos órganos del Estado. Podrá, asimismo, recibir todos los testimonios y obtener todas las informaciones y documentos necesarios para el examen de las situaciones comprendidas en el ámbito de su competencia.\nIgualmente, para el cumplimiento de sus fines, el Consejo podrá celebrar convenios con instituciones o corporaciones sin fines de lucro, para que éstas presten la asistencia profesional necesaria para ello."
+    },
+    {
+      "provision_ref": "art35-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "35 (DEL ART. PRIMERO)",
+      "title": "Artículo 35 (DEL ART. PRIMERO)",
+      "content": "Artículo 35.- Todos los actos y resoluciones del Consejo, así como sus fundamentos y los procedimientos que se utilicen, serán públicos, exceptuando aquella información que en virtud del artículo 8º de la Constitución Política y de las disposiciones contenidas en la presente ley, tenga el carácter de reservado o secreto."
+    },
+    {
+      "provision_ref": "art36-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "36 (DEL ART. PRIMERO)",
+      "title": "Artículo 36 (DEL ART. PRIMERO)",
+      "content": "Artículo 36.- La dirección y administración superiores del Consejo corresponderán a un Consejo Directivo integrado por cuatro consejeros designados por el Presidente de la República, previo acuerdo del Senado, adoptado por los dos tercios de sus miembros en ejercicio. El Presidente hará la proposición en un solo acto y el Senado deberá pronunciarse respecto de la propuesta como una unidad.\nLos consejeros durarán seis años en sus cargos pudiendo ser designados sólo para un nuevo período. Se renovarán por parcialidades de tres años.\nEl Consejo Directivo elegirá de entre sus miembros a su Presidente. Para el caso de que no haya acuerdo, la designación del Presidente se hará por sorteo.\nLa presidencia del Consejo será rotativa. El Presidente durará dieciocho meses en el ejercicio de sus funciones, y no podrá ser reelegido por el resto de su actual período como consejero."
+    },
+    {
+      "provision_ref": "art37-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "37 (DEL ART. PRIMERO)",
+      "title": "Artículo 37 (DEL ART. PRIMERO)",
+      "content": "Artículo 37.- No podrán ser designados consejeros los diputados y los senadores, los miembros del Tribunal Constitucional, los Ministros de la Corte Suprema, consejeros del Banco Central, el Fiscal Nacional del Ministerio Público, ni las personas que conforman el alto mando de las Fuerzas Armadas y de las Fuerzas de Orden y Seguridad Pública.\nLos cargos de consejeros son incompatibles con los de ministros de Estado, subsecretarios, intendentes y gobernadores; alcaldes y concejales; consejeros regionales; miembros del Escalafón Primario del Poder Judicial; secretario y relator del Tribunal Constitucional; fiscales del Ministerio Público; miembros del Tribunal Calificador de Elecciones y su secretario-relator; miembros de los tribunales electorales regionales, sus suplentes y sus secretarios-relatores; miembros de los demás tribunales creados por ley; funcionarios de la Administración del Estado, y miembros de los órganos de dirección de los Partidos Políticos.\nNo obstante lo dispuesto en el inciso anterior, el cargo de consejero será compatible con el ejercicio de labores académicas, de investigación o de docencia en universidades estatales."
+    },
+    {
+      "provision_ref": "art38-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "38 (DEL ART. PRIMERO)",
+      "title": "Artículo 38 (DEL ART. PRIMERO)",
+      "content": "Artículo 38.- Los consejeros serán removidos por la Corte Suprema, a requerimiento del Presidente de la República, de la Cámara de Diputados mediante acuerdo adoptado por simple mayoría, o a petición de diez diputados, por incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte Suprema conocerá del asunto en pleno especialmente convocado al efecto y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio.\nAdemás de la remoción, serán causales de cesación en el cargo de consejero, las siguientes:\na) Expiración del plazo por el que fue designado.\nb) Renuncia ante el Presidente de la República.\nc) Postulación a un cargo de elección popular.\nd) Incompatibilidad sobreviniente, circunstancia que será calificada por la mayoría de los consejeros con exclusión del afectado.\nEn caso que uno o más consejeros cesare por cualquier causa, procederá la designación de un nuevo consejero, mediante una proposición unipersonal del Presidente de la República, sujeto al mismo procedimiento dispuesto en el artículo 36, por el período que restare.\nSi el consejero que cesare en el cargo en virtud del inciso precedente invistiere la condición de Presidente del Consejo, su reemplazante será designado en la forma prevista en el artículo 36, por el tiempo que faltare al que produjo la vacante."
+    },
+    {
+      "provision_ref": "art39-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "39 (DEL ART. PRIMERO)",
+      "title": "Artículo 39 (DEL ART. PRIMERO)",
+      "content": "Artículo 39.- Los consejeros, a excepción de aquél que desempeñe el cargo de Presidente del Consejo, percibirán una dieta equivalente a 15 unidades de fomento por cada sesión a la que asistan, con un máximo de 100 unidades de fomento por mes calendario.\nEl Presidente del Consejo percibirá una remuneración bruta mensualizada equivalente a la de un Subsecretario de Estado."
+    },
+    {
+      "provision_ref": "art40-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "40 (DEL ART. PRIMERO)",
+      "title": "Artículo 40 (DEL ART. PRIMERO)",
+      "content": "Artículo 40.- El Consejo Directivo adoptará sus decisiones por la mayoría de sus miembros y, en caso de empate, resolverá su Presidente. El quórum mínimo para sesionar será de tres consejeros. El reglamento establecerá las demás normas necesarias para su funcionamiento."
+    },
+    {
+      "provision_ref": "art41-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "41 (DEL ART. PRIMERO)",
+      "title": "Artículo 41 (DEL ART. PRIMERO)",
+      "content": "Artículo 41.- Los estatutos del Consejo establecerán sus normas de funcionamiento. Los estatutos y sus modificaciones serán propuestos al Presidente de la República por, a lo menos, una mayoría de tres cuartos de sus miembros, y su aprobación se dispondrá mediante decreto supremo expedido a través del Ministerio Secretaría General de la Presidencia."
+    },
+    {
+      "provision_ref": "art42-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "42 (DEL ART. PRIMERO)",
+      "title": "Artículo 42 (DEL ART. PRIMERO)",
+      "content": "Artículo 42.- El Director del Consejo será su representante legal, y le corresponderán especialmente las siguientes funciones:\na) Cumplir y hacer cumplir los acuerdos del Consejo Directivo.\nb) Planificar, organizar, dirigir y coordinar el funcionamiento del Consejo, de conformidad con las directrices que defina el Consejo Directivo.\nc) Dictar los reglamentos internos necesarios para el buen funcionamiento del Consejo, previo acuerdo del Consejo Directivo.\nd) Contratar al personal del Consejo y poner término a sus servicios, de conformidad a la ley.\ne) Ejecutar los demás actos y celebrar las convenciones necesarias para el cumplimiento de los fines del Consejo.\nf) Delegar atribuciones o facultades específicas en funcionarios del Consejo.\ng) Ejercer las demás funciones que le sean delegadas por el Consejo Directivo."
+    },
+    {
+      "provision_ref": "art43-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "43 (DEL ART. PRIMERO)",
+      "title": "Artículo 43 (DEL ART. PRIMERO)",
+      "content": "Artículo 43.- Las personas que presten servicios en el Consejo se regirán por el Código del Trabajo.\nSin perjuicio de lo anterior, serán aplicables a este personal las normas de probidad establecidas en la ley sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses y las disposiciones del Título III de la ley N°18.575, orgánica constitucional de Bases Generales de la Administración del Estado, debiendo dejarse constancia en los contratos respectivos de una cláusula que así lo disponga.\nLas personas que desempeñen funciones directivas en el Consejo serán seleccionadas mediante concurso público efectuado por el Servicio Civil, de conformidad con las normas que regulan los procesos de selección de la Alta Dirección Pública sobre la base de una terna conformada por el Consejo de esa Alta Dirección.\nEl Consejo deberá cumplir con las normas establecidas en el decreto ley Nº 1.263, de 1975, sobre administración financiera del Estado.\nAsimismo, el Consejo estará sometido a la fiscalización de la Contraloría General de la República, en lo que concierne a su personal y al examen y juzgamiento de sus cuentas.\nLas resoluciones del Consejo estarán exentas del trámite de toma de razón por la Contraloría General de la República."
+    },
+    {
+      "provision_ref": "art44-del-art-primero",
+      "chapter": "TITULO V Del Consejo para la Transparencia",
+      "section": "44 (DEL ART. PRIMERO)",
+      "title": "Artículo 44 (DEL ART. PRIMERO)",
+      "content": "Artículo 44.- El patrimonio del Consejo estará formado por:\na) Los recursos que contemple anualmente la Ley de Presupuestos de la Nación.\nb) Los bienes muebles e inmuebles que se le transfieran o que adquiera a cualquier título y por los frutos de esos mismos bienes.\nc) Las donaciones, herencias y legados que el Consejo acepte.\nLas donaciones en favor del Consejo no requerirán del trámite de insinuación judicial a que se refiere el artículo 1401 del Código Civil y estarán exentas del impuesto a las donaciones establecidas en la ley N° 16.271."
+    },
+    {
+      "provision_ref": "art45-del-art-primero",
+      "chapter": "TITULO VI Infracciones y Sanciones",
+      "section": "45 (DEL ART. PRIMERO)",
+      "title": "Artículo 45 (DEL ART. PRIMERO)",
+      "content": "Artículo 45.- La autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, que hubiere denegado infundadamente el acceso a la información, contraviniendo, así, lo dispuesto en el artículo 16, será sancionado con multa de 20% a 50% de su remuneración."
+    },
+    {
+      "provision_ref": "art46-del-art-primero",
+      "chapter": "TITULO VI Infracciones y Sanciones",
+      "section": "46 (DEL ART. PRIMERO)",
+      "title": "Artículo 46 (DEL ART. PRIMERO)",
+      "content": "Artículo 46.- La no entrega oportuna de la información en la forma decretada, una vez que ha sido ordenada por resolución a firme, será sancionada con multa de 20% a 50% de la remuneración correspondiente.\nSi la autoridad o jefatura o jefe superior del órgano o servicio de la Administración del Estado, requerido, persistiere en su actitud, se le aplicará el duplo de la sanción indicada y la suspensión en el cargo por un lapso de cinco días."
+    },
+    {
+      "provision_ref": "art47-del-art-primero",
+      "chapter": "TITULO VI Infracciones y Sanciones",
+      "section": "47 (DEL ART. PRIMERO)",
+      "title": "Artículo 47 (DEL ART. PRIMERO)",
+      "content": "Artículo 47.- El incumplimiento injustificado de las normas sobre transparencia activa se sancionará con multa de 20% a 50% de las remuneraciones del infractor."
+    },
+    {
+      "provision_ref": "art48-del-art-primero",
+      "chapter": "TITULO VI Infracciones y Sanciones",
+      "section": "48 (DEL ART. PRIMERO)",
+      "title": "Artículo 48 (DEL ART. PRIMERO)",
+      "content": "Artículo 48.- Las sanciones previstas en este Título, deberán ser publicadas en los sitios electrónicos del Consejo y del respectivo órgano o servicio, dentro del plazo de cinco días hábiles, contados desde que la respectiva resolución quede a firme."
+    },
+    {
+      "provision_ref": "art49-del-art-primero",
+      "chapter": "TITULO VI Infracciones y Sanciones",
+      "section": "49 (DEL ART. PRIMERO)",
+      "title": "Artículo 49 (DEL ART. PRIMERO)",
+      "content": "Artículo 49.- Las sanciones previstas en este título serán aplicadas por el Consejo, previa instrucción de una investigación sumaria o sumario administrativo, ajustándose a las normas del Estatuto Administrativo. Con todo, cuando así lo solicite el Consejo, la Contraloría General de la República, de acuerdo a las normas de su ley orgánica, podrá incoar el sumario y establecer las sanciones que correspondan."
+    },
+    {
+      "provision_ref": "art1-del-art-primero-transitorio",
+      "chapter": "TITULO VII Disposiciones Transitorias",
+      "section": "1 (DEL ART. PRIMERO) Transitorio",
+      "title": "Artículo 1 (DEL ART. PRIMERO) Transitorio",
+      "content": "Artículo 1°.- De conformidad a la disposición cuarta transitoria de la Constitución Política, se entenderá que cumplen con la exigencia de quórum calificado, los preceptos legales actualmente vigentes y dictados con anterioridad a la promulgación de la ley Nº 20.050, que establecen secreto o reserva respecto de determinados actos o documentos, por las causales que señala el artículo 8º de la Constitución Política."
+    },
+    {
+      "provision_ref": "art2-del-art-primero-transitorio",
+      "chapter": "TITULO VII Disposiciones Transitorias",
+      "section": "2 (DEL ART. PRIMERO) Transitorio",
+      "title": "Artículo 2 (DEL ART. PRIMERO) Transitorio",
+      "content": "Artículo 2º.- La primera designación de consejeros del Consejo para la Transparencia, se hará a los sesenta días de la entrada en vigencia de la presente ley.\nEn la propuesta que se haga al Senado se identificará a los dos consejeros que durarán seis años en sus cargos, y los dos que durarán tres años.\nEl Consejo para la Transparencia se entenderá legalmente constituido una vez que el Consejo Directivo tenga su primera sesión válida."
+    },
+    {
+      "provision_ref": "art3-del-art-primero-transitorio",
+      "chapter": "TITULO VII Disposiciones Transitorias",
+      "section": "3 (DEL ART. PRIMERO) Transitorio",
+      "title": "Artículo 3 (DEL ART. PRIMERO) Transitorio",
+      "content": "Artículo 3º.- El mayor gasto que represente la aplicación de esta ley durante el primer año de su vigencia, se financiará mediante transferencias del ítem 50-01-03-24-03-104 de la Partida Presupuestaria Tesoro Público de la Ley de Presupuestos del año respectivo.\"."
+    },
+    {
+      "provision_ref": "artsegundo",
+      "section": "SEGUNDO",
+      "title": "Artículo SEGUNDO",
+      "content": "Artículo segundo.- Introdúcense las siguientes modificaciones a la Ley Orgánica Constitucional sobre Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1, de 2001, del Ministerio Secretaría General de la Presidencia:\n1. Deróganse los incisos tercero y siguientes del artículo 13 y el artículo 14.\n2. Intercálase en el inciso segundo del artículo 21, a continuación de la denominación \"Consejo Nacional de Televisión\", las expresiones \"al Consejo para la Transparencia\", precedidas de una coma (,)."
+    },
+    {
+      "provision_ref": "arttercero",
+      "section": "TERCERO",
+      "title": "Artículo TERCERO",
+      "content": "Artículo tercero.- Reemplázase el inciso segundo del artículo 16 de la ley N° 19.880, sobre Bases de los Procedimientos Administrativos, por el siguiente:\n\"En consecuencia, salvo las excepciones establecidas en la Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado y en otras disposiciones legales aprobadas con quórum calificado, son públicos los actos y resoluciones de los órganos de la Administración del Estado, así como sus fundamentos y documentos en que éstos se contengan, y los procedimientos que utilicen en su elaboración o dictación.\"."
+    },
+    {
+      "provision_ref": "artcuarto",
+      "section": "CUARTO",
+      "title": "Artículo CUARTO",
+      "content": "Artículo cuarto.- Introdúcense las siguientes modificaciones en la ley Nº 18.695, Orgánica Constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1, de 2002, del Ministerio del Interior:\n1. Agrégase el siguiente inciso final al artículo 12:\n\"Todas estas resoluciones estarán a disposición del público y deberán ser publicadas en los sistemas electrónicos o digitales de que disponga la municipalidad.\".\n2. Agrégase el siguiente inciso final al artículo 84:\n\"Las actas del concejo se harán públicas una vez aprobadas, y contendrán, a lo menos, la asistencia a la sesión, los acuerdos adoptados en ella y la forma como fueron votadas. La publicación se hará mediante los sistemas electrónicos o digitales que disponga la municipalidad.\"."
+    },
+    {
+      "provision_ref": "artquinto",
+      "section": "QUINTO",
+      "title": "Artículo QUINTO",
+      "content": "Artículo quinto.- Modifícase la Ley de Organización y Atribuciones de la Contraloría General de la República, Nº 10.336, incorporándose en el Título X, el siguiente artículo 155, nuevo:\n\"Artículo 155.- La Contraloría General de la República se rige por el principio de transparencia en el ejercicio de la función pública consagrado en el artículo 8º, inciso segundo, de la Constitución Política de la República y en los artículos 3º y 4º de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado.\nLa publicidad y el acceso a la información de la Contraloría General se regirán, en lo que fuere pertinente, por las siguientes normas de la ley citada en el inciso anterior: Título II, Título III y artículos 10 al 22 del Título IV.\nVencido el plazo legal para la entrega de la información requerida o denegada la petición por alguna de las causales autorizadas por la ley, el requirente podrá reclamar ante la Corte de Apelaciones respectiva, de conformidad con lo dispuesto en los artículos 28, 29 y 30 de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado. En la misma resolución, la Corte podrá señalar la necesidad de iniciar un procedimiento disciplinario para establecer si algún funcionario o autoridad ha incurrido en alguna de las infracciones al Título VI de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado, el que se instruirá conforme a su respectiva ley orgánica. Las sanciones por infracción a las normas de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado, serán las consignadas en dicha ley.\nEl Contralor, mediante resolución publicada en el Diario Oficial, establecerá las demás normas e instrucciones necesarias para dar cumplimiento a las disposiciones legales citadas, considerando para tal efecto las normas generales que dicte el Consejo para la Transparencia en conformidad con el artículo 32 de la referida ley.\"."
+    },
+    {
+      "provision_ref": "artsexto",
+      "section": "SEXTO",
+      "title": "Artículo SEXTO",
+      "content": "Artículo sexto.- El Congreso Nacional se rige por el principio de la transparencia en el ejercicio de la función pública consagrado en el inciso segundo del artículo 8º de la Constitución Política y en los artículos 3º y 4º de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado.\nLas Cámaras deberán dar cumplimiento a lo dispuesto en el artículo 7º de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado, en lo pertinente.\nDeberán especialmente publicar, además, la asistencia de los parlamentarios a las sesiones de Sala y de comisiones, las votaciones y elecciones a las que concurran y las dietas y demás asignaciones que perciban.\nLos reglamentos de ambas Cámaras consignarán las normas que cautelen el acceso del público a la información de que trata este artículo."
+    },
+    {
+      "provision_ref": "artseptimo",
+      "section": "SEPTIMO",
+      "title": "Artículo SEPTIMO",
+      "content": "Artículo séptimo.- Modifícase la Ley Orgánica Constitucional del Banco Central, contenida en el ARTÍCULO PRIMERO de la ley N° 18.840, en lo siguiente:\na) Incorpórase en el Título V, el siguiente artículo 65 bis, nuevo:\n\"Artículo 65 bis.- El Banco Central se rige por el principio de transparencia en el ejercicio de la función pública, consagrado en el artículo 8° inciso segundo de la Constitución Política de la República y en los artículos 3° y 4° de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado.\nLa publicidad y el acceso a la información del Banco se regirán, en lo que fuere pertinente, por las siguientes normas de la ley citada en el inciso anterior: Título II; Título III, a excepción del artículo 9°; y los artículos 10 al 22 del Título IV. En todo caso, la prórroga de que trata el inciso segundo del referido artículo 22, se adoptará mediante acuerdo del Consejo que requerirá del voto favorable de, a lo menos, cuatro consejeros y en cuanto a la preservación de documentos de que trata esa misma disposición, se aplicará lo dispuesto en el artículo 86. Las referencias que dichas normas hacen a la autoridad, jefatura o jefe superior, se entenderán hechas al Presidente del Banco.\nVencido el plazo legal para la entrega de la información requerida, o denegada la petición por alguna de las causales autorizadas por la ley, el requirente podrá reclamar ante la Corte de Apelaciones de Santiago, de conformidad con lo dispuesto en el artículo 69. La Corte, en la misma sentencia que acoja el reclamo, sancionará con multa de 20% a 50% de las remuneraciones al infractor.\nEl Banco, mediante acuerdo del Consejo publicado en el Diario Oficial, establecerá las demás normas e instrucciones necesarias para dar cumplimiento a las disposiciones legales citadas.\".\nb) Sustitúyese el inciso primero del artículo 66, por el siguiente:\n\"Artículo 66.- Además, el Banco deberá guardar reserva respecto de los antecedentes relativos a las operaciones de crédito de dinero que celebre o las inversiones que efectúe en conformidad a los artículos 34, 36, 37, 38, 54, 55 y 56; de los que provengan de la información que requiera en conformidad a los artículos 40, 42 y 49 en materia de operaciones de cambios internacionales o de atribuciones que le otorgan en esa misma materia otras leyes; y de la información que recabe para el cumplimiento de la función contemplada en el artículo 53; y, no podrá proporcionar información sobre ellos sino a la persona que haya sido parte de las mismas, o a su mandatario o representante legal.\"."
+    },
+    {
+      "provision_ref": "artoctavo",
+      "section": "OCTAVO",
+      "title": "Artículo OCTAVO",
+      "content": "Artículo octavo.- Los Tribunales que forman parte del Poder Judicial, de acuerdo a lo establecido en el artículo 5º del Código Orgánico de Tribunales, a través de su Corporación Administrativa, deberán mantener a disposición permanente del público, en sus sitios electrónicos, y debidamente actualizados, los antecedentes indicados en el artículo 7° de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado.\nLos demás tribunales especiales de la República, tales como el Tribunal de Contratación Pública, el Tribunal de Defensa de la Libre Competencia, los Tribunales Tributarios y Aduaneros y los órganos que ejercen jurisdicción, como la Dirección General de Aeronáutica Civil o el Panel de Expertos a que se refiere la ley Nº 19.940, cumplirán la obligación dispuesta en el inciso precedente mediante sus propios sitios electrónicos o en los de el o de los servicios u organismos de que dependan o formen parte o tengan más próxima vinculación, en caso de que no dispongan de un sistema propio.\nEn los asuntos cuya cuantía exceda de 500 unidades tributarias mensuales o respecto de los cuales se impongan multas superiores a dicho monto, o penas de presidio o reclusión superiores a tres años y un día, las sentencias de término de los tribunales ordinarios o especiales, y las definitivas en caso de que las primeras sólo modifiquen o reemplacen parte de éstas, deberán publicarse en la forma dispuesta en este artículo. Lo mismo se aplicará a los demás órganos jurisdiccionales a que se refiere el inciso anterior respecto de sus resoluciones de igual naturaleza, cualquiera sea su denominación.\nLas sentencias o resoluciones mencionadas en el inciso precedente se publicarán dentro de cinco días de que éstas queden ejecutoriadas."
+    },
+    {
+      "provision_ref": "artnoveno",
+      "section": "NOVENO",
+      "title": "Artículo NOVENO",
+      "content": "Artículo noveno.- El Ministerio Público, el Tribunal Constitucional y la Justicia Electoral se rigen por el principio de transparencia en el ejercicio de la función pública consagrado en el artículo 8º, inciso segundo, de la Constitución Política de la República y en los artículos 3º y 4º de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado.\nLa publicidad y el acceso a la información de las instituciones mencionadas en el inciso precedente se regirán, en lo que fuere pertinente, por las siguientes normas de la ley citada en el inciso anterior: Título II, Título III y los artículos 10 al 22 del Título IV.\nVencido el plazo legal para la entrega de la información requerida o denegada la petición por algunas de las causales autorizadas por la ley, el requirente podrá reclamar ante la Corte de Apelaciones respectiva, de conformidad con lo dispuesto en los artículos 28, 29 y 30 de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado. En la misma resolución, la Corte podrá señalar la necesidad de iniciar un procedimiento disciplinario para establecer si algún funcionario o autoridad ha incurrido en alguna de las infracciones al Título VI de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado, el que se instruirá conforme a sus respectivas leyes orgánicas. Con todo, las sanciones que se impongan por infracción a las normas de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado, serán las contenidas en dicha ley.\nEl Fiscal Nacional o el Presidente del Tribunal Constitucional, mediante resolución publicada en el Diario Oficial, establecerá las demás normas e instrucciones necesarias para dar cumplimiento a las disposiciones legales citadas, considerando para tal efecto las normas generales que dicte el Consejo para la Transparencia en conformidad con el artículo 32 de la referida ley.\nEn el caso de la Justicia Electoral, las disposiciones consignadas en el inciso anterior se establecerán mediante auto acordado del Tribunal Calificador de Elecciones o auto acordado de cada Tribunal Electoral Regional, que se publicará, respectivamente, en el Diario Oficial y en el diario regional que corresponda."
+    },
+    {
+      "provision_ref": "artdecimo",
+      "section": "DECIMO",
+      "title": "Artículo DECIMO",
+      "content": "Artículo décimo.- El principio de la transparencia de la función pública consagrado en el inciso segundo del artículo 8º de la Constitución Política y en los artículos 3º y 4º de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado es aplicable a las empresas públicas creadas por ley y a las empresas del Estado y a las sociedades en que éste tenga participación accionaria superior al 50% o mayoría en el directorio, tales como Televisión Nacional de Chile, la Empresa Nacional de Minería, la Empresa de Ferrocarriles del Estado, la Corporación Nacional del Cobre de Chile o Banco Estado, aun cuando la ley respectiva disponga que es necesario mencionarlas expresamente para quedar sujetas a las regulaciones de otras leyes.\nEn virtud de dicho principio, las empresas mencionadas en el inciso anterior deberán mantener a disposición permanente del público, a través de sus sitios electrónicos, los siguientes antecedentes debidamente actualizados:\na) El marco normativo que les sea aplicable.\nb) Su estructura orgánica u organización interna.\nc) Las funciones y competencias de cada una de sus unidades u órganos internos.\nd) Sus estados financieros y memorias anuales.\ne) Sus filiales o coligadas y todas las entidades en que tengan participación, representación e intervención, cualquiera sea su naturaleza y el fundamento normativo que la justifica.\nf) La composición de sus directorios y la individualización de los responsables de la gestión y administración de la empresa.\ng) Información consolidada del personal.\nh) Toda remuneración percibida en el año por cada Director, Presidente Ejecutivo o Vicepresidente Ejecutivo y Gerentes responsables de la dirección y administración superior de la empresa, incluso aquellas que provengan de funciones o empleos distintos del ejercicio de su cargo que le hayan sido conferidos por la empresa, o por concepto de gastos de representación, viáticos, regalías y, en general, todo otro estipendio. Asimismo, deberá incluirse, de forma global y consolidada, la remuneración total percibida por el personal de la empresa.\nLa información anterior deberá incorporarse a sus sitios electrónicos en forma completa, y de un modo que permita su fácil identificación y un acceso expedito.\nLas empresas a que se refiere este artículo, cualquiera sea el estatuto por el que se rijan, estarán obligadas a entregar a la Superintendencia de Valores y Seguros o, en su caso, a la Superintendencia a cuya fiscalización se encuentren sometidas, la misma información a que están obligadas las sociedades anónimas abiertas de conformidad con la ley N° 18.046. En caso de incumplimiento, los directores responsables de la empresa infractora serán sancionados con multa a beneficio fiscal hasta por un monto de quinientas unidades de fomento, aplicada por la respectiva Superintendencia de conformidad con las atribuciones y el procedimiento que establecen sus respectivas leyes orgánicas."
+    },
+    {
+      "provision_ref": "artundecimo",
+      "section": "UNDECIMO",
+      "title": "Artículo UNDECIMO",
+      "content": "Artículo undécimo.- Derógase el artículo 8º del decreto ley Nº 488, de 1925."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- La presente ley entrará en vigencia ocho meses después de publicada en el Diario Oficial, salvo el artículo 2º transitorio de la Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado, que regirá desde su publicación en el Diario Oficial."
     }
   ],
-  "definitions": [
-    {"term": "active transparency", "definition": "The obligation of State organs to make information available without requiring a prior request.", "source_provision": "art1"},
-    {"term": "passive transparency", "definition": "The obligation of State organs to respond to specific requests for information.", "source_provision": "art1"},
-    {"term": "Council for Transparency", "definition": "The autonomous public body created to promote and protect the right of access to public information in Chile.", "source_provision": "art7"},
-    {"term": "amparo action", "definition": "The action available before the Council for Transparency for persons whose right of access to information has been violated.", "source_provision": "art8"},
-    {"term": "harm test", "definition": "The requirement to demonstrate that disclosure of information would cause specific harm before it may be withheld.", "source_provision": "art6"},
-    {"term": "open data", "definition": "Information made available in machine-readable, interoperable formats under an open licence enabling free reuse.", "source_provision": "art13"}
-  ]
+  "definitions": []
 }

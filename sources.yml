@@ -3,21 +3,23 @@ mcp_name: "Chilean Law MCP"
 jurisdiction: "CL"
 
 sources:
-  - name: "Biblioteca del Congreso Nacional"
-    authority: "Biblioteca del Congreso Nacional"
+  - name: "LeyChile"
+    authority: "Biblioteca del Congreso Nacional de Chile (BCN)"
     official_portal: "https://www.bcn.cl/leychile"
-    retrieval_method: "HTML_SCRAPE"
+    api_endpoint: "https://nuevo.leychile.cl/servicios/Navegar/get_norma_json"
+    retrieval_method: "JSON_SERVICE"
     update_frequency: "weekly"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Government Open Data"
+      type: "Official legal information service"
       url: "https://www.bcn.cl/leychile"
-      summary: "Official legislative texts are public domain"
+      summary: "Legislative texts are retrieved from BCN LeyChile official services"
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "10 Chilean statutes relevant to data protection, cybersecurity, telecommunications, fintech, transparency, and digital government"
+      limitations: "Scope limited to selected statutes in this MCP dataset"
     languages:
       - "es"
+      - "en"
 
 data_freshness:
   automated_checks: true

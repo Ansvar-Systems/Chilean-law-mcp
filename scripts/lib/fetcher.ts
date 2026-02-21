@@ -1,21 +1,14 @@
 /**
- * Rate-limited HTTP client for Chilean legislation from the Sejm ELI API.
+ * Rate-limited client for LeyChile JSON legislation endpoint.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
- *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * Official source:
+ *   https://nuevo.leychile.cl/servicios/Navegar/get_norma_json
  */
 
-const USER_AGENT = 'Chilean-Law-MCP/1.0 (https://github.com/Ansvar-Systems/chilean-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+import type { LeyChileResponse } from './parser.js';
+
+const USER_AGENT = 'Chilean-Law-MCP/1.0 (+https://github.com/Ansvar-Systems/Chilean-law-mcp)';
+const MIN_DELAY_MS = 1200;
 
 let lastRequestTime = 0;
 
@@ -31,43 +24,64 @@ async function rateLimit(): Promise<void> {
 export interface FetchResult {
   status: number;
   body: string;
-  contentType: string;
   url: string;
+  json?: LeyChileResponse;
 }
 
-/**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
- */
-export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
+function buildLawUrl(lawNumber: number): string {
+  const params = new URLSearchParams({
+    idNorma: '',
+    idVersion: '',
+    idLey: String(lawNumber),
+    tipoVersion: '2',
+    cve: '',
+    agrupa_partes: '1',
+    r: String(Date.now()),
+  });
+
+  return `https://nuevo.leychile.cl/servicios/Navegar/get_norma_json?${params.toString()}`;
+}
+
+export async function fetchLawByNumber(lawNumber: number, maxRetries = 3): Promise<FetchResult> {
+  const url = buildLawUrl(lawNumber);
   await rateLimit();
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
     const response = await fetch(url, {
       headers: {
         'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
+        'Accept': 'application/json,text/plain,*/*',
       },
       redirect: 'follow',
     });
 
+    const body = await response.text();
+
     if (response.status === 429 || response.status >= 500) {
       if (attempt < maxRetries) {
         const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
+        console.log(`  HTTP ${response.status} (Ley ${lawNumber}), retrying in ${backoff}ms...`);
         await new Promise(resolve => setTimeout(resolve, backoff));
         continue;
       }
     }
 
-    const body = await response.text();
+    let json: LeyChileResponse | undefined;
+    if (response.ok) {
+      try {
+        json = JSON.parse(body) as LeyChileResponse;
+      } catch {
+        // Keep raw body for debugging/reporting.
+      }
+    }
+
     return {
       status: response.status,
       body,
-      contentType: response.headers.get('content-type') ?? '',
       url: response.url,
+      json,
     };
   }
 
-  throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
+  throw new Error(`Failed to fetch Ley ${lawNumber} after ${maxRetries} retries`);
 }

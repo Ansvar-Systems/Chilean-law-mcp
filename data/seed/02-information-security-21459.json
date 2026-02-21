@@ -1,112 +1,182 @@
 {
   "id": "cl-ley-21459-delitos-informaticos",
   "type": "statute",
-  "title": "Ley 21.459 sobre Delitos Informáticos",
-  "title_en": "Law 21.459 on Information Security (Cybercrime Law, 2022)",
+  "title": "ESTABLECE NORMAS SOBRE DELITOS INFORMÁTICOS, DEROGA LA LEY N° 19.223 Y MODIFICA OTROS CUERPOS LEGALES CON EL OBJETO DE ADECUARLOS AL CONVENIO DE BUDAPEST",
+  "title_en": "Law 21.459 on Cybercrime",
   "short_name": "Ley 21.459",
-  "status": "in_force",
-  "issued_date": "2022-06-20",
-  "in_force_date": "2022-08-21",
-  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1176369",
-  "description": "Law 21.459 of 2022 updates Chile's legal framework for cybercrime and information security, replacing Law 19.223 of 1993. It aligns Chilean law with the Budapest Convention on Cybercrime, which Chile ratified in 2017, and establishes the contemporary regulatory and legal framework applicable to the protection of information systems, data integrity, and electronic communications security.",
+  "status": "amended",
+  "issued_date": "2022-06-09",
+  "in_force_date": "2025-04-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1177743",
   "provisions": [
     {
       "provision_ref": "art1",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "1",
-      "title": "Article 1. Purpose and Scope",
-      "content": "Law 21.459 of 2022 establishes the legal framework governing the protection of information systems, data integrity, and the security of electronic communications in Chile. The Law replaces Law 19.223 and brings Chilean law into conformity with the Convention on Cybercrime (Budapest Convention) and its Additional Protocol on Xenophobia and Racism. The Law establishes the scope of regulatory responsibilities applicable to information system operators, sets out the framework for international cooperation in cybercrime matters, and defines the procedural rules applicable to the investigation of cybersecurity incidents. The Ministry of the Interior, the Public Ministry, and the PDI (Investigative Police of Chile) are designated as the principal authorities responsible for implementation."
+      "title": "Artículo 1°",
+      "content": "Artículo 1°.- Ataque a la integridad de un sistema informático. El que obstaculice o impida el normal funcionamiento, total o parcial, de un sistema informático, a través de la introducción, transmisión, daño, deterioro, alteración o supresión de los datos informáticos, será castigado con la pena de presidio menor en sus grados medio a máximo."
     },
     {
       "provision_ref": "art2",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "2",
-      "title": "Article 2. Regulatory Framework — Unauthorised Access",
-      "content": "The regulatory framework establishes the standards applicable to access to information systems and computer data. Lawful access to an information system is defined as access by persons authorised by the system owner, operator, or responsible party, in accordance with applicable terms of use, contractual arrangements, or legal authority. Regulatory obligations on information system operators include implementing access control mechanisms proportionate to the sensitivity of the system and the data it processes. System operators are required to implement authentication controls, access logging, and access management procedures enabling the identification and review of all access events. The standard of care applicable to access control shall be commensurate with the criticality of the system and is specified in technical guidance issued by CSIRT of Gobierno."
+      "title": "Artículo 2°",
+      "content": "Artículo 2°.- Acceso ilícito. El que, sin autorización o excediendo la autorización que posea y superando barreras técnicas o medidas tecnológicas de seguridad, acceda a un sistema informático será castigado con la pena de presidio menor en su grado mínimo o multa de once a veinte unidades tributarias mensuales.\nSi el acceso fuere realizado con el ánimo de apoderarse o usar la información contenida en el sistema informático, se aplicará la pena de presidio menor en sus grados mínimo a medio. Igual pena se aplicará a quien divulgue la información a la cual se accedió de manera ilícita, si no fuese obtenida por éste.\nEn caso de ser una misma persona la que hubiere obtenido y divulgado la información, se aplicará la pena de presidio menor en sus grados medio a máximo.\nNo será objeto de sanción penal por haber incurrido en los hechos tipificados en el inciso primero, el que habiendo accedido a un sistema informático cuyo responsable tenga domicilio en Chile, lo hiciera cumpliendo con las siguientes condiciones:\n1. Que se encuentre inscrito en el registro que al efecto lleve la Agencia Nacional de Ciberseguridad.\n2. Que el acceso se haya realizado habiendo informado previamente de ello a la Agencia.\n3. Que el acceso y las vulnerabilidades de seguridad detectadas hayan sido reportadas al responsable del sistema informático y a la Agencia, tan pronto se hubiere realizado.\n4. Que el acceso no haya sido realizado con el ánimo de apoderarse o de usar la información contenida en el sistema informático, ni con intención fraudulenta. Tampoco podrá haber actuado más allá de lo que era necesario para comprobar la existencia de una vulnerabilidad, ni habrá utilizado métodos que pudieran conducir a denegación de servicio, a pruebas físicas, utilización de código malicioso, ingeniería social y alteración, eliminación, exfiltración o destrucción de datos.\n5. Que no haya divulgado públicamente la información relativa a la potencial vulnerabilidad.\n6. Que se trate de un acceso a un sistema informático de los organismos de la Administración del Estado. En el resto de los casos, requerirá del consentimiento del responsable del sistema informático.\n7. Que haya dado cumplimiento a las demás condiciones sobre comunicación responsable de vulnerabilidades que al efecto hubiere dictado la Agencia."
     },
     {
       "provision_ref": "art3",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "3",
-      "title": "Article 3. Regulatory Framework — System Integrity",
-      "content": "The framework addresses the protection of the integrity of data and information systems. Operators of information systems are required to implement controls preventing the unauthorised alteration, damage, deletion, or suppression of data and system functionality. Integrity protection obligations are calibrated to the risk profile of the system and the sensitivity of data processed. Enhanced integrity protection obligations apply to operators of critical information infrastructure, who are required to implement: tamper-evident logging systems; integrity monitoring controls; change management procedures; and disaster recovery capabilities enabling restoration of data integrity following security incidents. The CSIRT of Gobierno issues technical standards for integrity protection applicable to government information systems. Critical infrastructure operators are required to comply with sectoral integrity standards issued by the competent regulator."
+      "title": "Artículo 3°",
+      "content": "Artículo 3°.- Interceptación ilícita. El que indebidamente intercepte, interrumpa o interfiera, por medios técnicos, la transmisión no pública de información en un sistema informático o entre dos o más de aquellos, será castigado con la pena de presidio menor en su grado medio.\nEl que, sin contar con la debida autorización, capte, por medios técnicos, datos contenidos en sistemas informáticos a través de las emisiones electromagnéticas provenientes de éstos, será castigado con la pena de presidio menor en sus grados medio a máximo."
     },
     {
       "provision_ref": "art4",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "4",
-      "title": "Article 4. Regulatory Framework — Data Interception",
-      "content": "The framework establishes the legal requirements applicable to the interception of electronic data during transmission. Lawful interception of electronic communications is permissible only pursuant to judicial authorisation, in the cases and with the conditions established in the Code of Criminal Procedure and other applicable law. Telecommunications service providers are required by law to maintain technical capability enabling lawful interception in accordance with standards established by the Subsecretaría de Telecomunicaciones. The regulatory framework establishes clear distinctions between lawful interception conducted pursuant to judicial authority and unlawful interception. Service providers are required to implement measures protecting communications against unlawful interception, including through appropriate encryption and access control measures. Regulatory requirements for lawful interception capabilities are established in coordination between the Ministry of the Interior, the Public Ministry, and the Subsecretaría de Telecomunicaciones."
+      "title": "Artículo 4°",
+      "content": "Artículo 4°.- Ataque a la integridad de los datos informáticos. El que indebidamente altere, dañe o suprima datos informáticos, será castigado con presidio menor en su grado medio, siempre que con ello se cause un daño grave al titular de estos mismos."
     },
     {
       "provision_ref": "art5",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "5",
-      "title": "Article 5. Regulatory Framework — Harmful Devices and Software",
-      "content": "The framework addresses regulatory requirements applicable to the development, distribution, and use of software and devices designed for harmful purposes. Regulatory obligations apply to: software vendors distributing tools that could be used to compromise information systems; application stores and content distribution platforms; internet service providers; and cybersecurity researchers engaging in vulnerability research. The framework encourages responsible disclosure of security vulnerabilities through established coordinated disclosure programmes and provides a safe harbour for bona fide security research conducted within ethical and legal boundaries. Technology providers are required to: maintain vulnerability disclosure programmes; release security patches within reasonable timeframes; and cooperate with CSIRT of Gobierno in vulnerability coordination activities."
+      "title": "Artículo 5°",
+      "content": "Artículo 5°.- Falsificación informática. El que indebidamente introduzca, altere, dañe o suprima datos informáticos con la intención de que sean tomados como auténticos o utilizados para generar documentos auténticos, será sancionado con la pena de presidio menor en sus grados medio a máximo.\nCuando la conducta descrita en el inciso anterior sea cometida por empleado público, abusando de su oficio, será castigado con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo."
     },
     {
       "provision_ref": "art6",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "6",
-      "title": "Article 6. Institutional Framework — CSIRT of Gobierno",
-      "content": "The CSIRT of Gobierno (Computer Security Incident Response Team of the Government of Chile) is established as the national government cybersecurity coordination body, operating under the Ministry of the Interior and Public Security. The CSIRT of Gobierno is responsible for: coordinating cybersecurity incident response across government institutions; maintaining situational awareness of the national cyber threat landscape; issuing cybersecurity advisories and technical guidelines; providing technical assistance to government institutions experiencing security incidents; and coordinating with the national CSIRT network and international CSIRT organisations. Critical infrastructure operators are required to report significant cybersecurity incidents to the CSIRT of Gobierno within the timeframes specified in applicable regulations. The CSIRT of Gobierno shall cooperate with the PDI in investigations involving cybersecurity incidents with law enforcement implications."
+      "title": "Artículo 6°",
+      "content": "Artículo 6°.- Receptación de datos informáticos. El que conociendo su origen o no pudiendo menos que conocerlo comercialice, transfiera o almacene con el mismo objeto u otro fin ilícito, a cualquier título, datos informáticos, provenientes de la realización de las conductas descritas en los artículos 2°, 3° y 5°, sufrirá la pena asignada a los respectivos delitos, rebajada en un grado."
     },
     {
       "provision_ref": "art7",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "7",
-      "title": "Article 7. Budapest Convention Implementation",
-      "content": "The provisions of Law 21.459 implement Chile's obligations under the Budapest Convention on Cybercrime, which Chile ratified through Decree N° 83 of 2017. The Law establishes procedural powers consistent with Chapter II of the Convention, including: expedited preservation of stored computer data; preservation and partial disclosure of traffic data; production orders for stored computer data and subscriber information; search and seizure of stored computer data; real-time collection of traffic data; and interception of content data. These powers are subject to conditions and safeguards consistent with the Chilean Constitution and applicable human rights standards. Chile's 24/7 point of contact for the Budapest Convention network is maintained by the PDI through its Cybercrime Brigade (BRICIBS). Mutual legal assistance in cybercrime matters is coordinated through the International Legal Cooperation Unit of the Public Ministry."
+      "title": "Artículo 7°",
+      "content": "Artículo 7°.- Fraude informático. El que, causando perjuicio a otro, con la finalidad de obtener un beneficio económico para sí o para un tercero, manipule un sistema informático, mediante la introducción, alteración, daño o supresión de datos informáticos o a través de cualquier interferencia en el funcionamiento de un sistema informático, será penado:\n1) Con presidio menor en sus grados medio a máximo y multa de once a quince unidades tributarias mensuales, si el valor del perjuicio excediera de cuarenta unidades tributarias mensuales.\n2) Con presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales, si el valor del perjuicio excediere de cuatro unidades tributarias mensuales y no pasare de cuarenta unidades tributarias mensuales.\n3) Con presidio menor en su grado mínimo y multa de cinco a diez unidades tributarias mensuales, si el valor del perjuicio no excediere de cuatro unidades tributarias mensuales.\nSi el valor del perjuicio excediere de cuatrocientas unidades tributarias mensuales, se aplicará la pena de presidio menor en su grado máximo y multa de veintiuna a treinta unidades tributarias mensuales.\nPara los efectos de este artículo se considerará también autor al que, conociendo o no pudiendo menos que conocer la ilicitud de la conducta descrita en el inciso primero, facilita los medios con que se comete el delito."
     },
     {
       "provision_ref": "art8",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "8",
-      "title": "Article 8. Expedited Preservation of Data",
-      "content": "The Public Ministry may order the expedited preservation of computer data, including traffic data, for a period sufficient to enable a formal data disclosure order to be obtained. Service providers and other entities holding relevant data are required to comply with preservation orders promptly and to maintain the confidentiality of the order. Preservation orders shall specify: the data to be preserved; the period of preservation; confidentiality requirements; and the consequences of non-compliance. The period of preservation shall not exceed ninety days, renewable upon application. Upon receipt of a preservation order, the recipient shall preserve the specified data in its original form and shall not disclose the existence of the order except to authorised parties. Preserved data may subsequently be subject to a disclosure order obtained through applicable legal process."
+      "title": "Artículo 8º",
+      "content": "Artículo 8º.- Abuso de los dispositivos. El que para la perpetración de los delitos previstos en los artículos 1° a 4° de esta ley o de las conductas señaladas en el artículo 7° de la ley N° 20.009, entregare u obtuviere para su utilización, importare, difundiera o realizare otra forma de puesta a disposición uno o más dispositivos, programas computacionales, contraseñas, códigos de seguridad o de acceso u otros datos similares, creados o adaptados principalmente para la perpetración de dichos delitos, será sancionado con la pena de presidio menor en su grado mínimo y multa de cinco a diez unidades tributarias mensuales."
     },
     {
       "provision_ref": "art9",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "9",
-      "title": "Article 9. Data Access and Search Procedures",
-      "content": "Judicial authorisation is required for the search and seizure of computer data, except in urgent circumstances defined in the Code of Criminal Procedure. Search and seizure orders for computer data shall specify: the information systems, storage media, or data subject to search; the data sought; the duration of authority; and any applicable limitations. Executing authorities shall implement measures to preserve the integrity of seized digital evidence and shall document all steps taken to maintain the chain of custody. Where data sought in the execution of a search order is found in a system located in another country, the executing authority shall suspend access and notify the Public Ministry immediately. Digital evidence collected pursuant to search orders shall be handled in accordance with the evidentiary standards established by the PDI and applicable procedural law."
+      "title": "Artículo 9°",
+      "content": "Artículo 9°.- Derogado."
     },
     {
       "provision_ref": "art10",
+      "chapter": "TÍTULO I DE LOS DELITOS INFORMÁTICOS Y SUS SANCIONES",
       "section": "10",
-      "title": "Article 10. International Cooperation",
-      "content": "Chile shall cooperate with other State Parties to the Budapest Convention and with other countries with which it has applicable bilateral or multilateral agreements in matters relating to cybercrime investigation and prosecution. International cooperation shall be provided through established legal assistance channels, including through the International Legal Cooperation Network of the Ibero-American Association of Public Prosecutors (AIAMP). The Public Ministry shall serve as the central authority for receiving and transmitting mutual legal assistance requests in cybercrime matters. Chile shall maintain its participation in the Budapest Convention 24/7 Network, providing immediate assistance to other State Parties in urgent cybercrime matters. The PDI shall maintain operational cooperation relationships with law enforcement agencies in other countries addressing cybercrime."
+      "title": "Artículo 10",
+      "content": "Artículo 10.- Circunstancias agravantes. Constituyen circunstancias agravantes de los delitos de que trata esta ley:\n1) Cometer el delito abusando de una posición de confianza en la administración del sistema informático o custodio de los datos informáticos contenidos en él, en razón del ejercicio de un cargo o función.\n2) Cometer el delito abusando de la vulnerabilidad, confianza o desconocimiento de niños, niñas, adolescentes o adultos mayores.\nAsimismo, si como resultado de la comisión de las conductas contempladas en este Título, se afectase o interrumpiese la provisión o prestación de servicios de utilidad pública, tales como electricidad, gas, agua, transporte, telecomunicaciones o financieros, o el normal desenvolvimiento de los procesos electorales regulados en la ley Nº 18.700, orgánica constitucional sobre votaciones populares y escrutinios, la pena correspondiente se aumentará en un grado."
     },
     {
       "provision_ref": "art11",
+      "chapter": "TÍTULO II DEL PROCEDIMIENTO",
       "section": "11",
-      "title": "Article 11. Relationship with Critical Infrastructure Protection",
-      "content": "The cybercrime framework established by Law 21.459 shall be applied in coordination with the critical infrastructure protection framework established by Law 21.663 of 2024. Significant cybersecurity incidents affecting critical infrastructure shall be investigated with the involvement of the PDI's Cybercrime Brigade and coordinated with the CSIRT of Gobierno. Operators of critical infrastructure are required to cooperate with law enforcement authorities in the investigation of security incidents. Evidence obtained in the context of regulatory cybersecurity oversight may be used in criminal investigations where applicable law permits. The Ministry of the Interior shall coordinate between the cybercrime regulatory framework and the critical infrastructure protection framework."
+      "title": "Artículo 11",
+      "content": "Artículo 11.- Sin perjuicio de las reglas contenidas en el Código Procesal Penal, las investigaciones a que dieren lugar los delitos previstos en esta ley también podrán iniciarse por querella del Ministro de Seguridad Pública o de los secretarios o secretarias regionales ministeriales de seguridad pública, cuando las conductas señaladas en esta ley interrumpieren el normal funcionamiento de un servicio de utilidad pública."
     },
     {
       "provision_ref": "art12",
+      "chapter": "TÍTULO II DEL PROCEDIMIENTO",
       "section": "12",
-      "title": "Article 12. Digital Evidence Standards",
-      "content": "Digital evidence collected in the investigation of cybercrime and cybersecurity incidents shall meet applicable admissibility standards. The PDI's Cybercrime Brigade shall maintain forensic capabilities enabling the collection, analysis, and preservation of digital evidence in a manner meeting judicial standards of integrity and authenticity. The Public Ministry shall issue guidelines on the handling of digital evidence in cybercrime investigations. Digital evidence shall be preserved in a forensically sound manner maintaining its integrity and enabling verification of authenticity. Chain of custody procedures for digital evidence shall be documented and maintained throughout the investigative and prosecutorial process. Courts shall take into account the technical complexity of digital evidence and shall have access to expert assistance in evaluating such evidence."
+      "title": "Artículo 12",
+      "content": "Artículo 12.- Cuando la investigación de los delitos contemplados en los artículos 1°, 2°, 3°, 4°, 5° y 7° de esta ley lo hiciere imprescindible y existieren fundadas sospechas basadas en hechos determinados, de que una persona hubiere cometido o participado en la preparación o comisión de algunos de los delitos contemplados en los preceptos precedentemente señalados, el juez de garantía, a petición del Ministerio Público, quien deberá presentar informe previo detallado respecto de los hechos y la posible participación, podrá ordenar la realización de las técnicas previstas y reguladas en los artículos 222 a 226 del Código Procesal Penal, conforme lo disponen dichas normas.\nLa orden que disponga la realización de estas técnicas deberá indicar circunstanciadamente el nombre real o alias y dirección física o electrónica del afectado por la medida y señalar el tipo y la duración de la misma. El juez podrá prorrogar la duración de esta orden, para lo cual deberá examinar cada vez la concurrencia de los requisitos previstos en el inciso precedente.\nDe igual forma, cumpliéndose los requisitos establecidos en el inciso anterior, el juez de garantía, a petición del Ministerio Público, podrá ordenar a funcionarios policiales actuar bajo identidad supuesta en comunicaciones mantenidas en canales cerrados de comunicación, con el fin de esclarecer los hechos tipificados como delitos en esta ley, establecer la identidad y participación de personas determinadas en la comisión de los mismos, impedirlos o comprobarlos. El referido agente encubierto en línea podrá intercambiar o enviar por sí mismo archivos ilícitos por razón de su contenido, pudiendo obtener también imágenes y grabaciones de las referidas comunicaciones. No obstará a la consumación de los delitos que se pesquisen el hecho de que hayan participado en su investigación agentes encubiertos. El agente encubierto en sus actuaciones estará exento de responsabilidad criminal por aquellos delitos en que deba incurrir o que no haya podido impedir, siempre que sean consecuencia necesaria del desarrollo de la investigación y guarden la debida proporcionalidad con la finalidad de la misma."
     },
     {
       "provision_ref": "art13",
+      "chapter": "TÍTULO II DEL PROCEDIMIENTO",
       "section": "13",
-      "title": "Article 13. Cybersecurity Research Safe Harbour",
-      "content": "The regulatory framework recognises that cybersecurity research, including penetration testing and vulnerability research, performed by qualified researchers serves a legitimate public interest in improving the security of information systems. Cybersecurity research activities conducted within ethical boundaries defined in applicable guidelines shall not be treated as violations of applicable regulatory requirements where: the researcher acts in good faith to identify and responsibly disclose vulnerabilities; the research is limited to systems for which the researcher has authorisation or is conducted under applicable safe harbour provisions; and the researcher does not exploit discovered vulnerabilities for unauthorised purposes. The CSIRT of Gobierno shall issue guidelines on responsible vulnerability disclosure and on the conditions for safe harbour protection in cybersecurity research."
+      "title": "Artículo 13",
+      "content": "Artículo 13.- Sin perjuicio de las reglas generales, caerán especialmente en comiso los instrumentos de los delitos penados en esta ley, los efectos que de ellos provengan y las utilidades que hubieren originado, cualquiera que sea su naturaleza jurídica.\nCuando por cualquier circunstancia no sea posible decomisar estas especies, se podrá aplicar el comiso a una suma de dinero equivalente a su valor, respecto de los responsables del delito. Si por la naturaleza de la información contenida en las especies, éstas no pueden ser enajenadas a terceros, se podrá ordenar la destrucción total o parcial de los instrumentos del delito y los efectos que de ellos provengan."
     },
     {
       "provision_ref": "art14",
+      "chapter": "TÍTULO II DEL PROCEDIMIENTO",
       "section": "14",
-      "title": "Article 14. Telecommunications Obligations",
-      "content": "Telecommunications service providers and internet access providers operating in Chile are required to: implement network security measures protecting their infrastructure and their subscribers from cybersecurity threats; cooperate with the CSIRT of Gobierno in incident response and threat monitoring activities; retain traffic data for the periods specified in applicable regulations, subject to applicable privacy protections; and comply with lawful interception obligations in accordance with applicable law and technical standards. The Subsecretaría de Telecomunicaciones may issue technical instructions specifying security requirements applicable to telecommunications service providers. Security incidents affecting telecommunications networks shall be reported to the Subsecretaría de Telecomunicaciones and to the CSIRT of Gobierno within specified timeframes."
+      "title": "Artículo 14",
+      "content": "Artículo 14.- Sin perjuicio de las reglas generales, los antecedentes de investigación que se encuentren en formato electrónico y estén contenidos en documentos electrónicos o sistemas informáticos o que correspondan a datos informáticos, serán tratados en conformidad a los estándares definidos para su preservación o custodia en el procedimiento respectivo, de acuerdo a las instrucciones generales que al efecto dicte el Fiscal Nacional."
     },
     {
       "provision_ref": "art15",
+      "chapter": "TÍTULO III DISPOSICIONES FINALES",
       "section": "15",
-      "title": "Article 15. Transitional Provisions and Entry into Force",
-      "content": "Law 21.459 entered into force sixty days after its publication in the Diario Oficial, giving authorities and service providers time to adapt to the new legal framework. The Ministry of Justice issued implementing regulations within ninety days of entry into force. The PDI's Cybercrime Brigade received additional resources to implement its expanded mandate under the Law. The Law repeals Law 19.223 of 1993 on computer offences, which it replaces in its entirety, as well as any other provisions inconsistent with it. Ongoing proceedings initiated under Law 19.223 shall be completed under the rules applicable at the time they were initiated, unless the defendant requests the application of the new law where more favourable."
+      "title": "Artículo 15",
+      "content": "Artículo 15.- Para efectos de esta ley, se entenderá por:\na) Datos informáticos: Toda representación de hechos, información o conceptos expresados en cualquier forma que se preste a tratamiento informático, incluidos los programas diseñados para que un sistema informático ejecute una función.\nb) Sistema informático: Todo dispositivo aislado o conjunto de dispositivos interconectados o relacionados entre sí, cuya función, o la de alguno de sus elementos, sea el tratamiento automatizado de datos en ejecución de un programa.\nc) Prestadores de servicios: Toda entidad pública o privada que ofrezca a los usuarios de sus servicios la posibilidad de comunicar a través de un sistema informático y cualquier otra entidad que procese o almacene datos informáticos para dicho servicio de comunicación o para los usuarios del mismo."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "TÍTULO III DISPOSICIONES FINALES",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "Artículo 16.- Derogado."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "TÍTULO III DISPOSICIONES FINALES",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "Artículo 17.- Sin perjuicio de lo dispuesto en el artículo primero transitorio de esta ley, derógase la ley N° 19.223. Toda referencia legal o reglamentaria a dicho cuerpo legal debe entenderse hecha a esta ley."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "TÍTULO III DISPOSICIONES FINALES",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "Artículo 18.- Modifícase el Código Procesal Penal en el siguiente sentido:\n1) Agrégase el siguiente artículo 218 bis, nuevo:\n\"Artículo 218 bis.- Preservación provisoria de datos informáticos. El Ministerio Público con ocasión de una investigación penal podrá requerir, a cualquier proveedor de servicio, la conservación o protección de datos informáticos o informaciones concretas incluidas en un sistema informático, que se encuentren a su disposición hasta que se obtenga la respectiva autorización judicial para su entrega. Los datos se conservarán durante un período de 90 días, prorrogable una sola vez, hasta que se autorice la entrega o se cumplan 180 días. La empresa requerida estará obligada a prestar su colaboración y guardar secreto del desarrollo de esta diligencia.\".\n2) Suprímese, en el inciso primero del artículo 223, la expresión \"telefónica\".\n3) Reemplázase, en el artículo 225, la voz \"telecomunicaciones\" por \"comunicaciones\"."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "TÍTULO III DISPOSICIONES FINALES",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "Artículo 19.- Intercálase, en el literal a) del inciso primero del artículo 27 de la ley N° 19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos, entre las expresiones \"orgánica constitucional del Banco Central de Chile;\" y \"en el párrafo tercero del número 4° del artículo 97 del Código Tributario\", la frase \"en el Título I de la ley que sanciona los delitos informáticos;\"."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "TÍTULO III DISPOSICIONES FINALES",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "Artículo 20.- Agrégase, en el inciso primero del artículo 36 B de la ley N° 18.168, General de Telecomunicaciones, la siguiente letra f), nueva:\n\"f) Los que vulneren el deber de reserva o secreto previsto en los artículos 218 bis, 219 y 222 del Código Procesal Penal, mediante el acceso, almacenamiento o difusión de los antecedentes o la información señalados en dichas normas, serán sancionados con la pena de presidio menor en su grado máximo.\"."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "TÍTULO III DISPOSICIONES FINALES",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "Artículo 21.- Modifícase la ley N° 20.393, que establece la responsabilidad penal de las personas jurídicas en los delitos de lavado de activos, financiamiento del terrorismo y delitos de cohecho que indica, en el siguiente sentido:\n1) Intercálase, en el inciso primero del artículo 1, a continuación de la expresión \"Nº 18.314\", la expresión \", en el Título I de la ley que sanciona delitos informáticos\".\n2) Intercálase, en el inciso primero del artículo 15, entre \"Código Penal,\" y \"y en el artículo 8°\", la expresión \"en el Título I de la ley que sanciona delitos informáticos\"."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "ARTÍCULOS TRANSITORIOS",
+      "section": "primero transitorio",
+      "title": "Artículo primero",
+      "content": "Artículo primero.- Los hechos perpetrados con anterioridad a la entrada en vigor de la presente ley, así como las penas y las demás consecuencias que correspondiere imponer por ellos, serán determinados conforme a la ley vigente en el momento de su perpetración.\nSi la presente ley entrare en vigor durante la perpetración del hecho se estará a lo dispuesto en ella, siempre que en la fase de perpetración posterior se realizare íntegramente la nueva descripción legal del hecho.\nSi la aplicación de la presente ley resultare más favorable al imputado o acusado por un hecho perpetrado con anterioridad a su entrada en vigor, se estará a lo dispuesto en ella.\nPara determinar si la aplicación de esta ley resulta más favorable, se deberá tomar en consideración todas las normas en ella previstas que fueren pertinentes al juzgamiento del hecho.\nPara efectos de lo dispuesto en los incisos primero y segundo precedentes, el delito se entiende perpetrado en el momento o durante el lapso en el cual se ejecuta la acción punible o se incurre en la omisión punible."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "ARTÍCULOS TRANSITORIOS",
+      "section": "segundo transitorio",
+      "title": "Artículo segundo",
+      "content": "Artículo segundo.- El artículo 18 de la presente ley comenzará a regir transcurridos seis meses desde la publicación en el Diario Oficial de un reglamento dictado por el Ministerio de Transportes y Telecomunicaciones, suscrito además por el Ministro del Interior y Seguridad Pública.\nEl reglamento señalado en el inciso anterior deberá dictarse dentro del plazo de seis meses, contado desde la publicación de la presente ley en el Diario Oficial."
+    },
+    {
+      "provision_ref": "arttercero-transitorio",
+      "chapter": "ARTÍCULOS TRANSITORIOS",
+      "section": "tercero transitorio",
+      "title": "Artículo tercero",
+      "content": "Artículo tercero.- Los artículos 19 y 21 comenzarán a regir transcurridos seis meses desde la publicación de la presente ley en el Diario Oficial.\"."
     }
   ],
-  "definitions": [
-    {"term": "information system", "definition": "Any device or group of interconnected or related devices, one or more of which carry out automated processing of data pursuant to a programme.", "source_provision": "art1"},
-    {"term": "CSIRT of Gobierno", "definition": "Computer Security Incident Response Team of the Government of Chile, the national government cybersecurity coordination body.", "source_provision": "art6"},
-    {"term": "Budapest Convention", "definition": "The Convention on Cybercrime, adopted in Budapest on 23 November 2001, ratified by Chile through Decree N° 83 of 2017.", "source_provision": "art7"},
-    {"term": "PDI", "definition": "Policía de Investigaciones de Chile, the Investigative Police of Chile, responsible for cybercrime investigation.", "source_provision": "art6"},
-    {"term": "expedited preservation", "definition": "The urgent preservation of stored computer data pending a formal data disclosure order.", "source_provision": "art8"},
-    {"term": "digital evidence", "definition": "Evidence in digital form collected and preserved in accordance with forensic standards ensuring its integrity and authenticity.", "source_provision": "art12"}
-  ]
+  "definitions": []
 }

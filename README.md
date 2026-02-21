@@ -23,7 +23,7 @@ npx @ansvar/chilean-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Official Chilean legislation from LeyChile (Biblioteca del Congreso Nacional), ingested via the public JSON service endpoint.
 
 ## License
 

@@ -42,6 +42,7 @@
     "ingest": "node --import tsx scripts/ingest.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
+    "verify:provisions": "node --import tsx scripts/verify-provisions.ts",
     "validate": "npm run lint && npm test && npm run test:contract",
     "lint": "tsc --noEmit",
     "prepublishOnly": "npm run build",

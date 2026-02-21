@@ -1,111 +1,20 @@
 {
   "id": "cl-ley-21096-constitucion-datos",
   "type": "statute",
-  "title": "Ley 21.096 — Reforma Constitucional Protección de Datos Personales",
-  "title_en": "Law 21.096 — Constitutional Amendment on Personal Data Protection",
+  "title": "CONSAGRA EL DERECHO A PROTECCIÓN DE LOS DATOS PERSONALES",
+  "title_en": "Law 21.096 on Constitutional Protection of Personal Data",
   "short_name": "Ley 21.096",
   "status": "in_force",
-  "issued_date": "2018-06-16",
+  "issued_date": "2018-06-05",
   "in_force_date": "2018-06-16",
-  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1118108",
-  "description": "Law 21.096 of 2018 amended Article 19 No. 4 of the Chilean Political Constitution to expressly recognise personal data protection as a fundamental right. The constitutional amendment elevated data protection from a statutory right to a constitutional guarantee, requiring that all State action and legislation respect this fundamental right, and providing the constitutional basis for comprehensive data protection reform.",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1119730",
   "provisions": [
     {
-      "provision_ref": "art1",
-      "section": "1",
-      "title": "Article 1. Constitutional Amendment",
-      "content": "Law 21.096 amends Article 19, Number 4, of the Political Constitution of the Republic of Chile to add the following sentence after the first paragraph: 'The treatment and protection of personal data shall be carried out in the form and conditions determined by law.' This constitutional amendment establishes the right to personal data protection as a fundamental right of constitutional rank, guaranteed to all persons under Article 19 of the Constitution. The constitutional guarantee of personal data protection places an obligation on all branches of State power — legislative, executive, and judicial — and on private actors exercising regulatory powers, to respect this fundamental right. The amendment provides the constitutional basis and mandate for comprehensive legislation governing personal data protection in Chile."
-    },
-    {
-      "provision_ref": "art2",
-      "section": "2",
-      "title": "Article 2. Scope of the Constitutional Right",
-      "content": "The constitutional right to personal data protection established by this amendment encompasses the right of every person to have their personal data treated in accordance with the law and in a manner respecting their privacy, honour, and dignity. The constitutional right to personal data protection is distinct from, but complementary to, the right to privacy established in the first paragraph of Article 19, Number 4. The constitutional right to personal data protection requires that any limitation of this right by law or regulatory measure meet criteria of necessity, proportionality, and legitimate purpose. The Comptroller General, the courts, and other oversight bodies shall enforce the constitutional right to personal data protection in their respective spheres of competence."
-    },
-    {
-      "provision_ref": "art3",
-      "section": "3",
-      "title": "Article 3. Legislative Mandate",
-      "content": "The constitutional amendment establishes a legislative mandate for the Congress of Chile to enact comprehensive personal data protection legislation meeting the requirements of the constitutional guarantee. The legislative framework required by the Constitution shall include, at minimum: the principles governing the processing of personal data; the rights of persons in relation to their personal data; the obligations of data controllers and processors; the conditions for lawful processing of personal data; the mechanisms for the supervision and enforcement of data protection requirements; and the remedies available to persons whose data protection rights are violated. The new legislation shall be consistent with and shall implement the constitutional right to personal data protection, and shall be reviewed periodically to ensure continued consistency."
-    },
-    {
-      "provision_ref": "art4",
-      "section": "4",
-      "title": "Article 4. Data Protection as a Fundamental Right",
-      "content": "The recognition of personal data protection as a fundamental right under the Chilean Constitution has significant implications for the interpretation and application of applicable law. As a fundamental right, personal data protection must be weighed against other constitutional rights and interests in accordance with principles of proportionality. Restrictions on the fundamental right to personal data protection are permissible only where provided by law, pursue a legitimate constitutional objective, and are strictly necessary and proportionate to achieve that objective. Courts exercising constitutional jurisdiction shall give effect to the fundamental right to personal data protection in cases involving the processing of personal data. The Constitutional Court (Tribunal Constitucional) has jurisdiction to review legislation for compliance with the constitutional right to personal data protection."
-    },
-    {
-      "provision_ref": "art5",
-      "section": "5",
-      "title": "Article 5. Relationship with International Human Rights Standards",
-      "content": "The constitutional right to personal data protection shall be interpreted in light of applicable international human rights standards, including the International Covenant on Civil and Political Rights, the American Convention on Human Rights, and the American Declaration of the Rights and Duties of Man. International instruments and the jurisprudence of international human rights bodies relating to privacy and data protection shall be considered in the interpretation and application of the constitutional right to personal data protection. Chile's international obligations relating to personal data protection, including those arising from free trade agreements containing data protection provisions, shall be implemented consistently with the constitutional guarantee. The constitutional right to personal data protection applies to the processing of personal data by both State actors and private persons."
-    },
-    {
-      "provision_ref": "art6",
-      "section": "6",
-      "title": "Article 6. Impact on State Processing of Personal Data",
-      "content": "The constitutional amendment reinforces the principle that State organs may process personal data only where authorised by law and in accordance with the principles of necessity and proportionality. State organs processing personal data are required to: have a legal basis for the processing; collect only the personal data necessary for the specific lawful purpose; retain data for no longer than necessary; implement appropriate security measures; and respect the rights of persons in relation to their data. The design and implementation of data processing activities by State organs shall take account of the constitutional right to personal data protection from the outset. Surveillance, monitoring, and intelligence activities conducted by State organs shall be subject to oversight mechanisms ensuring compliance with the constitutional right to personal data protection."
-    },
-    {
-      "provision_ref": "art7",
-      "section": "7",
-      "title": "Article 7. Impact on Private Sector Data Processing",
-      "content": "The constitutional right to personal data protection applies to data processing activities conducted by private persons to the extent provided by applicable law. The constitutional mandate for comprehensive data protection legislation requires that this legislation extend protection to data subjects in relation to private sector data processing, as well as State processing. Private sector entities processing personal data are subject to applicable data protection obligations and, following the enactment of comprehensive legislation, will be subject to the full range of obligations required by the constitutional guarantee. The constitutional right to personal data protection provides a basis for individuals to seek redress in courts for violations of their data protection rights by private actors, where no other adequate remedy is available."
-    },
-    {
-      "provision_ref": "art8",
-      "section": "8",
-      "title": "Article 8. Right to Informational Self-Determination",
-      "content": "The constitutional right to personal data protection encompasses the concept of informational self-determination: the right of each person to decide what information about themselves is collected, stored, processed, or shared. Informational self-determination implies that persons have a right to know what data about them is being processed and for what purpose, a right to correct inaccurate data, and a right to request deletion of data where its processing lacks legal basis. The constitutional right supports the development of consent-based frameworks for personal data processing, in which individuals are able to make meaningful choices about the use of their personal data. The principle of informational self-determination informs the interpretation of specific data protection rights and obligations established in applicable legislation."
-    },
-    {
-      "provision_ref": "art9",
-      "section": "9",
-      "title": "Article 9. New Personal Data Protection Legislation",
-      "content": "The constitutional mandate for comprehensive personal data protection legislation has resulted in the development of a new Personal Data Protection Law (PDPL) by the Chilean Congress, expected to replace Law 19.628 of 1999. The new PDPL will: establish a comprehensive set of principles governing personal data processing; define the rights of data subjects in terms consistent with international standards; impose obligations on data controllers and processors; create a new supervisory authority with adequate powers and independence to enforce data protection requirements; and establish effective remedies for violations. The new PDPL will be interpreted and applied in light of the constitutional guarantee established by Law 21.096. The constitutional amendment provides the legal foundation for the constitutional court to review the adequacy of the new PDPL."
-    },
-    {
-      "provision_ref": "art10",
-      "section": "10",
-      "title": "Article 10. Habeas Data Action",
-      "content": "The constitutional amendment reinforces the habeas data action established in Law 19.628, giving it constitutional status. The habeas data action enables any person to seek access to, correction, or deletion of personal data held about them in a data bank or information system, before the competent court. The constitutional status of the habeas data action means it may also be brought as a constitutional protection action (recurso de protección) under Article 20 of the Constitution where the threatened or violated right to personal data protection falls within those covered by that action. Courts hearing habeas data actions shall interpret applicable law in a manner giving effect to the constitutional right to personal data protection. The scope and procedure of the habeas data action shall be detailed in applicable legislation."
-    },
-    {
-      "provision_ref": "art11",
-      "section": "11",
-      "title": "Article 11. Impact on Surveillance and Intelligence Activities",
-      "content": "The constitutional right to personal data protection reinforces the requirement that surveillance and intelligence activities conducted by State organs be based on specific legal authority, be subject to effective oversight, and be proportionate to the threat they address. Blanket or indiscriminate surveillance of persons without individual suspicion is incompatible with the constitutional right to personal data protection. The design and implementation of surveillance systems by State organs shall take account of both the constitutional right to personal data protection and applicable privacy protections. The Comptroller General and the judiciary shall exercise oversight of surveillance activities to ensure compliance with constitutional requirements. Classified intelligence activities remain subject to constitutional constraints and shall be periodically reviewed by appropriate oversight bodies."
-    },
-    {
-      "provision_ref": "art12",
-      "section": "12",
-      "title": "Article 12. Data Protection and Freedom of Information",
-      "content": "The constitutional right to personal data protection must be balanced against the constitutional right of access to information in the public interest. Where requests for access to public information involve personal data of third parties, the competent authority shall apply a proportionality analysis balancing the public interest in disclosure against the right of the affected person to personal data protection. Information relating to the exercise of public functions by public officials may be disclosed notwithstanding data protection objections where the public interest in accountability clearly outweighs privacy interests. The Council for Transparency shall apply the constitutional right to personal data protection in its decisions on access to information requests involving personal data."
-    },
-    {
-      "provision_ref": "art13",
-      "section": "13",
-      "title": "Article 13. Children's Data — Constitutional Dimension",
-      "content": "The processing of personal data of children is subject to enhanced constitutional protection, reflecting the particular vulnerability of children and the obligation of the State to protect their interests. The constitutional right to personal data protection of children shall be interpreted in light of Article 19, Number 10, protecting the right to education, and other constitutional provisions protecting the rights of children. Any limitation of the constitutional right to data protection of children must be justified by a compelling interest in the child's welfare and must be strictly necessary and proportionate. The best interests of the child principle shall guide the interpretation and application of data protection requirements as they apply to the processing of children's data."
-    },
-    {
-      "provision_ref": "art14",
-      "section": "art14",
-      "title": "Article 14. Implementation by State Organs",
-      "content": "All State organs are required to give effect to the constitutional right to personal data protection in the exercise of their functions. This obligation applies to: the development and implementation of legislation affecting personal data; the design and operation of data processing systems; the development and enforcement of regulatory requirements; and the adjudication of cases involving personal data. State organs shall review their existing data processing practices for compliance with the constitutional right and shall take corrective action where compliance gaps are identified. Ministries and public services shall designate responsible officers for personal data protection and shall develop implementation plans for bringing their data processing activities into compliance with applicable constitutional and statutory requirements."
-    },
-    {
-      "provision_ref": "art15",
-      "section": "15",
-      "title": "Article 15. Entry into Force and Impact on Existing Law",
-      "content": "Law 21.096 entered into force on the date of its publication in the Diario Oficial de la República de Chile. From its entry into force, the constitutional right to personal data protection established by Article 19, Number 4, as amended, has full legal effect. Existing legislation relating to personal data protection, including Law 19.628, shall be interpreted and applied in a manner consistent with the constitutional right. Courts and administrative bodies shall take the constitutional right into account in all proceedings and decisions involving the processing of personal data from the date of entry into force. The constitutional amendment creates an obligation on the legislative branch to enact comprehensive personal data protection legislation within a reasonable period."
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Agrégase, en el numeral 4° del artículo 19 de la Constitución Política de la República, a continuación de la expresión \"y su familia\", lo siguiente: \", y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley\".\"."
     }
   ],
-  "definitions": [
-    {"term": "constitutional right to personal data protection", "definition": "The fundamental right established in Article 19, Number 4, of the Chilean Constitution requiring that personal data be treated in the form and conditions determined by law.", "source_provision": "art1"},
-    {"term": "informational self-determination", "definition": "The right of each person to decide what information about themselves is collected, stored, processed, or shared.", "source_provision": "art8"},
-    {"term": "proportionality", "definition": "The principle that restrictions on fundamental rights must be necessary and no greater than strictly required to achieve a legitimate objective.", "source_provision": "art4"},
-    {"term": "habeas data", "definition": "The constitutional action enabling a person to seek access to, correction, or deletion of their personal data held in a data bank.", "source_provision": "art10"},
-    {"term": "legislative mandate", "definition": "The obligation imposed by the constitutional amendment on the Congress to enact comprehensive personal data protection legislation.", "source_provision": "art3"}
-  ]
+  "definitions": []
 }
