@@ -17,6 +17,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
+const ALL_LAWS_INDEX_PATH = path.resolve(__dirname, '../data/source/cl-all-laws-index.json');
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
 
 // Seed file types
@@ -48,6 +49,21 @@ interface DefinitionSeed {
   term: string;
   definition: string;
   source_provision?: string;
+}
+
+interface AllLawsIndexRecord {
+  id_norma: string;
+  norma?: string;
+  title?: string;
+  fecha_promulgacion?: string;
+  fecha_vigencia?: string;
+  fecha_derogacion?: string;
+  url?: string;
+}
+
+interface AllLawsIndexFile {
+  generated_at?: string;
+  records?: AllLawsIndexRecord[];
 }
 
 type EUDocumentType = 'directive' | 'regulation';
@@ -247,6 +263,31 @@ function dedupeProvisions(provisions: ProvisionSeed[]): ProvisionSeed[] {
   return Array.from(byRef.values());
 }
 
+function extractIdNormaFromUrl(url: string | null | undefined): string | null {
+  if (!url) return null;
+  const match = url.match(/[?&]idNorma=(\d+)/i);
+  return match?.[1] ?? null;
+}
+
+function normalizeIsoDate(value: string | null | undefined): string | null {
+  if (!value) return null;
+  const trimmed = value.trim();
+  return /^\d{4}-\d{2}-\d{2}$/.test(trimmed) ? trimmed : null;
+}
+
+function inferIndexedStatus(rec: AllLawsIndexRecord): DocumentSeed['status'] {
+  if (rec.fecha_derogacion && rec.fecha_derogacion.trim().length > 0) {
+    return 'repealed';
+  }
+
+  const inForce = normalizeIsoDate(rec.fecha_vigencia);
+  if (inForce && inForce > new Date().toISOString().slice(0, 10)) {
+    return 'not_yet_in_force';
+  }
+
+  return 'in_force';
+}
+
 function extractEuReferences(text: string): ExtractedEUReference[] {
   if (!text || text.trim().length === 0) return [];
 
@@ -368,7 +409,9 @@ function buildDatabase(): void {
   let totalDefs = 0;
   let totalEuDocuments = 0;
   let totalEuReferences = 0;
+  let indexedLawDocs = 0;
   const primaryImplementationByDocument = new Set<string>();
+  const knownNormaIds = new Set<string>();
 
   const loadAll = db.transaction(() => {
     for (const file of seedFiles) {
@@ -383,6 +426,8 @@ function buildDatabase(): void {
         seed.url ?? null, seed.description ?? null,
       );
       totalDocs++;
+      const seedNormaId = extractIdNormaFromUrl(seed.url ?? null);
+      if (seedNormaId) knownNormaIds.add(seedNormaId);
 
       if (seed.provisions && seed.provisions.length > 0) {
         const deduped = dedupeProvisions(seed.provisions);
@@ -438,6 +483,39 @@ function buildDatabase(): void {
         totalDefs++;
       }
     }
+
+    if (fs.existsSync(ALL_LAWS_INDEX_PATH)) {
+      const raw = fs.readFileSync(ALL_LAWS_INDEX_PATH, 'utf8');
+      const indexFile = JSON.parse(raw) as AllLawsIndexFile;
+      const records = Array.isArray(indexFile.records) ? indexFile.records : [];
+
+      for (const rec of records) {
+        const idNorma = rec.id_norma?.trim();
+        if (!idNorma) continue;
+        if (knownNormaIds.has(idNorma)) continue;
+
+        const docId = `cl-leychile-norma-${idNorma}`;
+        const title = rec.title?.trim() || rec.norma?.trim() || `Norma ${idNorma}`;
+        const shortName = rec.norma?.trim() || `Norma ${idNorma}`;
+
+        insertDoc.run(
+          docId,
+          'statute',
+          title,
+          null,
+          shortName,
+          inferIndexedStatus(rec),
+          normalizeIsoDate(rec.fecha_promulgacion),
+          normalizeIsoDate(rec.fecha_vigencia),
+          rec.url?.trim() || `https://www.bcn.cl/leychile/navegar?idNorma=${idNorma}`,
+          'LeyChile index record (metadata only)',
+        );
+
+        knownNormaIds.add(idNorma);
+        indexedLawDocs++;
+        totalDocs++;
+      }
+    }
   });
 
   loadAll();
@@ -452,6 +530,7 @@ function buildDatabase(): void {
     insertMeta.run('jurisdiction', 'CL');
     insertMeta.run('source', 'LeyChile (BCN) JSON service');
     insertMeta.run('licence', 'See sources.yml');
+    insertMeta.run('indexed_law_documents', String(indexedLawDocs));
   });
   writeMeta();
 

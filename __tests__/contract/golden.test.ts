@@ -20,11 +20,17 @@ beforeAll(() => {
 });
 
 describe('Database integrity', () => {
-  it('should have 10 legal documents (excluding EU cross-refs)', () => {
-    const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
-    ).get() as { cnt: number };
-    expect(row.cnt).toBe(10);
+  it('should include core corpus and indexed national law documents', () => {
+    const row = db.prepare(`
+      SELECT
+        (SELECT COUNT(*) FROM legal_documents WHERE id LIKE 'cl-ley-%') as core_cnt,
+        (SELECT COUNT(*) FROM legal_documents WHERE id LIKE 'cl-leychile-norma-%') as indexed_cnt,
+        (SELECT COUNT(*) FROM legal_documents) as total_cnt
+    `).get() as { core_cnt: number; indexed_cnt: number; total_cnt: number };
+
+    expect(row.core_cnt).toBe(10);
+    expect(row.indexed_cnt).toBeGreaterThan(10000);
+    expect(row.total_cnt).toBe(row.core_cnt + row.indexed_cnt);
   });
 
   it('should have at least 150 provisions', () => {

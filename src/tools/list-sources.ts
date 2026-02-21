@@ -49,8 +49,8 @@ export async function listSources(
           url: 'https://www.bcn.cl/leychile',
           license: 'Public legal texts provided by BCN; see portal terms',
           coverage:
-            'Chilean laws focused on data protection, cybersecurity, telecommunications, ' +
-            'transparency, fintech, e-signatures, and related statutes',
+            'Full Chilean law index metadata (Ley/Lei) plus full provision text for 10 core ' +
+            'data protection, cybersecurity, telecommunications, transparency, fintech, and e-signature statutes',
           languages: ['es', 'en'],
         },
       ],

@@ -15,8 +15,8 @@ sources:
       url: "https://www.bcn.cl/leychile"
       summary: "Legislative texts are retrieved from BCN LeyChile official services"
     coverage:
-      scope: "10 Chilean statutes relevant to data protection, cybersecurity, telecommunications, fintech, transparency, and digital government"
-      limitations: "Scope limited to selected statutes in this MCP dataset"
+      scope: "Full Chilean law index metadata (Ley/Lei) plus full article-level text for 10 statutes focused on data protection, cybersecurity, telecommunications, fintech, transparency, and digital government"
+      limitations: "Only the 10 core statutes include full provision text for FTS/article retrieval; indexed laws outside that corpus are metadata-only entries"
     languages:
       - "es"
       - "en"

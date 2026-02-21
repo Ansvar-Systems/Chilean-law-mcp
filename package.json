@@ -40,6 +40,7 @@
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "ingest": "node --import tsx scripts/ingest.ts",
+    "fetch:all-laws-index": "node --import tsx scripts/fetch-all-laws-index.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "verify:provisions": "node --import tsx scripts/verify-provisions.ts",

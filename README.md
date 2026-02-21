@@ -24,6 +24,7 @@ npx @ansvar/chilean-law-mcp
 ## Data Sources
 
 Official Chilean legislation from LeyChile (Biblioteca del Congreso Nacional), ingested via the public JSON service endpoint.
+The local database includes a full Ley/Lei metadata index and full article-level text for the 10 core statutes in this MCP corpus.
 
 ## License
 
