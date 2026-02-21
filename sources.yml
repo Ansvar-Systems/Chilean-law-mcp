@@ -1,0 +1,25 @@
+schema_version: "1.0"
+mcp_name: "Chilean Law MCP"
+jurisdiction: "CL"
+
+sources:
+  - name: "Biblioteca del Congreso Nacional"
+    authority: "Biblioteca del Congreso Nacional"
+    official_portal: "https://www.bcn.cl/leychile"
+    retrieval_method: "HTML_SCRAPE"
+    update_frequency: "weekly"
+    last_ingested: "2026-02-21"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://www.bcn.cl/leychile"
+      summary: "Official legislative texts are public domain"
+    coverage:
+      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
+      limitations: "AI-generated seed data; full official ingestion pending"
+    languages:
+      - "es"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "2026-02-21"

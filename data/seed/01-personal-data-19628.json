@@ -1,0 +1,112 @@
+{
+  "id": "cl-ley-19628-datos-personales",
+  "type": "statute",
+  "title": "Ley 19.628 sobre Protección de la Vida Privada",
+  "title_en": "Law 19.628 on Protection of Private Life (Personal Data Protection)",
+  "short_name": "Ley 19.628",
+  "status": "amended",
+  "issued_date": "1999-08-28",
+  "in_force_date": "1999-10-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=141599",
+  "description": "Law 19.628 is Chile's principal personal data protection statute, establishing the foundational framework for the collection, processing, and transfer of personal data. It recognises data protection as flowing from the constitutional right to privacy under Article 19 No. 4 of the Chilean Constitution. The law is currently undergoing significant reform through the new Personal Data Protection Law being processed in the Chilean Congress.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Purpose and Scope",
+      "content": "This Law establishes the conditions under which data banks containing personal data may be operated and regulates the processing of personal data of natural persons by public and private bodies, to guarantee the protection of privacy and honour of persons and the security of their personal data. This Law applies to the processing of personal data contained in automated records or data banks, as well as to manual records when they have been established for the processing of such data and when those who process the data access them in a systematic manner. The provisions of this Law are applicable to persons domiciled in Chile who process personal data and to persons domiciled abroad when the processing is carried out in national territory. The protection afforded by this Law is without prejudice to other applicable laws protecting privacy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "For the purposes of this Law: 'Personal data' means data relating to any information concerning identified or identifiable natural persons; 'Sensitive personal data' means personal data referring to physical or moral characteristics of persons, or to facts or circumstances of their private life or intimacy, such as personal habits, racial origin, ideologies and political opinions, religious beliefs or convictions, psychological or mental states, health conditions, patrimonial information, and sexual life; 'Data bank' means an organised set of personal data, whatever form or modality it is created, stored or organised, that enables its use by public bodies or private persons; 'Person in charge of the data bank' means the natural or legal person in charge of decisions related to the processing of personal data; 'Person responsible for the data bank' means the natural person who, on behalf of the person in charge of the bank, performs personal data processing; 'Processing of data' means any operation or technical procedure, automated or not, that allows the collection, filing, organisation, storage, retention, comparison, matching, consultation, use, communication, transfer, or deletion of personal data."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Principles",
+      "content": "The processing of personal data shall be subject to the following principles: (a) Principle of consent — personal data can only be processed if the owner consents to it, unless the Law or a legal rule authorises or requires it; (b) Principle of purpose — personal data shall be collected and processed for a determined, explicit, and lawful purpose; (c) Principle of proportionality — only data that is adequate, relevant, and not excessive in relation to the purpose of the data bank may be collected; (d) Principle of quality — the data stored must be accurate, current, and complete; (e) Principle of security — the person in charge of the data bank must establish the necessary security measures to protect the data and prevent it from being altered, lost, transmitted, or accessed by unauthorised persons; (f) Principle of responsibility — the person in charge of the data bank must be able to demonstrate compliance with these principles; (g) Principle of transparency — persons whose data is processed have the right to be informed about the processing."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Requirement for Consent",
+      "content": "The processing of personal data may only be carried out when this Law or other legal provisions permit it or when the owner of the data authorises it. The authorisation required for the processing of personal data must be freely given, unambiguous, specific, and informed. When the processing relates to the transmission of personal data, it must be explicit and may concern all or part of such data. The authorisation may be revoked at any time, without retroactive effect. There is no obligation to provide the reasons for the revocation of the authorisation. Authorisation is not required when: the data is from sources accessible by the public; the data relates to the economic, financial, commercial, or banking solvency of its owner; the processing is required for contract performance; the data is necessary for actions related to a person's health; or the data is processed for legitimate historical, statistical, or scientific purposes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Processing of Sensitive Personal Data",
+      "content": "The processing of sensitive personal data is prohibited, except where the Law expressly authorises it, where the processing is for certain health reasons or scientific research purposes. Processing of health data may only be carried out by persons bound by professional secrecy, or in databases of health institutions and insurance companies, for the purposes for which the data was provided, or for health statistics. Sensitive personal data may be processed when the owner has given explicit consent in writing or by equivalent electronic means. Sensitive data processed under authorisation of the owner shall not be transferred to third parties without renewed explicit consent, except where required by law or by judicial order. Public registries containing sensitive data shall be operated in accordance with specific legal authority and shall implement enhanced security measures."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Rights of the Owner of Personal Data",
+      "content": "The owner of personal data has the following rights that may be exercised against the person in charge of the data bank: (a) Right of access — to request information about the data stored concerning them, its origin and destination, and the purpose for which it is stored; (b) Right to rectification — to request the correction, updating, rectification, or deletion of inaccurate, outdated, incomplete, erroneous, or excessive data; (c) Right to cancellation or deletion — to request the blocking or deletion of data whose use is not authorised by law or is no longer necessary; (d) Right to opposition — to oppose the processing of their personal data in cases provided for by this Law. These rights are personal and non-transferable, and shall be exercised free of charge. The person in charge of the data bank shall respond to requests within a period of two working days, extendable for a further three days in justified cases."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Processing of Personal Data by Public Bodies",
+      "content": "Public bodies may only process personal data where authorised by law. The data processed by public bodies must be limited to that necessary for the fulfilment of their functions. Public bodies shall not transmit personal data to other public bodies or private persons unless authorised by a legal rule. When the transmission is authorised, it shall be recorded in a file kept for that purpose, and the transmitting body shall inform the owner. When a public body, in the exercise of its functions, processes personal data transmitted by private persons who are in a relationship with it, that data shall be treated with professional secrecy. Public bodies shall implement security measures protecting personal data against loss, theft, disclosure, alteration, or unauthorised access."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Data Security Obligations",
+      "content": "The person in charge of the data bank must establish the necessary technical and organisational security measures and internal procedures to protect personal data and prevent it from being altered, lost, transmitted, or accessed by unauthorised persons. The measures to be adopted shall take into account: the state of technology; the risks involved in the processing; the nature of the data; and the sensitivity of the data. Security measures shall be documented and shall be reviewed and updated periodically. Where a security breach occurs that affects personal data and may cause material harm to the owners of the data, the person in charge of the bank shall notify the affected persons and the competent authority within a reasonable period. The person in charge is civilly liable for damages caused by security breaches attributable to failure to implement adequate security measures."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Transfer of Personal Data",
+      "content": "The transfer of personal data to a third country may only take place where the destination country provides a level of protection adequate to that afforded by Chilean law, or where: the owner of the data has given explicit consent to the transfer; the transfer is necessary for the execution of a contract entered into or to be entered into between the owner and the responsible person, or for the performance of pre-contractual measures taken at the request of the owner; the transfer is necessary for the execution of a contract entered into or to be entered into in the interest of the owner, between the responsible person and a third party; or the transfer is necessary for the prevention, diagnosis, or treatment of a medical condition of the owner. The person in charge of the data bank is responsible for ensuring that transferred data is adequately protected in the recipient country."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Habeas Data Action",
+      "content": "Every person who considers that the rights guaranteed in this Law have been violated in relation to their personal data may file a habeas data action before the competent civil court. The court shall hear the matter in summary procedure. The action may be directed against the person in charge or the person responsible for a data bank. Through the habeas data action, the petitioner may seek: information about the personal data stored concerning them and the origin, destination, and purpose of its storage; the correction, updating, deletion, or blocking of personal data that is incorrect, incomplete, obsolete, or unlawfully processed; the requirement that the processing of personal data cease where it lacks legal basis or the consent of the owner. Failure to comply with a court order in a habeas data action constitutes contempt of court."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Financial Data and Credit Registers",
+      "content": "The processing of financial, commercial, banking, or economic data of natural persons by commercial reporting services, credit bureaus, and similar entities is subject to specific rules under this Law. Data on commercial debts and credit events may only be processed where the debts are confirmed, enforceable, and currently unpaid. Such data shall be deleted from commercial reporting databases within five years of the credit event, or within three years where the debt has been paid or settled. The owner of financial data included in a commercial reporting database has the right to add a statement of disagreement to their data file, which shall be communicated to any recipient of the data. Credit reporting entities shall implement enhanced security measures protecting financial data against unauthorised access and shall not transfer such data to entities in countries without adequate data protection."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Data Processing for Historical, Statistical, or Scientific Purposes",
+      "content": "Personal data may be processed for historical, statistical, or scientific purposes without the consent of the owner where: the data is necessary for the specific research purpose; the research cannot be carried out by other means; and the data is anonymised or pseudonymised to the greatest extent possible given the research purpose. Where processing of identified personal data is necessary for historical, statistical, or scientific research, enhanced security measures shall be implemented and access shall be restricted to the researchers directly involved. Results of research using personal data shall be published or communicated only in aggregate or anonymised form. Personal data processed for historical purposes by archives may be retained beyond the original retention period where it has historical significance."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Data Pertaining to Children",
+      "content": "The processing of personal data of children shall require the consent of their parents or legal guardian where the child lacks the legal capacity to consent. The person in charge of the data bank shall implement appropriate mechanisms to verify the age of persons providing consent and to obtain parental or guardian consent where required. Data of children shall be collected only where strictly necessary for the purpose of the data bank and shall be retained for no longer than necessary. Data of children shall not be used for commercial profiling or marketing purposes without explicit parental consent. Enhanced security measures shall be applied to protect the personal data of children. The rights of parents or guardians to access, correct, and delete personal data of their minor children shall be guaranteed under this Law."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Professional Secrecy",
+      "content": "Persons who have access to personal data in the performance of their functions are bound by professional secrecy in relation to that data. This obligation persists after the termination of their employment or contractual relationship with the person in charge or responsible person of the data bank. Professional secrecy applies to: employees and contractors of data bank operators; professionals providing services that involve access to personal data; and any other persons who access personal data in the course of a professional relationship. Persons bound by professional secrecy may not disclose personal data to which they have access, except where required by law, by a court order, or with the explicit consent of the data owner. Breach of professional secrecy in relation to personal data constitutes a violation of this Law and may also constitute a violation of applicable professional conduct rules."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Liability and Sanctions",
+      "content": "The person in charge of the data bank is civilly liable for damages caused to data owners by violations of this Law. The civil action for damages must be filed within four years of the act or omission that caused the damage, or from the moment the damage became known to the affected person. The burden of proof that the processing of personal data was carried out in accordance with the requirements of this Law rests with the person in charge of the data bank. Courts may order: the correction, blocking, or deletion of inaccurate or unlawfully processed data; the cessation of unlawful processing activities; payment of damages; and any other measures necessary to protect the rights of the data owner. Public servants who violate this Law in the exercise of their functions are subject to disciplinary sanctions under applicable public service law, in addition to civil liability."
+    }
+  ],
+  "definitions": [
+    {"term": "personal data", "definition": "Data relating to any information concerning identified or identifiable natural persons.", "source_provision": "art2"},
+    {"term": "sensitive personal data", "definition": "Personal data referring to physical or moral characteristics, private life, racial origin, political opinions, religious beliefs, health conditions, or sexual life.", "source_provision": "art2"},
+    {"term": "data bank", "definition": "An organised set of personal data, in any form, that enables its use by public bodies or private persons.", "source_provision": "art2"},
+    {"term": "person in charge of the data bank", "definition": "The natural or legal person responsible for decisions related to the processing of personal data.", "source_provision": "art2"},
+    {"term": "habeas data", "definition": "The legal action enabling a person to seek access to, correction, or deletion of personal data held about them in a data bank.", "source_provision": "art10"},
+    {"term": "processing of data", "definition": "Any operation or technical procedure, automated or not, that allows the collection, filing, organisation, storage, consultation, use, communication, transfer, or deletion of personal data.", "source_provision": "art2"}
+  ]
+}

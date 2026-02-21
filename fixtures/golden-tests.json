@@ -1,0 +1,157 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Chilean Law MCP",
+  "description": "Golden contract tests for the Chilean Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "cl-001",
+      "category": "article_retrieval",
+      "description": "Retrieve data protection law Article 1 -- scope and purpose",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cl-ley-19628-datos-personales",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["data", "protection", "personal"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cl-002",
+      "category": "article_retrieval",
+      "description": "Retrieve cybersecurity/cybercrime law Article 1 -- scope",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cl-ley-21459-delitos-informaticos",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["cyber", "security", "information", "crime"],
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cl-003",
+      "category": "article_retrieval",
+      "description": "Retrieve data protection law Article 2 -- definitions",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cl-ley-19628-datos-personales",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["content", "provision_ref"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cl-004",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns relevant provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["personal data", "data protection", "data subject"]
+      }
+    },
+    {
+      "id": "cl-005",
+      "category": "search",
+      "description": "Full-text search for 'cybersecurity' returns relevant provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybersecurity"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "cl-006",
+      "category": "search",
+      "description": "Full-text search for 'electronic' returns e-commerce or e-signature provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "cl-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for data protection law includes URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cl-ley-19628-datos-personales",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "cl-008",
+      "category": "metadata",
+      "description": "list_sources returns metadata for Chilean law data",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["CL"]
+      }
+    },
+    {
+      "id": "cl-010",
+      "category": "negative_test",
+      "description": "Non-existent law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "fictional-law-2099",
+        "section": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "cl-011",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "cl-ley-19628-datos-personales",
+        "section": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "cl-012",
+      "category": "list_sources",
+      "description": "list_sources returns metadata including jurisdiction",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["CL"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "cl-ley-21521-fintech-open-finance",
+  "type": "statute",
+  "title": "Ley 21.521 — Fintech y Finanzas Abiertas",
+  "title_en": "Law 21.521 on Fintech and Open Finance",
+  "short_name": "Ley Fintech 21.521",
+  "status": "in_force",
+  "issued_date": "2023-01-04",
+  "in_force_date": "2023-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1181830",
+  "description": "Law 21.521 of 2023 establishes Chile's regulatory framework for financial technology (fintech) companies and open finance, creating a new licensing regime for payment institutions, robo-advisors, crowdfunding platforms, and other fintech businesses. It establishes the open finance system enabling customers to share their financial data with regulated third parties and imposes cybersecurity and data protection requirements on fintech entities.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Purpose and Scope",
+      "content": "This Law aims to promote competition, innovation, and inclusion in the financial sector by establishing a proportionate regulatory framework for financial technology services. It creates new categories of regulated financial service providers and establishes an open finance system enabling the secure sharing of financial data between regulated entities. The Law applies to providers of: payment services; intermediation platforms for financial instruments; crowdfunding platforms; alternative credit assessment and scoring services; and financial advisory services using automated or algorithmic means. The Comisión para el Mercado Financiero (CMF) is designated as the competent regulatory authority for all entities regulated under this Law. The Law aims to foster a vibrant fintech ecosystem while maintaining financial stability, consumer protection, and the integrity of the financial system."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Fintech Registration and Licensing",
+      "content": "Providers of financial services within the scope of this Law must register with the CMF and, depending on the category and scale of services provided, obtain a licence before commencing operations. The registration and licensing regime is designed to be proportionate, with lighter requirements for lower-risk activities and more demanding requirements for higher-risk or systemically significant activities. Requirements for registration include: legal establishment in Chile; compliance with minimum capital requirements; implementation of an adequate risk management framework; designation of key function holders meeting fit and proper criteria; and demonstration of technical capacity to provide the services. The CMF shall process registration applications within defined timeframes and shall publish a public register of all registered and licensed fintech entities."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Open Finance System",
+      "content": "The open finance system established by this Law enables customers of financial institutions to authorise the sharing of their financial data with regulated third-party providers. The open finance system is built on the principle of customer consent: financial data shall be shared with third parties only where the customer has given explicit, informed, and revocable consent. Financial institutions subject to the open finance regime shall implement standardised application programming interfaces (APIs) enabling authorised third parties to access customer financial data. The CMF shall establish technical standards for open finance APIs, authentication mechanisms, and data exchange formats. Financial data shall be shared in real time where technically feasible and in a format enabling effective use by the receiving party. Customers shall have access to a dashboard enabling them to manage their open finance consents."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Customer Consent in Open Finance",
+      "content": "The sharing of customer financial data under the open finance system requires explicit, specific, informed, and revocable customer consent. Consent shall be obtained through a standardised consent management interface approved by the CMF. Consent shall specify: the data to be shared; the third party receiving the data; the purpose of the data sharing; and the duration of the consent. Customers shall be able to revoke consent at any time through accessible means, and revocation shall be effective immediately. Third-party providers receiving data under an open finance consent shall use the data only for the purpose for which consent was given and shall not retain it beyond the period specified in the consent. Regulated entities shall cooperate to ensure that consent records are maintained and enforceable across the open finance ecosystem."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Cybersecurity in Fintech",
+      "content": "Regulated fintech entities shall implement cybersecurity measures proportionate to the risks associated with the services they provide and the data they handle. Cybersecurity requirements established by the CMF for fintech entities shall address: access control and identity management; network and system security; application security; data protection at rest and in transit; incident detection and response; business continuity; and third-party risk management. Fintech entities providing payment services shall implement strong customer authentication for payment initiation and account access, in accordance with standards established by the CMF. Significant cybersecurity incidents shall be reported to the CMF within the timeframes specified in applicable regulations. The CMF shall conduct or commission cybersecurity assessments of regulated fintech entities and may impose remediation requirements."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Data Protection in Open Finance",
+      "content": "The collection, processing, storage, and sharing of financial data within the open finance system shall comply with Law 19.628 on personal data protection and any applicable amendments or successor legislation. Financial data is classified as sensitive information requiring enhanced protection. Regulated entities receiving financial data under the open finance system shall: implement enhanced security measures for financial data; use financial data only for the consented purpose; not sell or transfer financial data to unauthorised third parties; retain data only for the period necessary for the consented purpose; and provide customers with access to their data and information about how it is being used. The CMF shall coordinate with the personal data protection authority on the application of data protection requirements in the open finance context."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Payment Service Providers",
+      "content": "Payment service providers regulated under this Law include: payment initiation service providers, enabling users to initiate electronic payments from their accounts; account information service providers, providing consolidated account information; e-money institutions, issuing electronic money; and payment platform operators, providing infrastructure for processing payments. Payment service providers shall maintain separation between customer funds and the provider's own funds. Customer funds held by payment service providers shall be safeguarded through: segregation in designated accounts at regulated financial institutions; or coverage under an insurance policy or equivalent guarantee. Payment service providers shall implement strong customer authentication and shall comply with anti-money laundering and counter-terrorism financing obligations applicable to payment institutions."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Crowdfunding Platforms",
+      "content": "Crowdfunding platforms regulated under this Law include: investment crowdfunding platforms, enabling investors to acquire equity or debt instruments issued by small and medium enterprises; and lending crowdfunding platforms, enabling investors to provide loans to natural and legal persons. Crowdfunding platforms shall disclose to investors the risks associated with crowdfunding investments, including the risk of loss of invested capital. Platforms shall implement screening processes to assess the viability of projects and the capacity of issuers or borrowers. Limits on individual investor exposure to crowdfunding investments shall be established by CMF regulations. Crowdfunding platforms shall implement escrow arrangements for investor funds, releasing funds to the project only upon achievement of the funding target. Platforms shall report regularly to the CMF on fundraising activities, investor returns, and defaults."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Algorithmic Financial Advisory Services",
+      "content": "Providers of automated financial advisory services (robo-advisors) regulated under this Law shall: implement systems ensuring that automated advice is suitable for each customer based on their financial situation, investment objectives, and risk tolerance; disclose to customers the automated and algorithmic nature of the advice provided; implement controls preventing discriminatory or biased outcomes in algorithmic advice; maintain human oversight mechanisms enabling review of automated advice; and implement audit trails enabling the review of advice provided to customers. Providers of algorithmic credit scoring or credit decision services shall ensure the explainability of their models and shall provide customers with information about the factors affecting their credit score. The CMF may require providers to provide human review of automated decisions that are adverse to customers."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Regulatory Sandbox",
+      "content": "The CMF may operate a regulatory sandbox enabling fintech innovators to test new financial technology products and services under controlled conditions without having to comply fully with all applicable licensing requirements. Entities admitted to the sandbox shall: operate within defined parameters including restrictions on the scale of activity and the customer base; comply with core consumer protection and anti-money laundering requirements; report regularly to the CMF on the conduct of the trial; and apply for a regular licence upon completion of the trial period where they wish to continue operations. The CMF shall issue guidelines on the conditions for admission to the sandbox, the parameters applicable during the trial period, and the process for transitioning from sandbox to full licensing. The sandbox shall be reviewed annually to assess its effectiveness."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Anti-Money Laundering and Counter-Terrorism Financing",
+      "content": "Regulated fintech entities are subject to the anti-money laundering and counter-terrorism financing obligations applicable to their service category under the Financial Analysis Unit (UAF) framework. Fintech entities shall implement customer due diligence procedures appropriate to the risk profile of their customer base and services. Customer due diligence measures shall include: identification and verification of customer identity; identification of beneficial owners; ongoing monitoring of customer transactions; and enhanced due diligence for higher-risk customers. Suspicious transaction reports shall be filed with the UAF in accordance with applicable reporting obligations. Fintech entities shall maintain records of customer due diligence measures for the period specified in applicable law. The CMF shall coordinate with the UAF on the implementation of anti-money laundering requirements applicable to fintech entities."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Consumer Protection in Fintech",
+      "content": "Regulated fintech entities shall comply with applicable consumer protection law in their dealings with retail customers. Specific consumer protection obligations applicable to fintech entities include: providing clear, accurate, and complete information about services, fees, and risks before entering into a contract; implementing effective complaint mechanisms accessible through digital and other channels; ensuring fair treatment of customers, including non-discriminatory service provision; providing customers with information about their data protection rights; and implementing processes enabling customers to exercise their rights. The CMF shall issue guidelines on consumer protection standards applicable to specific categories of fintech services. Fintech entities providing services to consumers shall be subject to oversight by both the CMF and consumer protection authorities."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Supervision and Enforcement",
+      "content": "The CMF shall supervise compliance of regulated fintech entities with applicable legal requirements, CMF regulations, and their authorisation conditions. Supervision shall be conducted through: off-site monitoring of regulatory returns, financial reports, and incident reports; on-site inspections; thematic reviews of specific risk areas; and requests for information and documentation. The CMF shall have the authority to: issue compliance orders; impose administrative sanctions including fines; suspend or revoke authorisations; require the appointment of an administrator; and take other measures necessary to protect customers and financial stability. Sanctions shall be proportionate to the gravity of the violation and the harm caused. The CMF shall publish its supervisory and enforcement activities to promote transparency and serve as a deterrent."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Innovation and Interoperability",
+      "content": "The CMF shall promote innovation in the financial sector by working with regulated entities and fintech innovators to develop proportionate regulation that enables new financial technologies to develop and serve customers. The CMF shall maintain regular dialogue with the fintech industry through a designated innovation office. Interoperability between regulated financial institutions and fintech entities shall be promoted by the CMF through open finance standards and mandatory API access requirements. The CMF shall cooperate with financial regulators in other countries to facilitate cross-border fintech activities and shall promote the mutual recognition of fintech regulatory frameworks within applicable trade agreements. The CMF shall issue guidance clarifying the regulatory treatment of emerging technologies including artificial intelligence, distributed ledger technology, and tokenised assets."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Transitional Provisions and Implementation",
+      "content": "The CMF shall issue implementing regulations within twelve months of the entry into force of this Law, specifying detailed requirements for each category of regulated fintech entity. Entities providing fintech services as of the date of entry into force of this Law shall have eighteen months to comply with applicable registration and licensing requirements. The CMF shall publish a transition roadmap providing guidance for existing fintech entities on the steps required to achieve compliance. The open finance system shall be implemented in phases, with the CMF issuing a timetable specifying the entities required to participate in each phase and the technical standards to be applied. Entities not yet subject to open finance obligations shall be encouraged to voluntarily comply with applicable technical standards to facilitate early ecosystem development."
+    }
+  ],
+  "definitions": [
+    {"term": "fintech", "definition": "Financial technology services provided through digital platforms and automated systems, including payment services, crowdfunding, algorithmic advice, and open finance.", "source_provision": "art1"},
+    {"term": "open finance", "definition": "A system enabling customers to authorise the sharing of their financial data with regulated third-party providers.", "source_provision": "art3"},
+    {"term": "CMF", "definition": "Comisión para el Mercado Financiero, the Financial Market Commission, the regulatory authority for fintech entities.", "source_provision": "art1"},
+    {"term": "payment initiation service", "definition": "A service enabling users to initiate electronic payments from their accounts with regulated financial institutions.", "source_provision": "art7"},
+    {"term": "crowdfunding", "definition": "A method of raising funds from multiple investors through a regulated online platform, for investment or lending purposes.", "source_provision": "art8"},
+    {"term": "robo-advisor", "definition": "An automated financial advisory service using algorithms to provide investment recommendations.", "source_provision": "art9"},
+    {"term": "regulatory sandbox", "definition": "A controlled environment enabling fintech innovators to test new products under reduced regulatory requirements.", "source_provision": "art10"}
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "cl-ley-19799-firma-electronica",
+  "type": "statute",
+  "title": "Ley 19.799 sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación",
+  "title_en": "Law 19.799 on Electronic Documents, Electronic Signatures, and Certification Services",
+  "short_name": "Ley 19.799",
+  "status": "amended",
+  "issued_date": "2002-04-12",
+  "in_force_date": "2002-04-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=196640",
+  "description": "Law 19.799 establishes the legal framework for electronic documents and electronic signatures in Chile, granting legal equivalence to electronic records and signatures where applicable requirements are met. It creates a framework for the accreditation and operation of electronic certification service providers and establishes the Subsecretariat of Economy as the supervisory authority.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Scope and Purpose",
+      "content": "This Law governs: electronic documents and their legal effects; electronic signatures and their use in acts and contracts; the accreditation of certification service providers; and the supervision of certification services. The Law aims to provide legal certainty to electronic transactions by establishing the conditions under which electronic documents and signatures have the same legal effect as their paper and handwritten equivalents. The Law applies to all electronic transactions, whether between private parties, between persons and the State, or between State organs. The Law does not apply to acts that, by their nature, require an instrument in writing or another specific formality that cannot be satisfied electronically, unless the applicable law is amended to permit electronic equivalence for that act."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Definitions",
+      "content": "For the purposes of this Law: 'Electronic document' means any written, graphic, sound, visual, or electronic representation that allows the access to information recorded in digital form by means of electronic technology; 'Electronic signature' means any sound, symbol, or electronic process that allows the recipient of an electronic document to identify the author, whether or not the document is encrypted, and that ensures that the author had the intention to sign; 'Advanced electronic signature' means a certificate-based electronic signature that has been created by a signer using secure electronic signature creation means and validated using the public key corresponding to the private key used for signing; 'Electronic certificate' means a certificate issued by a certification service provider that links a public key with a specific person; 'Certification service provider' means a natural or legal person that issues certificates and may provide other related services."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Legal Recognition of Electronic Documents",
+      "content": "Electronic documents shall have legal effect and shall be considered equivalent to paper documents for all legal purposes, provided the electronic document enables the faithful reproduction of the information and the identification of the person who issued it and the time at which it was produced. Electronic documents cannot be denied legal effect solely on the grounds of their digital nature. Where the law requires a specific written form, an electronic document meeting the requirements of this Law satisfies that requirement. Where the law requires an original document, the requirement is satisfied by an electronic document where reliable assurance is provided of the integrity of the document from the time of its creation. The integrity of an electronic document shall be assessed based on whether its content has remained complete and unaltered, with the exception of changes arising in the normal course of display and transmission."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Electronic Signatures",
+      "content": "Electronic signatures shall be recognised as valid for the purpose of authenticating the identity of the signatory and indicating the signatory's agreement with the content of the signed electronic document, provided the signature method satisfies applicable requirements. An advanced electronic signature, supported by a valid electronic certificate issued by an accredited certification service provider, shall be presumed authentic and the content of the signed document shall be presumed unmodified. An electronic signature that does not satisfy the requirements for an advanced electronic signature may still be admitted as evidence, with the weight of that evidence to be assessed by the court. Parties to a contract may agree on specific electronic signature methods to be used in their electronic communications, provided such methods meet applicable legal requirements."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Certification Service Providers — Accreditation",
+      "content": "Certification service providers may operate without accreditation, but only accredited certification service providers may issue electronic certificates that support advanced electronic signatures with the legal presumptions established by this Law. Accreditation is granted by the Subsecretariat of Economy upon application by a certification service provider demonstrating: technical and operational capacity to provide certification services securely and reliably; financial soundness adequate to cover operational and liability risks; implementation of an approved certificate practice statement; and compliance with applicable security standards. The Subsecretariat maintains a public register of accredited certification service providers. Accreditation is subject to periodic review and may be revoked where the provider no longer meets applicable requirements."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Obligations of Certification Service Providers",
+      "content": "Accredited certification service providers shall: verify the identity of certificate applicants using reliable identity verification methods before issuing electronic certificates; maintain a certificate revocation service enabling relying parties to check the validity of certificates; publish their certificate practice statement and ensure it is accessible to relying parties; maintain secure systems and processes for key management, certificate issuance, and revocation; provide certificates meeting minimum content requirements specified in applicable regulations; maintain records of issued and revoked certificates for at least ten years after expiry; notify the Subsecretariat promptly of any events that may affect the security or reliability of their services; and cooperate with the Subsecretariat in inspections and audits."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Electronic Documents in State Administration",
+      "content": "State organs shall accept electronic documents and advanced electronic signatures in the conduct of administrative procedures, in accordance with applicable regulations. State organs shall implement electronic document management systems enabling the creation, receipt, storage, and transmission of electronic documents meeting applicable legal requirements. Electronic documents issued by State organs shall bear an advanced electronic signature of the responsible authority or an automated electronic seal with equivalent authentication properties. Archiving requirements applicable to paper documents shall be adapted to apply to electronic documents, ensuring their long-term accessibility and integrity. The Ministry of Finance shall issue guidelines on the implementation of electronic document management systems in State organs, in coordination with the Ministry of General Secretariat of the Presidency."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Electronic Notarial Acts",
+      "content": "Electronic notarial acts shall be permitted where expressly provided by law. Electronic notarial acts shall be signed using the advanced electronic signature of the notary, supported by a valid electronic certificate issued by an accredited certification service provider. The electronic notarial act shall contain the same information required for the equivalent paper act, including the identity and signature of the parties, the identity and signature of the notary, and the date of the act. Electronic notarial records shall be maintained in a secure electronic register accessible to authorised parties. Authenticated copies of electronic notarial acts shall be provided in electronic form, bearing the advanced electronic signature of the notary and a certification of authenticity. The National Notarial Association shall cooperate with the Subsecretariat of Economy in establishing interoperability standards for electronic notarial services."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Security Requirements",
+      "content": "Certification service providers shall implement security measures appropriate to the level of trust provided by their services, including: physical security of premises hosting certification systems; logical access controls limiting access to certification systems to authorised personnel; cryptographic controls protecting the confidentiality and integrity of certification data; audit logging of all certification operations; business continuity and disaster recovery capabilities; and regular security assessments. The private keys used by certification service providers to sign certificates shall be generated, stored, and used in hardware security modules meeting applicable standards. Accredited providers shall undergo independent security audits at intervals specified by the Subsecretariat. Security incidents affecting certification services shall be reported to the Subsecretariat within specified timeframes."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Liability of Certification Service Providers",
+      "content": "Accredited certification service providers are liable for damages caused to persons who rely on electronic certificates issued by them where: the certificate contains false or inaccurate information as a result of the provider's failure to verify the identity of the certificate holder; the provider fails to maintain appropriate security measures and the resulting breach causes harm to a relying party; or the provider fails to revoke a certificate in a timely manner when required to do so. The liability of certification service providers may be limited by conditions specified in their certificate practice statements, provided such limitations are not unreasonable. Certification service providers shall maintain adequate insurance or financial guarantees covering their potential liability to relying parties. The Subsecretariat shall establish minimum insurance or guarantee requirements for accredited providers."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Admissibility of Electronic Documents as Evidence",
+      "content": "Electronic documents and electronic signatures shall be admissible as evidence in judicial and administrative proceedings. The authenticity of an advanced electronic signature may be established through a validation report from an accredited certification service provider or through expert technical testimony. Courts shall consider the following factors in assessing the evidentiary weight of an electronic document: the reliability of the electronic signature method used; the reliability of the process used to create, transmit, receive, and store the document; the reliability of the method used to identify the originator; and any other relevant factor. An electronic document bearing a valid advanced electronic signature shall be presumed authentic unless the opposing party presents evidence to the contrary. The assessment of electronic evidence shall be conducted by the judge with access to expert assistance where necessary."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Cross-Border Recognition",
+      "content": "Electronic certificates and advanced electronic signatures issued by foreign certification service providers shall be recognised in Chile where: the foreign provider meets requirements equivalent to those applicable to accredited Chilean providers; the certificates are issued under a cross-recognition agreement between Chile and the relevant foreign jurisdiction; or the contracting parties have expressly agreed to recognise the foreign electronic signature method. The Subsecretariat of Economy may negotiate cross-recognition agreements with regulatory authorities in other countries to facilitate the mutual recognition of electronic certificates and signatures. Electronic signatures used in cross-border commercial transactions shall be recognised under applicable international commercial law principles."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Supervision and Enforcement",
+      "content": "The Subsecretariat of Economy shall supervise the activities of accredited certification service providers and shall enforce compliance with applicable legal requirements. The Subsecretariat shall maintain a public register of accredited providers and shall publish any changes to a provider's accreditation status. The Subsecretariat may: conduct inspections of accredited providers; require the provision of documentation and information relevant to compliance; and impose sanctions for non-compliance. Sanctions available to the Subsecretariat include: warnings; fines in amounts specified by applicable law; suspension of accreditation for a period not exceeding six months; and revocation of accreditation. Providers whose accreditation is revoked shall ensure continuity of service for existing certificate holders through arrangements approved by the Subsecretariat."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Certificate Content Requirements",
+      "content": "Electronic certificates issued by accredited certification service providers shall contain at minimum: the name and identifier of the certification service provider; the name and other identifying information of the certificate holder sufficient to identify the holder; the public key associated with the certificate holder; the validity period of the certificate; a serial number uniquely identifying the certificate; the digital signature of the certification service provider; and the certificate policy under which the certificate was issued. Certificates may also contain additional information including: the professional or organisational role of the certificate holder; geographic limitations on the use of the certificate; and limitations on the value of transactions for which the certificate may be used. The Subsecretariat may specify additional mandatory content requirements for specific categories of certificates."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Regulations and Entry into Force",
+      "content": "The President of the Republic, through the Ministry of Economy, Development and Tourism, shall issue the regulations necessary to implement this Law within ninety days of its entry into force. Regulations shall specify: technical standards for advanced electronic signatures and electronic certificates; requirements for the accreditation of certification service providers; procedures for inspections and audits of accredited providers; and minimum insurance or guarantee requirements. The Law entered into force sixty days after its publication in the Diario Oficial. Existing electronic signature practices in use before the entry into force of this Law shall be grandfathered for a transitional period of twelve months, after which all electronic signatures used in legally significant transactions shall comply with applicable requirements."
+    }
+  ],
+  "definitions": [
+    {"term": "electronic document", "definition": "Any electronic representation that allows the access to information recorded in digital form.", "source_provision": "art2"},
+    {"term": "electronic signature", "definition": "Any sound, symbol, or electronic process that allows identification of the author of an electronic document and indicates their intention to sign.", "source_provision": "art2"},
+    {"term": "advanced electronic signature", "definition": "A certificate-based electronic signature created using secure means and validated using the corresponding public key.", "source_provision": "art2"},
+    {"term": "electronic certificate", "definition": "A certificate issued by a certification service provider that links a public key with a specific person.", "source_provision": "art2"},
+    {"term": "certification service provider", "definition": "A natural or legal person that issues electronic certificates and may provide related certification services.", "source_provision": "art2"},
+    {"term": "Subsecretariat of Economy", "definition": "The supervisory authority responsible for the accreditation and oversight of certification service providers in Chile.", "source_provision": "art5"}
+  ]
+}

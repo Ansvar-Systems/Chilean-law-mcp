@@ -1,0 +1,112 @@
+{
+  "id": "cl-ley-21180-transformacion-digital",
+  "type": "statute",
+  "title": "Ley 21.180 de Transformación Digital del Estado",
+  "title_en": "Law 21.180 on Digital Transformation of the State",
+  "short_name": "Ley 21.180",
+  "status": "in_force",
+  "issued_date": "2019-11-11",
+  "in_force_date": "2019-11-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1143256",
+  "description": "Law 21.180 mandates the digital transformation of Chilean State administration, requiring all administrative procedures to be conducted electronically. It establishes the legal basis for digital procedures, electronic notifications, and the interoperability of government information systems, and creates governance mechanisms for the coordination of digital transformation across all State organs.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Digital Transformation Mandate",
+      "content": "This Law establishes the obligation of the organs of the State administration to transform their administrative procedures to electronic format, replacing paper-based processes with digital ones. From the entry into force of applicable implementing regulations, all administrative procedures of the covered organs shall be conducted electronically, including the submission of requests and documents, communications between organs, notifications to interested parties, and the issuance of administrative acts. The digital transformation shall be implemented progressively, with phases and timelines established by the President through the Ministry of Finance and the Ministry of General Secretariat of the Presidency. The State's digital transformation shall be grounded in principles of user-centricity, interoperability, security, accessibility, and efficiency."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Electronic Procedures",
+      "content": "Administrative procedures conducted electronically shall have the same legal effect as equivalent paper-based procedures. Electronic procedures shall be designed to be accessible to all users, including persons with disabilities and persons with limited digital skills. State organs shall maintain physical service channels for persons unable to use electronic channels, ensuring that the digital transformation does not exclude any segment of the population from access to public services. Electronic procedures shall be designed following principles of simplification and user-centred design. The Ministry of Finance and the Ministry of General Secretariat of the Presidency shall issue standards and guidelines for the design and implementation of electronic procedures."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Interoperability",
+      "content": "State organs shall share information electronically and shall not require citizens or businesses to submit information that is already held by another State organ. A national interoperability platform shall be maintained enabling State organs to exchange information securely and reliably. State organs shall connect to the national interoperability platform and shall use it for all data exchanges with other State organs. The national interoperability platform shall be administered by the Division of Government and Management of the Ministry of Finance. State organs shall develop data sharing agreements specifying the data to be shared, applicable security requirements, and the purposes for which shared data may be used. Personal data shared through the national interoperability platform shall be protected in accordance with applicable personal data protection law."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Electronic Notifications",
+      "content": "Administrative notifications to natural and legal persons shall be made electronically through the digital notification service provided by the State. The digital notification service shall be administered by the Division of Government and Management of the Ministry of Finance. Natural persons may opt to receive notifications through the digital service or through physical mail. Legal persons shall be required to receive electronic notifications through the digital notification service. Electronic notifications shall have the same legal effect as notifications made by physical mail. The date of notification shall be the date on which the notification is made available in the recipient's digital notification inbox, provided the recipient has accessed or is presumed to have accessed the notification."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Electronic Signature in State Administration",
+      "content": "Administrative acts issued by State organs shall be signed using an advanced electronic signature or an equivalent mechanism approved by the Ministry of Finance. The Ministry of Finance shall maintain a shared advanced electronic signature service for use by State organs. State organs shall implement processes for the electronic signature of administrative acts that ensure the authenticity and integrity of signed documents. Electronic records of signed administrative acts shall be maintained in electronic document management systems meeting applicable standards. Advanced electronic signatures shall be applied using secure signature creation means protecting the private keys of signing authorities. State organs shall ensure the continuity of electronic signature services and shall maintain business continuity plans for their signature systems."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Electronic Record Management",
+      "content": "State organs shall manage electronic records in accordance with this Law, applicable record management law, and standards issued by the National Archive. Electronic record management systems shall ensure: the long-term preservation and accessibility of electronic records; the integrity and authenticity of electronic records throughout their retention period; controlled access to electronic records in accordance with applicable confidentiality and transparency requirements; the efficient retrieval of electronic records in response to administrative and transparency requests; and interoperability with the national record management framework. The National Archive shall issue technical standards for electronic records management applicable to all State organs. Electronic records shall be retained for the periods specified in applicable retention schedules and shall be transferred to the National Archive at the end of their operational life."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Digital Identity for Citizens",
+      "content": "The State shall provide a digital identity service enabling citizens to authenticate themselves securely when accessing government electronic procedures. The digital identity service shall be provided through the ClaveUnica (Single Key) system or a successor system, managed by the Ministry of General Secretariat of the Presidency. ClaveUnica shall support multiple levels of assurance appropriate to the risk profile of different services. State organs shall integrate ClaveUnica or the national digital identity service into their electronic procedures. Citizens shall not be required to register separately with each State organ to access its electronic procedures. The digital identity service shall be accessible to all Chilean citizens and permanent residents, and shall be provided free of charge."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Open Government Data",
+      "content": "State organs shall make the data generated in the exercise of their public functions available as open data through the national open data portal (datos.gob.cl) to the extent permitted by applicable law. Data published as open data shall be in machine-readable, interoperable formats and shall be accompanied by adequate metadata. State organs shall develop open data plans identifying priority datasets for publication and specifying quality requirements. The Ministry of Finance and the Ministry of General Secretariat of the Presidency shall coordinate the national open data programme and shall maintain the national open data portal. Open data shall be published under a standard open licence allowing free reuse. Organs shall update published datasets regularly to maintain their accuracy and relevance."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Cybersecurity in Digital Government",
+      "content": "State organs shall implement cybersecurity measures appropriate to the risks associated with their digital procedures and information systems. Cybersecurity requirements for government digital services shall be established in guidelines issued by the CSIRT of Gobierno. State organs shall comply with the government cybersecurity framework and shall participate in cybersecurity coordination mechanisms operated by the CSIRT of Gobierno. Digital government services shall implement strong authentication, access controls, and data protection measures. Security incidents affecting digital government services shall be reported to the CSIRT of Gobierno within applicable timeframes. State organs shall conduct periodic cybersecurity assessments of their digital procedures and information systems and shall implement improvements identified in those assessments."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Digital Procurement Standards",
+      "content": "State organs procuring digital products and services shall comply with ICT procurement standards issued by the Ministry of Finance. Procurement standards shall address: technical interoperability requirements; security and data protection requirements; accessibility requirements; support and maintenance obligations; exit management and data portability requirements; and intellectual property rights. The Ministry of Finance shall maintain approved reference architectures and technology standards for government digital procurement. Significant ICT investments shall be subject to technical review by the Division of Government and Management of the Ministry of Finance before approval. State organs shall procure digital services through established government procurement frameworks where available, to benefit from negotiated terms and economies of scale."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Governance and Coordination",
+      "content": "A Digital Government Coordination Committee, co-chaired by the Ministry of Finance and the Ministry of General Secretariat of the Presidency, shall coordinate the digital transformation of the State. The Committee shall establish strategic direction, priorities, and standards for government digital transformation. Each State organ shall designate a digital transformation focal point responsible for coordinating implementation within the organ and liaising with the national digital transformation programme. The Ministry of Finance shall publish an annual Digital Government Progress Report tracking implementation across all State organs. State organs shall report annually on their digital transformation progress using standardised metrics established by the Ministry of Finance."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Digital Accessibility",
+      "content": "Electronic procedures and digital services of the State shall be designed and implemented to be accessible to all persons, including persons with disabilities, older adults, and persons with limited digital skills. State organs shall comply with applicable digital accessibility standards, including Chilean technical standard NCh 2930 or equivalent international standards. Accessibility shall be assessed through regular evaluation of digital services and shall be addressed in procurement requirements. State organs shall maintain physical service channels as a complement to digital channels, ensuring that persons unable to use digital services continue to have effective access to public services. The Ministry of General Secretariat of the Presidency shall issue guidelines on digital accessibility requirements applicable to State organs."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Digital Skills in Public Administration",
+      "content": "The State shall invest in developing the digital skills of public servants necessary for the implementation of digital government and the provision of high-quality digital services. The Civil Service Directorate (SERVIR) shall coordinate a digital skills development programme for public servants, including training in digital tools, data management, cybersecurity awareness, and the use of digital government platforms. State organs shall develop digital skills plans for their staff aligned with their digital transformation objectives. Public servants with digital specialist roles shall have access to professional development and certification programmes. The Government shall promote digital literacy among public servants at all levels, from front-line staff to senior leaders."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. User Experience Standards",
+      "content": "Electronic procedures and digital services of the State shall be designed with a focus on user experience, ensuring they are intuitive, efficient, and satisfying to use. State organs shall conduct user research to understand the needs and expectations of different user groups and shall incorporate user feedback into the design and improvement of digital services. Minimum user experience standards for government digital services shall be established by the Ministry of General Secretariat of the Presidency, addressing: clarity of information; ease of navigation; response times; error handling; and multi-device compatibility. User satisfaction with digital government services shall be measured regularly and published. State organs shall establish feedback mechanisms enabling users to report problems and suggest improvements."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Implementation and Transition",
+      "content": "The digital transformation mandate established by this Law shall be implemented progressively. The President shall issue by supreme decree, through the Ministry of Finance and the Ministry of General Secretariat of the Presidency, the schedule for the progressive implementation of electronic procedures by different categories of State organs and types of procedures. State organs shall develop digital transformation plans aligned with the national schedule and approved by the Ministry of Finance. The Ministry of Finance shall provide technical assistance, shared platforms, and guidelines to State organs to support the implementation of digital procedures. Physical service channels shall be maintained throughout the implementation period to ensure service continuity. An independent assessment of digital transformation progress shall be conducted every three years."
+    }
+  ],
+  "definitions": [
+    {"term": "digital transformation", "definition": "The process of converting administrative procedures from paper-based to electronic format.", "source_provision": "art1"},
+    {"term": "interoperability", "definition": "The ability of State organs to exchange information electronically through the national interoperability platform.", "source_provision": "art3"},
+    {"term": "ClaveUnica", "definition": "The Single Key digital identity service provided by the State for citizen authentication in electronic government procedures.", "source_provision": "art7"},
+    {"term": "electronic notification", "definition": "An administrative notification made available to the recipient through the State's digital notification service.", "source_provision": "art4"},
+    {"term": "digital accessibility", "definition": "The property of digital services that enables their use by all persons, including those with disabilities or limited digital skills.", "source_provision": "art12"},
+    {"term": "open data", "definition": "Government data published in machine-readable formats under open licences enabling free reuse.", "source_provision": "art8"}
+  ]
+}

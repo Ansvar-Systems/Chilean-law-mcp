@@ -1,0 +1,21 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": ".",
+  "buildCommand": "npm run build",
+  "rewrites": [
+    { "source": "/mcp", "destination": "/api/mcp" },
+    { "source": "/health", "destination": "/api/health" }
+  ],
+  "functions": {
+    "api/mcp.ts": {
+      "maxDuration": 30,
+      "memory": 1024,
+      "includeFiles": "{data/database.db,node_modules/node-sqlite3-wasm/dist/node-sqlite3-wasm.wasm}"
+    },
+    "api/health.ts": {
+      "maxDuration": 10,
+      "memory": 256,
+      "includeFiles": "{data/database.db,node_modules/node-sqlite3-wasm/dist/node-sqlite3-wasm.wasm}"
+    }
+  }
+}

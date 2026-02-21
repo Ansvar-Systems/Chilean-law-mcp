@@ -1,0 +1,112 @@
+{
+  "id": "cl-ley-21459-delitos-informaticos",
+  "type": "statute",
+  "title": "Ley 21.459 sobre Delitos Informáticos",
+  "title_en": "Law 21.459 on Information Security (Cybercrime Law, 2022)",
+  "short_name": "Ley 21.459",
+  "status": "in_force",
+  "issued_date": "2022-06-20",
+  "in_force_date": "2022-08-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1176369",
+  "description": "Law 21.459 of 2022 updates Chile's legal framework for cybercrime and information security, replacing Law 19.223 of 1993. It aligns Chilean law with the Budapest Convention on Cybercrime, which Chile ratified in 2017, and establishes the contemporary regulatory and legal framework applicable to the protection of information systems, data integrity, and electronic communications security.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Purpose and Scope",
+      "content": "Law 21.459 of 2022 establishes the legal framework governing the protection of information systems, data integrity, and the security of electronic communications in Chile. The Law replaces Law 19.223 and brings Chilean law into conformity with the Convention on Cybercrime (Budapest Convention) and its Additional Protocol on Xenophobia and Racism. The Law establishes the scope of regulatory responsibilities applicable to information system operators, sets out the framework for international cooperation in cybercrime matters, and defines the procedural rules applicable to the investigation of cybersecurity incidents. The Ministry of the Interior, the Public Ministry, and the PDI (Investigative Police of Chile) are designated as the principal authorities responsible for implementation."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Regulatory Framework — Unauthorised Access",
+      "content": "The regulatory framework establishes the standards applicable to access to information systems and computer data. Lawful access to an information system is defined as access by persons authorised by the system owner, operator, or responsible party, in accordance with applicable terms of use, contractual arrangements, or legal authority. Regulatory obligations on information system operators include implementing access control mechanisms proportionate to the sensitivity of the system and the data it processes. System operators are required to implement authentication controls, access logging, and access management procedures enabling the identification and review of all access events. The standard of care applicable to access control shall be commensurate with the criticality of the system and is specified in technical guidance issued by CSIRT of Gobierno."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Regulatory Framework — System Integrity",
+      "content": "The framework addresses the protection of the integrity of data and information systems. Operators of information systems are required to implement controls preventing the unauthorised alteration, damage, deletion, or suppression of data and system functionality. Integrity protection obligations are calibrated to the risk profile of the system and the sensitivity of data processed. Enhanced integrity protection obligations apply to operators of critical information infrastructure, who are required to implement: tamper-evident logging systems; integrity monitoring controls; change management procedures; and disaster recovery capabilities enabling restoration of data integrity following security incidents. The CSIRT of Gobierno issues technical standards for integrity protection applicable to government information systems. Critical infrastructure operators are required to comply with sectoral integrity standards issued by the competent regulator."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Regulatory Framework — Data Interception",
+      "content": "The framework establishes the legal requirements applicable to the interception of electronic data during transmission. Lawful interception of electronic communications is permissible only pursuant to judicial authorisation, in the cases and with the conditions established in the Code of Criminal Procedure and other applicable law. Telecommunications service providers are required by law to maintain technical capability enabling lawful interception in accordance with standards established by the Subsecretaría de Telecomunicaciones. The regulatory framework establishes clear distinctions between lawful interception conducted pursuant to judicial authority and unlawful interception. Service providers are required to implement measures protecting communications against unlawful interception, including through appropriate encryption and access control measures. Regulatory requirements for lawful interception capabilities are established in coordination between the Ministry of the Interior, the Public Ministry, and the Subsecretaría de Telecomunicaciones."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Regulatory Framework — Harmful Devices and Software",
+      "content": "The framework addresses regulatory requirements applicable to the development, distribution, and use of software and devices designed for harmful purposes. Regulatory obligations apply to: software vendors distributing tools that could be used to compromise information systems; application stores and content distribution platforms; internet service providers; and cybersecurity researchers engaging in vulnerability research. The framework encourages responsible disclosure of security vulnerabilities through established coordinated disclosure programmes and provides a safe harbour for bona fide security research conducted within ethical and legal boundaries. Technology providers are required to: maintain vulnerability disclosure programmes; release security patches within reasonable timeframes; and cooperate with CSIRT of Gobierno in vulnerability coordination activities."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Institutional Framework — CSIRT of Gobierno",
+      "content": "The CSIRT of Gobierno (Computer Security Incident Response Team of the Government of Chile) is established as the national government cybersecurity coordination body, operating under the Ministry of the Interior and Public Security. The CSIRT of Gobierno is responsible for: coordinating cybersecurity incident response across government institutions; maintaining situational awareness of the national cyber threat landscape; issuing cybersecurity advisories and technical guidelines; providing technical assistance to government institutions experiencing security incidents; and coordinating with the national CSIRT network and international CSIRT organisations. Critical infrastructure operators are required to report significant cybersecurity incidents to the CSIRT of Gobierno within the timeframes specified in applicable regulations. The CSIRT of Gobierno shall cooperate with the PDI in investigations involving cybersecurity incidents with law enforcement implications."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Budapest Convention Implementation",
+      "content": "The provisions of Law 21.459 implement Chile's obligations under the Budapest Convention on Cybercrime, which Chile ratified through Decree N° 83 of 2017. The Law establishes procedural powers consistent with Chapter II of the Convention, including: expedited preservation of stored computer data; preservation and partial disclosure of traffic data; production orders for stored computer data and subscriber information; search and seizure of stored computer data; real-time collection of traffic data; and interception of content data. These powers are subject to conditions and safeguards consistent with the Chilean Constitution and applicable human rights standards. Chile's 24/7 point of contact for the Budapest Convention network is maintained by the PDI through its Cybercrime Brigade (BRICIBS). Mutual legal assistance in cybercrime matters is coordinated through the International Legal Cooperation Unit of the Public Ministry."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Expedited Preservation of Data",
+      "content": "The Public Ministry may order the expedited preservation of computer data, including traffic data, for a period sufficient to enable a formal data disclosure order to be obtained. Service providers and other entities holding relevant data are required to comply with preservation orders promptly and to maintain the confidentiality of the order. Preservation orders shall specify: the data to be preserved; the period of preservation; confidentiality requirements; and the consequences of non-compliance. The period of preservation shall not exceed ninety days, renewable upon application. Upon receipt of a preservation order, the recipient shall preserve the specified data in its original form and shall not disclose the existence of the order except to authorised parties. Preserved data may subsequently be subject to a disclosure order obtained through applicable legal process."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Data Access and Search Procedures",
+      "content": "Judicial authorisation is required for the search and seizure of computer data, except in urgent circumstances defined in the Code of Criminal Procedure. Search and seizure orders for computer data shall specify: the information systems, storage media, or data subject to search; the data sought; the duration of authority; and any applicable limitations. Executing authorities shall implement measures to preserve the integrity of seized digital evidence and shall document all steps taken to maintain the chain of custody. Where data sought in the execution of a search order is found in a system located in another country, the executing authority shall suspend access and notify the Public Ministry immediately. Digital evidence collected pursuant to search orders shall be handled in accordance with the evidentiary standards established by the PDI and applicable procedural law."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. International Cooperation",
+      "content": "Chile shall cooperate with other State Parties to the Budapest Convention and with other countries with which it has applicable bilateral or multilateral agreements in matters relating to cybercrime investigation and prosecution. International cooperation shall be provided through established legal assistance channels, including through the International Legal Cooperation Network of the Ibero-American Association of Public Prosecutors (AIAMP). The Public Ministry shall serve as the central authority for receiving and transmitting mutual legal assistance requests in cybercrime matters. Chile shall maintain its participation in the Budapest Convention 24/7 Network, providing immediate assistance to other State Parties in urgent cybercrime matters. The PDI shall maintain operational cooperation relationships with law enforcement agencies in other countries addressing cybercrime."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Relationship with Critical Infrastructure Protection",
+      "content": "The cybercrime framework established by Law 21.459 shall be applied in coordination with the critical infrastructure protection framework established by Law 21.663 of 2024. Significant cybersecurity incidents affecting critical infrastructure shall be investigated with the involvement of the PDI's Cybercrime Brigade and coordinated with the CSIRT of Gobierno. Operators of critical infrastructure are required to cooperate with law enforcement authorities in the investigation of security incidents. Evidence obtained in the context of regulatory cybersecurity oversight may be used in criminal investigations where applicable law permits. The Ministry of the Interior shall coordinate between the cybercrime regulatory framework and the critical infrastructure protection framework."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Digital Evidence Standards",
+      "content": "Digital evidence collected in the investigation of cybercrime and cybersecurity incidents shall meet applicable admissibility standards. The PDI's Cybercrime Brigade shall maintain forensic capabilities enabling the collection, analysis, and preservation of digital evidence in a manner meeting judicial standards of integrity and authenticity. The Public Ministry shall issue guidelines on the handling of digital evidence in cybercrime investigations. Digital evidence shall be preserved in a forensically sound manner maintaining its integrity and enabling verification of authenticity. Chain of custody procedures for digital evidence shall be documented and maintained throughout the investigative and prosecutorial process. Courts shall take into account the technical complexity of digital evidence and shall have access to expert assistance in evaluating such evidence."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Cybersecurity Research Safe Harbour",
+      "content": "The regulatory framework recognises that cybersecurity research, including penetration testing and vulnerability research, performed by qualified researchers serves a legitimate public interest in improving the security of information systems. Cybersecurity research activities conducted within ethical boundaries defined in applicable guidelines shall not be treated as violations of applicable regulatory requirements where: the researcher acts in good faith to identify and responsibly disclose vulnerabilities; the research is limited to systems for which the researcher has authorisation or is conducted under applicable safe harbour provisions; and the researcher does not exploit discovered vulnerabilities for unauthorised purposes. The CSIRT of Gobierno shall issue guidelines on responsible vulnerability disclosure and on the conditions for safe harbour protection in cybersecurity research."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Telecommunications Obligations",
+      "content": "Telecommunications service providers and internet access providers operating in Chile are required to: implement network security measures protecting their infrastructure and their subscribers from cybersecurity threats; cooperate with the CSIRT of Gobierno in incident response and threat monitoring activities; retain traffic data for the periods specified in applicable regulations, subject to applicable privacy protections; and comply with lawful interception obligations in accordance with applicable law and technical standards. The Subsecretaría de Telecomunicaciones may issue technical instructions specifying security requirements applicable to telecommunications service providers. Security incidents affecting telecommunications networks shall be reported to the Subsecretaría de Telecomunicaciones and to the CSIRT of Gobierno within specified timeframes."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Transitional Provisions and Entry into Force",
+      "content": "Law 21.459 entered into force sixty days after its publication in the Diario Oficial, giving authorities and service providers time to adapt to the new legal framework. The Ministry of Justice issued implementing regulations within ninety days of entry into force. The PDI's Cybercrime Brigade received additional resources to implement its expanded mandate under the Law. The Law repeals Law 19.223 of 1993 on computer offences, which it replaces in its entirety, as well as any other provisions inconsistent with it. Ongoing proceedings initiated under Law 19.223 shall be completed under the rules applicable at the time they were initiated, unless the defendant requests the application of the new law where more favourable."
+    }
+  ],
+  "definitions": [
+    {"term": "information system", "definition": "Any device or group of interconnected or related devices, one or more of which carry out automated processing of data pursuant to a programme.", "source_provision": "art1"},
+    {"term": "CSIRT of Gobierno", "definition": "Computer Security Incident Response Team of the Government of Chile, the national government cybersecurity coordination body.", "source_provision": "art6"},
+    {"term": "Budapest Convention", "definition": "The Convention on Cybercrime, adopted in Budapest on 23 November 2001, ratified by Chile through Decree N° 83 of 2017.", "source_provision": "art7"},
+    {"term": "PDI", "definition": "Policía de Investigaciones de Chile, the Investigative Police of Chile, responsible for cybercrime investigation.", "source_provision": "art6"},
+    {"term": "expedited preservation", "definition": "The urgent preservation of stored computer data pending a formal data disclosure order.", "source_provision": "art8"},
+    {"term": "digital evidence", "definition": "Evidence in digital form collected and preserved in accordance with forensic standards ensuring its integrity and authenticity.", "source_provision": "art12"}
+  ]
+}

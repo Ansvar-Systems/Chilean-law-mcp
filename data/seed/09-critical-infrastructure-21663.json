@@ -1,0 +1,112 @@
+{
+  "id": "cl-ley-21663-infraestructura-critica",
+  "type": "statute",
+  "title": "Ley 21.663 — Marco de Protección de Infraestructuras Críticas",
+  "title_en": "Law 21.663 — Critical Infrastructure Protection Framework (2024)",
+  "short_name": "Ley 21.663",
+  "status": "in_force",
+  "issued_date": "2024-01-08",
+  "in_force_date": "2024-03-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1199210",
+  "description": "Law 21.663 of 2024 establishes Chile's legal framework for the protection of critical infrastructure against cybersecurity threats and other disruptions. It creates the National Cybersecurity Agency (ANCI) as the lead authority for cybersecurity governance, establishes mandatory security requirements for critical infrastructure operators, and provides for national cybersecurity incident response coordination.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Purpose and Scope",
+      "content": "This Law establishes the legal framework for the protection of services considered essential and critical infrastructure against cybersecurity threats, ensuring the security, continuity, and resilience of those services for the benefit of Chilean society. The Law creates the National Cybersecurity Agency (Agencia Nacional de Ciberseguridad — ANCI) as the principal authority responsible for cybersecurity governance in Chile. The Law applies to: operators of critical information infrastructure and essential services; providers of digital services to critical infrastructure operators; and State organs subject to cybersecurity requirements. The Law establishes mandatory cybersecurity obligations for covered entities, a national cybersecurity incident response framework, and mechanisms for sector-based coordination between regulators and the ANCI."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. National Cybersecurity Agency",
+      "content": "The National Cybersecurity Agency (ANCI) is created as a functionally decentralised public service, subject to the supervision of the President of the Republic through the Ministry of the Interior and Public Security. ANCI shall have legal personality and its own assets. ANCI's mandate includes: establishing, implementing, and maintaining a national cybersecurity framework; coordinating national cybersecurity incident response; operating the national CSIRT; issuing cybersecurity regulations and guidelines; supervising and enforcing compliance with cybersecurity requirements; promoting cybersecurity research and education; and representing Chile in international cybersecurity forums. ANCI shall be led by a Director appointed by the President following a competitive merit-based selection process."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Critical Infrastructure Designation",
+      "content": "ANCI shall maintain a register of entities designated as operators of essential services and critical infrastructure. Sectors designated as critical include: telecommunications; energy; water and sanitation; transport; health services; financial services; and digital infrastructure. Additional sectors may be designated by supreme decree where they meet applicable criticality criteria. The designation criteria shall consider: the number of users served; the potential impact of disruption on national security, public health, or economic stability; market concentration; geographic distribution; and the dependency of other services on the designated service. Designated operators shall be notified of their designation and shall be subject to the mandatory cybersecurity requirements established in this Law and applicable regulations."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Cybersecurity Obligations for Designated Operators",
+      "content": "Operators of essential services and critical infrastructure designated under this Law shall implement a cybersecurity management system addressing: cybersecurity governance and accountability; risk identification and assessment; security control implementation; incident detection and response; business continuity and recovery; supply chain security; and staff security awareness. Cybersecurity obligations shall be implemented based on a risk management approach calibrated to the nature of the service, the identified threats, and the potential impact of security incidents. ANCI shall issue a National Cybersecurity Framework specifying baseline security requirements applicable to all designated operators, with supplementary sector-specific requirements issued by sectoral regulators in coordination with ANCI."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Incident Notification",
+      "content": "Designated operators of essential services and critical infrastructure shall notify ANCI of significant cybersecurity incidents within the timeframes established in applicable regulations. Notification timeframes shall be calibrated to incident severity: significant incidents shall be reported within twenty-four hours of detection; major incidents shall be reported within four hours; and critical incidents shall be reported immediately. Incident notifications shall include: a description of the nature of the incident; the affected systems and services; an assessment of the potential impact; and the measures taken in response. ANCI shall maintain a secure incident notification system enabling designated operators to submit reports confidentially. Notification of significant incidents shall also be made to the relevant sectoral regulator where the incident affects regulated services."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. National CSIRT",
+      "content": "ANCI shall operate a national Computer Security Incident Response Team (CSIRT Nacional) responsible for: coordinating national cybersecurity incident response; providing technical assistance to designated operators and government entities experiencing cybersecurity incidents; maintaining situational awareness of the national cyber threat landscape; issuing cybersecurity advisories and technical guidelines; maintaining threat intelligence capabilities; and representing Chile in international CSIRT networks. The CSIRT Nacional shall operate around the clock and shall be equipped with the technical capability and authority necessary to fulfil its mandate effectively. Sector CSIRTs may be established within critical infrastructure sectors, coordinating with the CSIRT Nacional on significant incidents and participating in national information sharing mechanisms."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Supply Chain Security",
+      "content": "Designated operators shall assess and manage cybersecurity risks arising from their supply chain, including risks posed by providers of ICT products, software, and services used in critical infrastructure. Supply chain security requirements shall include: due diligence of ICT providers prior to procurement; contractual cybersecurity requirements proportionate to the risk profile of the supply relationship; monitoring of supplier cybersecurity posture; and incident notification obligations for suppliers. ANCI may assess the cybersecurity risks posed by specific suppliers or categories of products and services and may recommend measures for addressing those risks. Designated operators shall implement alternative sourcing strategies for critical components to reduce dependence on single suppliers where feasible."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Cybersecurity Assessments and Audits",
+      "content": "ANCI shall conduct or commission periodic cybersecurity assessments of designated operators to evaluate their compliance with applicable cybersecurity requirements. Assessments may take the form of on-site inspections, document reviews, technical testing, or combinations thereof. Designated operators shall cooperate fully with ANCI assessments and shall provide access to information, systems, and personnel as required. Following an assessment, ANCI shall issue a report identifying areas of non-compliance and specifying remediation requirements and timelines. Operators shall submit remediation plans to ANCI within thirty days of receipt of an assessment report and shall implement approved remediation actions within agreed timelines. Operators may be required to engage independent auditors to assess their cybersecurity posture and to report findings to ANCI."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. International Cooperation",
+      "content": "ANCI shall cooperate with cybersecurity authorities in other countries on matters of mutual interest, including threat intelligence sharing, incident response cooperation, and capacity building. Chile shall participate in applicable international cybersecurity frameworks including: the Budapest Convention on Cybercrime; ITU cybersecurity initiatives; and OAS cybersecurity frameworks. ANCI shall represent Chile in international cybersecurity forums including the Global Forum on Cyber Expertise (GFCE) and FIRST. Bilateral cybersecurity cooperation agreements shall be concluded with key partner countries to facilitate operational cooperation. ANCI shall cooperate with regional partners in Latin America on cybersecurity coordination and shall promote harmonised cybersecurity frameworks within applicable regional frameworks."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. National Cybersecurity Framework",
+      "content": "ANCI shall develop, maintain, and update a National Cybersecurity Framework defining: baseline cybersecurity requirements applicable to all designated operators; sector-specific supplementary requirements developed in coordination with sectoral regulators; assessment methodologies for evaluating compliance; a maturity model enabling operators to assess and improve their cybersecurity posture; guidance on risk management approaches; and references to applicable national and international standards. The National Cybersecurity Framework shall be developed through a consultative process involving designated operators, sectoral regulators, academia, and civil society. The Framework shall be reviewed at least every three years and shall be updated to reflect changes in the threat landscape and evolving best practices."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Sector Coordination",
+      "content": "ANCI shall coordinate with sector regulators on the implementation of cybersecurity requirements within their sectors. Coordination mechanisms shall include: participation of sector regulators in the development of sector-specific cybersecurity requirements; information sharing on cybersecurity incidents and threats affecting regulated sectors; joint assessments of cybersecurity risks across sectors; and coordination in the exercise of supervisory and enforcement powers. ANCI and sector regulators shall conclude coordination agreements specifying their respective roles and the procedures for cooperation. Where a cybersecurity incident affects multiple sectors, ANCI shall lead the coordination of national response, with sector regulators supporting within their areas of competence."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Cybersecurity Research and Innovation",
+      "content": "ANCI shall promote cybersecurity research and innovation in Chile to develop domestic cybersecurity capabilities and to support the growth of a Chilean cybersecurity industry. ANCI shall coordinate with the Ministry of Science, Technology, Knowledge and Innovation on the definition of cybersecurity research priorities and the allocation of research funding. A national cybersecurity laboratory shall be established to support research, testing, and development of cybersecurity technologies. ANCI shall promote cybersecurity education and training at all levels, from school education through to advanced professional qualifications. A national cybersecurity talent development programme shall be developed, in coordination with universities and the private sector, to address the skills gap in cybersecurity."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Cybersecurity Obligations for the State",
+      "content": "All organs of the State administration shall implement cybersecurity measures meeting requirements established by ANCI. ANCI shall issue mandatory cybersecurity guidelines applicable to State organs, consistent with the National Cybersecurity Framework. The CSIRT of Gobierno, operated within ANCI, shall coordinate cybersecurity incident response across government and shall provide technical assistance to State organs experiencing security incidents. State organs shall comply with incident notification requirements applicable to their systems and shall cooperate with ANCI in the investigation of significant cybersecurity incidents affecting government systems. ANCI shall conduct cybersecurity assessments of State organs and shall publish an annual report on the cybersecurity posture of the Chilean State administration."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Sanctions and Enforcement",
+      "content": "ANCI shall have authority to impose administrative sanctions on designated operators that fail to comply with applicable cybersecurity requirements. The sanctions regime is graduated, with: minor violations subject to warnings and compliance orders; moderate violations subject to fines of up to 5,000 UTM (monthly tax units); and serious violations subject to fines of up to 20,000 UTM and additional measures. Particularly serious violations include: failure to report significant cybersecurity incidents; failure to implement ordered remediation measures; obstruction of ANCI assessments; and repeated non-compliance. In determining sanctions, ANCI shall consider: the gravity of the violation; the potential and actual harm caused; the economic benefit derived from non-compliance; the degree of cooperation with ANCI; and the entity's compliance history. Designated operators may appeal ANCI decisions to the competent court."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Transitional Provisions and Implementation",
+      "content": "ANCI shall be established within six months of the entry into force of this Law, with the appointment of the Director and the transfer of relevant functions from the Ministry of the Interior and the CSIRT of Gobierno. The first National Cybersecurity Framework shall be issued within twelve months of the entry into force. Designation of critical infrastructure operators shall be completed within eighteen months. Designated operators shall have twenty-four months to implement baseline cybersecurity obligations from the date of their designation. The CSIRT Nacional shall be operational within six months of ANCI's establishment. The Law repeals any provisions inconsistent with it and transfers applicable functions from the CSIRT of Gobierno, which is absorbed into ANCI. The first director of ANCI shall be appointed by the President through a competitive merit-based process administered by the Civil Service Directorate."
+    }
+  ],
+  "definitions": [
+    {"term": "ANCI", "definition": "Agencia Nacional de Ciberseguridad — National Cybersecurity Agency, the principal authority responsible for cybersecurity governance in Chile.", "source_provision": "art2"},
+    {"term": "critical infrastructure", "definition": "Systems, networks, and assets in designated sectors whose disruption would have significant consequences for national security, public health, safety, or economic stability.", "source_provision": "art3"},
+    {"term": "CSIRT Nacional", "definition": "The national Computer Security Incident Response Team operated by ANCI, responsible for coordinating national cybersecurity incident response.", "source_provision": "art6"},
+    {"term": "essential services", "definition": "Services designated by ANCI as essential due to their importance to national security, public health, safety, or economic stability.", "source_provision": "art3"},
+    {"term": "National Cybersecurity Framework", "definition": "The document developed by ANCI defining baseline and sector-specific cybersecurity requirements for designated operators.", "source_provision": "art10"},
+    {"term": "supply chain security", "definition": "The management of cybersecurity risks arising from providers of ICT products, software, and services used in critical infrastructure.", "source_provision": "art7"}
+  ]
+}

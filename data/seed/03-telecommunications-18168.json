@@ -1,0 +1,112 @@
+{
+  "id": "cl-ley-18168-telecomunicaciones",
+  "type": "statute",
+  "title": "Ley General de Telecomunicaciones — Ley 18.168",
+  "title_en": "General Telecommunications Law — Law 18.168",
+  "short_name": "LGT 18.168",
+  "status": "amended",
+  "issued_date": "1982-10-02",
+  "in_force_date": "1982-10-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29591",
+  "description": "Law 18.168 is Chile's General Telecommunications Law, establishing the regulatory framework for telecommunications services and networks in Chile. It defines the licensing regime for telecommunications service providers, the management of the radio frequency spectrum, the obligations of network operators, and consumer protection requirements in telecommunications. The law is administered by the Undersecretariat of Telecommunications (Subtel).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Purpose and Definitions",
+      "content": "This Law governs telecommunications in Chile and establishes the State's role in the development, promotion, and regulation of telecommunications services and infrastructure. Telecommunications are defined as any transmission, emission, or reception of signs, signals, writings, images, sounds, or information of any kind, by wire, radio, optical, or other electromagnetic systems. The telecommunications sector is subject to regulation by the State through the Undersecretariat of Telecommunications (Subtel), under the supervision of the Ministry of Transport and Telecommunications. The fundamental objectives of telecommunications regulation in Chile are: ensuring universal access to telecommunications services; promoting competition in the sector; protecting the rights of telecommunications service users; and managing national telecommunications resources in the public interest."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Concession and Licensing Regime",
+      "content": "The provision of telecommunications services in Chile requires a concession or licence granted by the State through Subtel, in accordance with applicable law. Concessions are granted for: public telecommunications services (internet access, telephone, broadcasting); limited telecommunications services (closed-circuit networks, private networks); and amateur radio service. The use of the radio frequency spectrum requires a concession or permit in addition to any service licence. Concessions are granted through competitive bidding processes where demand exceeds available capacity and through direct assignment in other cases. Concessions are non-transferable without the prior approval of the Ministry. The holder of a concession must comply with the technical, service quality, and coverage conditions specified in the concession instrument and applicable regulations."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Radio Frequency Spectrum",
+      "content": "The radio frequency spectrum is a natural resource belonging to the State. Subtel is responsible for the management, administration, planning, and control of the radio frequency spectrum in Chile. The National Frequency Assignment Plan, developed and maintained by Subtel in accordance with ITU Radio Regulations, establishes the allocation of frequency bands to different services and users. The right to use specific frequency bands is granted through concessions subject to payment of applicable fees, compliance with technical conditions, and coverage requirements. Subtel may impose obligations on spectrum concession holders including coverage obligations in underserved areas. Spectrum concessions may be revoked where the holder fails to comply with applicable conditions or where the public interest requires reallocation."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Universal Service",
+      "content": "The State shall promote universal access to basic telecommunications services across the national territory. The Universal Service Fund (FDT) provides financing for telecommunications infrastructure deployment in rural and underserved areas where commercial provision is not viable. Contributions to the FDT are made by telecommunications service providers as a percentage of their revenues, as established by applicable regulations. Subtel administers the FDT and selects projects through competitive processes. Priority is given to projects expanding connectivity to educational institutions, health establishments, and local government offices in underserved areas. Subtel reports annually to the Ministry on the state of universal service and on the use of FDT resources."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Interconnection Obligations",
+      "content": "Public telecommunications network operators have the obligation to interconnect with other public network operators on reasonable, non-discriminatory terms. Operators with significant market power may be required by Subtel to publish Reference Interconnection Offers specifying technical conditions, prices, and procedures. The interconnection obligation extends to interconnection for the purposes of providing internet access services. Where interconnection negotiations fail, Subtel or the Telecommunications Tribunal may resolve the dispute. Interconnection agreements shall be filed with Subtel within thirty days of conclusion. Interconnection pricing shall be cost-oriented for operators with significant market power. Subtel may mandate infrastructure sharing and co-location in addition to network interconnection where this promotes efficient use of resources and competition."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Quality of Service",
+      "content": "Telecommunications service providers shall maintain the quality of their services at levels specified in applicable regulations and in their concession conditions. Subtel establishes minimum quality of service standards for different categories of telecommunications services, including standards for network availability, call quality, data throughput, latency, and customer service response times. Service providers shall monitor and report their quality of service performance to Subtel at regular intervals using standardised measurement methodologies. Subtel publishes comparative quality of service information to enable consumers to make informed choices. Service providers failing to meet applicable quality of service standards are subject to sanctions including fines and, for persistent non-compliance, revocation of concession."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Network Neutrality",
+      "content": "Internet access service providers shall treat internet traffic equally, without discrimination, restriction, or interference based on the source, destination, type, content, device, service, or application. Providers may implement reasonable traffic management measures to preserve the integrity and security of their networks, provided such measures are transparent, non-discriminatory, and proportionate to the network management objective. Providers shall publicly disclose their traffic management practices in a clear and accessible manner. Subtel monitors compliance with network neutrality obligations and may investigate complaints from users about alleged violations. The blocking or throttling of specific applications, services, or content by internet access providers is prohibited except where required by a judicial order or where necessary for network security purposes."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Consumer Protection in Telecommunications",
+      "content": "Telecommunications service providers shall provide users with clear, complete, and accurate information about their services, including pricing, quality parameters, applicable limitations, and complaint procedures. Service providers shall maintain an effective complaints mechanism enabling users to submit complaints through multiple channels. Complaints shall be acknowledged within five business days and resolved within fifteen business days. Billing shall be transparent and itemised, enabling users to verify charges. Users have the right to number portability when changing service provider, at no cost beyond a reasonable administrative fee. Subtel operates a consumer information and complaints system enabling users to compare service quality, check prices, and file regulatory complaints. Service providers shall comply with orders from Subtel relating to consumer complaints."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Network Security",
+      "content": "Public telecommunications network operators shall implement security measures protecting their networks and services against intrusion, interference, sabotage, and other threats. Security measures shall be proportionate to the risk profile of the network and shall address threats relevant to the type of service provided. Operators of networks used for critical government communications shall implement enhanced security measures in coordination with Subtel and the CSIRT of Gobierno. Significant network security incidents shall be reported to Subtel and, where relevant, to the CSIRT of Gobierno within the timeframes specified in applicable regulations. Subtel may conduct or commission security audits of telecommunications networks and may issue technical standards for network security. Operators shall cooperate with Subtel in security investigations and shall implement security improvements recommended following audits."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Lawful Interception",
+      "content": "Public telecommunications network operators and internet service providers are required to maintain technical capabilities enabling the interception of communications pursuant to lawful judicial orders, at the operator's expense. Interception capabilities shall meet technical standards established by Subtel in coordination with the Ministry of the Interior and the Public Ministry. Access to interception capabilities shall be strictly controlled and limited to authorised government agencies. The existence of interception capabilities and the exercise of interception authority shall be maintained in strict confidentiality. Operators shall implement internal controls preventing unauthorised access to interception systems. Subtel shall monitor compliance with lawful interception obligations through periodic audits. Information obtained through lawful interception shall be used only for the purposes authorised by the judicial order."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Digital Divide and Inclusion",
+      "content": "Subtel shall develop and implement programmes aimed at reducing the digital divide in Chile, promoting equitable access to telecommunications services and digital connectivity for all segments of the population, including persons in rural areas, persons with disabilities, indigenous communities, and low-income households. Telecommunications service providers may be required to implement accessibility measures ensuring their services are usable by persons with disabilities, in accordance with applicable accessibility standards. Subtel shall maintain a national connectivity map tracking the availability of telecommunications services across the national territory and identifying areas requiring priority investment. The Government shall support digital literacy programmes enabling all Chileans to make effective use of telecommunications services and digital resources."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Infrastructure Deployment and Land Access",
+      "content": "Telecommunications service providers have the right to deploy telecommunications infrastructure on public lands and may seek right of way across private lands in accordance with applicable law. Infrastructure deployment shall be conducted in a manner minimising environmental impact and damage to private property. Multiple telecommunications service providers shall be encouraged to share infrastructure where technically and economically feasible, to reduce deployment costs and minimise environmental impact. Subtel may mandate infrastructure sharing where an operator's infrastructure is not replicable and where sharing is consistent with the public interest. The assessment and payment of compensation for private land use shall be conducted in accordance with applicable law. Municipalities shall cooperate with Subtel and telecommunications service providers in facilitating the deployment of telecommunications infrastructure."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Broadband Policy",
+      "content": "Subtel shall maintain a national broadband policy and a national connectivity plan setting out targets for broadband availability, adoption, speed, and quality. The national connectivity plan shall be developed in consultation with the telecommunications industry, civil society, and other stakeholders. Subtel shall monitor progress against connectivity plan targets and shall publish annual reports on national broadband performance. The Government shall support the deployment of broadband infrastructure in underserved areas through the FDT and other applicable mechanisms. Subtel shall establish minimum broadband speed standards applicable to internet access services in Chile, which shall be updated periodically to reflect advances in technology and changing user needs."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Sanctions and Enforcement",
+      "content": "Subtel shall have authority to investigate violations of this Law and applicable regulations, and to impose sanctions on concession holders failing to comply with their obligations. Sanctions available to Subtel include: warnings; fines of up to 3,000 UTM (monthly tax units) per violation; suspension of concession for up to three months; and revocation of concession. The amount of any fine shall be proportionate to the gravity of the violation, the harm caused to users or competition, and the economic benefit derived from the violation. Operators subject to a sanction may appeal the decision before the Telecommunications Tribunal within ten days of notification. The Telecommunications Tribunal is an independent administrative body with jurisdiction to resolve disputes between operators and appeals from Subtel decisions."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. International Obligations",
+      "content": "Chile shall comply with its obligations under applicable international telecommunications agreements, including the ITU Constitution and Convention, and bilateral agreements relating to telecommunications. Subtel shall represent Chile in ITU bodies and other international telecommunications forums. Radio frequency assignments shall be coordinated with neighbouring countries and with ITU in accordance with applicable Radio Regulations. Chile shall implement the ITU Radio Regulations as directly applicable law within the spectrum management framework established by this Law. The Government shall promote regional telecommunications integration within the framework of applicable trade agreements, including the Pacific Alliance, and shall work towards harmonised spectrum policies and interconnection arrangements with regional partners."
+    }
+  ],
+  "definitions": [
+    {"term": "telecommunications", "definition": "Any transmission, emission, or reception of signs, signals, writings, images, sounds, or information of any kind by wire, radio, optical, or other electromagnetic systems.", "source_provision": "art1"},
+    {"term": "Subtel", "definition": "Undersecretariat of Telecommunications, the regulatory body for the telecommunications sector in Chile.", "source_provision": "art1"},
+    {"term": "FDT", "definition": "Telecommunications Development Fund, providing financing for telecommunications infrastructure in underserved areas.", "source_provision": "art4"},
+    {"term": "network neutrality", "definition": "The principle that internet access service providers must treat internet traffic equally without discrimination based on source, destination, type, or content.", "source_provision": "art7"},
+    {"term": "concession", "definition": "A State-granted right to provide telecommunications services or use the radio frequency spectrum, subject to applicable conditions.", "source_provision": "art2"},
+    {"term": "universal service", "definition": "The obligation to ensure that basic telecommunications services are available to all users across the national territory at affordable prices.", "source_provision": "art4"}
+  ]
+}

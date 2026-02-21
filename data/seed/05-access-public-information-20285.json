@@ -1,0 +1,112 @@
+{
+  "id": "cl-ley-20285-transparencia",
+  "type": "statute",
+  "title": "Ley 20.285 sobre Acceso a la Información Pública",
+  "title_en": "Law 20.285 on Access to Public Information (Transparency Law)",
+  "short_name": "Ley 20.285",
+  "status": "in_force",
+  "issued_date": "2008-08-20",
+  "in_force_date": "2009-04-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=276363",
+  "description": "Law 20.285 establishes the right of access to public information in Chile, implementing the principles of transparency and accountability in public administration. It creates the Council for Transparency (Consejo para la Transparencia) as the independent body responsible for promoting and protecting this right, and establishes the procedures for information requests and the grounds for withholding information.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Scope and Definitions",
+      "content": "This Law regulates the principle of transparency in public administration, the right of persons to access information held by the State's administrative bodies, the fundamental grounds for maintaining secrecy or reserve of such information, and the procedures for the exercise and protection of this right. The Law applies to the agencies, services, and bodies of the central and regional administration of the State, and to other organs of the State that are expressly included. 'Administrative information' means any data processed by organs covered by this Law in the exercise of their administrative functions. 'Active transparency' refers to the obligation to make information available without requiring a prior request. 'Passive transparency' refers to the obligation to respond to specific requests for information. 'Council for Transparency' means the autonomous public body created to promote and protect the right of access to public information."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Principle of Transparency",
+      "content": "The principle of transparency of the State's administrative functions requires that the agencies, services, and bodies of the State make publicly available information about their organisation, functioning, decision-making procedures, and the content of decisions adopted in the exercise of their functions. The principle of transparency is derived from the general principle of publicity established in Article 8 of the Chilean Constitution, which provides that the acts and resolutions of State bodies and their foundations are public, as well as the documents supporting them and the applicable procedures. Limitations on publicity and transparency shall be established only by law and must be based on grounds explicitly stated in the Constitution, including national security, individual privacy, and the legitimate commercial interests of third parties."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Active Transparency Obligations",
+      "content": "Organs of the State administration shall maintain permanently available, updated, and in digital format, at least the following information: (a) the legal structure, organisation chart, and functions of the organ and each of its divisions; (b) the personal data and remuneration of the authorities and senior officials; (c) the information relating to the contracting of goods and services, procurement, and public works; (d) the subsidies and transfers made; (e) the acts and resolutions that have effects on third parties; (f) the procedures and deadlines for processing information requests; (g) the mechanisms for citizen participation; (h) the expenditure budget and implementation; (i) the results of inspections, controls, and audits. This information shall be updated at least monthly and shall be maintained on the official website of the organ in a format accessible to all persons."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Right of Access to Information",
+      "content": "Any person has the right to require information from State organs, in the manner established in this Law, without being required to state reasons or interests. All information held by the organs covered by this Law is presumed public, unless access is restricted by applicable law or by grounds established in this Law. Access to information shall be provided in the format requested by the petitioner to the extent technically and economically feasible. The right of access to information may be exercised by any person, whether natural or legal, national or foreign, domiciled or resident in Chile or abroad. Organs shall make information available without discrimination based on the identity or affiliation of the requester. The right of access to information shall be interpreted in the broadest manner possible, with doubts resolved in favour of disclosure."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Submission and Processing of Requests",
+      "content": "Requests for access to information shall be directed to the head of the organ, through the designated transparency official or through the organ's established channels. Requests may be submitted in person, by mail, or by electronic means. The requester shall indicate the information sought with sufficient specificity to enable the organ to identify and retrieve it. The organ shall respond to the request within twenty business days of its receipt. This period may be extended by ten additional business days where there are justified reasons, with prior written notification to the requester. The organ shall make available to the requester the information identified or shall indicate the reasons why access cannot be provided, citing specific applicable legal grounds. Where access is denied in whole or in part, the requester shall be informed of the right to appeal to the Council for Transparency."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Grounds for Withholding Information",
+      "content": "The right of access to information may be withheld on the following grounds: (a) the information's disclosure would affect the due compliance of the functions of the organ; (b) the information's disclosure would obstruct or hinder current judicial or administrative investigations; (c) the information's disclosure would affect Chile's international relations; (d) the information's disclosure would affect personal safety or the security of persons; (e) the information's disclosure would affect public economic, financial, monetary, or commercial interests; (f) the disclosure of classified information is prevented by law; (g) the information is classified as secret or reserved by applicable regulations. Where information is withheld on any of these grounds, the decision shall be fully reasoned, citing the specific ground and demonstrating that disclosure would cause the specified harm. Grounds for withholding are applied on the basis of a harm test."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Council for Transparency",
+      "content": "The Council for Transparency is an autonomous public body with legal personality and its own assets, created to promote transparency in public administration and the right of access to information. The Council's functions include: ensuring compliance with the obligations of active and passive transparency; hearing and deciding amparo actions filed by persons who consider their right of access to information has been violated; imposing sanctions on organs that fail to comply with applicable obligations; preparing, implementing, and evaluating programmes to promote the right of access to information; advising State organs on the implementation of their transparency obligations; and reporting to the President and Congress on the state of transparency in public administration."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Amparo Action before the Council",
+      "content": "Any person who considers that their request for information has been denied without justification, improperly, or incompletely, or who has not received a response within the applicable period, may file an amparo action before the Council for Transparency. The action shall be filed within fifteen business days of the occurrence of the challenged act or omission. The Council shall admit or reject the action and shall notify the relevant organ of its content. The organ shall respond within ten business days, presenting its defence and the grounds for its decision. The Council shall resolve the action within the applicable period, either granting or rejecting the amparo, and shall notify the parties and the Comptroller General. The Council may order the release of the withheld information, impose sanctions, and instruct measures to prevent future violations."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Judicial Review",
+      "content": "Resolutions of the Council for Transparency may be challenged before the Court of Appeals of Santiago through an action for illegality. The action for illegality shall be filed within fifteen business days of the notification of the challenged resolution. The Court shall hear the parties and resolve the action within applicable procedural timeframes. Actions challenging Council resolutions that order the disclosure of information may include as a party the person to whom the withheld information relates, where such person is different from the organ that withheld the information. Judicial review shall consider whether the Council applied the applicable legal standards correctly and whether it provided adequate reasons for its decision. The filing of an action for illegality does not automatically suspend the execution of the Council's resolution."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Personal Data Protection in Transparency",
+      "content": "The application of this Law shall be consistent with applicable personal data protection law. Where information requested contains personal data of third parties, the organ shall apply a proportionality test balancing the public interest in disclosure against the privacy interests of the persons whose data would be disclosed. Personal data may be disclosed in response to an information request where: the public interest in disclosure clearly outweighs the privacy interest; or the person whose data would be disclosed has consented to disclosure. Organs shall not disclose personal data of third parties beyond what is necessary for the purpose of the information request. Where information relating to a third party is at issue, the organ shall notify the third party and give them an opportunity to oppose disclosure, before the Council issues its resolution."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Records and Document Management",
+      "content": "Organs of the State administration shall create, maintain, and preserve records of their activities in a manner that enables compliance with their transparency obligations. Records shall be managed in accordance with applicable legal requirements, including the archiving law and applicable records management standards. Organs shall not destroy, alter, or conceal records in a manner that impairs the exercise of the right of access to information. Digital records shall be maintained in accessible formats and shall be subject to appropriate preservation measures ensuring their long-term accessibility. Organs shall develop and implement records management plans specifying the records they create, the systems in which they are maintained, retention periods, and disposition procedures. The Council for Transparency shall provide guidance on records management practices supporting transparency."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Transparency in Public Procurement",
+      "content": "Information relating to public procurement shall be subject to enhanced transparency obligations. State organs shall publish on the national public procurement platform (Mercado Público) all procurement processes, including specifications, evaluation criteria, offers received, evaluation results, and awarded contracts. Contract performance information including payments made and any penalties applied shall also be published. Procurement information shall be published in a timely and complete manner enabling effective monitoring by citizens, the press, and oversight bodies. The Comptroller General and the Council for Transparency shall coordinate on the monitoring of transparency in public procurement. Exceptional procurement outside standard processes shall be subject to additional transparency requirements."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Proactive Open Data",
+      "content": "State organs shall, in addition to their active transparency obligations, make information available as open data in machine-readable, interoperable formats to the extent technically and economically feasible. The Government shall maintain a national open data portal providing centralised access to open data published by State organs. State organs shall develop open data strategies identifying priority datasets for publication and specifying quality, format, and update frequency requirements. Open data shall be published under a standard open licence enabling free reuse. The Council for Transparency shall collaborate with the Ministry of Finance and MinTIC on the promotion of open data practices in public administration."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Transparency Obligations of State-Owned Enterprises",
+      "content": "State-owned enterprises and other entities with state participation shall be subject to active transparency obligations proportionate to their public mission and the extent of public ownership. Active transparency obligations shall include: publication of financial statements, audit reports, and executive remuneration; disclosure of procurement activities above applicable thresholds; publication of governance documents including statutes, board minutes, and conflict of interest policies; and disclosure of information about the exercise of any public functions. The Council for Transparency shall have oversight authority over the transparency obligations of state-owned enterprises and shall issue guidelines on applicable transparency standards. State-owned enterprises may be required to respond to passive transparency requests in respect of information relating to their public functions."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Sanctions and Responsibilities",
+      "content": "Public servants who violate the transparency obligations established by this Law are subject to the disciplinary sanctions applicable to their category of public service employment. The Council for Transparency may recommend disciplinary action against public servants who fail to comply with applicable transparency obligations. Sanctions applicable include: a warning for minor violations; a fine for moderate violations; and more severe disciplinary measures for serious or repeated violations. The failure of a public servant to comply with an order of the Council for Transparency may be treated as a serious breach of duty. The head of the State organ is responsible for ensuring compliance with transparency obligations by the organ and its personnel. The Comptroller General has concurrent oversight authority over transparency compliance in State organs."
+    }
+  ],
+  "definitions": [
+    {"term": "active transparency", "definition": "The obligation of State organs to make information available without requiring a prior request.", "source_provision": "art1"},
+    {"term": "passive transparency", "definition": "The obligation of State organs to respond to specific requests for information.", "source_provision": "art1"},
+    {"term": "Council for Transparency", "definition": "The autonomous public body created to promote and protect the right of access to public information in Chile.", "source_provision": "art7"},
+    {"term": "amparo action", "definition": "The action available before the Council for Transparency for persons whose right of access to information has been violated.", "source_provision": "art8"},
+    {"term": "harm test", "definition": "The requirement to demonstrate that disclosure of information would cause specific harm before it may be withheld.", "source_provision": "art6"},
+    {"term": "open data", "definition": "Information made available in machine-readable, interoperable formats under an open licence enabling free reuse.", "source_provision": "art13"}
+  ]
+}
