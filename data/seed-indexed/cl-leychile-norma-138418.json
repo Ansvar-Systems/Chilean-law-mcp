@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138418",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2862",
+  "status": "in_force",
+  "issued_date": "1914-01-29",
+  "in_force_date": "1914-02-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138418",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese, por gracia, a don Diego Antonio Torres el derecho de jubilar con una pension anual de quince mil pesos ($ 15,000), incompatible con toda otra pensión o sueldo del Estado."
+    }
+  ],
+  "definitions": []
+}

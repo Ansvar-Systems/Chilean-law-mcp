@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-143456",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3864",
+  "status": "in_force",
+  "issued_date": "1922-06-14",
+  "in_force_date": "1922-06-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=143456",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Modifícase el artículo 14 de la lei número 3,379, de 10 de mayo de 1918, en los siguientes términos:\n\"El fondo de retiro no podrá ser entregado al imponente sino cuando éste deje de pertenecer al personal de los Ferrocarriles del Estado, o cuando la Caja lo invierta, por su pedido, en la adquisicion de un bien raiz, o en la edificacion o compra de una casa-habitacion, debiendo en ámbos casos quedar gravada la propiedad en primera hipoteca a favor de la Caja para garantir la cancecion y el reintegro del fondo de retiro en los casos a que haya lugar.\""
+    }
+  ],
+  "definitions": []
+}

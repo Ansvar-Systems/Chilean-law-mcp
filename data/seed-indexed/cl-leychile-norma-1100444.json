@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-1100444",
+  "type": "statute",
+  "title": "Tesorería fiscal de Valparaiso.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1861-08-22",
+  "in_force_date": "1861-08-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1100444",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.°\nHabrá en Valparaiso una Tesorería fiscal que será la principal de la provincia i tendrá ademas las funciones de Comisaría de Ejército i Marina, dependiendo como oficina de Hacienda del Ministerio de este ramo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.°\nLos empleados que tendrá esta oficina, i los sueldos anuales que se les asignen serán los que a continuacion se espresan:\nUn ministro contador con tres mil pesos..................$ 3.000\nUn ministro tesorero con tres mil pesos... ................3.000\nUn jefe de la seccion de Hacienda con mil quinientos pesos 1.500\nUn jefe de la seccion de Guerra con mil cien pesos.........1.100\nUn jefe de la seccion de Marina con mil cien pesos.........1.100\nTres escribientes, uno para cada una delas secciones,\ncada uno con seis cientos pesos..............................600\nUn guarda-almacenes de Marina con mil trescientos pesos....1.300"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.°\nEl ministro contador rendirá fianza por seis mil pesos.....6.000\nEl ministro tesorero por seis mil pesos....................6.000\nEl cajero por cuatro mil pesos.............................4.000\nI el guarda-almacenes de Marina por dos mil pesos..........2.000\nEstas fianzas serán calificadas por el contador mayor."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.°\nLos trabajos de la Tesorería i Comisaría, se distribuirán en tres secciones que se denominarán: de Hacienda, de Guerra i de Marina, i serán servidas cada una de ellas por el jefe de la seccion i el escribiente respectivo. El jefe de la seccion de Hacienda tendrá tambien a su cargo la caja con las obligaciones i responsabilidad establecidas por las leyes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.°\nLos contadores primeros i segundos de los buques de la Armada, cuando estén desembarcados o en buques surtos en la bahía de Valparaiso, concurrirán diariamente a la oficina i prestarán sus servicios en clase de ausiliares en la seccion o secciones a que el jefe los destine."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.°\nQuedan derogadas las disposiciones de la lei de 25 de octubre de 1854 en lo que sean contrarias a las de la presente."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.°\nLos actuales empleados de la Comisaría de Ejército i Marina que en virtud de la nueva planta que establece esta lei quedasen sin colocacion, servirán en comision en las oficinas fiscales que designare el Presidente de la República, mientras no se les dé colocacion efectiva."
+    }
+  ],
+  "definitions": []
+}

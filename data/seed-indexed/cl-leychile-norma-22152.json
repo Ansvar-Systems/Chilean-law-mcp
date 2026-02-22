@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22152",
+  "type": "statute",
+  "title": "SUPLEMENTO",
+  "short_name": "Ley 301",
+  "status": "in_force",
+  "issued_date": "1895-09-17",
+  "in_force_date": "1895-09-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22152",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de cien mil pesos al ítem 2 de la partida 38, del presupuesto del Interior."
+    }
+  ],
+  "definitions": []
+}

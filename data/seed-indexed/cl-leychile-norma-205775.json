@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-205775",
+  "type": "statute",
+  "title": "MODIFICA LA PLANTA DE OFICIALES DE LA ARMADA NACIONAL, FIJADA POR LA LEY N° 5,205, DE 19 DE JULIO DE 1933.",
+  "short_name": "Ley 5582",
+  "status": "in_force",
+  "issued_date": "1935-01-31",
+  "in_force_date": "1935-02-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=205775",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º Modifícase la planta de oficiales de la Armada Nacional, fijada por la ley N° 5,205, de 19 de Julio de 1933, en la siguiente forma:\nCiento once guardiamarinas de la 1ª clase ejecutivos.\nSetenta y dos guardiamarinas de 2ª clase ejecutivos Cuarenta y nueve guardiamarinas de 1ª clase ingenieros; y\nDieciocho guardiamarinas de 2ª clase ingenieros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º A los subtenientes del Ejército y guardiamarinas de la Armada que hayan permanecido más de un año en los grados de alféreces o de aspirantes, les servirá de abono para el ascenso el tiempo de exceso sobre un año que hayan permanecido en estos grados."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3º La presente ley empezará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

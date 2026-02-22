@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22278",
+  "type": "statute",
+  "title": "LEI QUE CREA UN SEGUNDO JUZGADO DE LETRAS EN EL DEPARTAMENTO DE CURICO I FIJA SU DOTACION",
+  "short_name": "Ley 931",
+  "status": "in_force",
+  "issued_date": "1897-08-04",
+  "in_force_date": "1897-08-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22278",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Créase un segundo Juzgado de Letras en el departamento de Curicó, con la dotacion asignada a los de su clase por la lei número 153, de 5 de Enero de 1894."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Para el servicio del Juzgado habrá un secretario i un portero con el sueldo anual de doscientos cuarenta pesos ($ 240 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Las causas civiles i criminales pendientes se distribuirán por mitad entre los dos juzgados, debiendo hacer la distribucion la Corte de Apelaciones de Santiago, en vista del rol que deberá formar el actual juez de letras del departamento."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Autorízase al Presidente de la República para invertir hasta la cantidad de cuatro mil pesos ($ 4,000) en la instalacion del nuevo Juzgado."
+    }
+  ],
+  "definitions": []
+}

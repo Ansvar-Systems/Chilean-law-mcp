@@ -1,0 +1,103 @@
+{
+  "id": "cl-leychile-norma-149282",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4417",
+  "status": "repealed",
+  "issued_date": "1928-09-14",
+  "in_force_date": "1931-05-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149282",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Autorízase al Presidente de la República para enajenar en pública subasta, los terrenos fiscales de las siguientes villas: Yungay, Baquedano, Pampa Unión, Toco, Calina y Refresco, ubicadas en la provincia de Antofagasta; y Pozo Almonte, Central, Huara, San Antonio, Laguna, Zapiga, Negreiros, Santa Catalina y Campo de la Alianza, ubicadas en la provincia de Tarapacá, a excepción de los sitios que sean necesarios para los servicios públicos y para la habilitación de calles y plazas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El Presidente de la República designará una comisión, compuesta de tres funcionarios públicos, para que informe, ubique y tase los lotes que convenga sacar a remate.\nLa formación de los lotes se hará tomando principalmente en cuenta la actual distribución de los sitios en que hay edificación y el probable desarrollo futuro de las villas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La subasta se hará previa publicación de avisos, por diez veces a lo menos, en los diarios de la cabecera de los departamentos, debiendo transcurrir un plazo mínimo de tres meses entre la fecha del primer aviso y el día de la subasta."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El remate se efectuará en las Intendencias o Gobernaciones a que pertenezcan las villas mencionadas y ante una junta compuesta por el Gobernador, el Tesorero Fiscal y el Notario Público."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o El mínimo para iniciar las posturas será el valor de la tasación."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Se autoriza al Presidente de la República para que elimine de la subasta los lotes en que existan edificios particulares, construídos con anterioridad al primero de Julio de 1928, y para que los venda a los dueños de los edificios, por el valor de tasación de dichos lotes.\nLos interesados que deseen acogerse a lo dispuesto en el inciso precedente, deberán presentarse ante la Junta a que se refiere el artículo 4.o, hasta treinta días antes de la fecha señalada para la subasta, acompañando una boleta de consignación en arcas fiscales, de una suma no inferior al veinte por ciento (20%) del valor de la tasación del respectivo lote. Esta suma se imputará al precio de la compra.\nLa Junta referida elevará, a la brevedad posible y debidamente informada, cada una de estas solicitudes, a fin de que el Presidente de la República pueda decretar el otorgamiento de las referidas escrituras de compraventa.\nLa Junta apreciará en conciencia la prueba que se rinda para acreditar el dominio de los edificios construídos en los terrenos fiscales.\nSi, dictado el decreto a que se refiere el inciso 3.o del presente artículo, el interesado no hiciere efectiva la compraventa, perderá sus derechos sobre el depósito a que se refiere el inciso 2.o, y la suma consignada ingresará a arcas fiscales."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.o Para ser admitido en la licitación, será menester presentar como garantía una boleta de depósito, a la orden del Tesorero General de la República, por una cantidad equivalente al veinte por ciento de la tasación. Dicho depósito se imputará al precio de compra, si se adjudicare la propiedad al depositante, o le será devuelta en caso contrario.\nSi el rematante no hiciere efectiva la compraventa en la forma que se determina en el artículo 8.o, perderá sus derechos sobre el depósito y la suma consignada ingresará en arcas fiscales."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8.o El acta del remate se extenderá en el Protocolo del Notario Público respectivo, y contendrá los precios de la subasta, los deslindes de las propiedades y una referencia al decreto supremo que ordenó el remate.\nLa compraventa se entenderá perfeccionada con esta acta, pero el contrato definitivo se otorgará dentro de los quince días siguientes a la fecha del remate, dejándose en él testimonio del pago del primer dividendo del precio y demás antecedentes de la subasta."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "Art. 9.o El precio de venta deberá cancelarse al contado o en cinco parcialidades: la primera, al otorgarse la escritura de compraventa, y las restantes, a seis, doce, dieciocho y veinticuatro meses de plazo, respectivamente, contados desde la fecha de la escritura."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "Art. 10. La venta se hará ad-corpus, en el estado en que se encuentren los terrenos, y éstos se entregarán en conformidad a las especificaciones y planos hechos por la comisión indicada en el artículo 2.o"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "Art. 11. Los terrenos vendidos que no hayan sido pagados totalmente al contado, quedarán hipotecados en favor del Fisco hasta la entera cancelación de su precio. En caso de mora en el pago, el adquirente abonará un interés penal de doce por ciento (12%) anual."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "Art. 12. Los gastos que origine la subasta serán de cuenta de los adjudicatarios."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "Art. 13. La Oficina de Bienes Nacionales, de acuerdo con las autoridades competentes, procederá a señalar aquellos sitios que deban destinarse a servicios públicos."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "Art. 14. Se autoriza al Presidente de la República para invertir en la construcción de edificios públicos, en cada una de las villas mencionadas en el artículo 1.o, el producto de la enajenación de sus terrenos."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "Art. 15. Esta ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22810",
+  "type": "statute",
+  "title": "Autoriza a la Municipalidad de Santiago para;contratar un empréstito por cierta suma de dinero",
+  "short_name": "Ley 1639",
+  "status": "in_force",
+  "issued_date": "1904-01-30",
+  "in_force_date": "1904-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22810",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero. Autorízase a la Municipalidad de Santiago para contratar, en licitacion pública, un empréstito que no exceda de ochocientos veintiocho mil seiscientos noventa i ocho pesos setenta i un centavos ($ 828 698,71) emitiendo bonos que ganen hasta 8 por ciento de interes al año i dos por ciento de amortizacion acumulativa, tambien anual."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° El producido del empréstito se destinará, esclusivamente a cancelar las siguientes deudas de la Corporacion:\n1.a Crédito del Banco de Chile, para pago de\ncarretoneros de la policía de aseo____ $ 35 000\n2.a Crédito del Banco Español-Italiano____ 5 839,50\n3.a Deudas por forraje suministrado en los\núltimos meses de 1903 i cuyas cuentas\nestán en tramitacion__________________ 17 850\n4.a Varias pequeñas cuentas diversas i en\ntramitacion___________________________ 5 000\n5.a Embargos judiciales___________________ 120 000\n6.a Servicio de la deuda municipal________ 58 400\n7.a Terrenos cedidos a la vía pública en\nestado de pago________________________ 84 450,33\n8.a Saldo de lo adeudado en esta fecha a\nlos acreedores que firmaron el convenio\nde 29 de Mayo último__________________ 359 905,22\n9.a Cuentas de acreedores que no han entrado\nen el convenio________________________ 142 253,66\n___________\nTotal_________ $ 828 698,71"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El servicio de estos bonos se hará por la Tesorería Fiscal de Santiago, la cual, para este efecto, retendrá la cantidad necesaria de las sumas que perciba con arreglo al artículo 41 de la lei de municipalidades de 22 de Diciembre de 1891."
+    }
+  ],
+  "definitions": []
+}

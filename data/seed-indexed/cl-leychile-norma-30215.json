@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30215",
+  "type": "statute",
+  "title": "MODIFICA LOS DECRETOS CON FUERZA DE LEY N°s. 1 (G) Y;2 (I), AMBOS DE 1968",
+  "short_name": "Ley 18839",
+  "status": "in_force",
+  "issued_date": "1989-10-03",
+  "in_force_date": "1989-11-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30215",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Introdúcense las siguientes modificaciones al artículo 236 del decreto con fuerza de ley (G) N° 1, de 1968, cuyo texto refundido, coordinado y sistematizado fue fijado mediante decreto N° 148, de 1986, de la Subsecretaría de Guerra:\na) Sustitúyese en el N° 2 la palabra \"base\", por \"imponible\".\nb) Reemplázase su inciso final por el siguiente:\n\"De iguales derechos gozará el personal mencionado en el inciso primero que, rigiendo o no un estado de excepción constitucional, fuere muerto o inutilizado, víctima de atentados por su sola condicion de miembros de las Fuerzas Armadas, esté o no en el desempeño de un acto de servicio, todo lo cual será calificado por el Comandante en Jefe respectivo.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Reemplázase el inciso final del artículo 154 del decreto con fuerza de ley (I) N° 2, de 1968, cuyo texto refundido, coordinado y sistematizado fue fijado mediante decreto N° 12, de 1977, de la Subsecretaría de Carabineros, por el siguiente:\n\"De iguales derechos gozará el personal mencionado en el inciso primero que, rigiendo o no un estado de excepción constitucional, fuere muerto o inutilizado, víctima de atentados por su sola condición de miembro de Carabineros de Chile, esté o no en el desempeño de un acto de servicio, todo lo cual será calificado por el General Director.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Para todos los efectos legales, la presente ley regirá a contar del 1° de octubre de 1988."
+    }
+  ],
+  "definitions": []
+}

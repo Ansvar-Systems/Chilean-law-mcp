@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30543",
+  "type": "statute",
+  "title": "INTRODUCE MODIFICACIONES A LA LEY N° 18.868",
+  "short_name": "Ley 19176",
+  "status": "in_force",
+  "issued_date": "1992-11-11",
+  "in_force_date": "1992-11-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30543",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Introdúcense en la ley N° 18.868, las siguientes modificaciones:\na) Reemplázase en el inciso quinto del artículo 3°, la palabra \"seis\" por la palabra \"nueve\".\nb) Intercálase en el artículo 3°, a continuación del inciso quinto, el siguiente inciso, pasando el actual inciso sexto a ser inciso séptimo:\n\"Si el interesado no efectuare el pago dentro del plazo de los nueve meses señalado en el inciso anterior, que tendrá para todos los efectos legales el carácter de fatal, se tendrá a éste por desistido de la opción de compra y el Instituto deberá vender las viviendas correspondientes en la forma y plazos establecidos en el artículo 5° de esta ley.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Para los efectos de lo dispuesto en el inciso primero del artículo 3° de la ley N° 18.868, se entenderá por cumplido el requisito de pago al contado, si el comprador presenta al Instituto de Normalización Previsional, al momento de efectuar el respectivo pago, algún certificado u otro documento fidedigno en que acredite que se le ha concedido financiamiento bancario o subsidio habitacional para el pago del saldo de precio, siempre que dicho financiamiento sea otorgado en alguna unidad reajustable y que su entrega se efectúe directamente al Instituto de Normalización Previsional por la respectiva institución emisora."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo Transitorio.- Otórgase a los interesados a quienes expiró el plazo de seis meses previsto en el artículo 3° de la ley N° 18.868, un plazo adicional, fatal, de tres meses, contados desde la publicación de la presente ley, a fin de que puedan efectuar el pago correspondiente.\"."
+    }
+  ],
+  "definitions": []
+}

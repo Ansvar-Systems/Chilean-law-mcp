@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24221",
+  "type": "statute",
+  "title": "LEI NÚM. 3,746, QUE CONCEDE FONDOS PARA LOS GASTOS;QUE DEMANDE EL ENVÍO DE UNA EMBAJADA AL BRASIL.",
+  "short_name": "Ley 3746",
+  "status": "in_force",
+  "issued_date": "1921-04-25",
+  "in_force_date": "1921-04-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24221",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de trescientos mil pesos ($300,000) moneda corriente, deducidos de los fondos correspondientes a derechos consulares percibidos por las Aduanas de la República que se encuentran a disposicion del Fisco, en los gastos que demande la visita a Rio Janeiro i otras capitales sudamericanas, del Ministro de Relaciones Esteriores de Chile."
+    }
+  ],
+  "definitions": []
+}

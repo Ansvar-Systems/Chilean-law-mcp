@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1065805",
+  "type": "statute",
+  "title": "Fabricacion i emision de moneda de vellon.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1878-09-13",
+  "in_force_date": "1878-09-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1065805",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1.°\nSe autoriza a la Casa de Moneda para fabricar i emitir moneda de vellon de una aleacion de noventa i cinco por ciento de cobre i cinco por ciento de niquel de las denominaciones, valores, pesos, tipos, diámetro i tolerancia que establece la lei de veinticinco de octubre de mil ochocientos setenta."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°\nLas oficinas fiscales admitirán en pago, sin limitacion de cantidad, la moneda de vellon por su valor nominal i la Casa de Moneda la cambiará a los particulares por moneda de curso legal previo aviso al público de los dias i horas que designe para estos cambios."
+    }
+  ],
+  "definitions": []
+}

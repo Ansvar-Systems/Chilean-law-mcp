@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-23463",
+  "type": "statute",
+  "title": "DISPONE QUE LAS COMUNAS DE NUEVA CREACION SEGUIRAN DEPENDIENDO DE LA MUNICIPALIDAD DE QUE FORMABAN PARTE, HASTA QUE TENGA LUGAR LA ELECCION RESPECTIVA, I  ESTABLECE LA FORMA EN QUE SE PROCEDERA A PRACTICAR LAS ELECCIONES I LOS DEMAS TRAMITES QUE TENGAN RELACION CON ELLAS.",
+  "short_name": "Ley 2747",
+  "status": "in_force",
+  "issued_date": "1913-02-01",
+  "in_force_date": "1913-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23463",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- Las comunas de nueva creacion continuarán rejidas por las Municipalidades de cuyo territorio formaban parte hasta que se instale la Municipalidad que se elija con arreglo a la presente lei."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Si la creacion de la nueva comuna se decreta cuando falte mas de un año para la renovacion de las municipalidades, se procederá a practicar eleccion en la forma que establece el artículo siguiente. En caso contrario, la eleccion se llevará a efecto en la fecha designada para las elecciones jenerales, practicándose la eleccion en la misma forma."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- En las comunas en que no haya Municipalidad, por no haberse verificado elecciones por dualidad no resuelta o por cualquiera otra causa, el Presidente de la República, dentro de los sesenta días siguientes a la promulgacion de la presente lei, mandará practicar elecciones, en conformidad a la Lei Electoral, en lo que no fuera contraria a la presente, i designará para que desempeñe las funciones electorales que corresponden a la Municipalidad, una junta electoral compuesta de cinco vecinos.\nQuince dias ántes del señalado por el Presidente de la República para que se verifique la eleccion, la junta electoral designará en conformidad al inciso precedente, se reunirá a las 12 M., bajo la presidencia provisoria de la persona que figure en primer lugar en el decreto de nombramiento de la junta, i a falta de ésta de la que figure en segundo lugar en el mismo decreto; se constituirá en el lugar público que indique el presidente provisorio i desempeñará las funciones que, para este efecto, encomienda a las municipalidades la Lei Electoral, en lo que no fueren incompatibles con la presente."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- Si el territorio municipal de las comunas a que se refiere el artículo 1.° hubiese sido segregado de un departamento distinto de aquel de que dichas comunas forman parte, las fijaciones, comunicaciones i publicaciones a que se refieren los artículos 48 i siguientes de la Lei Electoral, se harán en el departamento al cual hayan pasado.\nEl Juez Letrado del mismo departamento entenderá tambien en todos los asuntos que la Lei Electoral encomienda al Juez del respectivo departamento."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°- Las nuevas municipalidades se instalaran celebrando su primera sesion ordinaria, el tercer domingo del mes subsiguiente a la fecha del dia de la eleccion, a la una de la tarde, en el mismo local en que hubiere funcionado la junta electoral."
+    }
+  ],
+  "definitions": []
+}

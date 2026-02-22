@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24050",
+  "type": "statute",
+  "title": "LEI NUM. 3,539, QUE AUMENTA LAS GRATIFICACIONES DE LOS OFICIALES DE LAS GUARNICIONES DE TARAPACA I ANTOFAGASTA.",
+  "short_name": "Ley 3539",
+  "status": "in_force",
+  "issued_date": "1919-09-01",
+  "in_force_date": "1919-09-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24050",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Auméntase durante el presente año en un diez por ciento el monto de las gratificaciones que actualmente perciben los oficiales que prestan sus servicios en las guarniciones de Tarapacá i Antofagasta.\nEl gasto que demande el cumplimiento de esta lei se deducirá en primer lugar del sobrante que resulte de los fondos para alimentación de la Tropa, i en segundo lugar de rentas jenerales de la Nación."
+    }
+  ],
+  "definitions": []
+}

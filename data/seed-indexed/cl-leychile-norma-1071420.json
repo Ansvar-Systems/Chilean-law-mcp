@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-1071420",
+  "type": "statute",
+  "title": "ESTABLECE UNA ASIGNACIÓN DE FUNCIÓN PENITENCIARIA PARA EL PERSONAL DE GENDARMERÍA DE CHILE",
+  "short_name": "Ley 20796",
+  "status": "in_force",
+  "issued_date": "2014-11-28",
+  "in_force_date": "2014-12-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1071420",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Establécese una asignación de función penitenciaria no imponible de carácter mensual para el personal de planta y a contrata de Gendarmería de Chile.\nEsta asignación será incompatible con la asignación por función crítica, mientras se perciba esta última.\nLos montos que se percibirán por concepto de la referida asignación corresponderán al porcentaje del sueldo base de cada grado de la Escala Única de Sueldos asignado al cargo, conforme a la distribución que a continuación se indica:\n."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "PRIMERO transitorio",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- El monto total de la asignación señalada en el artículo único será proveído conforme al siguiente detalle:\n."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "SEGUNDO transitorio",
+      "title": "Artículo SEGUNDO",
+      "content": "Artículo segundo.- El mayor gasto fiscal que represente la aplicación de esta ley durante su primer año de vigencia se financiará con cargo al presupuesto vigente de Gendarmería de Chile. No obstante, el Ministerio de Hacienda, con cargo a la partida presupuestaria del Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no pueda financiar con esos recursos. En los años posteriores, los recursos necesarios se consultarán en las respectivas leyes anuales de presupuestos del Sector Público.\"."
+    }
+  ],
+  "definitions": []
+}

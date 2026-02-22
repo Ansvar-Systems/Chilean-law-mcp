@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1012282",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPÚBLICA Y A LA MUNICIPALIDAD DE SANTIAGO PARA TRASFERIR, GRATUITAMENTE, AL CUERPO DE BOMBEROS DE ESA CIUDAD LOS TERRENOS QUE INDICA",
+  "short_name": "Ley 6268",
+  "status": "in_force",
+  "issued_date": "1938-09-27",
+  "in_force_date": "1938-10-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1012282",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Articulo 1.o Autorízase al Presidente de la República para transferir gratuitamente al Cuerpo de Bomberos de Santiago, el dominio de los terrenos cuyo uso le fue otorgado por las leyes de 29 de Diciembre de 1892 y 27 Enero de 1906; Ley N.o 4.077 de 17 de Agosto de 1926, y Ley N.o 3.342 de 9 de Enero de 1918."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Autorízase a la Municipalidad de Santiago para transferir gratuitamente al Cuerpo de Bomberos de Santiago, el dominio de los terrenos cuyo uso le fue otorgado a virtud de las autorizaciones concedidas en las leyes N.os 3.050, de 30 de Diciembre de 1915, y Ley N.o 4.504, de 24 de Diciembre de 1928."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28664",
+  "type": "statute",
+  "title": "MODIFICA LA LEY 15.722, QUE INCORPORO AL REGIMEN DE LA CAJA DE PREVISION DE EMPLEADOS PARTICULARES A LOS CHOFERES DE TAXIS",
+  "short_name": "Ley 16789",
+  "status": "in_force",
+  "issued_date": "1968-04-06",
+  "in_force_date": "1968-04-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28664",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Concédese un nuevo plazo de un año, contado desde la fecha de publicación de la presente ley, para que los conductores de vehículos puedan acogerse a lo dispuesto en los artículos 2° y 3° transitorios de la ley N° 15.722, de 26 de Octubre de 1964."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Sustitúyese el inciso final del artículo 1° de la ley N° 15.722, de 26 de Octubre de 1964, por el siguiente:\n\"Los choferes de automóviles de alquiler, propietarios o no del vehículo que trabajan, que gocen de pensión de jubilación por cualquier régimen previsional, podrán declarar dentro del plazo de 60 días, contado desde la feha en que se les haga exigible la aplicación de la presente ley, que optan por no quedar afectos a sus disposiciones.\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- Los conductores de vehículos de alquiler que estén gozando de pensión de jubilación por cualquier régimen previsional podrán declarar dentro del plazo de 90 días, contado desde la fecha de publicación de la presente ley en el Diario Oficial, que optan por no quedar afectos a las disposiciones de la ley N° 15.722.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138481",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3057",
+  "status": "in_force",
+  "issued_date": "1916-01-28",
+  "in_force_date": "1916-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138481",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declara de utilidad pública una faja de terreno de treinta i ocho mil cuatrocientos metros cuadrados para la apertura de un camino entre el pueblo de San Estéban i el puente David García, en la comuna de Juntas del departamento de San Felipe.\nLas espropiaciones se harán en conformidad a la lei de 18 de junio de 1857."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1160770",
+  "type": "statute",
+  "title": "LETRAS DEL FISCO.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1832-08-09",
+  "in_force_date": "1832-08-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1160770",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° El Gobierno puede emitir letras a favor de sus acreedores contra los deudores de la Hacienda nacional."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° La Hacienda nacional contrae a favor del acreedor librancista por las letras que no hubiesen sido aceptadas o cubiertas a sus plazos, la misma responsabilidad que determina para estos casos la ordenanza de Bilbao."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° Para que la Hacienda nacional contraiga la responsabilidad de que habla el articulo anterior, las letras han de ser protestadas en forma auténtica, y presentada la protesta ante los Ministros de la Tesorería jeneral dentro de los ocho días inmediatamente siguientes al vencimiento del plazo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° Si las letras que el Gobierno jirase fueren a cargo de dos o mas deudores responsables de mancomun insólidum, basta la protesta hecha por no haber pagado cualquiera de ellos, para que se haga efectiva la responsabilidad de la Hacienda nacional."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "5.° Los certificados que el Gobierno ha estado en posesion de emitir para que surtiesen los mismos efectos que las letras, gozarán del beneficio de la presente lei, con tal que estén devueltos al Gobierno con la debida protesta, o se presentasen debidamente protestados a los Ministros de la Tesorería jeneral o sus tenientes, dentro de los ocho días siguientes a su promulgacion."
+    }
+  ],
+  "definitions": []
+}

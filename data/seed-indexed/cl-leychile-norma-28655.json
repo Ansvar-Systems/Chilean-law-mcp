@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28655",
+  "type": "statute",
+  "title": "ESTABLECE BENEFICIOS PARA LOS EMPLEADOS Y OBREROS\nQUE OCUPEN LAS EMPRESAS QUE EJECUTEN TRABAJOS DE\nPRODUCCION, MANTENCION O REPARACION",
+  "short_name": "Ley 16757",
+  "status": "repealed",
+  "issued_date": "1968-02-10",
+  "in_force_date": "1979-07-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28655",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Los trabajos inherentes a la producción principal y permanente de una industria, o de reparación o mantención habituales de sus equipos y que no sean de los tratados en los incisos segundo y tercero de este artículo, no podrán ser ejecutados a través de contratistas o concesionarios.\nSin embargo, la disposición del inciso anterior no se aplicará cuando los referidos trabajos constituyan una labor especializada, que se encomiende a una empresa o industria establecida que pague patente como tal, cuyo giro principal sea, precisamente, ejecutar tales labores o manufacturar elementos, partes, piezas, o repuestos por orden de terceros.\nNo se aplicará esta disposición a la actividad de la construcción."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Las infracciones al artículo 1° serán sancionadas por la Inspección del Trabajo con multa a beneficio fiscal que fluctuará entre 5 y 100 sueldos vitales mensuales, escala A) del departamento de Santiago, aplicada conforme al procedimiento establecido en la ley N° 14.972, de 21 de Noviembre de 1962, y sus modificaciones posteriores."
+    },
+    {
+      "provision_ref": "art3-transitorio",
+      "section": "3 Transitorio",
+      "title": "Artículo 3 Transitorio",
+      "content": "Artículo transitorio.- Las situaciones reguladas por los contratos válidamente celebrados y actualmente vigentes, continuarán rigiéndose por sus disposiciones por el plazo de un año contado desde la vigencia de esta ley."
+    }
+  ],
+  "definitions": []
+}

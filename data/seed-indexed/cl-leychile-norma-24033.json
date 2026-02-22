@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24033",
+  "type": "statute",
+  "title": "LEI NUM. 3,519, QUE AUTORIZA A LOS BANCOS I AL COMERCIO PARA CERRAR LOS SABADOS A LAS 12 DEL DIA.",
+  "short_name": "Ley 3519",
+  "status": "in_force",
+  "issued_date": "1919-07-16",
+  "in_force_date": "1919-07-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24033",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Sin perjuicio de lo dispuesto en el artículo 2.° de la lei núm. 2,977, de 28 de Enero de 1915, el Presidente de la República podrá autorizar a los Bancos i al Comercio para que puedan cerrar sus puertas los dias Sábados a las doce del dia, abriéndolas a las nueve de la mañana."
+    }
+  ],
+  "definitions": []
+}

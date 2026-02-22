@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138822",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3009",
+  "status": "in_force",
+  "issued_date": "1915-07-24",
+  "in_force_date": "1915-07-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138822",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Modifícase el detalle del ítem 656 de la partida 20 del presupuesto del Ministerio de Industria i Obras Públicas, elevándose en cuatrocientos mil pesos ($ 400,000), moneda corriente, la suma fijada para el ferrocarril de Confluencia a Tomé i Penco i reduciéndose a cien mil pesos ($ 100,000), cincuenta mil pesos ($ 50,000), doscientos mil pesos ($ 200,000) i cincuenta mil pesos ($ 50,000), respectivamente, las consultadas para los ferrocarriles de Lináres a Colbun, Cajon a Llaima, Talca a Constitucion (puente Maule) i Pinto a Recinto."
+    }
+  ],
+  "definitions": []
+}

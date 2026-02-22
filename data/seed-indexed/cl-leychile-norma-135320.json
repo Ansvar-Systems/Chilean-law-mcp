@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135320",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1733",
+  "status": "in_force",
+  "issued_date": "1905-02-02",
+  "in_force_date": "1905-02-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135320",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir las siguientes cantidades en el pago de obras ejecutadas en los ferrocarriles que a continuacion se espresan:\nEn el ferrocarril de Serena a Rivadavia, trescientos ochenta i ocho mil novecientos ochenta i siete pesos setenta i nueve centavos ($ 388,987.79).\nEn el ferrocarril de Alcones a Pichilemu, doscientos veintiseis mil trescientos ochenta i nueve pesos cincuenta i seis centavos ($ 226,389.56);\nEn el ferrocarril de Temuco a Carahue, ciento catorce mil seiscientos cuarenta i seis pesos cuarenta i dos centavos ($ 114,646.42); y\nEn el ferrocarril de Antilhue a Loncoche, doscientos cuarenta i nueve mil ciento cuarenta i cinco pesos setenta centavos ($ 249,145.70)."
+    }
+  ],
+  "definitions": []
+}

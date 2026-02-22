@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29045",
+  "type": "statute",
+  "title": "LEY NUM. 17.473\nAUTORIZA A LOS PROFESIONALES Y TECNICOS CHILENOS QUE\nINDICA PARA ACOGERSE A LOS BENEFICIOS QUE OTORGAN LOS\nARTICULOS 1 Y 2 DE LA LEY 17.238",
+  "short_name": "Ley 17473",
+  "status": "in_force",
+  "issued_date": "1971-08-18",
+  "in_force_date": "1971-08-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29045",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.- Autórizase a los profesionales y técnicos chilenos que regresen definitivamente al país, dentro del plazo de un año, contado desde el 22 de Noviembre de 1970, y cumplan con los demás requisitos que exige la ley N° 17.238, para acogerse a los beneficios que otorgan los artículos 1 y 2 de dicha ley."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- Los automóviles de propiedad de los profesionales o técnicos chilenos que hayan regresado definitivamente al país, que se encuentren bajo potestad aduanera o ingresados en admisión temporal con anterioridad a la fecha de vigencia de la presente ley y que no les hayan sido aplicables los beneficios que concedía la ley N° 17.238, por haberse establecido respecto de ellos que el precio de fábrica del vehículo original en el año de su producción es superior a US$ 2.300, podrán internarse pagando sobre la cantidad en que este precio exceda de US$ 2.300 el total de los impuestos ad valorem que indique la respectiva partida del Arancel Aduanero, recargados en un 25%, sin perjuicio del derecho de treinta por ciento (30%) sobre el valor aduanero a que se refiere el inciso tercero del artículo 1 de la ley N° 17.238\"."
+    }
+  ],
+  "definitions": []
+}

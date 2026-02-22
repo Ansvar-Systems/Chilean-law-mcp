@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29322",
+  "type": "statute",
+  "title": "INCORPORA EN EL ESCALAFON QUE INDICA AL PERSONAL DE\nSUBOFICIALES QUE SEÑALA",
+  "short_name": "Ley 17864",
+  "status": "in_force",
+  "issued_date": "1972-11-27",
+  "in_force_date": "1972-12-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29322",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.- Incorpóranse como Oficiales en la Planta Administrativa \"A\" del Servicio de Correos y Telégrafos, en un Escalafón paralelo e independiente al de los actuales Oficiales, a todos los suboficiales de la Planta Administrativa \"B\" del mismo servicio, conservando los mismos grados y destinaciones que tienen en la actualidad pasando a gozar de todas las prerrogativas legales de dicha Planta Administrativa \"A\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- Este Escalafón paralelo se irá eliminando paulatinamente en la medida que se produzcan vacantes, para lo cual una vez realizados los movimientos de ascensos, si procediera, el cargo por proveer pasará a incrementar automáticamente el número de funcionarios del grado 8°, del actual Escalafón de Oficiales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.- La incorporación de los suboficiales a la Planta Administrativa \"A\", no significará gasto alguno para el Fisco."
+    }
+  ],
+  "definitions": []
+}

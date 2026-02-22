@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23122",
+  "type": "statute",
+  "title": "LEI NUM. 2,100, QUE CONSIDERA COMO PARTE INTEGRANTE DE SUS SUELDOS LAS GRATIFICACIONES ACORDADAS A CIERTOS FUNCIONARIOS JUDICIALES.",
+  "short_name": "Ley 2100",
+  "status": "in_force",
+  "issued_date": "1908-02-21",
+  "in_force_date": "1908-03-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23122",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. A contar desde el 1.° de Enero de 1908, se considerará que la gratificacion acordada a los Ministros i Fiscales de las Cortes de Apelaciones i a los jueces letrados de Santiago, Valparaiso, Magallanes i Antofagasta, por el artículo 2.° de la lei número 1.851, de 14 de Febrero de 1906, i la de que gocen los Promotores Fiscales, forma parte del sueldo de esos funcionarios para todos los efectos legales.\nLas gratificaciones de que gozan los jueces letrados de Tacna, Arica, Iquique, Pisagua, Tocopilla, Taltal i Chañaral en virtud de las leyes de 5 de Enero de 1894 i de 13 de Febrero de 1906, serán tambien consideradas como parte integrante del sueldo de dichos funcionarios para todos los efectos legales.\nEsta disposicion no obsta para que los funcionarios mencionados puedan continuar gozando de la gratificacion que les haya sido asignada en conformidad a las disposiciones de la lei número 2,033, de 9 de Setiembre de 1907."
+    }
+  ],
+  "definitions": []
+}

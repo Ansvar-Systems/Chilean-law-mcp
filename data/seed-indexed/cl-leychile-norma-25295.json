@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-25295",
+  "type": "statute",
+  "title": "AUTORIZA A LA LINEA AEREA NACIONAL PARA CONTRATAR UN EMPRÉSTITO HASTA POR LA SUMA DE $ 25.000,000",
+  "short_name": "Ley 6141",
+  "status": "repealed",
+  "issued_date": "1937-10-28",
+  "in_force_date": "1939-05-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25295",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo l.o Autorízase a la Línea Aérea Nacional para que pueda contratar un empréstito con garantía fiscal hasta por la suma de $ 25.000,000, en bonos, con el interés del 6% con 1% de amortización anuales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El servicio de la deuda a que se refiere el artículo l.o se cancelará con el aporte fiscal que se consultará anualmente en el Presupuesto de Gastos de la Nación, en la partida \"Defensa Nacional\", Aviación.\nLa cuota a que se refiere el inciso anterior deberá cubrir los intereses y la amortización quedará de cargo de la Línea Aérea Nacional."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o El producto del empréstito, se destinará a la compra de material de vuelo, en relación con las necesidades del servicio, estaciones de radio-comunicaciones, servicios meteorológicos, canchas de aterrizajes, etc."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Para los efectos del material aéreo a que se refiere la presente Ley, se pedirán propuestas públicas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o Esta Ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

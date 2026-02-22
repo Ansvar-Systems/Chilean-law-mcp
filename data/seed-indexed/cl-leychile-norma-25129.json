@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25129",
+  "type": "statute",
+  "title": "SUPLEMENTA DIVERSOS ITEM DEL PRESUPUESTO DEL MINISTERIO DE JUSTICIA DE 1934 (SECRETARIA Y ADMINISTRACION GENERAL, TRIBUNALES SUPERIORES DE JUSTICIA, JUZGADOS DE LETRAS DE MAYOR CUANTIA, CONSERVADOR DEL REGISTRO CIVIL, INSTITUTO MEDICO LEGAL DOCTOR CARLOS IBAR Y DIRECCION GENERAL DE PRISIONES).",
+  "short_name": "Ley 5529",
+  "status": "in_force",
+  "issued_date": "1934-12-18",
+  "in_force_date": "1934-12-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25129",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Supleméntanse los ítem del Presupuesto de Justicia que se indican a continuación, en las siguientes cantidades:\nCAPITULO I\nSecretaría y administración general\n8/1/4/f/1 __________________________________ $ 135,000\n8/1/4/f/2 __________________________________ 70,000\n8/1/4/j ____________________________________ 6,000\n8/1/4/k ____________________________________ 83,000\n8/1/4/v ____________________________________ 55,000\nCAPITULO II\nTribunales Superiores de Justicia\n8/2/4/v ____________________________________ $ 9,000\nCAPITULO III\nJuzgados de Letras de Mayor Cuantía\n8/3/4/c ____________________________________ $ 5,000\n8/3/4/e ____________________________________ 2,000\n8/3/4/g ____________________________________ 9,000\n8/3/4/k ____________________________________ 16,500\n8/3/4/w ____________________________________ 100,000\nCAPITULO V\nConservador del Registro Civil\n8/5/4/c ____________________________________ $ 5,000\n8/5/4/k ____________________________________ 5,000\n8/5/4/v ____________________________________ 20,000\n8/5/4/w ____________________________________ 4,000\nCAPITULO VII\nInstituto Médico Legal Dr. Carlos Ibar\n8/7/4/w ____________________________________ $ 3,000\nCAPITULO VIII\nDirección General de Prisiones\n8/8/4/f/1 __________________________________ $ 53,000\n8/8/4/i/1 __________________________________ 850,000\n8/8/4/k ____________________________________ 64,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El mayor gasto de $ 1.494,500 que representan los suplementos a que se refiere el artículo precedente, se cubrirá con la entrada producida con motivo de la dictación de la ley N.o 5,416, de 19 de Febrero de 1934."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

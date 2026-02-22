@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30512",
+  "type": "statute",
+  "title": "MODIFICA ARTICULOS 58 y 63 DEL CODIGO DE AGUAS",
+  "short_name": "Ley 19145",
+  "status": "in_force",
+  "issued_date": "1992-06-15",
+  "in_force_date": "1992-06-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30512",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Agrégase el siguiente inciso tercero al artículo 58 del Código de Aguas:\nNo se podrán efectuar exploraciones en terrenos públicos o privados de zonas que alimenten áreas de vegas y de los llamados bofedales en las Regiones de Tarapacá y de Antofagasta, sino con autorización fundada de la Dirección General de Aguas, la que previamente deberá identificar y delimitar dichas zonas.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Agréganse los siguientes incisos al artículo 63 del Código de Aguas:\n\"Las zonas que correspondan a acuíferos que alimenten vegas y los llamados bofedales de las Regiones de Tarapacá y de Antofagasta se entenderán prohibidas para mayores extracciones que las autorizadas, así como para nuevas explotaciones, sin necesidad de declaración expresa. La Dirección General de Aguas deberá previamente identificar y delimitar dichas zonas.\nSin perjuicio de lo dispuesto en el inciso anterior, la Dirección General de Aguas podrá alzar la prohibición de explotar, de acuerdo con el procedimiento indicado en el artículo siguiente.\".\"."
+    }
+  ],
+  "definitions": []
+}

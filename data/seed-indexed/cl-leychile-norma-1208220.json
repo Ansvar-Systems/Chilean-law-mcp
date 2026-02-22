@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1208220",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 19.496, ESTABLECIENDO DEBERES PARA LOS PROVEEDORES DE SERVICIOS DE TELECOMUNICACIONES",
+  "short_name": "Ley 21708",
+  "status": "in_force",
+  "issued_date": "2024-11-08",
+  "in_force_date": "2024-11-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1208220",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Modifícase el artículo 30 de la ley N° 19.496, que establece normas sobre protección de los derechos de los consumidores, del siguiente modo:\na) Intercálase, en el inciso cuarto, entre las palabras \"Internet\" y \"en que\", la expresión \"y aplicaciones\".\nb) Agréganse los siguientes incisos séptimo, octavo, noveno y décimo, nuevos:\n\"Sin perjuicio de lo establecido precedentemente, los proveedores de servicios de telecomunicaciones deberán informar, a su costo, la existencia de planes que sean objetivamente mejores para el usuario, esto es, uno o más servicios al mismo precio o a un precio inferior, o los mismos servicios a un precio inferior.\nEsta comunicación se deberá efectuar en la boleta una vez que el plan haya entrado en servicio. También podrá realizarse de forma complementaria a través de correo electrónico al titular, previo consentimiento de este último, sin perjuicio de aquellos usuarios que han ejercido respecto de los proveedores de servicios de telecomunicaciones el derecho de suspensión de comunicación publicitaria.\nLos proveedores de servicios de telecomunicaciones deberán mantener actualizada la información sobre planes y precios en su página web y aplicaciones.\nLos referidos proveedores deberán promover todas las condiciones para que el usuario pueda ejercer su derecho de cambio de plan, y no podrán cobrar multa o recargo por ello.\".\"."
+    }
+  ],
+  "definitions": []
+}

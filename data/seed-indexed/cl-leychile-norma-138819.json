@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138819",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2999",
+  "status": "in_force",
+  "issued_date": "1915-03-01",
+  "in_force_date": "1915-03-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138819",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Sustitúyese el artículo 2.º de la lei número 1,636, de 23 de enero de 1904, por el siguiente:\n\"Art. 2.º Sin perjuicio de la actual contribucion de hospital que se seguirá cobrando a razon de diez centavos, oro de dieciocho peniques, por tonelada de rejistro, en conformidad a la lei de 15 de setiembre de 1865, la contribucion de faros i valizas se devengará sobre su tonelaje de rejistro de cada nave, una vez al año, en la forma siguiente:\n1.ª Pagarán setenta i cinco centavos, oro de dieciocho peniques, por tonelada de rejistro, una vez al año, todas las naves a vapor, ya sea de procedencia del esterior o que naveguen en las costas de la República, cualquiera que sea su nacionalidad.\n2.ª Pagarán cincuenta centavos, oro de dieciocho peniques, por tonelada de rejistro, una vez al año, todas las naves a vela con procedencia del esterior o que naveguen en las costas de la República, cualquiera que sea su nacionalidad.\n3.ª Pagarán, una vez al año, cuarenta centavos, oro de dieciocho peniques, las naves a vapor, i veinticinco centavos, oro de dieciocho peniques, las naves a vela que se ocupen esclusivamente en el comercio de cabotaje\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-261008",
+  "type": "statute",
+  "title": "MODIFICA EL D.F.L. N.o 256, DE 20 DE MAYO DE 1931, QUE\nAUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA FUNDAR\nPOBLACIONES O CONCEDER HIJUELAS A LOS CIUDADANOS\nCHILENOS O EXTRANJEROS NATURALIZADOS EN CHILE",
+  "short_name": "Ley 6134",
+  "status": "in_force",
+  "issued_date": "1937-10-07",
+  "in_force_date": "1937-10-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=261008",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Redúcese a tres años el plazo establecido en el artículo 4.o del Decreto con Fuerza de Ley N.o 256, de 20 de Mayo de 1931."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Esta Ley comenzará a regir desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

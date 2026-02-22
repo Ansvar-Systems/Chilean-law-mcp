@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23826",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3224",
+  "status": "in_force",
+  "issued_date": "1917-02-07",
+  "in_force_date": "1917-02-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23826",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para invertir hasta la cantidad de doscientos ocho mil sesenta pesos cuarenta y cinco centavos ($ 208,060.45), en el pago de los trabajos que a continuacion se espresan, segun la siguiente distribucion:\nEn alcantarillado en los rejimientos\nBuin y Cazadores__________________________$ 12,566 85\nEn de murallas en el rejimiento Dragones____ 3,900\nEn alcantarillado para el mismo rejimiento__ 6,900\nEn alcantarillado en el rejimiento de\nArtillería Maturana_______________________ 44,901 47\nEn pesebreras y galpon de forraje para el\nRejimiento Buin___________________________ 13,066 80\nEn ampliacion del servicio de alcantarillado\ndel mismo rejimiento______________________ 525 33\nEn la construccion de las nuevas cuadras en\nel Rejimiento Buin________________________ 126,200"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-24249",
+  "type": "statute",
+  "title": "LEI NÚM. 3.791, QUE AUTORIZA LA VENTA DE UN TERRENO FISCAL EN LA CIUDAD DE ANTOFAGASTA, CUYO PRODUCTO DEBERÁ DESTINARSE A LA CONSTRUCCION DE UN LICEO",
+  "short_name": "Ley 3791",
+  "status": "in_force",
+  "issued_date": "1921-09-05",
+  "in_force_date": "1921-09-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24249",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para vender, en subasta pública, los terrenos fiscales concedidos en uso, en la ciudad de Antofagasta, a la Compañía Huanchaca de Bolivia por decreto número 3,543, de 22 de Diciembre de 1902, los que comprenden 4,356.25 metros cuadrados, limitados al Oriente, por una propiedad de la citada Compañía i al Norte, Occidente i Sur, por las calles Prat, Colon i Baquedano, respectivamente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° El mínimum para la subasta pública será la tasacion hecha por una comision nombrada, para este efecto, por S.E. el Presidente de la República."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° El producto del citado remate se destinará a la construccion de un edificio para el Liceo de Hombres de dicha ciudad."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Esta lei comenzará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

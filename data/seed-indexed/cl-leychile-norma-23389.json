@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23389",
+  "type": "statute",
+  "title": "DISPONE QUE EN SANTIAGO EL IMPUESTO DE HABERES MUEBLES E INMUEBLES  SEA PERCIBIDO POR EL FISCO, DURANTE SEIS MESES, PARA ATENDER AL SERVICIO DE ASEO E HIJIENE DE LA CIUDAD. DECLARA INEMBARGABLES LAS PROPIEDADES I MATERIALES AFECTOS AL SERVICIO DE LA POLICIA DE ASEO I AUTORIZA EL PAGO AL PERSONAL DE ESTE SERVICIO  DE LOS SALARIOS DEVENGADOS E INSOLUTOS",
+  "short_name": "Ley 2618",
+  "status": "in_force",
+  "issued_date": "1912-01-24",
+  "in_force_date": "1912-01-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23389",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- El impuesto de haberes muebles e inmuebles del territorio municipal de Santiago, será percibido por el Fisco por el término de seis meses. El pago se efectuará en la Tesorería Municipal con intervencion de un funcionario designado por el Presidente de la República.\nEl Presidente de la República invertirá el producto de dicho impuesto en los servicios estraordinarios de aseo e hijiene de la ciudad de Santiago, que estarán a su cargo durante el mismo tiempo, i reintegrará en arcas municipales el sobrante de este impuesto si lo hubiere.\nLos bienes muebles e inmuebles afectos al servicio de la Policía de Aseo serán inembargables con arreglo a la disposicion del artículo 466, núm. 17, del Código de Procedimiento Civil, i quedarán a disposicion del Presidente de la República durante el plazo de seis meses establecido en el inciso 1.\nSe faculta al Presidente de la República para que de los fondos que deba percibir a virtud de esta lei, pague los salarios devengados e insolutos de los empleados i trabajadores de la Policía de Aseo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Esta lei principiará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

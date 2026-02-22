@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24114",
+  "type": "statute",
+  "title": "Lei núm. 3,613, que concede fondos para enviar;médicos a Europa o Estados Unidos a estudiar lo;relacionado con las enfermedades de trascendencia;social, i concede fondos para adquisicion de materiales;i construccion de Policlínicos.",
+  "short_name": "Ley 3613",
+  "status": "in_force",
+  "issued_date": "1920-03-05",
+  "in_force_date": "1920-05-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24114",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para invertir la suma de treinta mil pesos ($30,000) oro de 18 peniques para enviar a Estados Unidos o Europa a cinco médicos que se hayan recibido despues de 1912, prévio concurso público, en conformidad a las bases que acuerde la Facultad de Medicina, con aprobacion del Gobierno, i siempre que los interesados acrediten conocer el idioma del pais al cual deben trasladarse. Entre ellos deberá haber una doctora.\nDos médicos estudiarán bacteriolojía, serolojía e hijiene pública; otros dos profilaxia i tratamiento de las enfermedades sociales (organizacion de clínicas municipales, consultorios públicos, etc.; lejislacion i reglamentacion sobre esas materias), finalmente, la doctora se dedicará a estudiar profilaxia i tratamiento de las enfermedades de trascendencia social en las mujeres i niños.\nLos dos médicos que estudiarán bacteriolojía, serolojía e hijiene pública estarán obligados a servir en la administracion pública, por dos años, un puesto remunerado en el ramo de su especialidad.\nPara los demas este espacio de tiempo será de cinco años.\nTodos estarán, asimismo, obligados a presentar a su regreso un informe al Gobierno del resultado de sus estudios i de la manera mas práctica de introducir en Chile los métodos de tratamiento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Autorízase igualmente al Presidente de la República para que invierta la suma de cincuenta mil pesos ($50,000) oro de 18 peniques, en la adquisicion de los instrumentos necesarios para el reconocimiento de los jérmenes de las enfermedades sociales, como tambien para la adquisicion de medicinas i de vacunas contra ellas, así como material de profilaxia contra las mismas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Se autoriza al Presidente de la República para invertir la suma de veinticinco mil pesos ($25,000) en la construccion de un Policlínico en el Hospital de San Vicente, anexo a la Clinica Médica, que actualmente está a cargo del Dr. García Guerrero.\nAutorízase, asimismo, al Presidente de la República para invertir la suma de seis mil pesos ($6,000) en pagar los trabajos que se adeudan por la construccion del anfiteatro para la Clínica de niños, en el Hospital de Niños Roberto del Rio.\nAutorízase tambien al Presidente de la República para invertir hasta la cantidad de cien mil pesos ($ 100,000) en el establecimiento de policlínicos destinados a combatir las enfermedades de trascendencia social."
+    }
+  ],
+  "definitions": []
+}

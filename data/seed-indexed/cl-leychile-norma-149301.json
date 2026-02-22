@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-149301",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4550",
+  "status": "in_force",
+  "issued_date": "1929-01-28",
+  "in_force_date": "1929-02-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149301",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Autorízase al Presidente de la República para que invierta durante el año 1929, en los gastos que demande la concurrencia de Chile a la Exposición Ibero-Americana de Sevilla, los fondos sobrantes en Tesorería al 31 de Diciembre de 1928, que fueron concedidos con igual objeto por ley número 4,324, de 23 de Diciembre de 1927."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23745",
+  "type": "statute",
+  "title": "PRORROGA LA AUTORIZACION CONCEDIDA A LA MUNICIPALIDAD DE LA SERENA PARA CONTRATAR UN EMPRESTITO POR L 36,000, CON EL AGREGADO DE QUE TAMBIEN PODRA CONTRATARSE EN MONEDA DE LOS ESTADOS UNIDOS DE NORTE AMERICA.",
+  "short_name": "Ley 3111",
+  "status": "in_force",
+  "issued_date": "1916-09-04",
+  "in_force_date": "1916-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23745",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Prorrógase por el término de un año i a contar desde la terminacion de la prórroga acordada por lei número 3,032, de 11 de Setiembre de 1915, la autorizacion concedida a la Municipalidad de La Serena para contratar el empréstito a que se refiere la lei número 2,905, de 22 de Julio de 1914."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Este empréstito podrá ser tambien contratado en moneda de los Estados Unidos de América."
+    }
+  ],
+  "definitions": []
+}

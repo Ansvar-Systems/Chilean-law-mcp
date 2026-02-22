@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-285254",
+  "type": "statute",
+  "title": "FIJA LA HORA OFICIAL PARA TODA LA REPÚBLICA",
+  "short_name": "Ley 8522",
+  "status": "repealed",
+  "issued_date": "1946-08-27",
+  "in_force_date": "1947-05-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=285254",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o La hora oficial para toda la República será desde el 1.o de Septiembre al 31 de Marzo de cada año la del meridiano del Observatorio Astronómico de Lo Espejo, adelantada en 42 minutos y 45 segundos, la cual corresponde al 20° huso horario, cuatro horas al Oeste de Greenwich, y se denominará Hora de Verano. Desde el 1.o de Abril al 31 de Agosto será la del Meridiano del Observatorio de Lo Espejo atrasada en 17 minutos y 15 segundos, la cual corresponde al 19° huso horario, cinco horas al Oeste de Greenwich, y se denominará Hora de Invierno."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Los cambios de un régimen a otro se efectuarán de acuerdo con las señales emitidas por los péndulos del Observatorio Astronómico de Lo Espejo en la siguiente forma: el día 31 de Marzo de cada año, a las 24 horas, será atrasada la hora en sesenta minutos, y el día 31 de Agosto de cada año, a las 23 horas, será adelantada la hora en sesenta minutos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo.3.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio. Al tiempo de entrar en rigor la presente ley, se fijará la hora oficial para toda la República con arreglo al horario de Verano señalado en el artículo 1.o."
+    }
+  ],
+  "definitions": []
+}

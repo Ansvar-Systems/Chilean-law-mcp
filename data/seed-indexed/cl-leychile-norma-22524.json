@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22524",
+  "type": "statute",
+  "title": "SUPLEMENTOS",
+  "short_name": "Ley 1276",
+  "status": "in_force",
+  "issued_date": "1899-11-18",
+  "in_force_date": "1899-11-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22524",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédense los siguientes suplementos al presupuesto de Industria i Obras Públicas.\nPartida 18\nItem 1 Trasportes i fletes_______________ $ 3,000\n\" 2 Auxiliares i suplentes____________ 1,000\n\" 4 Imprevistos_______________________ 6,000\nPartida 22\nItem 2 Auxiliares i suplentes____________ $ 2,000\n\" 3 Trasportes i fletes_______________ 12,000\n\" 4 Imprevistos_______________________ 6,000"
+    }
+  ],
+  "definitions": []
+}

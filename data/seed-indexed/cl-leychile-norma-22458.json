@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-22458",
+  "type": "statute",
+  "title": "Ferrocarril de Pan de Azúcar a Chañaral",
+  "short_name": "Ley 1190",
+  "status": "in_force",
+  "issued_date": "1899-01-27",
+  "in_force_date": "1899-01-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22458",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Concédese a los señores Arturo Scrogie i don Juan Sewel Gana, o a quien sus derechos represente, permiso para construir i esplotar una línea de ferrocarril a vapor, de un metro, que partiendo del puerto de Pan de Azúcar, se dirija al interior en el departamento de Chañaral."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédese, igualmente, el uso de los terrenos fiscales necesarios para la construccion de la línea, sus estaciones i anexos ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se declaran de utilidad pública los terrenos de particulares i municipales necesarios para la construccion de la línea i sus accesorios."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Los planos de la obra serán sometidos a la aprobacion del Presidente de la República, en el término de un año contado desde la promulgacion de la presente lei; los trabajos de construccion de la línea se comenzarán en el término de un año, despues de aprobados los planos, debiendo quedar concluida i entregada al tráfico público en tres años despues de dar principio a los trabajos.\nA igual aprobacion se someterán cada tres años las tarifas de fletes i pasajes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Se declaran libres de derechos de internacion las maquinarias a vapor i eléctricas, los rieles i demas materiales para la construccion i equipo de la línea."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Los concesionarios no podrán pedir indemnizacion alguna por los cruzamientos i empalmes que fuera necesario hacer en los ferrocarriles que el Estado construya.\nEstos trabajos se harán a costa del Estado."
+    }
+  ],
+  "definitions": []
+}

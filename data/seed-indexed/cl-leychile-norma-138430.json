@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138430",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2880",
+  "status": "in_force",
+  "issued_date": "1914-02-04",
+  "in_force_date": "1914-03-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138430",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese a don Máximo R. Lira el derecho a jubilacion que le correspondería como Enviado Estraordinario i Ministro Plenipotenciario, i se le declara de abono el tiempo que le falta para cumplir cuarenta años de servicios."
+    }
+  ],
+  "definitions": []
+}

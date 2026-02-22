@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-24006",
+  "type": "statute",
+  "title": "Lei núm. 3,484, que concede fondos para cancelar las;cuentas pendientes del Estado.",
+  "short_name": "Ley 3484",
+  "status": "in_force",
+  "issued_date": "1919-01-29",
+  "in_force_date": "1919-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24006",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para que invierta hasta la suma de seis millones quinientos mil pesos ($ 6.500,000) moneda corriente, a fin de que con ella atienda al pago de las cuentas pendientes del Estado.\nNo se hará pago alguno con imputacion a esta lei, sino en virtud de nuevo decreto espedido por el Ministerio de Hacienda.\nEl mayor gasto que importa esta lei se deducirá del sobrante del ejercicio financiero del año 1918."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Declárase de abono a las respectivas Tesorerías la suma de ochocientos noventa i nueve mil doscientos pesos, once centavos ($ 899,200.11), que corresponde a pagos hechos por ellas fuera de Presupuesto; pero que aparecen visados favorablemente por el Tribunal de Cuentas.\nDentro de los treinta dias siguientes a la promulgacion de esta lei, el Ministerio de Hacienda dictará un decreto indicando nominativamente las Tesorerías a las cuales afecta la disposicion del inciso precedente, así como la cantidad precisa que se declara de abono a cada una."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Autorízase, tambien, al Presidente de la República para invertir hasta la suma de treinta mil pesos ($ 30,000) en remunerar al personal del Tribunal de Cuentas, de la Direccion Jeneral de Contabilidad, de la Direccion del Tesoro i del Ministerio de Hacienda que hayan intervenido o intervengan en el estudio analítico de los compromisos pendientes."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Los efectos de la presente lei serán sin perjuicio de la responsabilidad personal que corresponda a los que hayan comprometido la responsabilidad del Estado sin autorizacion lejislativa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° La presente lei comenzará a rejir desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

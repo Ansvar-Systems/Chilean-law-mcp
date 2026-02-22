@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24009",
+  "type": "statute",
+  "title": "LEI NUM. 3,487, QUE CONCEDE DERECHO A JUBILAR A DON HERIBERTO ALVAREZ.",
+  "short_name": "Ley 3487",
+  "status": "in_force",
+  "issued_date": "1919-02-05",
+  "in_force_date": "1919-02-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24009",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese, por gracia al Fiscal de la Corte de Apelaciones de Talca, don Heriberto Alvarez, el derecho a jubilar con una pension anual de quince mil pesos ($ 15,000)."
+    }
+  ],
+  "definitions": []
+}

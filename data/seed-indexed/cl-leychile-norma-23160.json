@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23160",
+  "type": "statute",
+  "title": "LEI NUM. 2,156, QUE PERMITE, POR EL AÑO DE 1909, LA RESIDENCIA DEL EJERCITO EN EL LUGAR DE LAS SESIONES DEL CONGRESO",
+  "short_name": "Ley 2156",
+  "status": "in_force",
+  "issued_date": "1908-12-14",
+  "in_force_date": "1908-12-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23160",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Permítese, por el término de un año, la residencia de los cuerpos del Ejército permanente en el lugar de las sesiones del Congreso Nacional i diez leguas a su circunferencia."
+    }
+  ],
+  "definitions": []
+}

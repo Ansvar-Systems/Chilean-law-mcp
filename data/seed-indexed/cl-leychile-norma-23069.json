@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23069",
+  "type": "statute",
+  "title": "LEI NUM. 2,012 QUE AUTORIZA EL PAGO DE CANTIDADES DEL PRESUPUESTO DE GUERRA QUE NO SE INVIRTIERAN EN EL AÑO 1906.",
+  "short_name": "Ley 2012",
+  "status": "in_force",
+  "issued_date": "1907-09-02",
+  "in_force_date": "1907-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23069",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTÍCULO ÚNICO. Se autoriza al Presidente de la República para invertir en el servicio del Ejército las siguientes cantidades que no alcanzaron a pagarse en el presupuesto de 1906:\nSetenta i cinco mil pesos en forraje; veinticinco mil pesos en pasajes i fletes, i cuarenta i nueve mil pesos en viáticos."
+    }
+  ],
+  "definitions": []
+}

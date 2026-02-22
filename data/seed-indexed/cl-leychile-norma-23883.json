@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23883",
+  "type": "statute",
+  "title": "LEI NUM. 3,305, QUE CONCEDE UNA INDEMNIZACION A LOS OFICIALES DEL BATALLON MAGALLANES.",
+  "short_name": "Ley 3305",
+  "status": "in_force",
+  "issued_date": "1917-09-22",
+  "in_force_date": "1917-09-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23883",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para que invierta hasta la cantidad de veinte mil pesos ($ 20,000) en indemnizar a los Oficiales del Batallon Magallánes, los perjuicios sufridos con motivo del incendio ocurrido en el Casino de Oficiales del espresado Batallon.\nEl gasto se deducirá del producto del arrendamiento de terrenos fiscales en Magallánes."
+    }
+  ],
+  "definitions": []
+}

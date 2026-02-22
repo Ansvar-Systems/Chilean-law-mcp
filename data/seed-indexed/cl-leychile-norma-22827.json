@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22827",
+  "type": "statute",
+  "title": "Que crea el departamento de Santa Cruz en la;provincia de Curicó",
+  "short_name": "Ley 1663",
+  "status": "in_force",
+  "issued_date": "1904-07-30",
+  "in_force_date": "1904-07-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22827",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero. Se crea en la provincia de Curicó un nuevo departamento con el nombre de \"Santa Cruz\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° La cabecera del nuevo departamento será el pueblo de Santa Cruz, i los límites de su territorio los siguientes:\nAl norte, el límite de la provincia de Curicó que la separa de la de Colchagua, en la parte comprendida entre San José de Toro i el Arrayan, i en seguida, la cadena de cerros de Ranquihue hasta dar frente a la de los cerros de Nilahue o Alcántara;\nAl oeste, la cumbre de esta última cadena hasta el cerro de Ránguil;\nAl sur, la cadena de los cerros de Caune hasta los de Quiriñeo, siguiendo las cumbres mas altas; i Al este, las cumbres de los cerros de \"Paredones de Auquinco\" hasta el punto en que se estrella en ellos el Chimbarongo frente a San José de Toro.\nCon arreglo a estos límites quedarán modificados los deslindes respectivos del nuevo departamento, con los de Curicó i Vichuquen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El nuevo departamento tendrá un juez de letras, cuya residencia será la cabecera del departamento."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° La representacion de la provincia de Curicó, en la Cámara de Diputados, se modifica en la forma siguiente:\nCada uno de los departamentos de Curicó, Vichuquen i Santa Cruz, elejirán un Diputado."
+    }
+  ],
+  "definitions": []
+}

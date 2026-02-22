@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25523",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR\nLAS SUMAS QUE MENCIONA EN LA CONSTRUCCION DE EDIFICIOS\nPARA HOSPITALES EN LAS CIUDADES QUE INDICA",
+  "short_name": "Ley 7378",
+  "status": "in_force",
+  "issued_date": "1942-11-16",
+  "in_force_date": "1942-11-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25523",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Autorízase al Presidente de la República para invertir durante un período de tres años, las siguientes cantidades anuales:\n$ 1.100,000 en la construcción de un edificio para Hospital en la ciudad de Ancud;\n$ 400,000 en la construcción de un edificio para Hospital en la ciudad de Achao."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Estas construcciones se harán de material sólido y de acuerdo con los planos y estudios confeccionados por la Dirección General de Beneficencia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- El gasto que demanden estas obras se financiará con cargo a las entradas provenientes de la ley N° 7,160, de 21 de Enero de 1942, y a contar del 1° de Enero de 1943."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

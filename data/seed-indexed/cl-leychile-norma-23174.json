@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23174",
+  "type": "statute",
+  "title": "LEI NUM. 2,174, QUE CONCEDE LIBERACION DE DERECHOS DE INTERNACION AL EDIFICIO DEL HOSPITAL DE TEMUCO I SUS ACCESORIOS.",
+  "short_name": "Ley 2174",
+  "status": "in_force",
+  "issued_date": "1909-02-19",
+  "in_force_date": "1909-02-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23174",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Decláranse libres de derechos de internacion el edificio del hospital de Temuco i sus accesorios i los útiles de medicina i cirujía destinados al tratamiento i curacion gratuitos de nacionales i especialmente de indíjenas desvalidos de la Araucanía, legados por el señor Alfred Robert de Lóndres i a cargo del señor George Aylmer Baynes, doctor en medicina i cirujía de la Universidad de Mc Gill en Canadá."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22428",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1144",
+  "status": "in_force",
+  "issued_date": "1899-01-11",
+  "in_force_date": "1899-01-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22428",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1°. Se autoriza al Presidente de la República para que pague a don Moises Espoz la suma de ciento treinta mil pesos, con sus intereses respectivos, que la Municipalidad de Santiago ha sido obligada a pagar por sentencia de 27 de diciembre de 1897, como indemnizacion del valor de las vertientes i terrenos espropiados en Vitacura."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2°. Suspéndense los efectos de lo dispuesto en el artículo 3° de la lei número 1,012, de 31 de enero de 1898, por todo el tiempo necesario para que el Estado sea reembolsado con el producido líquido de la Empresa de Agua Potable de Santiago, de la suma que se pague al señor Espoz en virtud de lo dispuesto en el artículo anterior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3°. No son embargables por ningun título las propiedades i rentas de la Empresa de Agua Potable de Santiago, durante el tiempo que permanezca dicha Empresa bajo la dependencia del Fisco."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4°. Esta lei principiará a rejir desde su promulgacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

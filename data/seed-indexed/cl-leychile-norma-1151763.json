@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1151763",
+  "type": "statute",
+  "title": "PRORROGA LA VIGENCIA DE LA LEY Nº 20.867, EN LOS TÉRMINOS QUE INDICA",
+  "short_name": "Ley 21286",
+  "status": "amended",
+  "issued_date": "2020-11-12",
+  "in_force_date": "2025-11-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1151763",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.- Prorrógase por diez años, a contar de la fecha de su expiración, la vigencia de la ley Nº 20.867, que suspende por el plazo de cinco años la inscripción de taxis en el Registro Nacional de Servicios de Transporte de Pasajeros.\nDurante este periodo, facúltase al Ministerio de Transportes y Telecomunicaciones para que, en casos calificados técnicamente de acuerdo al reglamento, pueda autorizar nuevas inscripciones en el Registro Nacional de Servicios de Transporte de Pasajeros.\nLos criterios reglamentarios para autorizar nuevas inscripciones deberán contemplar, al menos:\na) Recorridos: sólo podrán autorizarse nuevas inscripciones de recorridos de taxis colectivos para aquellas zonas donde no exista servicio o en que, existiendo, sea insuficiente para atender las necesidades de un sector determinado, de acuerdo con los parámetros e informes técnicos que establezca el reglamento.\nb) Modalidad: no se podrá autorizar el cambio de una modalidad a otra.\nc) Límite al Registro Nacional de Servicios de Transporte de Pasajeros: las inscripciones que se autoricen no podrán superar en más de un 4% el número de taxis colectivos y en un 20% el número de taxis de otras modalidades inscritos a la fecha de entrada en vigencia de la ley Nº20.867."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- Queda estrictamente prohibido el cambio de modalidad de transporte de pasajeros menores, desde taxis básicos, ejecutivos, de turismo o de cualquier otro, a taxis colectivos.\"."
+    }
+  ],
+  "definitions": []
+}

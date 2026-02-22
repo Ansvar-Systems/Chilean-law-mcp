@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25521",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR\nHASTA LA SUMA DE $ 3.000,000 PARA LA CREACION DE UNA\nESCUELA DE ARTESANOS EN CALAMA",
+  "short_name": "Ley 7375",
+  "status": "in_force",
+  "issued_date": "1942-11-10",
+  "in_force_date": "1942-11-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25521",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Autorízase al Presidente de la República para invertir hasta la suma de tres millones de pesos en los gastos que demande la creación de una escuela de artesanos en la ciudad de Calama, y para la construcción de sus edificios y dotación de sus talleres."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El gasto a que se refiere el artículo 1° se imputará al rendimiento que produzca la ley N° 7,160, durante el año 1943."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-29187",
+  "type": "statute",
+  "title": "LIBERA DE DERECHOS ARANCELARIOS Y GRAVAMENES QUE\nINDICA A IMPORTACION DE MINERALES Y ABONOS QUE SEÑALA,\nQUE EFECTUE EL BANCO DEL ESTADO DE CHILE",
+  "short_name": "Ley 17653",
+  "status": "repealed",
+  "issued_date": "1972-05-05",
+  "in_force_date": "1976-06-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29187",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.- Libérase la importación de minerales\nde anhídrido fosfórico y de abonos elaborados que\nefectúe el Banco del Estado de Chile y la Sociedad\nChilena de Fertilizantes Limitada, de los derechos\narancelarios y demás gravámenes que se perciben por las\nAduanas, de la tasa de despacho establecida en el\nartículo 190 de la ley N° 16.464 y sus modificaciones de los impuestos a que se refiere la ley N° 12.120 y sus modificaciones y, en general, de todo impuesto, regalía, tasa, sobretasa, tarifa adicional y derecho, incluso los que correspondan a la Empresa Portuaria de Chile por almacenaje, movilización, operaciones complementarias, uso de vías, arrastre de carros, etcétera, comprendidos en el decreto N° 285, de 5 de Julio de 1968, del Ministerio de Obras Públicas y Transportes y demás servicios semejantes o equivalentes que preste dicha Empresa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- La importación de minerales de anhídrido fosfórico y de abonos elaborados, destinados a la fabricación de abonos nacionales de uso agrícola, gozará también de la liberación del artículo anterior, cualquiera que sea el importador, siempre que haya sido autorizada previamente por el Ministerio de Agricultura. El decreto respectivo deberá llevar, además, la firma del Ministro de Hacienda."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.- La Empresa Portuaria de Chile facturará al Fisco las tarifas de almacenaje, movilización y cualesquiera otras que le corresponda cobrar por los servicios derivados de la importación de los minerales y abonos exentos en virtud de lo dispuesto en los dos artículos precedentes."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.- Deróganse el artículo único de la ley N° 10.323 y el artículo 59 de la ley N° 17.382."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- los recursos que la Empresa Portuaria Chile haya obtenido por la aplicación del artículo 59 de de la ley N° 17.382 los transferirá, dentro del plazo estipulado en dicha ley, al Banco del Estado de Chile con el fin de que éste bonifique en igual cantidad el precio de venta de los productos importados en conformidad a la ley N° 10.323.\"."
+    }
+  ],
+  "definitions": []
+}

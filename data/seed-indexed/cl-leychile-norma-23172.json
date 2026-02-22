@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23172",
+  "type": "statute",
+  "title": "LEI NUM. 2,169, QUE CONCEDE PERMISO A LOS CAPITANES SEÑORES FRANCISCO J. DIAZ I PEDRO CHARPIN PARA QUE PUEDAN PRESTAR SUS SERVICIOS A LAS ORDENES DEL GOBIERNO DE COLOMBIA.",
+  "short_name": "Ley 2169",
+  "status": "in_force",
+  "issued_date": "1909-03-04",
+  "in_force_date": "1909-03-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23172",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a los capitanes señores Francisco J. Diaz i Pedro Charpin, permiso para que puedan prestar sus servicios a las órdenes del Gobierno de la República de Colombia, conservando sus empleos i antigüedades en el Ejército de Chile."
+    }
+  ],
+  "definitions": []
+}

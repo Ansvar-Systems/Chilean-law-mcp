@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-249579",
+  "type": "statute",
+  "title": "ABONA, POR GRACIA, EL TIEMPO QUE INDICA, SERVIDO POR DON\nRAMON LETELIER L. COMO RECEPTOR DE MENOR CUANTIA DE\nTALCA",
+  "short_name": "Ley 14742",
+  "status": "in_force",
+  "issued_date": "1961-12-07",
+  "in_force_date": "1961-12-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=249579",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Abónese, por gracia y para todos los efectos legales, el tiempo servido desde el 16 de Noviembre de 1931 hasta el 24 de Febrero de 1936, por don Ramón Letelier Letelier, como Receptor de Menor Cuantía de Talca."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Don Ramón Letelier, para los efectos de su jubilación, deberá integrar en la Caja de Empleados Públicos y Periodistas, las imposiciones correspondientes a este período, tomando como base el sueldo correspondiente al último grado del escalafón subalterno del Poder Judicial, en el año 1931."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24409",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4018",
+  "status": "in_force",
+  "issued_date": "1924-06-04",
+  "in_force_date": "1924-06-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24409",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Elevanse las remuneraciones de que actualmente disfruta el personal de empleados del Con- Congreso Nacional, en la siguiente proporcion:\nTreinta por ciento las mayores de catorce mil pesos;\nCuarenta por ciento las comprendidas entre siete y catorce mil pesos;\nCincuenta por ciento las comprendidas entre tres y siete mil pesos; y\nSetenta por ciento las remuneraciones menores de tres mil pesos.\nLos empleados a que se refiere esta lei, no podrán percibir gratificaciones estraordinarias.\""
+    }
+  ],
+  "definitions": []
+}

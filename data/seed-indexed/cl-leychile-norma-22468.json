@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22468",
+  "type": "statute",
+  "title": "LEGACION EN URUGUAI I PARAGUAI",
+  "short_name": "Ley 1200",
+  "status": "in_force",
+  "issued_date": "1899-02-02",
+  "in_force_date": "1899-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22468",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir, por el presente año, la suma necesaria para el mantenimiento de la Legacion en Uruguai i Paraguai, con el personal autorizado por la lei de presupuestos de 1898."
+    }
+  ],
+  "definitions": []
+}

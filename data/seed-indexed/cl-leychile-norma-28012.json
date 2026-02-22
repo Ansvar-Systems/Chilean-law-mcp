@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28012",
+  "type": "statute",
+  "title": "SUBSTITUYE Y ACLARA EL ARTICULO 303° DEL CODIGO DEL TRABAJO",
+  "short_name": "Ley 14996",
+  "status": "in_force",
+  "issued_date": "1962-10-30",
+  "in_force_date": "1962-11-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28012",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo único.- Sustitúyese el artículo 303 del Código del Trabajo por el siguiente:\n\"Artículo 303.- Las acciones para reclamar las prestaciones, indemnizaciones, rentas o pensiones por accidentes del Trabajo y enfermedades profesionales, prescribirán en el término de cinco años, a contar desde la fecha del accidente o desde que se constató la enfermedad. En el caso de silicosis, el plazo de prescripción será de quince años, contados desde que se constató la enfermedad.\nEsta prescripción no correrá contra los menores de dieciséis años.\""
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "\"Artículo transitorio.- Los beneficios concedidos por la presente ley se harán extensivos a aquellos individuos afectados por incapacidad permanente total debida a enfermedad profesional, que hayan quedado al margen de los beneficios de la legislación anteriormente vigente, por prescripción de los derechos en los plazos establecidos en los artículos 299 a 303 del Código del Trabajo. Corresponderá al interesado probar que ha sido afectado por esa prescripción.\nEstas pensiones serán de un monto igual a la pensión mínima de incapacidad total y se reajustarán de acuerdo con las normas legales generales.\""
+    }
+  ],
+  "definitions": []
+}

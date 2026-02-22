@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1052185",
+  "type": "statute",
+  "title": "ESTABLECE LA OBLIGACIÓN DE LOS CANALES DE TELEVISIÓN DE LIBRE RECEPCIÓN DE TRANSMITIR PROPAGANDA ELECTORAL PARA LAS ELECCIONES PRIMARIAS PRESIDENCIALES EN LOS TÉRMINOS QUE INDICA",
+  "short_name": "Ley 20681",
+  "status": "in_force",
+  "issued_date": "2013-06-24",
+  "in_force_date": "2013-06-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1052185",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Incorpórase en la ley N°20.640, que establece el Sistema de Elecciones Primarias para la nominación de candidatos a Presidente de la República, Parlamentarios y Alcaldes, el siguiente Título IV, nuevo, pasando el actual a ser Título V:\n\"Título IV\nDe la transmisión de propaganda electoral por los canales de televisión\nArtículo 42 bis.- En las elecciones primarias para la nominación de candidatos al cargo de Presidente de la República, los canales de televisión de libre recepción deberán destinar gratuitamente quince minutos diarios de sus transmisiones a propaganda electoral, los que se distribuirán en partes iguales entre los partidos o pactos que participen.\nPara estos efectos, los canales de televisión determinarán, en conjunto con los partidos o pactos que participen, el horario en que se efectuarán las transmisiones. En caso de desacuerdo, la propuesta de los canales deberá ser aprobada por el Consejo Nacional de Televisión.\nLa transmisión de la propaganda electoral a que se refiere el inciso anterior sólo podrá efectuarse desde el décimo octavo hasta el tercer día anterior al de la elección primaria.\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- Para las elecciones primarias correspondientes al año 2013, la propaganda electoral señalada en el artículo anterior sólo tendrá lugar desde el octavo hasta el tercer día anterior al de la elección primaria.\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23870",
+  "type": "statute",
+  "title": "LEI NUM. 3,291, QUE CONCEDE FONDOS PARA LOS GASTOS OCASIONADOS POR LA INTERNACION DE LOS TRIPULANTES DEL CRUCERO ALEMAN DRESDEN.",
+  "short_name": "Ley 3291",
+  "status": "in_force",
+  "issued_date": "1917-09-21",
+  "in_force_date": "1917-10-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23870",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la cantidad de cien mil pesos oro de 18 peniques ($ 100,000) i cien mil pesos moneda corriente ($ 100,000) en los gastos ocasionados por la internacion de los tripulantes del crucero aleman \"Dresden\"."
+    }
+  ],
+  "definitions": []
+}

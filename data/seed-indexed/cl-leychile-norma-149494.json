@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-149494",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4580",
+  "status": "in_force",
+  "issued_date": "1929-01-31",
+  "in_force_date": "1929-02-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149494",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Declárase de utilidad pública y autorízase la expropiación de los terrenos necesarios para la ejecución del plan de edificación escolar que deba realizarse en conformidad a los Presupuestos extraordinarios y en cumplimiento de la ley número 4,303, de 16 de Febrero de 1928.\nEl Presidente de la República determinará, en el plazo de un año, las propiedades que deban expropiarse de acuerdo con el inciso anterior, procediéndose en lo demás, en conformidad a la ley número 4,496, de 15 de Diciembre de 1928, en lo que fuere aplicable.\nLa cabida máxima de los terrenos que deban expropiarse en virtud de este artículo no podrá exceder de dos hectáreas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Las indemnizaciones a que diere lugar el cumplimiento de la presente ley y que se paguen en el curso del presente año, se deducirán de los fondos consultados en los distintos rubros destinados a edificación escolar en el Presupuesto Extraordinario para el presente año."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

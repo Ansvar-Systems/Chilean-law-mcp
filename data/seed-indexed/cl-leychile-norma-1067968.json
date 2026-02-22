@@ -1,0 +1,67 @@
+{
+  "id": "cl-leychile-norma-1067968",
+  "type": "statute",
+  "title": "ASAMBLEAS PROVINCIALES.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1826-08-30",
+  "in_force_date": "1826-08-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1067968",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Las provincias instituirán sus Asambleas: el local en que se reúnan será el que la lei de demarcacion designe por capital."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° En cada curato de la Provincia, se elejirá un Diputado para la Asamblea. La eleccion, se practicará en la misma forma, y exijiendo en los electores y elijiendos las mismas calidades que previno la convocatoria al presente Congreso nacional sin otras diferencias que las siguientes:\n1.° Que los electores han de saber leer y escribir, lo que acreditarán a presencia de la mesa de eleccion, y en su defecto la de tener un capital de mil pesos.\n2.° Que pueden ser elejidos naturales o vecinos de la provincia.\n3.° La de no nombrar suplentes."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° El local en que haya de hacerse la eleccion lo designará el juez o jueces del distrito del curato."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Ninguna Asamblea se compondrá de mas de veinticuatro Diputados, ni de ménos de doce. En la provincia en que hayan mas de veinticuatro curatos los dos de menos poblacion reunirán sus votos para la eleccion de un solo Diputado. En los de menos de doce los de mas poblacion elejirán dos, y asi progresivamente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° La instalacion de las Asambleas se verificará en todas las provincias el dia dieziocho de Setiembre si fuese posible."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.° El Congreso constituyente dictará con oportunidad las reglas convenientes para evitar los embarazos que la falta de práctica pueda producir en sus primeras funciones."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.° La comision de constitucion se contraerá desde el dia con asiduidad a la formacion de ésta a fin de presentarla al Congreso a la mayor brevedad"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8.° Las Asambleas luego que reciban la Constitucion que el Congreso sancionare procederán a su reconocimiento y examen, y le avisarán en el preciso término de un mes si la admiten o no."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "Art. 9.° Si la instalacion de las Asambleas se verificase antes que el Congreso haya sancionado la Constitucion, y remitidoseles para su aceptacion podrán contraerse entre tanto a su organizacion interior."
+    }
+  ],
+  "definitions": []
+}

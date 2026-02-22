@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-253442",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3072",
+  "status": "in_force",
+  "issued_date": "1916-03-17",
+  "in_force_date": "1916-03-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=253442",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º En todas las poblaciones dotadas de servicio de agua potable, cuya esplotacion se haga por el Estado o las municipalidades, será obligacion de todos los propietarios instalar arranques domiciliarios para el servicio de sus respectivos inmuebles, dentro del plazo de seis meses contados desde el dia en que se declare en esplotacion la cañería matriz correspondiente. Esta declaracion deberá publicarse en un diario de la localidad.\nLa Empresa atenderá a la conservacion de los arranques domiciliarios desde el empalme de la cañería matriz hasta el medidor.\nEl diámetro de los arranques no podrá ser inferior a seis milímetros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Los particulares que tuvieren servicio propio de agua potable hijiénica, calificada como tal por la autoridad sanitaria respectiva, no estarán obligadas a establecer en sus casas o establecimientos el servicio fiscal o municipal."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º El Presidente de la República dispondrá que se establezcan los arranques domiciliarios con fondos fiscales, por cuenta de los propietarios, en los dos casos siguientes:\na) Cuando lo solicitare así el propietario que habite el inmueble cuyo avalúo para el pago de la contribucion de haberes no pase de cinco mil pesos i que no tenga otro bien raiz en el departamento.\nEn este caso el propietario pagará al Fisco el precio de las obras, en el plazo de cinco años; sin intereses, por dividendos anuales de veinte por ciento, abonando el interes del ocho por ciento anual en caso de mora en el pago de cada dividendo.\nb) Cuando los propietarios, no comprendidos en los incisos precedentes, no hayan ejecutado las obras en los plazos reglamentarios.\nLas cuentas del costo de las obras que ejecute el Fisco, en conformidad a los incisos a) i b), deberán ser aprobadas por la Dirección del Servicio i tendrán mérito ejecutivo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Los propietarios que no paguen el valor del consumo de agua potable en la forma i plazos establecidos por los reglamentos, deberán abonar el interes penal de dos por ciento mensual.\nEl cobro se hará en la misma forma en que las Municipalidades efectúen el del impuesto de haberes i, llegado el caso de requerimiento judicial, el procedimiento ejecutivo se ajustará a las reglas especiales establecidas por la lei para la percepcion de dicho impuesto, debiendo trabarse embargo solo sobre bienes muebles."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º En las ciudades en que se haya establecido, con anterioridad a la presente lei, el servicio de agua potable, será obligacion de los propietarios de inmuebles el dotar de este servicio a sus respectivas propiedades, dentro del plazo de un año, contado desde la fecha de la publicacion de esta lei en el \"Diario Oficial\""
+    }
+  ],
+  "definitions": []
+}

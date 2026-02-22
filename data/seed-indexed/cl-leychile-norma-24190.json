@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24190",
+  "type": "statute",
+  "title": "LEI NUM. 3,709, QUE POSTERGA HASTA EL 31 DE DICIEMBRE DE 1921 LA CONVERCIÓN DEL PAPEL MONEDA.",
+  "short_name": "Ley 3709",
+  "status": "in_force",
+  "issued_date": "1920-12-30",
+  "in_force_date": "1920-12-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24190",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se posterga hasta el 31 de Diciembre de 1921, el plazo fijado por la lei número 3,628, de 2 de Julio de 1920, para la conversion del papel moneda de curso forzoso.\nEsta lei comenzará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

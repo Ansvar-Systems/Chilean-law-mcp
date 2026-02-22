@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23187",
+  "type": "statute",
+  "title": "LEI NUM. 2,195, QUE AUTORIZA LA INVERSION DE 44,000 LIBRAS ESTERLINAS EN LA ADQUISICION DE CAÑONES DE REPUESTO DESTINADOS A LOS BUQUES DE LA ARMADA.",
+  "short_name": "Ley 2195",
+  "status": "in_force",
+  "issued_date": "1909-08-30",
+  "in_force_date": "1909-09-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23187",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para invertir hasta la cantidad de cuarenta i cuatro mil libras esterlinas (L 44,000) en la adquisicion de cañones de repuesto destinados a los buques de la Armada."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24168",
+  "type": "statute",
+  "title": "LEI NUM. 3,677, QUE CONCEDE UN SUPLEMENTO AL PRESUPUESTO DEL INTERIOR PARA LA EMPRESA DE AGUA POTABLE DE VALPARAISO.",
+  "short_name": "Ley 3677",
+  "status": "in_force",
+  "issued_date": "1920-11-05",
+  "in_force_date": "1920-11-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24168",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para conceder un suplemento de cuatrocientos mil pesos ($ 400,000) al ítem 4,566, partida 28 del Presupuesto del Interior, para atender a los gastos imprevistos de la Empresa de Agua Potable de Valparaiso.\nEsta suma deberá deducirse de la mayor entrada que tenga dicha Empresa."
+    }
+  ],
+  "definitions": []
+}

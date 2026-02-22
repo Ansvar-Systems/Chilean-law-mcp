@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22719",
+  "type": "statute",
+  "title": "QUE REGLAMENTA LAS APUESTAS MUTUAS EN LOS HIPODROMOS",
+  "short_name": "Ley 1528",
+  "status": "repealed",
+  "issued_date": "1902-05-02",
+  "in_force_date": "1929-02-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22719",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Solamente en los hipódromos establecidos con autorizacion del Presidente de la República, i que pertenezcan a sociedades fundadas con el primordial objeto de mejorar las razas caballares, i que obtengan personería jurídica en conformidad con las leyes, podrán dichas sociedades organizar i mantener el sistema de las apuestas mútuas con arreglo a los reglamentos que se espidan por el Presidente de la República."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se fija como máximum de la comision o beneficio que puede reportar la sociedad, el diez por ciento de los fondos acumulados para las apuestas mútuas, asignándose la mitad de esa comision o beneficio a la Junta de Beneficencia de la ciudad cabecera del departamento en que se encuentre el hipódromo.\nEsta Junta de Beneficencia distribuirá los fondos que les correspondan entre los establecimientos de beneficencia que, a su juicio, fueren acreedores a este subsidio."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Las disposiciones de los artículos 277, 278 i 279 del Código Penal, se aplicarán a todo aquel que, en cualquier lugar, o bajo cualquier forma que sea, esplote las apuestas de caballos, ya sea apostando, ya ofreciendo apostar, ya directamente, ya como intermediario con el público, sin que tenga esta prescripcion otra escepcion que la establecida en el artículo 1.° de la presente lei.\nIgual disposicion se aplicará a todo propietario o jerente de establecimientos abiertos al público que permita o tolere la esplotacion de las apuestas, en cualquier forma, en el recinto de él, i a toda empresa periodística que publique avisos o informaciones ofreciendo apuestas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° El Presidente de la República dictará los reglamentos que sean necesarios para la aplicacion de esta lei."
+    }
+  ],
+  "definitions": []
+}

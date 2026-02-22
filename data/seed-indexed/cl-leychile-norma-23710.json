@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-23710",
+  "type": "statute",
+  "title": "AUTORIZA LA EMISION DE $ 10.000,000 EN BONOS PARA DESTINARLOS A LA EDIFICACION DE ESCUELAS PUBLICAS",
+  "short_name": "Ley 3069",
+  "status": "in_force",
+  "issued_date": "1916-03-21",
+  "in_force_date": "1916-06-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23710",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Se autoriza al Presidente de la República, por el término de tres años, para invertir hasta diez millones de pesos ($ 10.000,000) en la edificacion de Escuelas Públicas, en sitios que actualmente sean de propiedad del Estado i con arreglo a lo dispuesto en los artículos siguientes:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Autorízasele asimismo para emitir, con este objeto, bonos del Estado, hasta la cantidad fijada en el artículo precedente i que devenguen un interes hasta de ocho por cienta (8%) al año con amortizacion acumulativa de dos por ciento (2%) tambien anual."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- La emision de los bonos, no podrá exeder, en el primer año de la vijencia de esta lei, de dos millones de pesos; en el segundo, de tres millones de pesos i de cinco millones en el tercero, pudiendo, no obstante, acrecer las sumas que no se hubieren emitido en los años anteriores, las de los años siguientes.\nLa enajenacion de los bonos, se hará por propuestas públicas i el producto se destinará esclusivamente a la edificacion escolar."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- La construccion de los edificios se contratará por propuestas públicas, sobre la base de planos i presupuestos previamente aprobados por el Presidente de la República."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°- Autorízase al Presidente de la República para invertir, con cargo a la suma fijada en esta lei, hasta la cantidad de treinta mil pesos ($ 30,000) en abrir un concurso de planos i presupuestos para Escuelas i en premiar los mejores trabajos que se presenten."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.°- El servicio de los bonos se hará con los fondos que, para este efecto, consultará anualmente la lei de presupuestos, en la parte correspondiente al Ministerio de Instruccion Pública."
+    }
+  ],
+  "definitions": []
+}

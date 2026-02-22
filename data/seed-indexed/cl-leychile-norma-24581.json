@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24581",
+  "type": "statute",
+  "title": "Establece que Ferrocarril de Arica a La Paz se;regirá por decreto-ley 695, sin perjuicio del;decreto-ley 342 y de las estipulaciones de la Convención;Chileno-Boliviana de 1905",
+  "short_name": "Ley 4224",
+  "status": "in_force",
+  "issued_date": "1927-12-12",
+  "in_force_date": "1927-12-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24581",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Sin perjuicio de las prescripciones del decreto-ley número 342, de 13 de Marzo de 1925, y de las estipulaciones de la Convención Chileno-Boliviana, de 29 de Junio de 1905, la Administración del Ferrocarril de Arica a La Paz se regirá por las disposiciones del decreto-ley número 695, de 27 de Octubre de 1925, en lo que le sean aplicables, entendiéndose dichas disposiciones en el sentido de que las atribuciones conferidas al Consejo de Administración, corresponderán al Ministerio del ramo, y que las facultades del Director General y de los Administradores de Zona, serán ejercidas por el Administrador del referido Ferrocarril."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El Reglamento que se dicte para la aplicación de la presente ley, determinará la forma en que el Ministerio del ramo ejercerá, por sí o por intermedio del o de los organismos correspondientes, las facultades o intervención que en el citado decreto-ley número 695, se confieren al Consejo de Administración de los Ferrocarriles del Estado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

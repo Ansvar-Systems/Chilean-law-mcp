@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-139815",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3239",
+  "status": "in_force",
+  "issued_date": "1917-02-14",
+  "in_force_date": "1917-02-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=139815",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Apruébase el adjunto convenio adreferendum, celebrado entre el Fisco y la Compañía de Salitres y Ferrocarril de Agua Santa, según el cual el Estado da en arrendamiento a dicha Compañía el ferrocarril entre el Alto de Caleta Buena y Negreiros, con sus ramales y accesorios por el término de cuarenta años, a partir desde el 19 de setiembre de 1915, debiendo introducir en el referido convenio las siguientes modificaciones:\na) Declarar que los pagos que corresponda efectuar al Gobierno, en los casos previstos en el contrato, se harán en moneda nacional de oro o en títulos de la deuda pública de Chile, según la cotizacion de los bonos de la misma deuda y del mismo tipo el dia del pago, en Lóndres o en Valparaíso, a opción del Gobierno; y\nb) Establecer que siempre que el número de quintales de salitre transportado pase de dos millones quinientos mil, el cánon de arrendamiento se computará a razon de tres centavos y un décimo de centavo, oro de 18d., por quintal métrico."
+    }
+  ],
+  "definitions": []
+}

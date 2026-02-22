@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1151383",
+  "type": "statute",
+  "title": "MODIFICA EL CÓDIGO SANITARIO PARA REGULAR LA REALIZACIÓN DE ESTUDIOS Y ENSAYOS CLÍNICOS, TENDIENTES A LA OBTENCIÓN DE PRODUCTOS FARMACÉUTICOS Y DISPOSITIVOS MÉDICOS, PARA EL COMBATE DE LAS ENFERMEDADES QUE MOTIVAN UNA ALERTA SANITARIA",
+  "short_name": "Ley 21278",
+  "status": "in_force",
+  "issued_date": "2020-10-27",
+  "in_force_date": "2020-11-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1151383",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Agrégase, en el inciso final del artículo 111 E del Código Sanitario, luego del punto y aparte, que pasa a ser punto y seguido, la siguiente oración: \"No obstante, en caso de decretarse una alerta sanitaria con ocasión de una epidemia o pandemia y durante la vigencia de ésta, dicho plazo se contará desde el término del respectivo ensayo, cuando se trate de investigaciones que tengan por objeto el desarrollo de productos farmacéuticos y dispositivos médicos destinados a enfrentar las circunstancias que sirvieron de fundamento al decreto de alerta sanitaria."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- Durante la vigencia de la alerta sanitaria decretada con ocasión del brote del nuevo coronavirus (2019-NCOV) y hasta que exista una vacuna que haya superado las fases preclínicas y clínicas y que esté en condiciones de ser distribuida en el sistema de salud, las compañías de seguros que otorguen seguros y coberturas a laboratorios y entidades privadas para la realización de ensayos clínicos estarán obligadas a otorgar dichos seguros y coberturas a las universidades, a las personas jurídicas de derecho público y a las entidades privadas en asociación con las anteriores, respecto de los ensayos clínicos para el estudio de vacunas y medicamentos para el tratamiento del referido coronavirus. Tales seguros y coberturas deberán otorgarse en iguales o mejores condiciones que las conferidas a laboratorios o entidades privadas.\"."
+    }
+  ],
+  "definitions": []
+}

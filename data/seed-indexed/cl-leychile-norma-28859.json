@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28859",
+  "type": "statute",
+  "title": "INSCRIPCION EN EL REGISTRO DEL COLEGIO DE TECNICOS",
+  "short_name": "Ley 17251",
+  "status": "in_force",
+  "issued_date": "1969-12-02",
+  "in_force_date": "1969-12-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28859",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°- Introdúcense al artículo 5.° de la ley N° 12.851, de 6 de Febrero de 1958, modificado por la ley N° 15.224, de 3 de Agosto de 1963, las siguientes modificaciones:\n1.- Suprímese la conjunción \"y\" que figura al final de la letra a), sustituyendo la coma (,) que la precede por un punto y coma (;), y reemplázase por punto y coma (;) el punto final (.) de la letra b);\n2.- Reemplázase la letra c) por la siguiente:\n\"c) Los técnicos titulados en el Instituto Técnico Ferroviario \"Carlos Arias Martínez\", y\", y\n3.- Agrégase como letra d), la siguiente:\n\"d) Los egresados de las Escuelas Salesianas del Trabajo con título de técnicos o Tercer Grado Superior, que hayan cursado tres años de estudios superiores según programas declarados suficientes por el Consejo de la Universidad Técnica del Estado.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°- Otórgase un nuevo plazo de 180 días, contado desde la publicación de esta ley, para que puedan inscribirse en el Registro del Colegio de Técnicos las personas que se encuentran en los siguientes casos:\n1) Aquellas que, teniendo título de ingeniero o técnico conferido por una Universidad extranjera, acrediten haber ejercido satisfactoriamente en Chile la correspondiente profesión durante cinco años, a lo menos;\n2) Aquellas que, habiendo cursado todos los años de estudio en algunas de las Universidades o establecimientos a que se refieren los artículos 4° y 5° de la ley N° 12.851, de 6 de Febrero de 1958, no hayan obtenido su título profesional y acrediten haber ejercido satisfactoriamente en Chile la profesión respectiva, durante cinco años a lo menos, y 3) Aquellas que comprueben haber ejercido satisfactoriamente en Chile la profesión de técnico, durante diez años a lo menos, en alguna especialidad reconocida por el Colegio respectivo."
+    },
+    {
+      "provision_ref": "art3-transitorio",
+      "section": "3 Transitorio",
+      "title": "Artículo 3 Transitorio",
+      "content": "Artículo transitorio.- No será exigible a los actuales alumnos, o a los ya egresados del Tercer Grado Superior o Técnico de las Escuelas Salesianas del Trabajo, para los efectos de su inscripción en el Registro del Colegio de Técnicos, el requisito de haber cursado estudios según programas declarados suficientes por el Consejo de la Universidad Técnica del Estado; pero deberán acreditar haber estado en posesión del grado de Bachiller Industrial, o de otro equivalente, o de la Licencia Secundaria, al iniciar esos estudios.\"."
+    }
+  ],
+  "definitions": []
+}

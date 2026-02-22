@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24224",
+  "type": "statute",
+  "title": "LEI NUM. 3,749, QUE CONCEDE FONDOS PARA PAGAR LOS SUELDOS, PENSIONES, ETC., DURANTE LOS MESES DE MARZO I ABRIL DE 1921 I PARA ALIMENTACION I SUELDOS DE CONSCRIPTOS.",
+  "short_name": "Ley 3749",
+  "status": "in_force",
+  "issued_date": "1921-04-28",
+  "in_force_date": "1921-04-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24224",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para invertir hasta la cantidad de $ 2.024,896.60, en atender al pago de los sueldos i alimentacion de los conscriptos pertenecientes a la 2a., 3a. i 4a. Divisiones, cuyo acuartelamiento se ha prorrogado por el término de tres meses.\nAutorízase, asimismo, al Presidente de la República para pagar, en conformidad a lo consultado en el Presupuesto de 1920 i a las leyes de carácter permanente que los hayan modificado, los sueldos i gratificaciones de los empleados consultados en partidas fijas i variables del Presupuesto, de los empleados a contrata, los jornales, las pensiones de jubilacion i de gracia, los montepios i retiros correspondientes a los meses de Marzo i Abril del presente año, con cargo a las entradas de 1921 i con imputacion en su oportunidad al Presupuesto del presente año."
+    }
+  ],
+  "definitions": []
+}

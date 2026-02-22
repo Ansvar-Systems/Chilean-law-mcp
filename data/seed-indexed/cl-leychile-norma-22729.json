@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22729",
+  "type": "statute",
+  "title": "INUNDACIONES EN COPIAPO I SERENA.- SE AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR 35,000 PESOS EN ATENDER A LAS NECESIDADES ORIJINADAS POR DICHAS INUNDACIONES.",
+  "short_name": "Ley 1538",
+  "status": "in_force",
+  "issued_date": "1902-06-23",
+  "in_force_date": "1902-07-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22729",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la suma de veinte mil pesos ($ 20,000) en atender a las necesidades mas urjentes, orijinadas por las inundaciones en la ciudad de Copiapó; i hasta la suma de quince mil pesos ($ 15,000), con igual objeto, en la ciudad de la Serena."
+    }
+  ],
+  "definitions": []
+}

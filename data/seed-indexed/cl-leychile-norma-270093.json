@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-270093",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1880-08-31",
+  "in_force_date": "1880-09-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=270093",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTICULO 1.º\n'Se agregan al artículo 169 de la Lei de Organización i Atribuciones de los Tribunales, de 15 de octubre de 1875, los números siguientes:\n'7.º Por la aceptación de todo cargo o empleo administrativo conferido por el Presidente de la República, con escepcion de los creados por la lei de instrucción secundaria i superior, del cargo de Consejero de Estado i de los empleos diplomáticos.\n'8.º Por aceptar o continuar desempeñando el cargo de Senador o Diputado al Congreso Nacional o el de Municipal, ya sea en calidad de propietario o de suplente.\n'9.º Por la aceptación del cargo de Presidente de la República."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º\n'Las incompatibilidades establecidas por la presente lei no son aplicables a los miembros del Congreso, mientras dure su mandato actual, ni a los jueces que al presente desempeñaren funciones administrativas, sino desde el 18 de setiembre de 1881 en adelante."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º\n'Los que hubiesen desempeñado los cargos de Presidente de la República, Ministros de Estado, Intendentes de provincia, Gobernadores de departamento o secretarios de Intendencia, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, jueces letrados, fiscales, promotores fiscales, ni relatores, ya sea en propiedad, ya interinamente o como suplente, sino tres años despues de haber cesado en el desempeño de sus funciones administrativas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º\n'Queda derogado el número 1.º del artículo 171 de la citada lei de 15 de octubre de 1875.'"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-262702",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4022",
+  "status": "repealed",
+  "issued_date": "1924-06-05",
+  "in_force_date": "1924-12-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=262702",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Los jefes, oficiales e individuos de tropa del Ejército, de la guardia nacional movilizada, de la Marina y de los asimilados, de ambas institucione, que hubieren tomado parte en la guerra contra el Perú y Bolivia y que, con motivo de las operaciones bélicas, se trasladaron al territorio enemigo entre el 1.o de febrero de 1879 y el 1.o de setiembre de 1884, tendrán derecho a gozar de una pension de retiro equivalente al sueldo íntegro de su último empleo militar, la que será pagada en conformidad al monto de los sueldos que las leyes vijentes señalen a dichos empleos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Los agraciados con la presente lei, que estuvieren retirados con sueldo íntegro, en conformidad a los artículos 2.o y 6.o de la lei de 22 de diciembre de 1881, o por haber cumplido cuarenta años de servicios, tendrán un aumento de veinte por ciento sobre su pension actual de retiro."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Las familias de los jefes, oficiales, asimilados e individuos de tropa y marinería que se hubieren encontrado en alguna accion de guerra, tendrán derecho a gozar del montepío militar que les concede la lei de 22 de setiembre de 1890, aumentado en un 100/100.\nLas familias de los jefes, oficiales, y asimilados, comprendidos en los beneficios de la lei número 2,406, de 9 de setiembre de 1910, podrán optar entre el montepío que otorga esa lei o el que establece el inciso anterior."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Los que se consideren con derecho a los beneficios otorgados por la presente lei, deberán iniciar sus expedientes dentro del término de un año, a contar desde la fecha de su promulgacion."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta lei comenzará a rejir desde su promulgación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio-transitorio",
+      "section": "1 TRANSITORIO Transitorio",
+      "title": "Artículo 1 TRANSITORIO Transitorio",
+      "content": "Artículo 1.o transitorio.- Para computar las pensiones de retiro o de montepío de los que sirvieron como aspirantes de la Armada, se tomará como base el sueldo que fijan las leyes vijentes al grado de guardiamarina de segunda clase."
+    },
+    {
+      "provision_ref": "art2-transitorio-transitorio",
+      "section": "2 TRANSITORIO Transitorio",
+      "title": "Artículo 2 TRANSITORIO Transitorio",
+      "content": "Art. 2.o transitorio.- Deróganse las disposiciones de la lei de 22 de diciembre de 1881, de 22 de setiembre de 1890, y número 2,406, de 9 de setiembre del año 1910, en todo lo que fueren contrarias a la presente lei."
+    }
+  ],
+  "definitions": []
+}

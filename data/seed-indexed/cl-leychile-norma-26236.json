@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26236",
+  "type": "statute",
+  "title": "CREA PLAZA EN EL ITEM QUE INDICA DENTRO DEL\nPRESUPUESTO VIGENTE DEL MINISTERIO DEL INTERIOR",
+  "short_name": "Ley 9696",
+  "status": "in_force",
+  "issued_date": "1950-09-30",
+  "in_force_date": "1950-10-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26236",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o. Créase una plaza de Oficial grado 9.o en el ítem 04|01|01, sueldos fijos del presupuesto vigente del Ministerio del Interior."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o. Suprímese la plaza de Secretario del Ministro, grado 9.o, que existe en el ítem 04|01|04-a), gastos variables del presupuesto del Ministerio del Interior, y declárase sin aplicación, para los efectos de la citada Secretaría de Estado, el artículo 91 de la ley N.o 8,283."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o El empleo de Secretaria, grado 13.o, de la Asesoría Jurídica y Departamento de Municipalidades de la Planta Suplementaria, ítem 06|01|12, pasará a formar parte de la planta de la Subsecretaría del Ministerio del Interior, ítem 04|01|01, con la denominación de \"Oficial grado 12\", de acuerdo con el artículo 85 de la ley N.o 9,629."
+    }
+  ],
+  "definitions": []
+}

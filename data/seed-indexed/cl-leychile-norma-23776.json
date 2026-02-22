@@ -1,0 +1,223 @@
+{
+  "id": "cl-leychile-norma-23776",
+  "type": "statute",
+  "title": "DISPONE QUE EL EJERCICIO DE TODA PROFESION, OFICIO, INDUSTRIA, COMERCIO O ARTE ESTARA SUJETO A UN IMPUESTO DE PATENTE MUNICIPAL.",
+  "short_name": "Ley 3165",
+  "status": "in_force",
+  "issued_date": "1916-12-22",
+  "in_force_date": "1917-01-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23776",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.-El ejercicio de toda profesion, oficio, industria, comercio o arte estará sujeto a un impuesto de patente municipal, con arreglo a las disposiciones de la presente lei."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°-Para clasificacion i pago de este impuesto se dividirán las ciudades i pueblos de las diversas comunas de la República, en las siguientes categorías:\nPrimera categoría: Santiago, Valparaiso, Viña del Mar, Concepcion i Talcahuano.\nSegunda categoría: Ciudades que tengan mas de veinte mil habitantes i no exedan de cien mil;\nTercera categoría: Ciudades que tengan mas de diez mil habitantes i no exedan de veinte mil;\nCuarta categoría: Ciudades que tengan mas de cinco mil habitantes i no exedan de diez mil; i\nQuinta categoría: Las villas, aldeas i demas poblados."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°-Las patentes servirán por un añó, a contar desde el 1.° de Setiembre de cada año, i deberán pagarse anualmente en el mes de Setiembre.\nEl contribuyente podrá, no obstante hacer el pago por semestres anticipados en los meses de Setiembre i Marzo de cada año."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4°.-Si un contribuyente cesare en su jiro despues de pagada la patente, no tendrá derecho a reembolso por el tiempo que falte para terminar el período pagado.\nSi un establecimiento cabiare de dominio, el nuevo dueño deberá anotar la trasferencia en la Tesorería Municipal i le servirá el pago ya hecho por el tiempo que le falte para la terminacion del período.\nSi el establecimiento cambiare de jiro, deberá procederse en la forma establecida en el artículo 19."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°.-Las patentes serán de 1a, 2a. o mas clases, segun la importancia del establecimiento o jiro del contribuyente en la comuna, i se asignarán, conforme a la nomenclatura i tarifas que se establece en el cuadro, para las ciudades de primera categoría, anexo a la presente lei.\nLas patentes industriales i de comercio, deberán ser colocadas en el establecimiento, en un lugar visible al público, bajo la pena de veinte pesos de multa."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.°.-Las patentes fijadas en el cuadro anexo se aplicarán en las ciudades de la primera categoría.\nLos contribuyentes de las ciudades de la segunda, tercera, cuarta i quinta categoría, pagarán dichas patentes rebajadas en veinte, treinta, cuarenta i cincuenta por ciento, respectivamente.\nLas municipalidades de la República deberán hacer publicar, en el mes de Diciembre de cada año, el cuadro que, segun esta disposicion, corresponde a los contribuyentes de la Comuna, debiendo publicarse igualmente el acuerdo de la Municipalidad que apruebe dicho cuadro.\nTodas las publicaciones a que esta lei se refiere se harán por carteles fijados en el esterior del edificio municipal i por avisos en los diarios, donde los hubiere.\nEn las Comunas donde no hubiere diarios, deberá hacerse la publicacion en un diario de otra ciudad que tenga suficiente circulacion en la comuna. Las publicaciones serán por el término de cinco dias."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ART. 7.°-Los establecimientos comprendidos en la nomenclatura del cuadro anexo que estuvieren situados fuera de los límites urbanos o en pueblos o villorios que no fueren asientos de una Municipalidad, pagarán la patente que les corresponda con un veinte por ciento de rebaja.\nEsta disposicion no se aplicará a los locales de espendio de bebidas destiladas o fermentadas."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ART. 8.°-Las profesiones, jiros, industriales, fábricas, casas de comercio, etc., no enumeradas espresamente en la nomenclatura del cuadro anexo, se rejirán por sus similares para los efectos de la declaracion i clasificacion de la patente a que estuvieren sujetos."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "ART. 9.°-Si en un mismo establecimiento se ejercieren varios jiros, industrias o negocios, se pagará íntegramente la patente fijada al jiro o negocio gravado con la patente mas alta, la mitad de la segunda i tercera, i la cuarta parte de aquellas que por los otros jiros o negocios correspondan en el órden de su importancia.\nNo se considerarán como jiro, industrias o negocios diversos los que se encuentren comprendidos en una misma seccion de las en que está dividida la nomenclatura del cuadro anexo.\nTampoco se considerarán como jiros diversos, la exhibicion i venta de muestras o modelos de mercaderías distintas de las que constituyen el jiro principal."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "ART. 10.-Quedan exentos de contribucion por el término de dos años, contados desde la fecha de la recepcion del título correspondiente, los abogados, injenieros, arquitectos, médicos, farmacéuticos, dentistas i matronas, debiendo hacer anotar su título en la Tesorería Municipal, en la forma indicada en los artículos 12 i 19 de esta lei.\nSe exime igualmente de contribucion a los médicos que ejercieren su profesion como internos en los hospitales, i los que tuvieren consultorios gratuitos para pobres durante dos horas diarias a lo ménos.\nLa Municipalidad deberá establecer las reglas a que deben someterse estos consultorios para gozar de dicha exencion.\nQuedan asimismo exentos de la contribucion de patentes las industrias establecidas en fundos rústicos, siempre que estén destinadas esclusivamente a la elaboracion i venta de los productos del mismo fundo.\nQuedan tambien exentas de la contribucion de patente las industrias que funcionan en establecimientos destinados principalmente a instruccion i beneficencia."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "DISPOSICIONES JENERALES",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "ART. 11.-Los establecimientos destinados, esclusivamente, a la exhibicion i venta de los artículos producidos por una fábrica o industria establecida en el pais, pagarán la mitad de la patente que, segun su clase, les corresponda.\nLos locales de venta de bebidas alcohólicas para ser consumidas en el mismo local o sus dependencias, que estuvieren situados a ménos de dos kilómetros de las salitreras o asientos mineros, pagarán la patente que segun esta lei corresponda a la categoría inmediatamente superior."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "ART. 12.-En el mes de Enero de cada año los contribuyentes deberán hacer por escrito, en la Tesorería Municipal, una declaracion sobre el jiro principal i jiros anexos de su negocio, en conformidad a la nomenclatura del cuadro anexo, espresando ademas, la clase de tarifa que segun dicho cuadro le corresponda.\nEl contribuyente que no hiciera esta manifestacion en el mes de Enero, podrá hacerla en los primeros quince dias del mes de Febrero, pagando, al tiempo de hacerlo, una multa de diez por ciento sobre el valor semestral de la tarifa que segun su declaracion le corresponda.\nEl contribuyente que no hubiere hecho esta declaracion dentro de los plazos citados, i en jeneral, todo el que ejerciere una industria, comercio o profesion sin haber sido previamente clasificado, deberá pagar la patente mas alta que corresponda a la naturaleza de su jiro, durante el tiempo transcurrido sin clasificacion, i una multa de la mitad del valor semestral de dicha patente."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "ART. 13.-La declaracion del jiro de los contribuyentes i su clasificacion, será revisada por una junta compuesta de los tres alcaldes de la comuna, del tesorero municipal i de tres contribuyentes designados en la forma que se establece en el artículo siguiente."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "ART. 14.-El dia 15 de Febrero, la Municipalidad procederá, en sesion pública, a sortear hasta cien nombres de los contribuyentes inscritos en los rejistros que, conforme a las anteriores declaraciones, deberán llevar las tesorerías municipales, i hará citar a los sorteados, en la forma indicada en el inciso final del artículo 6.°, a fin de que concurran a una reunion, que deberá celebrarse en la sala municipal el 25 de Febrero, con el objeto de nombrar tres representantes que integren la junta clasificadora.\nEl nombramiento deberá recaer en un contribuyente industrial o profesional, en un comerciante de comercio mayor i en un comerciante que pague una patente anual de cien pesos o ménos.\nEn las comunas en que el número de contribuyentes inscritos en los rejistros no exediere de doscientos, se citará a todos los inscritos, sin necesidad de sorteo, debiendo solamente la Municipalidad proceder en la sesion a que se refiere el inciso 1.° a escluir a los contribuyentes indicados en el inciso final de este artículo.\nSi los contribuyentes no se reunieren o no concurriere la tercera parte, a lo ménos, de los citados, el nombramiento lo hará la Municipalidad en una sesion pública, que deberá celebrar dentro de los tres dias siguientes a la fecha de la reunion.\nDeberán ser escluidos del sorteo, citacion i nombramiento a que se refieren los incisos que preceden, los contribuyentes que pagaren patente por espendio de bebidas destiladas o fermentadas."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "ART. 15.-La junta clasificadora, reunida en la sala municipal, el dia 1.° de Marzo, procederá a designar a los inspectores de patentes que fueren necesarios, atendido el número de contribuyentes inscritos en el rejistro.\nEl nombramiento deberá recaer en personas de la mayor idoneidad que sean propietarias en la comuna.\nEn las comunas donde hubiere oficina municipal de tasaciones o matrícula de impuestos, la inspeccion se hará por esta oficina, asociada o no por inspectores nombrados al efecto."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "ART. 16.-Los inspectores de patentes gozarán de la remuneración que la Municipalidad les fije i tendrán derecho, ademas, a la mitad de la multa que deben pagar los contribuyentes morosos en conformidad al inciso final del artículo 12."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "ART. 17.-Los inspectores visitarán los establecimientos sujetos al pago de impuesto i, a medida que practiquen estas visitas, pasarán a la junta un informe esplicativo sobre la exactitud de la declaracion hecha por el contribuyente o sobre la clasificacion que le corresponda conforme al jiro e importancia de la industria o negocio gravado.\nLa junta, ántes de resolver, podrá practicar esas visitas por sí misma o por alguno de sus miembros comisionados al efecto."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "ART. 18.-Con el mérito de los antecedentes reunidos, la junta hará la clasificacion de los contribuyentes i determinará la tarifa que les corresponda, debiendo estar terminado este trabajo ántes del 1.° de Mayo.\nEstas resoluciones serán motivadas i se publicarán con sus antecedentes a medida que se dicten. Se dará asimismo copia por secretaría al contribuyente que lo solicitare, pagando el valor de la copia."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "ART. 19.-Los que establecieren una industria o negocio o iniciaren el ejercicio de una profesion, despues de empezado un período semestral de pago de la patente, deberán hacer la declaracion a que se refiere el artículo 12, ántes de terminar dicho período i, en todo caso, ántes de iniciar sus operaciones, i pagarán la patente que les corresponda por el semestre en curso, bajo la pena establecida en dicho artículo.\nLa junta clasificadora indicada en el artículo 14, dispondrá en este caso una visita especial al establecimiento gravado i hará la clasificacion a que se refieren los artículos que preceden, dentro del término de un mes.\nEsta clasificacion durará hasta el término de los tres años a que se refiere el artículo 21."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "ART. 20.-Si la Municipalidad o el contribuyente no se conformaren con las resoluciones que fueren acordadas por la junta clasificadora, podrán ocurrir, dentro de los quince dias siguientes a la última publicacion, ante la misma junta o ante la Corte de Apelaciones correspondiente, reclamando del avalúo.\nSi la reclamacion se formulare ante la junta, deberá ésta hacer elevar los antecedentes a la Corte al dia siguiente a la reclamacion.\nLa Corte de Apelaciones se pronunciará sobre la reclamacion formulada como tribunal de única instancia.\nLa vista de estas causas gozará de preferencia sobre todo otro asunto i se precederá sin esperar la comparecencia de las partes.\nSe empleará en estas reclamaciones papel simple i se pagará solamente la mitad de los derechos de los funcionarios judiciales.\nLas resoluciones de la Corte deberán dictarse ántes del 15 de Julio i se ordenará en ellas devolver sin mas trámite los antecedentes."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "ART. 21.-La clasificacion de los contribuyentes i la determinacion del monto de la patente, hechas en conformidad a los artículos anteriores, servirán por el término de tres años.\nNo obstante, si dentro de este plazo un contribuyente redujere su jiro o disminuyere la importancia de su negocio podrá solicitar de la junta clasificadora una nueva clasificacion.\nLa junta deberá pronunicarse en este caso dentro del término de un mes i se procederá en la forma indicada en los artículos que preceden."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "ART. 22.-Las patentes se pagarán en la Tesorería del territorio municipal en que se ejerza el jiro, industria o comercio gravado, i en la primera quincena de Octubre i Marzo se publicará la lista de los contribuyentes con indicacion del monto de la patente anual que les corresponda.\nLa patente de abogado ante la Corte Suprema deberá pagarse en Santiago con deduccion de lo que el abogado haya pagado en el lugar de su residencia donde ejerciere habitualmente su profesion.\nLa Tesorería Municipal de Santiago deberá pasar a la Corte Suprema, en las fechas indicadas, una lista de los abogados que, en virtud del pago de la patente, están habilitados para ejercer la profesion ante ese Tribunal."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "ART. 23.-La patente de abogado ante la Corte de Apelaciones se pagará en la Tesorería Municipal de la ciudad asiento de la Corte en cuyo distrito jurisdiccional ejerza el abogado habitualmente su profesion, sirviéndole de abono lo que haya pagado por su patente ordinaria en el lugar de su residencia.\nLa Tesorería Municipal pasará a la Corte de Apelaciones, en las fechas indicadas, una lista de los abogados que en virtud del pago de la patente estén habilitados para ejercer ante ella su profesion.\nEl pago de patente para una Corte de Apelaciones habilita al abogado para ejercer su profesion ante cualquier otro tribunal de la misma o inferior jerarquía, debiendo el abogado hacerlos anotar, para ese efecto, en la Secretaría del Tribunal."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "ART. 24.-El contribuyente que no pagare la patente en el plazo que le corresponda, incurrirá en intereses del dos por ciento mensual, i a solicitud del representante de la Municipalidad se despachará mandamiento de embargo en su contra, sirviendo de título ejecutivo la resolucion que establezca la clasificacion definitiva autorizada por el secretario municipal i el certificado de la Tesorería de no haberse enterado en caja el valor de la patente. El juez podrá ordenar la suspension del jiro o profesion del contribuyente moroso a mas de las medidas precautorias que estimare necesarias para garantizar el pago de la contribucion."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "ART. 25.-El contribuyente que burlase la clasificacion de su jiro, industria o negocio, ejerciendo fraudulentamente uno diverso, deberá pagar por el tiempo trascurrido la patente mas alta que corresponda a cada uno de los jiros, industrias o negocios que ejerciere, con intereses de dos por ciento mensual i una multa de la mitad del valor de dicha patente.\nEl juez podrá moderar la pena establecida en el inciso que precede en caso de ignorancia escusable o buena fé comprobada."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "ART. 26.-Del producido de las patentes establecidas en la presente lei, las municipalidades destinarán un diez por ciento a dar cumplimiento a la obligacion que les impone el número 9.° del artículo 27 (26), de la Lei Orgánica de Municipalidades, reformada por la lei número 2,969, de 18 de Diciembre de 1914 i otro diez por ciento a los objetos indicados en el número 11 del mismo artículo.\nEl diez por ciento destinado a beneficencia será entregado semestralmente a las juntas de beneficencia de los departamentos a que pertenezcan las respectivas municipalidades.\nSe considerará como gasto ilegal, para los efectos del artículo 78 (76) de la lei de organizacion i atribuciones de las municipalidades, toda inversion en objeto diferente que se dé a los dineros especialmente destinados en este artículo."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "ART. 27.-Derógase la lei de 22 de Diciembre de 1866; el inciso 3.° del artículo 45 (44) de la Lei Orgánica de Municipalidades de 22 de Diciembre de 1891, reformada por la lei número 2,960, de 18 de Diciembre de 1914, i los artículos 74, 75, 76, 77, 99 i 100 de la lei número 1,515, de 18 de Enero de 1902.\nDerógase, asimismo, el artículo 3.° de la lei número 1,986, de 20 de Agosto de 1907, i, en consecuencia, las juntas de alcaldes de los departamentos de Tacna i Arica cobrarán la contribución de patente i ejercerán las funciones que por artículos anteriores se encomienda a las municipalidades en conformidad a las prescripciones de la presente lei.\nDeróganse, ademas, el artículo 2.° de la lei número 2,267, de 15 de Febrero de 1910; el artículo 25 de la lei número 2,297, de 5 de Marzo de 1910; i el artículo 6.° de la lei número 2,712, de 5 de Diciembre de 1912, en la parte en que aumenta, respectivamente, el valor de las patentes profesionales e industriales en las comunas de Valparaiso, Valdivia i Viña del Mar."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "DE LA CLASIFICACION DE LOS CONTRIBUYENTES I DEL PAGO DE LA PATENTE",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "ART. 28.-Esta lei empezará a rejir el 1.° de Enero del año siguiente a su publicacion en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULO PRIMERO.- En las comunas en que no existiere Municipalidad, se cobrarán las contribuciones establecidas en esta lei por la autoridad comunal que haga sus veces."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "ART. 2.°- Durante el primer año de vijencia de esta lei se cobrarán las patentes fijadas en ella con una rebaja de veinte por ciento, i las de los aserraderos i barracas de madera con una rebaja de cuarenta por ciento."
+    }
+  ],
+  "definitions": []
+}

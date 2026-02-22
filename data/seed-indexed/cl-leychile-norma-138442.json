@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138442",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2928",
+  "status": "in_force",
+  "issued_date": "1914-09-04",
+  "in_force_date": "1914-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138442",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de cuatrocientos mil pesos ($ 400,000) en trabajos de reparaciones estraordinarias de locomotoras, calderas i carros, debiendo dejarse sin inversion las sumas consultadas en los ítem 339 i 341 de la partida 15 del presupuesto del Ministerio de Ferrocarriles vijente.\nLa referida suma de cuatrocientos mil pesos se entregará a la Empresa de los Ferrocarriles del Estado en conformidad a lo dispuesto en el artículo 35 de la lei número 2,846, de 28 de enero del presente año."
+    }
+  ],
+  "definitions": []
+}

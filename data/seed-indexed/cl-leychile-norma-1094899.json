@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1094899",
+  "type": "statute",
+  "title": "MODIFICA EL CÓDIGO DEL TRABAJO PARA REDUCIR EL PESO DE LAS CARGAS DE MANIPULACIÓN MANUAL",
+  "short_name": "Ley 20949",
+  "status": "in_force",
+  "issued_date": "2016-09-12",
+  "in_force_date": "2016-09-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1094899",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en el Código del Trabajo:\n1. Sustitúyese el artículo 211-H por el siguiente:\n\"Artículo 211-H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 25 kilogramos. Esta carga será modificada en la medida que existan otros factores agravantes, caso en el cual, la manipulación deberá efectuarse en conformidad a lo dispuesto en el decreto supremo Nº 63, del Ministerio del Trabajo y Previsión Social, del año 2005, que aprueba reglamento para la aplicación de la ley Nº 20.001, que regula el peso máximo de carga humana, y en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.\".\n2. Reemplázase el artículo 211-J por el que sigue:\n\"Artículo 211-J.- Los menores de 18 años y las mujeres no podrán llevar, transportar, cargar, arrastrar ni empujar manualmente, y sin ayuda mecánica, cargas superiores a 20 kilogramos. Para estos trabajadores, el empleador deberá implementar medidas de seguridad y mitigación, tales como rotación de trabajadores, disminución de las alturas de levantamiento o aumento de la frecuencia con que se manipula la carga. El detalle de la implementación de dichas medidas estará contenido en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- Las modificaciones introducidas en el Código del Trabajo por la presente ley entrarán en vigencia un año después de su publicación en el Diario Oficial.\"."
+    }
+  ],
+  "definitions": []
+}

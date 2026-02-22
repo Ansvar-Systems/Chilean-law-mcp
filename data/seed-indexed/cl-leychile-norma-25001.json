@@ -1,0 +1,81 @@
+{
+  "id": "cl-leychile-norma-25001",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5022",
+  "status": "repealed",
+  "issued_date": "1931-12-30",
+  "in_force_date": "1960-03-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25001",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o La vigilancia de las prisiones, su orden interno, el traslado de reos y detenidos y la custodia de estos mismos en los Tribunales de Justicia, estará a cargo de personal civil, que dependerá directamente de la Dirección General de Prisiones y constituirá el \"Servicio de Vigilancia de Prisiones\".\nAl cargo del mismo personal estará el Palacio de los Tribunales de Justicia de Santiago."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La denominación, dotación y sueldos del personal del \"Servicio de Vigilancia de Prisiones\" serán los siguientes:\n1 Inspector jefe, ayudante de la Dirección\nGeneral de Prisiones y jefe de la guardia\nde la Penitenciaría, grado 10°____________ $ 14,400\n2 Inspectores 1.os, grado 15°_____________ 18,000\n18 Inspectores 2.os, grado 18°____________ 129,600\n22 Vigilantes 1.os, grado 21°_____________ 125,400\n43 Vigilantes 2os, grado 23°______________ 206,400\n885 Vigilantes 3.os, grado 26°____________ 2.920,500\n___________\n$ 3.414,300\n___________"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El personal del \"Servicio de Vigilancia de Prisiones\", tedrá derecho a jubilar sin necesidad de acreditar imposibilidad física o mental, después de treinta años de servicios prestados en esta repartición o de treinta y cinco años en la Administración Pública, siempre que diez, a lo menos, hayan sido desempeñados en las funciones de vigilancia de prisiones."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El uniforme y vestuario que se adopte para el personal de este servicio, será proporcionado por el Fisco."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o El nombramiento y la remoción del personal de vigilantes y asimilados a estos puestos será hecho por la Dirección General de Prisiones como asimismo su destinación a los diversos servicios.\nEl director del servicio tendrá la facultad de aplicar las medidas disciplinarias que determine el Reglamento."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Los gastos que demande esta ley se consultarán en la Ley anual de Presupuestos, en la parte correspondiente a este servicio."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.o Si la suma consultada en la Ley de Presupuestos no fuere suficiente para la adquisición de uniforme y vestuario, la Dirección General del ramo podrá obligar al personal a que complete su uniforme por su cuenta, para lo cual podrá descontarle hasta el 10 por ciento de su sueldo líquido."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8.o Deróganse la ley N.o 3,815, de 30 de Noviembre de 1921 y los decretos-leyes N.os 301 y 627, de 9 de Marzo y 17 de Octubre de 1925, respectivamente."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "Art. 9.o La presente ley regirá desde el 1.o de Enero de 1932."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "chapter": "Artículos transitorios",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo 1.o Los ex-funcionarios del Cuerpo de Gendarmería de Prisiones cuyo alejamiento del servicio se haya debido al cumplimiento de las leyes derogadas por el artículo 8.o y el personal de Carabineros de Prisiones, tendrán derecho preferente para ingresar al servicio creado por la presente ley.\nEl personal deberá acogerse a los beneficios de la Caja Nacional de Empleados Públicos y Periodistas, debiendo trasladar a esta institución las imposiciones que hubiere efectuado en otras cajas de previsión."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "chapter": "Artículos transitorios",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Art. 2.o La Dirección General de Carabineros entregará a la de Prisiones, por inventario y dentro de treinta días, contados desde la promulgación de esta ley, el armamento, equipo, documentación y demás elementos que recibió del Cuerpo de Gendarmería de Prisiones, al fusionarse este organismo con Carabineros de Chile."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29057",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 15.386, SOBRE REVALORIZACION DE\nPENSIONES",
+  "short_name": "Ley 17485",
+  "status": "in_force",
+  "issued_date": "1971-09-03",
+  "in_force_date": "1971-09-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29057",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Modifícase la ley N° 15.386, de 11 de Diciembre de 1963, en la siguiente forma:\nSustitúyense, en las letras b), c) y d) del artículo 4, las expresiones \"30 de Junio\" por \"31 de Diciembre\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- La modificación introducida a la ley N° 15.386, por el artículo precedente, se aplicará para determinar la revalorización con que corresponda pagar a contar del 1° de Enero de 1971, y para tal objeto autorízase a la Comisión Revalorizadora de Pensiones para que fije un nuevo índice de revalorización para el presente año.\"."
+    }
+  ],
+  "definitions": []
+}

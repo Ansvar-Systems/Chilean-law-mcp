@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25142",
+  "type": "statute",
+  "title": "SUPLEMENTA LOS ITEM QUE SE INDICAN DEL PRESUPUESTO\nVIGENTE DEL MINISTERIO DE FOMENTO",
+  "short_name": "Ley 5552",
+  "status": "in_force",
+  "issued_date": "1934-12-29",
+  "in_force_date": "1935-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25142",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Supleméntanse en las cantidades que se indican los ítem que se expresan del Presupuesto vigente del Ministerio de Fomento:\nSecretaría:\n12-01-04-c) Viáticos________________ $ 10,000.-\n12-01-04-j) Impresiones_____________ 15,000.-\n12-01-04-k) Gastos generales________ 15,000.-\n12-01-04-l) Conservación____________ 5,000.-\n12-01-04-m) Mantenimiento auto______ 6,000.-\n12-01-04-v) Varios e imprevistos____ 9,000.-\n___________\nTotal_____________________________ $ 60,000.-\n___________\nDirección de Estadística:\n12-08-04-a) Personal a\ncontrata________________ $ 6,000.-\n12-08-04-c) Viáticos________________ 500.-\n12-08-04-g) Artículos consumo_______ 20,000.-\n12-08-04-j) Impresiones_____________ 65,000.-\n12-08-04-k) Gastos generales________ 3,500.-\n12-08-04-l) Conservación____________ 5,000.-\n_____________\nTotal_____________________________ $ 100,000.-\n_____________"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto de ciento sesenta mil pesos ($ 160,000) a que asciende el suplemento que autoriza la presente ley, se deducirá de la entrada producida con motivo de la dictación de la ley N.o 5,416, de 19 de Febrero de 1934."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

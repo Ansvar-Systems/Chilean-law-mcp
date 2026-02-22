@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24021",
+  "type": "statute",
+  "title": "LEI NUM. 3,503, QUE CANCELA LOS DERECHOS DE INTERNACION ADEUDADOS POR LA FIRMA ANTOINE I C. (A).",
+  "short_name": "Ley 3503",
+  "status": "in_force",
+  "issued_date": "1919-02-20",
+  "in_force_date": "1919-02-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24021",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para que declare de abono a la Aduana i Tesorería de Valdivia la suma de veintisiete mil ciento sesenta i cinco pesos, ochenta centavos ($ 27,165.80), moneda corriente, importe total de cinco pagarées firmados el año 1912, a favor de dicha Aduana, por los señores Antoine i Compañía, contratistas del Ferrocarril de Cajon a Llaima, i que corresponden a derechos de internacion de diversos materiales de hierro i acero empleados en la construccion de este Ferrocarril.\nEn consecuencia, se darán por cancelados dichos pagarées i se devolverán al interesado."
+    }
+  ],
+  "definitions": []
+}

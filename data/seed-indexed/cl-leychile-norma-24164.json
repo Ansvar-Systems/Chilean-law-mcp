@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24164",
+  "type": "statute",
+  "title": "LEI NÚM. 3.673, QUE DESTINA FONDOS PARA LAS FORTIFICACIONES DE TALCAHUANO",
+  "short_name": "Ley 3673",
+  "status": "in_force",
+  "issued_date": "1920-09-24",
+  "in_force_date": "1920-09-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24164",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de cuatrocientos cincuenta mil pesos ($ 450,000) moneda corriente, en atender al pago de espropiaciones i compra de terrenos; construcciones i demas gastos que sean necesarios para instalar los cañones destinados a las fortificaciones de puerto de Talcahuano:\nEsta suma se deducirá de la mayor entrada obtenida por diferencia del recargo del oro."
+    }
+  ],
+  "definitions": []
+}

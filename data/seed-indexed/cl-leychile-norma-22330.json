@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22330",
+  "type": "statute",
+  "title": "CORREOS I TELEGRAFOS",
+  "short_name": "Ley 993",
+  "status": "in_force",
+  "issued_date": "1898-01-14",
+  "in_force_date": "1898-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22330",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Suprímense las funciones parciales de las oficinas de correos i telégrafos, introducidas en el proyecto de presupuesto de 1898, i se declara subsistente el servicio de esas oficinas en la forma establecida en la lei de presupuestos de 1897.\nLo dispuesto en el inciso anterior es sin perjuicio de mantener ámbos servicios fusionados en aquellos lugares en donde existan en esa forma o en donde fuere posible fusionarlos."
+    }
+  ],
+  "definitions": []
+}

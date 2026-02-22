@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-22193",
+  "type": "statute",
+  "title": "SERVICIO OBLIGATORIO DE DESAGUES POR MEDIO DE;ALCANTARILLAS O CAÑERIAS",
+  "short_name": "Ley 342",
+  "status": "in_force",
+  "issued_date": "1896-02-19",
+  "in_force_date": "1896-02-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22193",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTICULO 1º Autorízase a las municipalidades que funcionen en ciudades i villas cuya poblacion exceda de cinco mil habitantes para establecer como obligatorio el servicio de desagües por medio de alcantarillas o cañerias."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTICULO 2° Los propietarios de inmuebles situados dentro de los barrios en que se coloquen dichas alcantarillas o cañerias quedan obligados:\na) A instalar i mantener dentro de sus propiedades i a su costa las cañerías i demas aparatos que el servicio de desagües requiere.\nb) A permitir a los ajentes que la autoridad local designe, la inspeccion de los servicios particulares para cerciorarse de su regular funcionamiento.\nc) A cegar dentro de sus propiedades los pozos o depósitos destinados a escusados."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ARTICULO 3° Los propietarios pagarán por el servicio de desagües la cuota que fije la respectiva Municipalidad. Este gravámen no excedera de un tres por mil al año sobre el valor de la propiedad, computando segun el avalúo que rija para el cobro de impuesto de haberes; pero podrá elevarse hasta seis pesos anuales, cuando el valor de la propiedad baje de dos mil pesos. Si este valor excede de cincuenta mil pesos, por el exceso solo podrá cobrarse en la proporcion de uno por mil, i en ningun caso el gravámen anual subirá de quinientos pesos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ARTICULO 4° La obligacion que impone el artículo anterior se hará efectiva en cada edificio o seccion de edificio destinado a una habitacion o servicio independiente; pero no se tomarán en cuenta las varias aplicaciones que dentro de ella se hagan para el uso de las mismas familias u ocupantes del lugar gravado."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ARTICULO 5° La Municipalidad hará los trabajos a que se refiere el artículo 2° de esta lei por cuenta de los propietarios cuando éstos no los hicieren. Si la propiedad valiere ménos de dos mil pesos i su dueño careciere de recursos, el trabajo se hará por la Municipalidad sin cargo a los interesados."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ARTICULO 6° Cuando los desagües sirvan barrios construidos en cerros o terrenos mui accidentes, podrán los propietarios que no tuvieren acceso directo a las cañerías matrices atravesar con sus cañerías particulares las propiedades intermedias, si de él no se sigue grave daño a los dueños de ésta i prévia la correspondiente indemnizacion."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ARTICULO 7° Se declaran libres de derechos los materiales que se importen del estranjero para la construccion del servicio principal de desagües en las poblaciones. El Presidente de la República fijará en cada caso la cantidad a que se estiende la liberacion, en vista de los presupuestos de las obras i del informe de la Direccion de Obras Públicas."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ARTICULO 8° Autorízase a las Municipalidades para que puedan contratar con empresas particulares la construccion i esplotacion de los servicios de desagües, debiendo sujetarse esos contratos a las condiciones establecidas en la presente lei i pudiendo estenderse hasta treinta años su duracion."
+    }
+  ],
+  "definitions": []
+}

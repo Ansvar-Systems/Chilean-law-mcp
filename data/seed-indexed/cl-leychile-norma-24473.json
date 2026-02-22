@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24473",
+  "type": "statute",
+  "title": "APROBACION PRESUPUESTOS 1926",
+  "short_name": "Ley 4103",
+  "status": "in_force",
+  "issued_date": "1926-11-16",
+  "in_force_date": "1926-11-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24473",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Apruébase el adjunto proyecto de Ley de Presupuestos de gastos de la Administración Pública para el año mil novecientos veintiséis, con un total de novecientos cincuenta y nueve millones veintinueve mil cuarenta y tres pesos veintiocho centavos distribuídos por Ministerios en la forma siguiente:\nMinisterio del Interior........... $ 140.816,135 12\nMinisterio de Relaciones\nExteriores...................... 10.670,276 59\nMinisterio de Justicia............ 27.719,772 65\nMinisterio de Instrucción\nPública......................... 140.663,637 74\nMinisterio de Hacienda............ 289.909,959 79\nMinisterio de Guerra.............. 113.489,605 85\nMinisterio de Marina.............. 94.471,297 40\nMinisterio de Agricultura e\nIndustria....................... 15.690,462\nMinisterio de Tierras y\nColonización.................... 2.098,436 25\nMinisterio de Obras Públicas,\nComercio y Vías de\nComunicación.................... 92.507,319 09\nMinisterio de Higiene.\nAsistencia, Trabajo y\nPrevisión Social............... 30.992,140 80\n_______________\nTotal.......................... $ 959.029,043 28"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o No quedarán modificadas por la presente ley las remuneraciones, gratificaciones, asignaciones, pensiones de jubilación, de retiro y montepíos cuyo monto fijan las leyes anteriores de efectos permanentes y la ley número 4,075, de 29 de Julio de 1926.\nEl Tribunal de Cuentas deberá fiscalizar especialmente esta disposición."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24931",
+  "type": "statute",
+  "title": "CONCEDE PENSION DE GRACIA A DON NICOLAS GARCIA QUINTANA, EX-INTENDENTE DE O'HIGGINS.",
+  "short_name": "Ley 4811",
+  "status": "in_force",
+  "issued_date": "1930-01-31",
+  "in_force_date": "1930-02-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24931",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Concédese, por gracia, al ex-intendente de la provincia de O'Higgins don Nicolás García Quintana, el derecho a jubilar con una pensión anual de ocho mil pesos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Este gasto se imputará al rubro 06/01/06/-a) de la Ley de Presupuestos vigente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

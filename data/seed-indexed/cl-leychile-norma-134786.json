@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134786",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1335",
+  "status": "in_force",
+  "issued_date": "1900-01-25",
+  "in_force_date": "1900-01-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134786",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Se autoriza al Presidente de la República, por el término de un año, para invertir hasta la suma de treinta mil pesos en una Esposicion Industrial de productos i artefactos nacionales, i hasta diez mil pesos en la adquisicion de los objetos espuestos que puedan servir de base a un Museo Industrial."
+    }
+  ],
+  "definitions": []
+}

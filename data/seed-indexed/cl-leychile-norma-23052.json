@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-23052",
+  "type": "statute",
+  "title": "LEI NUM. 1,990 SOBRE DESCANSO DE UN DIA EN LA SEMANA",
+  "short_name": "Ley 1990",
+  "status": "in_force",
+  "issued_date": "1907-08-26",
+  "in_force_date": "1907-08-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23052",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Los dueños, jerentes o administradores de fábricas, manufacturas, talleres, oficinas, casas de comercio, minas, salitreras, canteras i, en jeneral, de empresas de cualquier especie, públicas o privadas, aun cuando tengan el carácter de enseñanza profesional o de beneficencia, darán un dia de descanso a los individuos que hayan trabajado todos los dias hábiles de la semana.\nEste descanso será obligatorio e irrenunciable para los menores de dieciseis años i para las mujeres.\nTambien se dará descanso el dia 1.° de enero, el 18 i 19 de setiembre i el 25 de diciembre.\nEl descanso comenzará a las nueve de la noche de la víspera i terminará a las seis de la mañana del dia siguiente al fijado para reposo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° El dia de descanso será el domingo, salvo convenio espreso en contrario; i en este caso, el dia de descanso podrá ser único para todos los individuos o turnado para no paralizar la marcha del trabajo.\nCuando hubiere convenios o turnos, el dia de descanso se anunciará por carteles fijados en las oficinas, en los talleres o en otros lugares visibles del establecimiento, que no se podrán cambiar sino con seis meses de anticipacion."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se esceptúan de lo ordenado en el artículo 1.°:\n1.° Los trabajos encaminados a reparar los deterioros irrogados por causa mayor o caso fortuito;\n2.° Las esplotaciones o trabajos que exijan continuamente por la índole de las necesidades que satisfacen, por motivo de carácter técnico o por razones que determinen gran perjuicio al interes público o a la misma industria;\n3.° Las esplotaciones que, por su naturaleza, no pueden funcionar sino en estaciones determinadas i que dependen de la accion irregular de las fuerzas naturales;\n4.° Los trabajos necesarios e impostergables para la buena marcha de la empresa, como limpieza de las máquinas o calderas, balance, inventarios u otros análogos.\nAun en estos casos se dará un dia de descanso irrenunciable cada dos semanas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Las infracciones de esta lei penarán con multa de diez a cien pesos, a beneficio de la Municipalidad respectiva, pudiendo procederse de oficio i en todo caso breve i sumariamente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Se concede accion popular para denunciar la violacion de esta lei."
+    }
+  ],
+  "definitions": []
+}

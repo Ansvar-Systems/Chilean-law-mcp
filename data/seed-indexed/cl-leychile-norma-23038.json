@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23038",
+  "type": "statute",
+  "title": "LEI NUM. 1,963 QUE CONCEDE LIBERACION DE DERECHOS PARA DIECIOCHO MIL QUINTALES DE SALITRE DESTINADOS A LA REPUBLICA ARJENTINA A LOS SEÑORES CARLOS HENRIQUEZ I FRANCISCO ROJAS.",
+  "short_name": "Ley 1963",
+  "status": "in_force",
+  "issued_date": "1907-07-08",
+  "in_force_date": "1907-07-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23038",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a los señores don Cárlos Henríquez i don Francisco Rojas Huneeus, por una sola vez i hasta por el término de un año, liberacion de derechos para dieciocho mil quintales de salitre destinados a la República Arjentina i con el objeto de atender a la propaganda en esa nacion.\nSi hubiere alguna parte o el total de los dieciocho mil quintales esportados ya con el objeto indicado en el inciso 1.°, se restituirán a los peticionarios las sumas pagadas por derechos de aduana."
+    }
+  ],
+  "definitions": []
+}

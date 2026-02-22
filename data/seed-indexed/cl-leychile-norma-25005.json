@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25005",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5026",
+  "status": "in_force",
+  "issued_date": "1931-12-31",
+  "in_force_date": "1932-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25005",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Reemplázase por el siguiente, el artículo 5.o de la ley número 4,520, de 3 de Enero de 1929:\n\"Artículo 5.o El 31 de Diciembre de cada año se cerrarán todas las cuentas correspondientes al ejercicio presupuestario. Los ingresos percibidos después de dicha fecha serán incorporados al ejercicio del año en que se perciban.\nLas sumas no invertidas y que se adeuden, correspondientes a los ítem 1, 2, 3 y 5 y los decretos de pago, justificados por su documentación respectiva, con cargo a los demás ítem del Presupuesto, se contabilizarán, al cerrarse el ejercicio, como \"Obligaciones por cumplir\", y la Tesorería General constituirá en cuenta de depósitos una suma equivalente.\nLos pagos pendientes, que no hayan podido contabilizarse en la cuenta \"Obligaciones por cumplir\", correspondientes a los ítem 4, 6 a) y 8, serán atendidos con cargo a los ítem del Presupuesto siguiente que correspondan a la misma partida y capítulo que la cuenta u operación pendiente\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Los decretos con cargo al Presupuesto Extraordinario de 1931 y que se encuentren justificados por su documentación respectiva, se contabilizarán al cerrarse el ejercicio como \"Obligaciones por cumplir\", con los mismos trámites indicados en el artículo anterior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley comenzará a regir desde el 30 de Diciembre de 1931."
+    }
+  ],
+  "definitions": []
+}

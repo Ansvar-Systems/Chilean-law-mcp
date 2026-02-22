@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27546",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 10,475",
+  "short_name": "Ley 13790",
+  "status": "in_force",
+  "issued_date": "1959-11-11",
+  "in_force_date": "1959-11-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27546",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Reemplázanse el inciso primero, con sus\nletras a) y b) y los incisos segundo y tercero del\nartículo 2° de la ley N° 10,475, cuya redacción fijó el artículo 28 de la ley N° 12,897; por el siguiente:\n\"La Caja podrá destinar al pago de remuneraciones y demás gastos de administración hasta el 6,75% de sus entradas. Para este efecto, se considerarán entradas las imposiciones de cualquiera especie, el producto de inversiones y colocaciones y las comisiones que perciba\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Reemplázase en el artículo 1° transitorio de la ley N° 10,475, la fecha \"1° de Enero de 1960\", por \"1° de Enero de 1965\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. La cifra 6,75% a que se refiere el artículo 1°, será de 7,6% para el año 1959.\nLo dispuesto en esta ley no podrá significar alteración alguna de los cálculos ya hechos respecto de los porcentajes para gastos de administración que se aplique a los fondos de asignación familiar y de cesantía.\""
+    }
+  ],
+  "definitions": []
+}

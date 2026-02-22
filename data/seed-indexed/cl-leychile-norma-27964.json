@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27964",
+  "type": "statute",
+  "title": "DISPONE EL USO OBLIGATORIO DEL CARNET PROFESIONAL\nPARA LOS GREMIOS DE MATARIFES, HOTELEROS Y EMPLEADOS\nCORTADORES DE CARNE EN CARNICERIAS",
+  "short_name": "Ley 14890",
+  "status": "repealed",
+  "issued_date": "1962-08-24",
+  "in_force_date": "1979-11-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27964",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo único\".- Cuando las conveniencias económicas, profesionales o sociales lo requieran, el Presidente de la República podrá implantar el uso obligatorio del carnet profesional respecto de gremios u oficios determinados, en las condiciones que establezca el Reglamento."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "\"Artículo 1.o transitorio\".- Dentro del plazo de 120 días, contado desde la fecha de la presente ley, el Presidente de la República dictará el Reglamento a que se refiere el artículo anterior, e implantará el uso obligatorio del carnet profesional para los gremios de matarifes, hoteleros y empleados cortadores de carne en carnicerías."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "\"Artículo 2.o transitorio\".- Establécese una imposición de un escudo por el otorgamiento de cada carnet profesional, en beneficio de la Federación Nacional de Matarifes y Ramos Similares y de la Federación Nacional de Sindicatos de Trabajadores Hoteleros de Chile, el que será pagado por los afiliados de cada Asociación para la adquisición de un bien raíz y construcción de los Hogares Sociales de las respectivas Instituciones.\""
+    }
+  ],
+  "definitions": []
+}

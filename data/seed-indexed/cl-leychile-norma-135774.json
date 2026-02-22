@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135774",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1978",
+  "status": "in_force",
+  "issued_date": "1907-08-03",
+  "in_force_date": "1907-08-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135774",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se concede, por gracia, a la viuda e hijos lejítimos del capitan de fragata, don Luis A. Barrientos, el derecho a una pension anual de montepío de un mil ochocientos pesos, en vez de la que perciben actualmente.\nEsta pension se rejirá por la lei jeneral de montepío militar."
+    }
+  ],
+  "definitions": []
+}

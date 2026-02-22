@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-149290",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4569",
+  "status": "in_force",
+  "issued_date": "1929-01-31",
+  "in_force_date": "1929-02-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149290",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Agrégase a continuación del artículo 37 del decreto número 225, de 17 de Febrero de 1927, el siguiente artículo:\n\"Artículo.. Se exonera del impuesto de esta categoría a los salarios, sueldos o cualesquiera otras remuneraciones que perciban las personas obligadas a acogerse a las disposiciones de la Ley de Seguro Obligatorio, que gocen de un salario inferior a 20 pesos al día.\nSi el salario de estas personas es superior a $ 20 diarios, el impuesto se aplicará sobre el exceso de esta suma\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La menor entrada que represente para las Arcas Fiscales las disposiciones de la presente ley quedará compensada, para los efectos del artículo 37 de la Ley Orgánica de Presupuestos, con la economía que reporte la ley sobre consolidaciones de empréstitos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

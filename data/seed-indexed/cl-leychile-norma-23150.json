@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23150",
+  "type": "statute",
+  "title": "LEI NUM. 2,145, QUE CONCEDE SUPLEMENTOS AL PRESUPUESTO DE GUERRA",
+  "short_name": "Ley 2145",
+  "status": "in_force",
+  "issued_date": "1908-11-23",
+  "in_force_date": "1908-12-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23150",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de cuatrocientos quince mil pesos ($ 415,000), moneda corriente, i de ciento cinco mil cuatrocientos pesos ($ 105,400), oro de dieciocho peniques, al ítem 167 de la partida 8.a del Presupuesto de Guerra vijente, que destina fondos para la reposicion del vestuario i equipo de los individuos de tropa."
+    }
+  ],
+  "definitions": []
+}

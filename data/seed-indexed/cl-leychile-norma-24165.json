@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24165",
+  "type": "statute",
+  "title": "LEI NUM. 3,674, QUE CONCEDE UN AUSILIO AL HOSPITAL DE CALBUCO.",
+  "short_name": "Ley 3674",
+  "status": "in_force",
+  "issued_date": "1920-10-07",
+  "in_force_date": "1920-10-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24165",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para ausiliar con la suma de tres mil pesos ($ 3,000) al Hospital de Calbuco a fin de que pueda verificar sus mas urjentes reparaciones."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-147199",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4403",
+  "status": "repealed",
+  "issued_date": "1928-09-04",
+  "in_force_date": "1931-05-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=147199",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para enajenar en pública subasta los terrenos fiscales urbanos y suburbanos del puerto de Chañaral, a excepción de las playas y de los que sean necesarios para los servicios públicos y para la habilitación de calles y plazas.\nLa Oficina de Bienes Nacionales, de acuerdo con las autoridades competentes, procederá a señalar aquellos sitios que deben destinarse a servicios públicos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Para los efectos de la presente ley, regirán todas las disposiciones de la ley número 4,225, de 28 de Diciembre de 1927, en lo que le fueren aplicables."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Se autoriza al Presidente de la República para invertir el producto de la enajenación de los terrenos fiscales, en la construcción de edificios para los servicios públicos en el puerto de Chañaral."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Esta ley empezará a regir desde la fecha de su publicación en el Diario Oficial.\""
+    }
+  ],
+  "definitions": []
+}

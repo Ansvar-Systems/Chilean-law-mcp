@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25474",
+  "type": "statute",
+  "title": "DECLARA QUE QUEDAN EXENTOS DEL PAGO DE\nCONTRIBUCIONES FISCALES LOS TERRENOS Y CASAS QUE\nCONSTRUYA LA FUNDACION \"MERCEDES MARDONES RAMIREZ\"",
+  "short_name": "Ley 7285",
+  "status": "in_force",
+  "issued_date": "1942-09-16",
+  "in_force_date": "1942-10-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25474",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Quedan exentos del pago de las contribuciones fiscales los terrenos y las casas que construya la Fundación denominada \"Mercedes Mardones Ramírez\" de Curicó."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Igualmente la Fundación referida quedará exenta de cualquier impuesto a la renta que grave a las personas jurídicas que no distribuyan sus bienes entre personas naturales y, en cuanto a las escrituras públicas que otorgue, relativas a los objetivos de la Fundación, pagará sólo el cincuenta por ciento de los correspondientes impuestos fiscales y derechos notariales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- La presente ley comenzará a regir desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

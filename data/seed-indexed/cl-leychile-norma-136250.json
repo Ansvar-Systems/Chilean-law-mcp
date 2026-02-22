@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136250",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2109",
+  "status": "in_force",
+  "issued_date": "1908-07-20",
+  "in_force_date": "1908-07-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136250",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese a la sucesion del ex-Gobernador de Magallánes, contra-almirante don Manuel Señoret, la propiedad del lote número 21 de seis mil quinientas hectáreas de superficie del plano de la rejion de Ultima Esperanza."
+    }
+  ],
+  "definitions": []
+}

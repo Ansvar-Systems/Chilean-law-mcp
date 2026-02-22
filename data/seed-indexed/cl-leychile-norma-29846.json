@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29846",
+  "type": "statute",
+  "title": "AUTORIZA A LOS BANCOS Y SOCIEDADES FINANCIERAS PARA\nCAPITALIZAR O REESTRUCTURAR CREDITOS OTORGADOS A\nEMPRESAS PRODUCTIVAS EN LAS CONDICIONES QUE INDICA, Y\nREEMPLAZA EL ARTICULO TRANSITORIO DE LA LEY N° 18.274",
+  "short_name": "Ley 18439",
+  "status": "in_force",
+  "issued_date": "1985-09-09",
+  "in_force_date": "1985-09-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29846",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- No obstante lo dispuesto en los artículos 83, 84 y 85 de la Ley General de Bancos, la Superintendencia de Bancos e Instituciones Financieras podrá autorizar a los bancos y sociedades financieras para:\na) Capitalizar créditos y suscribir acciones en empresas deudoras hasta por el monto de los créditos capitalizados. La empresa deudora deberá tener el carácter de sociedad anónima al momento de la capitalización.\nLos bancos y sociedades financieras podrán conservar las acciones adquiridas en conformidad a esta letra, hasta por el plazo que determine la Superintendencia, el cual no podrá exceder de tres años desde la fecha de suscripción.\nLas acciones así adquiridas deberán ser vendidas en el mercado secundario formal, salvo que el Superintendente autorice su venta directa mediante resolución fundada a petición del interesado. Con todo, vencido el plazo máximo de conservación de estas acciones, ellas deberán ser ofrecidas en el remate de bolsa más próximo sin mínimo y, si no hubiere postores, deberán ofrecerse nuevamente en remate una vez en cada mes calendario.\nb) Consolidar obligaciones que quedarán exentas de los márgenes de crédito de los artículos 84, N°s 1 y 2, y 85 de la Ley General de Bancos, por un plazo máximo de tres años.\nLa Superintendencia sólo podrá autorizar estas excepciones a las normas generales cuando, al momento de hacerlo, la solución propuesta implique la reestructuración o capitalización de créditos de empresas productivas de bienes o servicios, con el objeto de dar una solución real y definitiva a sus dificultades financieras y siempre que en la negociación participen con su acuerdo los acreedores de la empresa que sean bancos y sociedades financieras establecidos en Chile y que representen a lo menos dos tercios del valor total de las obligaciones que la empresa adeude al conjunto de dichas instituciones financieras.\nLas autorizaciones previstas en este artículo se otorgarán por cada operación de capitalización o consolidación y sólo podrán concederse dentro del plazo de dos años contado desde la fecha de publicación de esta ley."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Reemplázase el artículo transitorio de la ley N° 18.274, por el siguiente:\n\"Artículo transitorio.- Hasta el 30 de junio de 1988, los límites de 5% y 25% a que se refieren los incisos primero y segundo del N° 1) del artículo 84 de la Ley General de Bancos, cuyo texto fue fijado por el decreto con fuerza de ley N° 252, de 1960, se podrán elevar al 10% y 30% respectivamente, si el exceso corresponde a créditos concedidos en moneda extranjera para exportaciones de cualquier naturaleza.\"."
+    }
+  ],
+  "definitions": []
+}

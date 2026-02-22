@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30725",
+  "type": "statute",
+  "title": "MODIFICA LEY N° 19.123 QUE CREO LA CORPORACION\nNACIONAL DE REPARACION Y RECONCILIACION",
+  "short_name": "Ley 19358",
+  "status": "in_force",
+  "issued_date": "1994-12-20",
+  "in_force_date": "1994-12-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30725",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Sustitúyese el inciso primero del\nartículo 16 de la Ley N° 19.123, por el siguiente:\n\"La Corporación Nacional de Reparación y Reconciliación tendrá vigencia legal hasta el 31 de Diciembre de 1995. Transcurrido este lapso, se extinguirá por el solo ministerio de la ley. Sus bienes quedarán a disposición del Fisco o de alguno de sus organismos, lo que se determinará mediante decreto supremo del Ministerio del Interior.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El gasto que represente el funcionamiento de la Corporación Nacional de Reparación y Reconciliación durante el año 1995, se financiará con cargo al ítem correspondiente del Tesoro Público de la Ley de Presupuestos para el año 1995.\"."
+    }
+  ],
+  "definitions": []
+}

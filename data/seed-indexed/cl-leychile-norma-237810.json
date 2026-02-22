@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-237810",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR\nHASTA LA SUMA DE $ 5.000,000 EN LA EDIFICACION DE UNA\nRESIDENCIA PARA LA EMBAJADA ARGENTINA",
+  "short_name": "Ley 7531",
+  "status": "in_force",
+  "issued_date": "1943-08-31",
+  "in_force_date": "1943-09-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=237810",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para que invierta hasta la suma de cinco millones de pesos en la edificación de una residencia para la Embajada de Argentina, en el solar situado en la Avenida Vicuña Mackenna N.os 41 al 45, de la capital.\nEl Presidente de la República, para tales efectos, llamará a concurso a los arquitectos de nacionalidad chilena con domicilio en Chile."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto se imputará a la ley N.o 7,160, de 21 de Enero de 1942, sobre el impuesto a la exportación del cobre."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

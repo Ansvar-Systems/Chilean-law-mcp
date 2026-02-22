@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25042",
+  "type": "statute",
+  "title": "DEROGA LOS DECRETOS-LEYES NUMEROS 240 Y 470 DE 1932",
+  "short_name": "Ley 5151",
+  "status": "in_force",
+  "issued_date": "1933-03-31",
+  "in_force_date": "1933-04-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25042",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Deróganse los decretos-leyes números 240 y 470, de 19 de Julio y 20 de Agosto de 1932, respectivamente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

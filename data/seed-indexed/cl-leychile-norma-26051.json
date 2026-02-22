@@ -1,0 +1,39 @@
+{
+  "id": "cl-leychile-norma-26051",
+  "type": "statute",
+  "title": "MODIFICA EN LA FORMA QUE INDICA LA LEY DE ALCOHOLES",
+  "short_name": "Ley 9371",
+  "status": "in_force",
+  "issued_date": "1949-08-26",
+  "in_force_date": "1949-08-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26051",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- substitúyense los incisos 5°, 6° y 7° del artículo 46 de la Ley sobre Alcoholes y Bebidas Alcohólicas, modificado por la ley N° 8,762, por los siguientes:\n\"El impuesto a la producción de vinos, establecido en el artículo anterior, podrá pagarse mediante la aceptación, por parte de los productores, de letras de cambio que girará la Tesorería Comunal correspondiente\".\n\"En tal caso, el deudor deberá aceptar tres letras, cada una por una cantidad igual al tercio del impuesto que adeudare, y que se girarán a nueve, diez y once meses, respectivamente, contados desde el último día del plazo en que el impuesto debió pagarse. El valor del descuento será de dos por ciento (2%) y deberá pagarlo el contribuyente\".\n\"El no pago de una letra a su vencimiento hará exigible el impuesto que se esté debiendo, en conformidad con el procedimiento general establecido para el cobro de las contribuciones\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "chapter": "ARTICULOS TRANSITORIOS",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "\"Artículo 1°.- Las letras con que se hubiere pagado el impuesto a la producción de vinos, correspondiente a la cosecha del año 1948, podrán pagarse en la siguiente forma: un tercio en dinero efectivo y los otros dos tercios mediante dos letras cada una por igual cantidad, a treinta y sesenta días, respectivamente, contados desde el vencimiento de la letra primitiva.\n\"A las letras de que se trata este artículo serán aplicables las disposiciones pertinentes del artículo 46 de la Ley de Alcoholes y Bebidas Alcohólicas y sus modificaciones."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "chapter": "ARTICULOS TRANSITORIOS",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "\"Artículo 2°.- Las cantidades que, a la fecha de la promulgación de la presente ley, se adeudaren por concepto del impuesto sobre ventas de vino, cuya derogación ordena el artículo 2° de la ley N° 9,321, de 16 de Febrero de 1949, podrán pagarse mediante la aceptación, por parte de los deudores, de dos letras de cambio, que vencerán el último día de los meses de Octubre y Noviembre, respectivamente, del año en curso. Las Tesorerías Comunales correspondientes girarán estas letras a los deudores que lo soliciten, cada una por una cantidad igual a la mitad del impuesto que cada cual adeude, más el interés de tres cuartos por ciento (3/4 %) mensual, contado desde el último día del plazo en que el impuesto debió pagarse.\n\"Condónanse los intereses penales en que hubieren incurrido los deudores del impuesto a que se refiere este artículo, siempre que todas las letras de cargo de cada deudor sean pagadas a su vencimiento.\n\"Las letras de que tratan los incisos precedentes tendrán mérito ejecutivo sin necesidad de protesto y el no pago, a su vencimiento, de la primera, hará exigible, también, de inmediato a la segunda\"."
+    }
+  ],
+  "definitions": []
+}

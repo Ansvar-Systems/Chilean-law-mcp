@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26450",
+  "type": "statute",
+  "title": "HACE LA EXCEPCION QUE SEÑALA EN RELACION CON LOS\nALUMNOS DE LA ESCUELA DE SALUBRIDAD Y LAS DISPOSICIONES\nDE LA LEY N.o 8,715.",
+  "short_name": "Ley 10616",
+  "status": "in_force",
+  "issued_date": "1952-09-26",
+  "in_force_date": "1952-11-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26450",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Exceptúase de las disposiciones contenidas en los incisos 2.o y 3.o, del artículo 1.o y en el artículo 2.o, de la ley N.o 8,715, al personal docente y a los alumnos de la Escuela de Salubridad que hayan sido puestos en comisión con el objeto de enseñar o de seguir Cursos de Especialización en esa Escuela y que por la naturaleza de su comisión deben permanecer en Santiago, donde se encuentra la sede de esta Escuela."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2.o No se aplicarán las disposiciones\ncontenidas en en los incisos segundo y tercero del\nartículo 1.o, y en el artículo 2.o de la ley N.o 8,715, a los funcionarios del Departamento Técnico Interamericano de Cooperación Agrícola.\nTampoco se aplicarán a los funcionarios técnicos del Ministerio de Agricultura que se encuentren en comisión de servicio en el Departamento Técnico Interamericano de Cooperación Agrícola, a los que puedan ser necesitados por dicho Departamento para el desarrollo de su programa, ni a los que han sido beneficiados con becas para realizar estudios en el extranjero\"."
+    }
+  ],
+  "definitions": []
+}

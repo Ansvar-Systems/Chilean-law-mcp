@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134592",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1287",
+  "status": "in_force",
+  "issued_date": "1899-11-29",
+  "in_force_date": "1899-12-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134592",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Agrégase al artículo 2.º de la lei número 280, de 23 de diciembre de 1897, el siguiente inciso:\n\"Artículos de tejidos de punto a que se refieren las partidas números 1,213, 1,214, 1,230, 1,231, 1,255, 1,317, 1,318, 2,819, 3,528, 3,529, 3,545 i 3,546 de la tarifa de avalúos de 1896.\"\nLa agregación hecha por esta lei rejirá por el término de tres años."
+    }
+  ],
+  "definitions": []
+}

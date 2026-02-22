@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-146398",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3491",
+  "status": "in_force",
+  "issued_date": "1919-01-30",
+  "in_force_date": "1919-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=146398",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Sustitúyese el artículo 14 de la lei de 16 de setiembre de 1884 por el siguiente:\n\"Art. 14. No se podrá exceder la suma fijada en cada ítem o partida de los presupuestos de gastos\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24692",
+  "type": "statute",
+  "title": "Autoriza a la Municipalidad de Antofagasta para;conceder a la Compañía de Gas de Valparaíso, hasta por;cincuenta años, el uso del subsuelo de calles, plazas,;caminos y demás vías públicas de esa ciudad, con el;objeto de establecer el \nservicio de gas de alumbrado y;de calefacción.",
+  "short_name": "Ley 4375",
+  "status": "in_force",
+  "issued_date": "1928-07-31",
+  "in_force_date": "1928-08-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24692",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase a la Municipalidad de la comuna de Antofagasta para conceder a la Compañía de Gas de Valparaíso, hasta por el término de cincuenta años, y sin perjuicio de los derechos de terceros, el uso del subsuelo de calles, plazas, caminos y demás vías públicas de dicha ciudad, con el objeto de establecer el servicio de gas de alumbrado y de calefacción."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta concesión quedará subordinada a los términos del contrato que deberá celebrarse antes del 1.o de Enero de 1929, entre la citada Municipalidad y la Compañía mencionada, y que deberá someterse a la aprobación del Presidente de la República.\nSi este contrato no se formalizare dentro del plazo señalado, quedará sin efecto la autorización otorgada por la presente ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley empezará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

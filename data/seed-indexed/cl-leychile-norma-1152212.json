@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1152212",
+  "type": "statute",
+  "title": "PROHIBICION DE PRORATAS.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1826-08-23",
+  "in_force_date": "1826-08-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1152212",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "1.° Ningun funcionario público sea cual fuere su rango podrá exijir o mandar prorratas de ninguna especie. El que quebrantare esta lei será obligado a la devolucion de las especies con el cuarto tanto de su valor, y sufrirá à mas la pena de destitucion de su empleo quédando inhábil para obtener otro alguno por el espacio de diez años."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° A la misma responsabilidad y pena queda sujeto el subalterno o particular que obedeciere órden de algun superior para este efecto."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° El que se supusiere encargado de exijir prorratas, a mas de la devolucion con el cuatro tantos, será destinado por diez años a uno de los presidios de la República."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° El Poder Ejecutivo hará imprimir y circular esta lei para que se publique en todos los partidos y sus respectivos distritos fijándose en las puertas de las parróquias, y vice parróquias a fin de que llegando a noticia de todos los habitantes de la República tenga su puntual y debido cumplimiento."
+    }
+  ],
+  "definitions": []
+}

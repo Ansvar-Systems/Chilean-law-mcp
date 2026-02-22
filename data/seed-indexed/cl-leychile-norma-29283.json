@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-29283",
+  "type": "statute",
+  "title": "DENOMINA CARLOS CONDELL A LA ESCUELA QUE SEÑALA",
+  "short_name": "Ley 17790",
+  "status": "in_force",
+  "issued_date": "1972-10-13",
+  "in_force_date": "1972-10-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29283",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.- Desígnase con el nombre de \"Carlos Condell\" a la Escuela Básica Mixta N.° 403, de Santiago."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- Desígnase con el nombre de \"Comandante Arturo Prat Chacón\", a la Escuela Fiscal N.° 23 del departamento de Talcahuano."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.- Otórgase a la Escuela de Hombres N.° 30, de Parral, el nombre de \"Pablo Neruda\""
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.- Nomínase a la Escuela Fiscal N.° 490, del departamento de Santiago, con el nombre de \"Manuel Rivas Vicuña\"."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.- Otórgase a la Escuela N.° 24, de el departamento de El Loa, provincia de Antofagasta, el nombre del educador don \"Tomas Aníbal Larraguibel Rojas\"."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Artículo 6.- Otórgase a la Escuela Industrial de la comuna de Ñuñoa, provincia de Santiago, el nombre del educador don \"José María Narbona\"."
+    }
+  ],
+  "definitions": []
+}

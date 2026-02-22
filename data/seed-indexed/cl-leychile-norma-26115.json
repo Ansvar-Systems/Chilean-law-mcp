@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26115",
+  "type": "statute",
+  "title": "ADOPTA LAS MEDIDAS QUE INDICA EN RELACION CON EL\nPERSONAL CIVIL DE FAROS",
+  "short_name": "Ley 9498",
+  "status": "in_force",
+  "issued_date": "1949-11-12",
+  "in_force_date": "1949-12-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26115",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Suprímese en el Título \"Armada\" el inciso d) del artículo 3° de la ley N° 9,289, de 31 de Diciembre de 1948."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El personal civil de Faros en actual servicio, comprendido en la ley número 7,590, de 8 de Octubre de 1943, continuará ascendiendo, de acuerdo con las disposiciones de dicha ley; pero la planta de empleados que en ella se establece, irá extinguiéndose a medida que vayan produciéndose vacantes en los últimos grados del Escalafón."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Esta ley regirá desde su publicación en el \"Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

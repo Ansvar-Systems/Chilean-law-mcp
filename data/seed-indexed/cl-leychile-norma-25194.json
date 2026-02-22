@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-25194",
+  "type": "statute",
+  "title": "SUPLEMENTA LOS ITEM QUE SE INDICAN DEL PRESUPUESTO\nDEL MINISTERIO DE DEFENSA NACIONAL, SUBSECRETARIA DE\nMARINA",
+  "short_name": "Ley 5772",
+  "status": "in_force",
+  "issued_date": "1935-12-23",
+  "in_force_date": "1935-12-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25194",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Supleméntanse los siguientes ítem del Presupuesto del Ministerio de Defensa Nacional-Subsecretaría de Marina, en las cantidades que se indican:\n10|01|04|d Jornales_______________ $ 1.000,000\n10|01|04|g Consumos_______________ 4.000,000\n10|01|04í|1 Víveres________________ 1.000,000\n10|01|04í|3 Vestuario______________ 1.000,000\n10|01|04|L Reparaciones___________ 400,000\n101021041d Jornales D.O.M.________ 2.000,000\n10|02|04|g Consumos_______________ 125,000\n10|02|04|L|3 Reparaciones___________ 500,000\n10|02|04|v|1 Varios e imprevistos___ 500,000\n10|02|04|v|2 Varios e imprevistos___ 30,000\n10|02|11á|15 Obras compl.\nConstitución___________ 100,000\n____________\n$ 10.655,000\n____________\nEl gasto que demande el cumplimiento de esta Ley se deducirá de las mayores entradas que se produzcan en la Cuenta de Ingresos Fiscales C-10."
+    }
+  ],
+  "definitions": []
+}

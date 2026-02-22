@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23322",
+  "type": "statute",
+  "title": "AUMENTA EL SUELDO I REFORMA LA PLANTA DE EMPLEADOS DEL CONSEJO DE HABITACIONES PARA OBREROS; FIJA EL VIÁTICO QUE DEBEN PERCIBIR LOS EMPLEADOS QUE SALGAN FUERA DE SU RESIDENCIA, I DISPONE QUE LOS ALCALDES, ÁNTES DE DAR LA LÍNEA PARA LAS  CONSTRUCCIONES DE OBREROS, EXIJIRÁN QUE EL CONSEJO APRUEBE LOS PLANOS RESPECTIVOS",
+  "short_name": "Ley 2458",
+  "status": "in_force",
+  "issued_date": "1911-02-08",
+  "in_force_date": "1911-02-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23322",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Sustitúyese el inciso 10 del art.\n2.° de la lei núm. 1,838 de 20 de Febrero de 1906, por los siguientes:\n\"Tendrá, ademas, el siguiente personal administrativo, nombrado por el Presidente de la República a propuesta en terna del Consejo, con los sueldos que se indican:\nUn secretario abogado, con______________ $ 7,200\nUn Pro-Secretario, procurador judicial,\ncon_____________________________________ 3,600\nUn oficial de Secretaría, con___________ 1,800\nUn injeniero sanitario, con_____________ 7,200\nDos inspectores de habitaciones con tres\nmil seiscientos pesos cada uno__________ 7,200\nCuando el secretario o el injeniero salieren del lugar de su residencia, tendrán un viático de quince pesos diarios en las provincias de Tacna, Tarapacá i Antofagasta i de diez pesos diarios en el resto de la República."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°.- Agrégase al párrafo segundo de la lei númeo 1,838 de 20 de Febrero de 1906 despues del art, 12. el siguiente:\n\"Los Alcaldes ántes de dar línea para la construccion de habitaciones para obreros, exijirán que préviamente sean aprobados por el Consejo respectivo los planos correspondientes, a fin de que reunan las condiciones de salubridad exijidas por la ordenanza de 17 de Setiembre de 1906.\""
+    },
+    {
+      "provision_ref": "art1-transitorio-transitorio",
+      "section": "1 TRANSITORIO Transitorio",
+      "title": "Artículo 1 TRANSITORIO Transitorio",
+      "content": "ARTICULO TRANSITORIO Los empleados a que se refiere esta lei no tendrán opcion a las gratificaciones otorgadas en la lei de Presupuestos para 1911."
+    }
+  ],
+  "definitions": []
+}

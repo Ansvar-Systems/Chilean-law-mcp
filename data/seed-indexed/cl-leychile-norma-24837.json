@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-24837",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4695",
+  "status": "in_force",
+  "issued_date": "1929-11-22",
+  "in_force_date": "1929-11-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24837",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Supleméntase en la suma de un millón doscientos mil pesos ($ 1.200,000) el ítem 11|11|07é del Presupuesto del Ministerio de Fomento del presente año, que consulta la suma de treinta y cuatro millones seiscientos cuarenta y cinco mil pesos ($ 34.645,000) para contribución al fondo especial de Caminos y Puentes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Dicha suma se destinará a trabajos de reparación y conservación de los caminos de la provincia de Santiago."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El mayor gasto que importa este suplemento se cubrirá con la mayor entrada de cinco millones quinientos treinta y nueve mil doscientos sesenta y seis pesos ($ 5.539,266) producida durante el primer semestre del presente año por el rubro \"Cobro de Impuestos Fiscales Atrasados\". Cuenta D-2 a del Presupuesto Ordinario de Entradas para el año 1929."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Las sumas de este suplemento no invertidas hasta el 31 de Diciembre del presente año, no ingresarán a rentas generales y serán traspasadas a una cuenta de _epósito a disposición del Ministerio de Fomento, para ser invertidas en conformidad a los fines de la presente ley."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

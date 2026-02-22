@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-131715",
+  "type": "statute",
+  "title": "Artículo cincuenta i cuatro de la Constitución",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1873-01-03",
+  "in_force_date": "1873-01-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=131715",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.\nSe declara reformable el artículo cincuenta i cuatro de la Constitución."
+    }
+  ],
+  "definitions": []
+}

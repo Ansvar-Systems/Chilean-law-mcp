@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1213010",
+  "type": "statute",
+  "title": "AUTORIZA EL USO DE TECNOLOGÍAS DE AUTENTIFICACIÓN BIOMÉTRICA PARA LA CORRECTA IDENTIFICACIÓN DE PASAJEROS DEL TRANSPORTE AÉREO",
+  "short_name": "Ley 21734",
+  "status": "in_force",
+  "issued_date": "2025-04-16",
+  "in_force_date": "2025-05-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1213010",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Modifícase el artículo 5 del decreto ley Nº 2.460, de 1979, que dicta ley orgánica de Policía de Investigaciones de Chile, en el siguiente sentido:\n1. Agrégase entre las expresiones \"adoptar\" y \"todas las medidas\", la siguiente frase: \", por el personal que disponga la jefatura respectiva y mediante cualquier dispositivo o medio tecnológico idóneo para tal efecto, incluyendo el tratamiento de datos biométricos,\".\n2. Incorpórase entre las expresiones \"ingresan al país\" y \", la validez y autenticidad de sus documentos\", la siguiente frase: \"y de las que se trasladan dentro del territorio nacional mediante el servicio de transporte aéreo\".\n3. Sustitúyese la expresión \"ingresar o salir de él\" por la frase \"ingresar, salir o trasladarse dentro de él; fiscalizar a las personas que se trasladen en los servicios de transporte aéreo nacional\".\n4. Agrégase el siguiente inciso segundo:\n\"Para el cumplimiento de sus funciones, la Policía de Investigaciones de Chile podrá celebrar convenios con otros organismos de la Administración del Estado e instituciones autónomas. Del mismo modo, deberá dar cumplimiento a las disposiciones de la ley Nº 19.628, sobre protección de la vida privada.\".\n5. Agrégase el siguiente inciso final:\n\"Para la definición de normas técnicas de los medios tecnológicos, la Policía de Investigaciones de Chile podrá consultar a la Secretaría de Gobierno Digital del Ministerio de Hacienda. En materia de compras, se regulará por la ley N° 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios.\".\"."
+    }
+  ],
+  "definitions": []
+}

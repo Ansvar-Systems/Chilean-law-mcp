@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23650",
+  "type": "statute",
+  "title": "FIJA EL DERECHO DE ESPORTACION DEL ACIDO BORICO I DE LOS BORATOS I EXIME TEMPORALMENTE DEL PAGO DE ESTE IMPUESTO A LOS DUEÑOS DE YACIMIENTOS QUE NO TENGAN ESTABLECIDA LA ESPLOTACION EN EL MOMENTO DE LA PROMULGACION DE LA PRESENTE LEI.",
+  "short_name": "Ley 2989",
+  "status": "repealed",
+  "issued_date": "1915-03-01",
+  "in_force_date": "1939-04-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23650",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- El ácido bórico i los boratos pagarán durante dos años, contados desde la fecha de la vijencia de esta lei, un derecho de esportacion de seis pesos sesenta i seis centavos, oro de dieciocho peniques, por tonelada métrica.\nVencido el término de dos años, el impuesto se elevará a diez pesos, oro de dieciocho peniques, por tonelada métrica."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Los particulares o sociedades dueños de yacimientos de las sustancias a que se refiere el artículo anterior que no tengan establecida la esplotacion de la sustancia, en el momento de la promulgacion de esta lei, quedarán exentos del pago del impuesto durante dos años contados en la forma que indica el artículo 1.° Trascurrido que sea ese plazo se someterán al impuesto de diez pesos oro de dieciocho peniques que será comun, esto es, que afectará a cada tonelada métrica que se esporte."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Esta lei comenzará a rejir sesenta dias despues de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

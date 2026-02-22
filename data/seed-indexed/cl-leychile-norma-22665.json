@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22665",
+  "type": "statute",
+  "title": "REPARACIONES DEL MALECON DE VALPARAISO",
+  "short_name": "Ley 1458",
+  "status": "in_force",
+  "issued_date": "1901-02-09",
+  "in_force_date": "1901-02-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22665",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir la suma de trescientos cincuenta mil pesos en ejecutar los trabajos de reparacion en el malecon de Valparaiso."
+    }
+  ],
+  "definitions": []
+}

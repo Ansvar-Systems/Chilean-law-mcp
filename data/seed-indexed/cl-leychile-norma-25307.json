@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25307",
+  "type": "statute",
+  "title": "INTRODUCE LAS MODIFICACIONES QUE SE INDICAN EN EL\nINCISO 2.o DEL ART. 1.o DE LA LEY N.o 4,254, DE 17 DE\nENERO DE 1928, QUE FIJA LA PLANTA Y SUELDOS DEL PERSONAL\nDEL CONGRESO NACIONAL",
+  "short_name": "Ley 6170",
+  "status": "in_force",
+  "issued_date": "1938-01-27",
+  "in_force_date": "1938-04-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25307",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Introdúcense en el inciso 2.o del artículo 1.o de la Ley N.o 4,254, de 17 de Enero de 1928, las siguientes modificaciones:\na) Suprímense las palabras \"y Tesorero\", que figuran a continuación de: \"Prosecretario\"; y\nb) Substitúyese el rubro \"Administrador de los servicios\ninternos y Contador de la Cámara___________ $ 27,000\",\npor el siguiente: \"Tesorero________________ $ 33,000\","
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El mayor gasto que significa la presente ley se deducirá de los ítem 02|02|02 letras a) y e) 02|02|04, letra t), del Presupuesto del Congreso Nacional."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley comenzará a regir desde el 1.o de Abril del presente año\"."
+    }
+  ],
+  "definitions": []
+}

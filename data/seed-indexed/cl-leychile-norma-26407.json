@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26407",
+  "type": "statute",
+  "title": "INTRODUCE MODIFICACIONES AL CODIGO DEL TRABAJO",
+  "short_name": "Ley 10486",
+  "status": "in_force",
+  "issued_date": "1952-08-27",
+  "in_force_date": "1952-09-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26407",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Modifícase el inciso segundo del\nartículo 158 del Código del Trabajo, reemplazando el punto final por una coma y agregando la siguiente frase:\n\"... y para los empleados que trabajen en empresas mineras, con exclusión de los que presten sus servicios fuera de la provincia en donde estén ubicados los establecimientos mineros respectivos\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Agrégase al artículo 98 del Código del Trabajo, el siguiente inciso:\n\"Los obreros de las empresas mineras, excluídos los que trabajen fuera de la provincia en donde estén ubicados los establecimientos mineros respectivos, estarán sujetos a la siguiente escala especial: los obreros que hayan trabajado doscientos ochenta y ocho días en el año tendrán anualmente un feriado de veinticinco días con derecho a salario íntegro. Este feriado será de quince días para los que hayan trabajado más de doscientos veinte días y menos de doscientos ochenta y ocho días. El feriado se concederá de acuerdo con las formalidades que se establezcan en el reglamento y respetando los convenios de tipo local que existan al respecto, siempre que establezcan beneficios superiores a los que concede este artículo\"."
+    }
+  ],
+  "definitions": []
+}

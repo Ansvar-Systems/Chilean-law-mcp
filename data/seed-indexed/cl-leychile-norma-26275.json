@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-26275",
+  "type": "statute",
+  "title": "CREA Y SUPRIME LAS PLAZAS QUE INDICA DEL PRESUPUESTO DEL MINISTERIO DE RELACIONES EXTERIORES.",
+  "short_name": "Ley 9985",
+  "status": "in_force",
+  "issued_date": "1951-09-13",
+  "in_force_date": "1951-09-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26275",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Créanse las siguientes plazas en el ítem 05|02|01 del Presupuesto del Ministerio de Relaciones Exteriores:\na) Primera Categoría, dos Embajadores Extraordinarios y Plenipotenciarios;\nb) Segunda Categoría, dos Enviados Extraordinarios y Ministros Plenipotenciarios;\nc) Cuarta Categoría, dos Consejeros de Embajada.\nPara atender a los gastos que se deriven de la creación de nuevos cargos, se complementan por ítem 05|02|02é, 05|02|04|b|1 y 05|02|04|b|2 en las cantidades que correspondan."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Suprímense las siguientes plazas del ítem 05|02|04 del Presupuesto del mismo Ministerio:\na) La del N.o 2 \"Para pagar sus emolumentos al Delegado de Chile ante la N. U. (Embajador), y b) Las del N.o 6 \"Para contratar los servicios de dos Consejeros de Embajada\".\nLas personas que desempeñan actualmente los cargos que se suprimen pasarán a formar parte, sin necesidad de nuevo nombramiento, de la Planta del Servicio Exterior de la República en las categorías respectivas que se establecen en el artículo anterior y quedarán sujetas a las leyes del Servicio, respetándoseles en el escalafón la antigüedad que tuvieren."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Uno de los Embajadores de la Planta Permanente desempeñará las funciones de Delegado ante las Naciones Unidas, y uno de los Ministros Plenipotenciarios las de Delegado-adjunto."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o El mayor gasto que represente la aplicación de la presente ley por el resto del año en curso, se imputará al sobrante que se produzca en el ítem 06|01|12, planta suplementaria del Ministerio de Hacienda\"."
+    }
+  ],
+  "definitions": []
+}

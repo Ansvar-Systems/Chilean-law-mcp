@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-135808",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2004",
+  "status": "in_force",
+  "issued_date": "1907-09-04",
+  "in_force_date": "1907-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135808",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Se declara de utilidad pública los terrenos necesarios para la apertura, ensanche i rectificacion de las calles de Limache, en conformidad a los planos que apruebe el Presidente de la República.\nLas espropiaciones se llevarán a efecto de acuerdo con lo dispuesto en la lei de 18 de junio de 1857."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Los propietarios contribuirán al pago del costo de la pavimentacion de las calles i construccion de aceras en el frente de sus respectivas propiedades, en la forma determinada por la lei número 1,473, de 11 de junio de 1900."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Una comision compuesta del Gobernador de Limache, del primer alcalde de a Municipalidad respectiva i de tres personas designadas por el Presidente de la República tendrá a su cargo la direccion de todos los trabajos i espropiaciones de terrenos que deban hacerse, fuera de los que gratuitamente cederán los propietarios, para dar cumplimiento a los artículos precedentes.\nDicha comisión procederá con arreglo a las órdenes e instrucciones que le imparta el Presidente de la República."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Se autoriza al Presidente de la República para invertir hasta la suma de sesenta mil pesos en la ejecucion de las obras indicadas en el artículo 1.º."
+    }
+  ],
+  "definitions": []
+}

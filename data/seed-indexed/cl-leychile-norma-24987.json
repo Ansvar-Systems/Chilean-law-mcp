@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24987",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4996",
+  "status": "in_force",
+  "issued_date": "1931-10-01",
+  "in_force_date": "1931-10-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24987",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se declara, para los efectos de lo establecido en el Título IX de la Ley de Elecciones, que la reunión de los Colegios Escrutadores Departamentales correspondientes a departamentos suprimidos por la actual división territorial de la República, se realizará en el edificio en que funcione la Municipalidad de la respectiva cabecera del\nex-departamento.\nEsta disposición regirá también para el Colegio Escrutador del departamento de Santiago."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Agréguese al artículo 62 de la Ley de Elecciones, el siguiente inciso: \"Sin embargo, en casos calificados, se podrá autorizar la instalación de Secretarías de propaganda a menos de doscientos metros en las comunas cabeceras de departamentos; pero en ningún caso la distancia a que se encuentre, podrá ser menor de cien metros de las mesas receptoras\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

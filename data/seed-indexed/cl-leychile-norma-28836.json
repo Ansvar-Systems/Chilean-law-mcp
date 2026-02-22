@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-28836",
+  "type": "statute",
+  "title": "INSTALACION DE SERVICIO TELEFONICO A LOS CUERPOS Y\nCOMPAÑIAS DE BOMBEROS",
+  "short_name": "Ley 17216",
+  "status": "in_force",
+  "issued_date": "1969-10-07",
+  "in_force_date": "1969-10-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28836",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Las empresas de teléfonos instalados o que se instalen en el país deberán preferir en la instalación de teléfonos a los Cuerpos y Compañías de Bomberos, los que estarán exentos del pago del Servicio telefónico, con excepción de las llamadas de larga distancia."
+    }
+  ],
+  "definitions": []
+}

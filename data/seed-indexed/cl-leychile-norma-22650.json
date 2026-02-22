@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22650",
+  "type": "statute",
+  "title": "SUBVENCION A LA SOCIEDAD PROTECTORA DE LA INFANCIA DE VALPARAISO",
+  "short_name": "Ley 1440",
+  "status": "in_force",
+  "issued_date": "1901-01-26",
+  "in_force_date": "1901-01-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22650",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a la Sociedad Protectora de la Infancia de Valparaiso una subvencion estraordinaria de cincuenta mil pesos para continuar la construccion de los edificios destinados a la instalacion de sus servicios."
+    }
+  ],
+  "definitions": []
+}

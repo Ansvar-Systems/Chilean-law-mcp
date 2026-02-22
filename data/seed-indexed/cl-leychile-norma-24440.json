@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24440",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4065",
+  "status": "in_force",
+  "issued_date": "1926-05-27",
+  "in_force_date": "1926-05-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24440",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Mientras se hace la revisión definitiva del decreto-ley número 315, de 9 de Marzo de 1925, la Inspección de Bienes Nacionales funcionará, en lo sucesivo, como una sección dependiente del Ministerio de Hacienda, con el personal y sueldos que se indican a continuación:\nUn Jefe_______________________________________ $ 21,000\nTres Revisadores de Archivos Públicos, uno con\n$ 18,000, otro con $ 17,000 y el tercero con\n16,000 pesos__________________________________\nUn Oficial Contador___________________________ 12,000\nUn Oficial 2.o________________________________ 7,800\nUn Oficial auxiliar___________________________ 6,600\nUn portero____________________________________ 3,600"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Déjanse sin efecto los artículos 22, 23 y 24 del decreto-ley número 315, de 9 de Marzo de 1925."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley regirá desde su publicación en el Diaro Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-135534",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1568",
+  "status": "in_force",
+  "issued_date": "1902-12-12",
+  "in_force_date": "1902-12-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135534",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Autorízase la permuta de las hijuelas números 647 i 647-B, del plano de Malleco, de los indíjenas José Nahuel i Marin Liencheo, radicados en diciembre de 1885, por una estension igual de terreno comprendido dentro de la hijuela número 645 del mismo plano, de propiedad de don Luis Edwards."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Autorízase al Inspector Jeneral de Tierras i Colonizacion para suscribir, a nombre de los indíjenas mencionados, las escrituras públicas correspondientes."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Los demas terrenos de propiedad de don Luis Edwards, quedan hipotecados a favor del Fisco, para responder al pago de la parte insoluta del precio de la hijuela número 645, de su propiedad."
+    }
+  ],
+  "definitions": []
+}

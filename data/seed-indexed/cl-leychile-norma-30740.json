@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30740",
+  "type": "statute",
+  "title": "TRANSFIERE A COMUNA DE SANTIAGO, TERRITORIO QUE\nSEÑALA",
+  "short_name": "Ley 19373",
+  "status": "in_force",
+  "issued_date": "1995-01-30",
+  "in_force_date": "1995-02-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30740",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Transfiérese a la comuna de Santiago el siguiente territorio de la actual comuna de Quinta Normal:\nLa prolongación del lindero poniente del predio de propiedad fiscal, Internado Nacional Barros Arana (Rol 242-15), desde la calle Santo Domingo hasta el lindero norte de dicho predio; el lindero norte del predio señalado, desde su lindero poniente hasta su lindero oriente; y el lindero oriente del referido predio, y su prolongación, desde su lindero norte hasta la calle Santo Domingo."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- Esta ley regirá desde el 1° de enero de 1995.\".\nY por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República."
+    }
+  ],
+  "definitions": []
+}

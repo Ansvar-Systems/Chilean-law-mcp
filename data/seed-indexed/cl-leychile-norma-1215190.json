@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1215190",
+  "type": "statute",
+  "title": "MODIFICA LA LEY DE CONCESIONES DE OBRAS PÚBLICAS PARA ESTABLECER LA OBLIGACIÓN DE ADOPTAR MEDIDAS DE SEGURIDAD A LAS CONCESIONARIAS DE OBRAS PÚBLICAS VIALES",
+  "short_name": "Ley 21750",
+  "status": "in_force",
+  "issued_date": "2025-07-17",
+  "in_force_date": "2025-07-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1215190",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en el decreto supremo Nº 900, de 1996, del Ministerio de Obras Públicas, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 164, de 1991, del Ministerio de Obras Públicas, Ley de Concesiones de Obras Públicas:\n1.- En el artículo 23º:\ni. Reemplázase, en el número 1, la expresión final \", y\" por un punto y aparte.\nii. Agrégase el siguiente número 3, nuevo:\n\"3.- El concesionario de obras viales deberá adoptar medidas de protección y seguridad al interior de las obras, las que se harán extensivas a los usuarios de las mismas y a sus bienes, debiendo establecerse en las respectivas bases de licitación las obligaciones de vigilancia, seguridad y asistencia, como por ejemplo la instalación de cámaras de seguridad, cámaras térmicas, de sistema lumínico y lectores de patentes, entre otras. A su vez, las bases de licitación determinarán las sanciones procedentes y las demás condiciones exigibles para proteger los derechos de los usuarios en caso de incumplimiento, sin perjuicio de su deber de responder según lo establecido en el artículo 35º de esta ley.\".\n2.- Agrégase un artículo 44, nuevo, del siguiente tenor:\n\"Artículo 44.- En el cumplimiento de sus obligaciones de vigilancia, seguridad y asistencia, el concesionario de obras viales que opere con sistemas electrónicos o manuales de cobro de tarifas o peajes deberá permitir el acceso al Ministerio Público a la información e imágenes obtenidas, cuando aquél lo requiera en el contexto de la investigación de un delito. A su vez, deberá permitir el acceso a las policías, de forma automatizada, en tiempo real e interoperando con éstas, a la información relativa, al menos, a la placa patente o ausencia de la misma, marca, modelo y color de los vehículos motorizados que circulen por las obras, de acuerdo a sus respectivas facultades legales en materia investigativa o en el rol de policía preventiva de Carabineros de Chile, con el fin de detectar aquellos vehículos alterados y/o cuyo robo ha sido denunciado o detectado en flagrancia, o respecto de los cuales existan antecedentes de su utilización en delitos, o que circulen con placas patentes alteradas o sin las mismas, así como para informar y alertar de eventuales delitos o infracciones que se produzcan al interior de las obras.\nCon todo, el concesionario podrá convenir con las policías la transmisión de informaciones de seguridad que sean necesarias para prevenir los riesgos para la seguridad pública. Los convenios que se celebren deberán garantizar la interoperabilidad de los sistemas de información.\nPara el cumplimiento de lo dispuesto en los incisos precedentes, el tratamiento de datos de carácter personal y los sistemas utilizados para el resguardo del usuario y sus bienes se someterán a lo dispuesto en la normativa de protección de datos personales y a las respectivas bases de licitación.\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- En ejercicio de las facultades que le otorgan el inciso tercero del artículo 19 y el artículo 20 del decreto supremo Nº 900, de 1996, del Ministerio de Obras Públicas, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 164, de 1991, del Ministerio de Obras Públicas, Ley de Concesiones de Obras Públicas, el Ministerio de Obras Públicas, en coordinación con el Ministerio de Seguridad Pública, realizará las acciones tendientes a modificar los contratos de concesión de obras públicas viales vigentes que no cuenten con medidas de seguridad en un plazo máximo de cinco años, con el objeto de incorporar las obligaciones de vigilancia, seguridad y asistencia contenidas en la presente ley y las respectivas sanciones, en caso de incumplimiento.\nLas acciones y las modificaciones realizadas de conformidad con el inciso anterior serán informadas a la Comisión de Obras Públicas, Transportes y Telecomunicaciones de la Cámara de Diputados y a la Comisión de Obras Públicas del Senado, de forma anual.\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25116",
+  "type": "statute",
+  "title": "OTORGA AMNISTIA GENERAL",
+  "short_name": "Ley 5483",
+  "status": "in_force",
+  "issued_date": "1934-09-13",
+  "in_force_date": "1973-02-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25116",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Otorgase amnistía general a todos los autores, cómplices o encubridores de delitos contra la seguridad interior del Estado, de calumnias, injurias y desacato contra el Presidente de la República y otros funcionarios; de delitos electorales y, demás delitos políticos, incluso los que tengan este carácter y consistan en abusos de la publicidad; de delitos contemplados en el decreto ley N.o 50, del año 1932, y de los de deserción del Ejército, de la Armada, de la aviación y de Carabineros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Concédese, además, amnistía, al personal de Carabineros, procesado o condenado por delitos ejecutados en actos del servicio. Se exceptúan de esta amnistía a los procesados o condenados por delitos en contra de la propiedad o de insubordinación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

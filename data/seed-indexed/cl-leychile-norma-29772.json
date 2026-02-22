@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29772",
+  "type": "statute",
+  "title": "DECLARA VIGENCIA DE LAS NORMAS QUE ESTABLECEN EL\nDERECHO A LA DEVOLUCION DE IMPOSICIONES EN FAVOR DE LOS\nTITULARES QUE INDICA, DE LOS DIFERENTES REGIMENES\nPREVISIONALES",
+  "short_name": "Ley 18357",
+  "status": "in_force",
+  "issued_date": "1984-11-05",
+  "in_force_date": "1984-11-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29772",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Declárase, que no obstante lo establecido en los artículos 4° del decreto ley N° 1.695, de 1977, y 16 del decreto ley N° 3.501, de 1980, las disposiciones legales, reglamentarias y estatutarias que establecen el derecho a la devolución de imposiciones en forma expresa en favor de otros titulares distintos a los imponentes o ex imponentes de los regímenes previsionales, han mantenido y mantienen su vigencia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El mayor gasto que irrogue la aplicación de esta ley será de cargo de los respectivos Institutos de Previsión."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- Otórgase el plazo de un año contado desde la publicación de esta ley, para solicitar los beneficios a que se refiere el artículo 1°, respecto de aquellas personas que no pudieron impetrarlos entre el 13 de Abril de 1977 y la fecha de vigencia de este cuerpo legal."
+    }
+  ],
+  "definitions": []
+}

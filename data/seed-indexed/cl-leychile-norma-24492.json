@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24492",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4127",
+  "status": "in_force",
+  "issued_date": "1927-06-23",
+  "in_force_date": "1927-06-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24492",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°. Substitúyense en el artículo 2° de la ley número 2,977, de 28 de Enero de 1915, las palabras:\n\"1° de Julio\", por \"30 de Junio\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2°. La presente ley regirá desde la fecha de su publicación en el Diario Oficial.\""
+    }
+  ],
+  "definitions": []
+}

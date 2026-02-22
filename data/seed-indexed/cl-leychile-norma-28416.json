@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28416",
+  "type": "statute",
+  "title": "AUTORIZA LA ERECCION DE UN MONUMENTO EN LA CIUDAD DE SANTIAGO, EN HOMENAJE AL CARABINERO CAIDO EN CUMPLIMIENTO DE SU DEBER.",
+  "short_name": "Ley 16351",
+  "status": "in_force",
+  "issued_date": "1965-10-19",
+  "in_force_date": "1965-11-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28416",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Autorízase la erección de un monumento en la ciudad de Santiago, en homenaje al carabinero caído en cumplimiento de su deber."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El gasto que demande la aplicación de esta ley será financiado con el producto de una colecta pública que se efectuará en todo el país el día que se señale por decreto supremo."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- El monumento deberá reunir los requisitos que determine el Reglamento de la presente ley y para su realización deberá abrirse concurso publico.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23804",
+  "type": "statute",
+  "title": "PROHIBE EL ESTABLECIMIENTO DE CASA DE ENCARGOS DE BOLETOS DE APUESTAS MUTUAS DE LOS HIPÓDROMOS I A PARA LOS INFRACTORES",
+  "short_name": "Ley 3198",
+  "status": "repealed",
+  "issued_date": "1917-01-22",
+  "in_force_date": "1929-02-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23804",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Toda persona que en cualquier lugar o bajo cualquiera forma i aun a título gratuito u oneroso ofrezca apostar en las carreras por cuenta de cualquier individuo o sirva de intermediario para adquirir en los hipódromos boletos de apuestas mútuas, será castigado con reclusion menor en sus grados medio a máximo.\nEl dinero i los instrumentos, objetos i útiles de que se valgan estos intermediarios caerán siempre en comiso."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°.- Sólo quedan permitidas por esta lei las apuestas mútuas que se verifiquen dentro de los recintos de los hipódromos, bajo la vijilancia directa de las instituciones hípicas legalmente autorizadas i con intervencion del representante de la respectiva Junta de Beneficencia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Se concede accion pública para denunciar las infracciones a la presente lei, aplicándose a beneficio del denunciante el cincuenta por ciento de los valores que caigan en comiso."
+    }
+  ],
+  "definitions": []
+}

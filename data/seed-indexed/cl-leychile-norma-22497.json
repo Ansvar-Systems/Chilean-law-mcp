@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22497",
+  "type": "statute",
+  "title": "FERROCARRILES ENTRE TALCA I SAN CLEMENTE",
+  "short_name": "Ley 1244",
+  "status": "in_force",
+  "issued_date": "1899-08-02",
+  "in_force_date": "1899-08-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22497",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Se autoriza al Presidente de la República por el término de dieziocho meses, para que invierta hasta la cantidad de trescientos mil pesos en la construccion de un ferrocarril de vapor entre la ciudad de Talca i la villa de San Clemente, en conformidad a los planos aprobados por la Direccion de Obras Públicas."
+    }
+  ],
+  "definitions": []
+}

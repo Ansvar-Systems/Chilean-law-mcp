@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-246785",
+  "type": "statute",
+  "title": "MODIFICA LAS LEYES N.os 4,054 Y 5,950, QUE DECLARA\nOBLIGATORIO EL SEGURO DE ENFERMEDAD, INVALIDEZ Y\nACCIDENTES DEL TRABAJO Y QUE CREA LA CAJA DE LA\nHABITACION POPULAR, RESPECTIVAMENTE",
+  "short_name": "Ley 6172",
+  "status": "amended",
+  "issued_date": "1938-01-31",
+  "in_force_date": "1941-03-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=246785",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Substitúyese en el inciso primero del artículo 12 de la Ley 4,054, la frase: \"el patrón, tres\", por esta otra: \"el patrón, cuatro\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Substitúyese el número segundo del artículo 3.o de la Ley 5,950, por el siguiente:\n\"2.o Con los dineros que le entregará la Caja de Seguro Obligatorio, de conformidad a lo que dispone el inciso siguiente.\nLa Caja de Seguro Obligatoria hará entrega anualmente a la Caja de la Habitación, de la cuarta parte del aporte patronal que establecen los artículos 12 de la Ley 4,054 y 1.o de la presente.\nLa Caja de la Habitación invertirá dichos fondos en la adquisición de terrenos y en la construcción de habitaciones para obreros.\nINCISOS SUPRIMIDOS"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Las poblaciones obreras pertenecientes a la Caja de Seguro Obligatorio quedarán exentas de toda contribución fiscal."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Derógase el artículo 21 de la Ley 4,054."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o Esta Ley regirá desde el 12 de Julio de 1937."
+    }
+  ],
+  "definitions": []
+}

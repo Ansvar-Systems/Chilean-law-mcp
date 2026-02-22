@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30772",
+  "type": "statute",
+  "title": "MODIFICA LEY N° 19.378, SOBRE ESTATUTO DE ATENCION\nPRIMARIA DE SALUD MUNICIPAL",
+  "short_name": "Ley 19405",
+  "status": "in_force",
+  "issued_date": "1995-08-22",
+  "in_force_date": "1995-08-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30772",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones a la ley N° 19.378:\n1. Sustitúyese en el artículo 4° transitorio, el guarismo \"1993\" por \"1994\".\n2. En el artículo 8° transitorio:\na) Sustitúyense en la letra b) del inciso tercero, los guarismos \"1993\" y \"15%\" por \"1994\" y \"12,2%\", respectivamente, y\nb) Reemplázase en el inciso quinto, el vocablo \"anterior\" por \"tercero\".\n3. Sustitúyese el artículo 15 transitorio, por el siguiente:\n\"Artículo 15.- el valor del sueldo base mínimo nacional establecido en el artículo 24 de esta ley será, para cada una de las categorías señaladas en el artículo 5°, el siguiente:\na) Médicos Cirujanos, Farmacéuticos,\nQuímico-Farmacéuticos, Bioquímicos\ny Cirujanos-Dentistas $ 148.012.-\nb) Otros profesionales $ 112.453.-\nc) Técnicos de Nivel Superior $ 59.337.-\nd) Técnicos de Salud $ 50.170.-\ne) Administrativos de Salud $ 47.678.-\nf) Auxiliares de servicios de\nSalud $ 39.779.-\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- El mayor gasto que represente la aplicación de esta ley para el año 1995 se financiará con cargo al ítem 16.03.01.22 del Capítulo Servicios de Salud de la Ley de Presupuestos vigente del sector público.\"."
+    }
+  ],
+  "definitions": []
+}

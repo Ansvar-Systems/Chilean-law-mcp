@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134593",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1280",
+  "status": "in_force",
+  "issued_date": "1899-12-15",
+  "in_force_date": "1899-12-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134593",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese al jefe de la oficina telegráfica de Peumo, don José Manuel Galafé, el derecho de jubilar con el sueldo íntegro asignado a su empleo, en compensacion de la cesion que hace al Estado de su invento del aparato denominado \"Traslador automático.\""
+    }
+  ],
+  "definitions": []
+}

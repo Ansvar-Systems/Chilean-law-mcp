@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23553",
+  "type": "statute",
+  "title": "LIBERA DEL PAGO DE DERECHOS EL GANADO OVEJUNO QUE SE ENVIE A PASTAR A LA REPUBLICA ARJENTINA I RETORNE POR LOS PUERTOS DE CORDILLERA, E INDICA EL PROCEDIMIENTO QUE DEBERA SEGUIRSE EN LOS RESGUARDOS DE FRONTERA I GOBERNACIONES.",
+  "short_name": "Ley 2865",
+  "status": "in_force",
+  "issued_date": "1914-01-29",
+  "in_force_date": "1914-02-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23553",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.-Exímese del derecho establecido en la lei N.° 980, de 23 de Diciembre de 1897, el ganado ovejuno que se envie a pastar a la República Arjentina i retorne por los puertos de Cordillera."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°-Los Resguardos de Frontera no darán torna-guias sino con el visto bueno del Gobernador respectivo, i sólo serán válidas para regresar con el ganado hasta el 15 de Abril inmediato a la fecha en que hubieren sido espedidas, i por el mismo resguardo de partida En la Gobernacion se llevará un libro especial en que se anoten los pases concedidos."
+    }
+  ],
+  "definitions": []
+}

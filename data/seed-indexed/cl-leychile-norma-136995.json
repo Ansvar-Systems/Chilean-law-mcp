@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136995",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2296",
+  "status": "in_force",
+  "issued_date": "1910-03-05",
+  "in_force_date": "1910-03-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136995",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En atencion a los importantes servicios prestados a la Nacion por el contra-almirante don Galvarino Riveros, elévese a seis mil pesos anuales la pension de que actualmente disfruta su viuda, la señora doña Domitila Ramírez de Riveros."
+    }
+  ],
+  "definitions": []
+}

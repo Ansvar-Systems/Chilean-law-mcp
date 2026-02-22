@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24279",
+  "type": "statute",
+  "title": "LEI NUM 3,829, QUE DESTINA A PASAJES I FLETES LA CANTIDAD CONSULTADA EN EL ITEM 87 DE PRESUPUESTO DE GUERRA",
+  "short_name": "Ley 3829",
+  "status": "in_force",
+  "issued_date": "1921-12-30",
+  "in_force_date": "1923-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24279",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- La cantidad que consulta el ítem 87 de la partida 3.a del Presupuesto de Guerra vijente, servirá tambien para atender al servicio de pasajes i fletes por vapor."
+    }
+  ],
+  "definitions": []
+}

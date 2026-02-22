@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-245316",
+  "type": "statute",
+  "title": "DISPONE QUE LAS FERIAS DE ANIMALES Y LAS DE PRODUCTOS AGRICOLAS PODRAN VENDER EN PUBLICA SUBASTA ANIMALES Y PRODUCTOS AGRICOLAS EN LAS CONDICIONES QUE SE INDICAN",
+  "short_name": "Ley 7094",
+  "status": "repealed",
+  "issued_date": "1941-10-08",
+  "in_force_date": "1982-05-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=245316",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Las ferias de animales y las de productos agrícolas podrán vender en pública subasta, dentro o fuera de sus locales, animales y productos agrícolas, por medio de sus empleados, siempre que aquéllas hayan obtenido autorización del Presidente de la República para funcionar, y que cuesten con un capital no inferior a cien mil pesos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o En las subastas que las ferias efectúen en sus locales particulares o fuera de ellos, podrán cobrar comisiones convencionales, de acuerdo con las tarifas que estarán a la vista del público; comisiones que no podrán exceder de un tres por ciento al comprador y un tres por ciento al vendedor.\nLas ferias deducirán un cuarto por ciento, tanto de la comisión que cobren al comprador como la que cobren al vendedor, en beneficio de la Dirección General del Crédito Popular y de Casas de Martillo, que será integrado por las ferias en esa repartición pública junto con rendir cuenta a su comitente.\nTratándose de remates que se efectúen con ocasión de exposiciones de animales, en los locales de la exposición, las tarifas podrán ser aumentadas en uno por ciento más al comprador y en uno por ciento más al vendedor, quedando este aumento a beneficio de las sociedades agrícolas organizadoras de la exposición."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La Dirección General del Crédito Popular y de Casas de Martillo ejercerá la fiscalización de los remates que se lleven a cabo en conformidad a esta ley, de acuerdo con el reglamento que se dictará al efecto."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o- Las ferias mencionadas en el artículo 1.o podrán vender en pública subasta cualquier tipo de carnes siempre que dispongan de instalaciones de frío, con los elementos y características que señale el Reglamento, previa autorización del Servicio Nacional de Salud otorgada mediante resolución fundada, en la que se indicarán los requisitos sanitarios de funcionamiento.\nProhíbese la subasta, depósito y conservación de carnes en los recintos feriales destinados a los animales y productos agrícolas que no cumplan con los requisitos establecidos en el inciso anterior."
+    }
+  ],
+  "definitions": []
+}

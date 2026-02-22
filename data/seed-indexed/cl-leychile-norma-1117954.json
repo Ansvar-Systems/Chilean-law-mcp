@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1117954",
+  "type": "statute",
+  "title": "Industria nacional.- Medidas de proteccion",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1824-04-10",
+  "in_force_date": "1824-04-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1117954",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° A todo estranjero que establezca en Chile fábricas de cáñamo, lino, cobres i otros objetos de industria nacional sobre las primeras materias que produce el pais, i en objetos que apruebe constitucionalmente el Gobierno, valiéndose de manos indíjenas ausiliares, i sin usar alguna reserva en las elaboraciones, se le franquearán por el Estado, i en propiedad, terrenos para su establecimiento i cultura, escepcion de toda contribucion personal, territorial e industrial en los productos de sus fábricas i posesiones por un tiempo determinado; se le protejerá i ausiliará en cuanto pueda el Gobierno, i quedará exento de toda carga militar o municipal por el mismo término. Los nacionales a mas de de estos privilejios gozarán todos los demas que estén a los alcances del Gobierno i Senado; procurándose en cuanto sea posible formar un montepío industrial para habilitar artesanos de esta clase, con cargo de reversion de los fondos que el Congreso señaló en la caja de descuentos, o de otros que pudiesen proporcionarse."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Los estranjeros que quieran domiciliarse en Chile dedicándose a la agricultura, se les franquerán terrenos a discrecion de las mismas autoridades respectivas, i escepcion temporal de derechos, que no bajará de diez años en los frutos de los terrenos incultos que habilitaren."
+    }
+  ],
+  "definitions": []
+}

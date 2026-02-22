@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24350",
+  "type": "statute",
+  "title": "LEI NUM. 3,920, QUE AUTORIZA LA INVERSION DE $ 1.000,000 EN LOS GASTOS QUE DEMANDE LA CELEBRACION DE LA CONFERENCIA PAN-AMERICANA DE SANTIAGO",
+  "short_name": "Ley 3920",
+  "status": "in_force",
+  "issued_date": "1923-03-22",
+  "in_force_date": "1923-03-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24350",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para invertir hasta la suma de un millon de pesos ($ 1.000,000), en los gastos que demande la celebracion de la próxima Conferencia Pan-Americana de Santiago."
+    }
+  ],
+  "definitions": []
+}

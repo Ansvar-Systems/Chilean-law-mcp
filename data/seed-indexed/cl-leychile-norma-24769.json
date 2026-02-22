@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24769",
+  "type": "statute",
+  "title": "MODIFICA LEY NÚMERO 4,567, DECLARA DE UTILIDAD PÚBLICA Y AUTORIZA LA EXPROPIACIÓN DE DIVERSAS PROPIEDADES EN LA CIUDAD DE SAN BERNARDO.",
+  "short_name": "Ley 4605",
+  "status": "in_force",
+  "issued_date": "1929-06-28",
+  "in_force_date": "1929-07-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24769",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Reemplázase el artículo 1.o de la ley N.o 4,567, de 31 de Enero de 1929, por el siguiente:\n\"Artículo 1.o Se declara de utilidad pública y se autoriza la expropiación de las propiedades ubicadas en la ciudad de San Bernardo, comprendidas dentro de los deslindes siguientes: por el Norte, la calle Doce de Febrero; por el Oriente, la calle Urmeneta; por el Poniente, la Avenida América, y por el Sur, la calle Francisco Aranda.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

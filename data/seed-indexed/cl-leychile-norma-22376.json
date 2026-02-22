@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22376",
+  "type": "statute",
+  "title": "LEI DE MORATORIA",
+  "short_name": "Ley 1051",
+  "status": "in_force",
+  "issued_date": "1898-07-11",
+  "in_force_date": "1898-07-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22376",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Por el término de treinta dias no podrán iniciarse ni proseguirse acciones ejecutivas, sean civiles o comerciales, comprendiendo las quiebras, procedentes de obligaciones contraídas ántes de la promulgacion de la presente lei.\nSe esceptúan las obligaciones procedentes de las contribuciones fiscales o municipales. Respecto de las obligaciones que se venzan dentro del término de la moratoria, se contará el plazo desde la fecha de su vencimiento.\nEsta lei rejirá desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

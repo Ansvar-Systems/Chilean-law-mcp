@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28861",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 12.120",
+  "short_name": "Ley 17253",
+  "status": "in_force",
+  "issued_date": "1969-12-03",
+  "in_force_date": "1969-12-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28861",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Agrégase el siguiente inciso tercero a la letra k) del artículo 4° de la ley N° 12.120:\n\"En todo caso, las empresas envasadoras de aguas minerales pagarán un impuesto de E° 0,025 por botella de 285 cc. a beneficio de la Municipalidad donde exista la fuente de agua mineral. Si el envase se hiciere en botella de otra capacidad o a granel, el impuesto de E° 0,025 variará en la proporción correspondiente. La Municipalidad benificiada deberá destinar estos recursos para financiar un presupuesto extraordinario de obras de progreso comunal de acuerdo a un plan que deberá elaborar anualmente, salvo las Municipalidades del departamento de Iquique, que entregarán los mencionados recursos a la Universidad de Chile para que ésta financie su sede en la ciudad del mismo nombre."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Autorízase al Banco del Estado de Chile para otorgar a cada una de las Municipalidades beneficiadas por el impuesto establecido en esta ley, un empréstito de hasta E° 300.000, a un interés no superior al corriente bancario y con una amortización que extinga la deuda en el plazo máximo de 10 años.\nDestínanse al pago de la amortización e intereses de los referidos préstamos, los recursos que cada una de las Municipalidades le correspondan por aplicación del artículo 1°."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Agrégase al N° 15 del artículo 17° de la Ley de la Renta, suprimiendo el punto final (.) por una coma (,), la siguiente frase:\n\"como asimismo las regalías de cualquiera naturaleza que se otorguen a los obreros y empleados agrícolas, siempre que éstas no se paguen en dinero .\".\"."
+    }
+  ],
+  "definitions": []
+}

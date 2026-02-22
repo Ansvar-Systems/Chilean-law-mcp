@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24150",
+  "type": "statute",
+  "title": "LEI NUM. 3,658, SOBRE CLASIFICACION DE LOS NEGOCIOS PARA LOS EFECTOS DEL DEL IMPUESTO DE PATENTE MUNICIPAL.",
+  "short_name": "Ley 3658",
+  "status": "in_force",
+  "issued_date": "1920-09-06",
+  "in_force_date": "1920-09-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24150",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Cuando no hubiere sido posible practicar oportunamente la clasificacion ordenada por la lei núm. 3,165, sobre impuesto de patente municipal, rejirán para los efectos del cobro de dicho impuesto, las últimas clasificaciones practicadas en conformidad con la mencionada lei, i seguirán actuando para los efectos de clasificar los negocios nuevos, los tres comerciantes que integraban la anterior Junta Clasificadora."
+    }
+  ],
+  "definitions": []
+}

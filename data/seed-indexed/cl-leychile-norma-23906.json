@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23906",
+  "type": "statute",
+  "title": "LEI NUM. 3,338, QUE AUTORIZA LA ERECCION DE UN MONUMENTO EN OSORNO AL COMANDANTE DON ELEUTERIO RAMIREZ.",
+  "short_name": "Ley 3338",
+  "status": "in_force",
+  "issued_date": "1917-12-28",
+  "in_force_date": "1918-01-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23906",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase la ereccion en la ciudad de Osorno de un monumento; costeado por suscripcion particular i destinado a honrar la memoria del Comandante don Eleuterio Ramírez."
+    }
+  ],
+  "definitions": []
+}

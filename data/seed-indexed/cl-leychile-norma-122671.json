@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-122671",
+  "type": "statute",
+  "title": "MODIFICA EL ARTICULO 1º TRANSITORIO DE LA LEY Nº 19.495, PARA ELIMINAR EL REQUISITO DE ENSEÑANZA BASICA RESPECTO DE LAS PERSONAS QUE RENUEVAN LA LICENCIA DE CONDUCIR",
+  "short_name": "Ley 19572",
+  "status": "in_force",
+  "issued_date": "1998-07-01",
+  "in_force_date": "1998-08-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=122671",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "''Artículo único.- Sustitúyense en el artículo 1º transitorio de la ley Nº 19.495 las expresiones ''Licencias Clase A-1 y A-2'' por las de ''Licencias Clase A-1, A-2, B y C''."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "TRANSITORIO",
+      "title": "Artículo TRANSITORIO",
+      "content": "Artículo transitorio.- Las normas de esta ley regirán con efecto retroactivo a contar de la fecha de publicación de la ley Nº 19.495.''."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26486",
+  "type": "statute",
+  "title": "MODIFICA LA LEY QUE INDICA, RELACIONADA CON LA\nPAVIMENTACION DE UN CAMINO ENTRE CONCEPCION Y LARAQUETE.",
+  "short_name": "Ley 10812",
+  "status": "in_force",
+  "issued_date": "1952-10-13",
+  "in_force_date": "1952-11-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26486",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Modifícase el artículo 1.o de la ley N.o 9,983, de 17 de Septiembre de 1951, que autoriza al Presidente de la República para la construcción de un camino pavimentado entre Concepción y Laraquete, sustituyendo la cifra \"$ 60.000.000\" por \"$ 90.000.000\" y la palabra \"Laraquete\" por \"Arauco\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2.o Sustitúyese en el artículo 3.o de la citada ley la palabra \"Laraquete\" por \"Arauco\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "\"Artículo 3.o Sustitúyense en el artículo 5.o las palabras \"sesenta millones de pesos\" por \"noventa millones de pesos\"."
+    }
+  ],
+  "definitions": []
+}

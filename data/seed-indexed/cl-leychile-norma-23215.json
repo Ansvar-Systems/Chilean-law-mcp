@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-23215",
+  "type": "statute",
+  "title": "LEI NUM. 2,232, QUE RENUEVA LA AUTORIZACION CONCEDIDA AL PRESIDENTE DE LA REPUBLICA PARA VENDER EN PUBLICA SUBASTA LOS TERRENOS FORMADOS POR EL MALECON DE VALPARAISO I AUTORIZA TAMBIEN LA VENTA DE LOS TERRENOS UBICADOS EN LA MANZANA COMPRENDIDA ENTRE LAS CALLES DE VICTORIA, FREIRE E INDEPENDENCIA DE LA MISMA CIUDAD.",
+  "short_name": "Ley 2232",
+  "status": "in_force",
+  "issued_date": "1909-12-13",
+  "in_force_date": "1909-12-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23215",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Renuévase por dos años la autorizacion concedida al Presidente de la República por la lei de 1.° de Febrero de 1888, para que proceda a vender en pública subasta los terrenos fiscales formados por la construccion del malecon en el puerto de Valparaiso."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Autorízasele tambien para que venda, en igual forma, i en conformidad al plano levantado por el Injeniero de Zona de la Direccion de Obras Públicas, con fecha 29 de Octubre de 1909, los terrenos fiscales ubicados en la manzana comprendida entre las calles de Victoria, Freire e Independencia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El valor de los terrenos que se enajenaren en virtud de esta lei se pagará con un cincuenta por ciento al contado, i el cincuenta por ciento restante, a seis meses plazo con mas el interes a razon de seis por ciento anual. En caso de mora el Fisco procederá a la ejecucion del deudor dentro del plazo de noventa dias.\nLa propiedad quedará hipotecada en garantía de la parte insoluta de precio i sus intereses."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° El valor que se obtenga por la venta del sitio ubicado entre las calles de Victoria, Freire e Indepedencia, se destinará a la adquisicion de una propiedad para el Instituto Comercial i gastos que esta instalacion demande."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° El Presidente de la República determinará la estension de cada lote, la fecha de cada venta i las demas condiciones accesorias de los contratos."
+    }
+  ],
+  "definitions": []
+}

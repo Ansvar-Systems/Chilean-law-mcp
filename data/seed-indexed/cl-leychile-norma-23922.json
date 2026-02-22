@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23922",
+  "type": "statute",
+  "title": "LEI NUM. 3,358, QUE DECLARA FERIADO EL 5 DE ABRIL DE 1918.",
+  "short_name": "Ley 3358",
+  "status": "in_force",
+  "issued_date": "1918-04-03",
+  "in_force_date": "1918-04-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23922",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declara feriado el dia 5 de Abril de 1918.\nLa presente lei rejirá desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

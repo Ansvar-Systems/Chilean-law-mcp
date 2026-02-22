@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22430",
+  "type": "statute",
+  "title": "JUBILACION DE EMPLEADOS PUBLICOS",
+  "short_name": "Ley 1146",
+  "status": "in_force",
+  "issued_date": "1898-12-28",
+  "in_force_date": "1898-12-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22430",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Los empleados públicos que justificaren haber servido cuarenta años, sin tomar en cuenta abonos, i que hubieren cumplido sesenta i cinco años de edad, podrán jubilarse con una pension anual igual al sueldo íntegro asignado a sus respectivos empleos, sin necesidad de justificar imposibilidad física o moral."
+    }
+  ],
+  "definitions": []
+}

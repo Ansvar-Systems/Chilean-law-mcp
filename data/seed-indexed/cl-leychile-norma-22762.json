@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22762",
+  "type": "statute",
+  "title": "QUE CONCEDE FONDOS PARA COMBATIR LA VIRUELA EN ANTOFAGASTA",
+  "short_name": "Ley 1580",
+  "status": "in_force",
+  "issued_date": "1903-01-17",
+  "in_force_date": "1903-01-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22762",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para invertir hasta la suma de diez mil pesos ($ 10,000) a fin de combatir la viruela en la provincia de Antofagasta."
+    }
+  ],
+  "definitions": []
+}

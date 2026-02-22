@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22840",
+  "type": "statute",
+  "title": "Autoriza la inversion de fondos para las obras de;agua potable de Talca i para hacer los estudios;definitivos de las obras de desagüe de Concepcion i;Talca.",
+  "short_name": "Ley 1679",
+  "status": "in_force",
+  "issued_date": "1904-09-10",
+  "in_force_date": "1904-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22840",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- Apruébase el contrato celebrado el 3 de Agosto de 1904 por el Intendente de Talca i el primer alcalde de la Municipalidad de esa ciudad, autorizados debidamente el primero po4 el Supremo Gobierno i el segundo por la indicada Corporacion."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se autoriza al Presidente de la República, por el término de dos años, para invertir hasta la suma de doscientos cincuenta mil pesos en llevar a efecto las obras definitivas del servicio de agua potable de la ciudad de Talca, bajo las condiciones establecidas en el contrato a que se refiere el artículo 1.°"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Las obras de agua potable de Talca, cañería, estanques i demas anexos quedarán hipotecadas para garantizar las sumas que se inviertan en conformidad a la presente lei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Autorízase igualmente al Presidente de la República, por el término de dos años, para que invierta hasta la suma de veintidos mil pesos ($ 22 000) en la revision de los estudios i en la formacion de proyectos definitivos para hacer los desagües de las ciudades de Talca i Concepcion i de un estudio para proveer de agua potable a esta última ciudad."
+    }
+  ],
+  "definitions": []
+}

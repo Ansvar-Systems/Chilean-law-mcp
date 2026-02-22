@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23317",
+  "type": "statute",
+  "title": "APRUEBA LOS PRESUPUESTOS DE GASTOS DE LA ADMINISTRACION PUBLICA PARA 1911",
+  "short_name": "Ley 2452",
+  "status": "in_force",
+  "issued_date": "1911-02-01",
+  "in_force_date": "1911-02-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23317",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Ministerios Billetes Oro\n_________________________ _______________ _____________\nInterior_________________$ 40.987,142.25 $ 4.368,075.97\nRelaciones Esteriores____ 667,786.66 1.362,297.66\nCulto____________________ 2.097,086.00\nColonizacion_____________ 2.123,900.00\nJusticia_________________ 8.691,169.63\nInstruccion Pública______ 32.184,104.40 531,989.65\nHacienda_________________ 15.957,579.45 25.030,499.96\nGuerra___________________ 29.249,162.75 677,181.66\nMarina___________________ 14.098,196.67 12.864,893.80\nIndustria i Obras\nPública__________________ 95.728,255.48 18.289,634.32\n_______________ _____________\nTotales_______$ 241.784,383.29 $63.124,573.02"
+    }
+  ],
+  "definitions": []
+}

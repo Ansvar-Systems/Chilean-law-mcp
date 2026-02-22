@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1172443",
+  "type": "statute",
+  "title": "EXCLUYE DE LOS BENEFICIOS REGULADOS EN LA LEY N° 19.856 A QUIENES HAYAN COMETIDO DELITOS DE CARÁCTER SEXUAL CONTRA PERSONAS MENORES DE EDAD",
+  "short_name": "Ley 21421",
+  "status": "in_force",
+  "issued_date": "2022-01-28",
+  "in_force_date": "2022-02-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1172443",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en la ley N° 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta:\n1. En el inciso tercero del artículo 7:\na) Reemplázase la palabra \"podrá\" por el término \"deberá\".\nb) Intercálase entre el vocablo \"intrapenitenciarios\" y el punto y aparte que le sigue la frase \"cuando se le hubieren otorgado\".\n2. Sustitúyese el inciso final del artículo 13, por el siguiente:\n\"Asimismo, la Comisión deberá tener en consideración informes sociales y psicológicos relativos a las personas condenadas, elaborados previamente para la postulación a algún beneficio intrapenitenciario o a la libertad condicional. En caso de no contar con ellos, deberá solicitar informes elaborados especialmente para los fines de la presente ley, los que deberán ser confeccionados por profesionales que se desempeñen en Gendarmería de Chile.\".\n3. Derógase el artículo 16.\n4. Sustitúyese, en el literal e) del artículo 17, la frase \", a menos que en la sentencia condenatoria se hubiere aplicado a su respecto alguna de las circunstancias atenuantes previstas en los artículos 72 y 73 del Código Penal;\", por el siguiente texto: \", o alguno de los delitos perpetrados en contra de una víctima menor de edad, sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 374 bis; el artículo 411 quáter, en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, todos del Código Penal, a menos que en la sentencia condenatoria se hubiere aplicado a su respecto la circunstancia atenuante prevista en el artículo 73 de dicho Código;\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- Sin perjuicio de lo señalado en el numeral 3 del artículo único, el artículo 16 de la ley N° 19.856 continuará vigente para la aplicación de los beneficios ahí señalados respecto de los condenados cuyo comportamiento fuere presentado a calificación a la Comisión de beneficio de reducción de condena con anterioridad a la publicación de esta ley.\"."
+    }
+  ],
+  "definitions": []
+}

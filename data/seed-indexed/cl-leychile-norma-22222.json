@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22222",
+  "type": "statute",
+  "title": "MUNICIPALIDAD DE LA SERENA",
+  "short_name": "Ley 372",
+  "status": "in_force",
+  "issued_date": "1896-08-12",
+  "in_force_date": "1896-08-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22222",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a la Municipalidad de la Serena un auxilio estraordinario de diez mil pesos, que invertirá en el mantenimiento de la policía de seguridad durante los meses de Julio i Agosto del presente año."
+    }
+  ],
+  "definitions": []
+}

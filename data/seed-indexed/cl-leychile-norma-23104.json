@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23104",
+  "type": "statute",
+  "title": "LEI NUM. 2,067, QUE CONCEDE VARIOS SUPLEMENTOS AL PRESUPUESTO DE GUERRA I AUTORIZA PARA QUE DE LOS FONDOS CONSULTADOS PARA RANCHO DE CONSCRIPTOS, SE INVIERTAN LAS SUMAS QUE SE INDICAN CON EL MISMO OBJETO EN LA ESCUELA MILITAR I TROPA DE LINEA.",
+  "short_name": "Ley 2067",
+  "status": "in_force",
+  "issued_date": "1907-12-23",
+  "in_force_date": "1907-12-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23104",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO PRIMERO. Autorízase al Presidente de la República, para que de los fondos consultados en el ítem 223 de la partida 8.a del Presupuesto de Guerra vijente, destinado a rancho de conscripto, se inviertan diez i ocho mil quinientos pesos ($ 18,500) en atender al servicio de rancho para cadetes i empleados de la Escuela Militar i hasta cien mil pesos ($ 100,000) en el rancho de tropa de línea a que se refiere el ítem 222 de la partida 8.a."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédense los siguientes suplementos a los ítem del mismo presupuesto que se indican:\nUn mil pesos ($ 1,000) al ítem 15, para arriendo de teléfonos.\nQuinientos ochenta mil pesos ($ 580,000) al ítem 225, para forraje, talaje i paja larga para el ganado del Ejército.\nCuarenta i ocho mil pesos (48,000) al ítem 226, para agua potable, luz i lumbre.\nSeis mil pesos ($ 6,000) al ítem 238, para arriendo de edificios para oficinas, cuarteles, casinos, pesebreras i polvorines de Batuco.\nNueve mil quinientos pesos ($ 9,500) al ítem 242, para cocinas i marmitas, i\nVeinte i dos mil pesos ($ 22,000) al ítem 261, para imprevistos."
+    }
+  ],
+  "definitions": []
+}

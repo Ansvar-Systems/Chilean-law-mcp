@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-23624",
+  "type": "statute",
+  "title": "DISPONE QUE LOS NEGOCIOS EN QUE SE ESPENDEN BEBIDAS ALCOHÓLICAS SE CLAUSURARÁN DESDE LAS 5 P.M. DE LOS SÁBADOS HASTA LAS 8 A.M. DE LOS LÚNES I EN LOS DIAS FESTIVOS I FERIADOS; I QUE EN LOS HOTELES, RESTAURANTS I FONDAS SÓLO SE PODRÁN  ESPENDER LICORES EN ESOS DIAS DURANTE LAS HORAS DE ALMUERZO I COMIDA. IMPONE PENAS A LOS COMERCIANTES I FUNCIONARIOS QUE NO DEN CUMPLIMIENTO A ESTA LEI;  I AUTORIZA A LAS MUNICIPALIDADES PARA DEVOLVER A LOS ACTUALES DUEÑOS QUE NO QUIERAN CONTINUAR ESTA CLASE DE NEGOCIOS LA PARTE PROPORCIONAL DEL VALOR DE LAS PATENTES",
+  "short_name": "Ley 2956",
+  "status": "in_force",
+  "issued_date": "1914-12-12",
+  "in_force_date": "1914-12-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23624",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Dentro de un mes, contado desde la publicacion de esta lei en el Diario Oficial, los alcaldes de las Municipalidades entregarán a los Juzgados de Letras de los departamentos respectivos una lista de los establecimientos en que se vendan al público bebidas alcohólicas, clasificados en dos categorías.\nEn la primera categoría figurarán los bares, cantinas, tabernas i cualesquiera otros establecimientos en que se proporcionen al público bebidas alcohólicas que se consuman o puedan consumirse en ellos mismos.\nEn la segunda categoría figurarán los establecimientos tales como hoteles, restaurants i fondas, en que sin ser el jiro principal el de espendio de bebidas alcohólicas, se consuma esta clase de bebidas.\nEl juez letrado del departamento o el mas antiguo en los departamentos en que haya dos o mas Juzgados de Letras, ordenará la publicacion de la lista por cinco dias en un periódico del mismo departamento.\nCualquiera persona podrá reclamar de la composicion i de las clasificaciones de la lista; i el juez resolverá dentro del tercero dia en una audiencia en que se citará al reclamante, al alcalde i al jefe de la policía del territorio municipal. En caso de apelacion, se concederá ésta en lo devolutivo i la Corte de Apelaciones resolverá, sin esperar la comparecencia de las partes, dentro de los cinco dias siguientes a la llegada de los autos a la Secretaría del Tribunal.\nAntes del dia 31 del mes de Enero de cada año, se renovará el procedimiento que ordena este artículo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°.- Por exijirlo el interes nacional, los establecimientos de la primera categoría que actualmente existan i los que en adelante existieren, cerrarán sus puertas, es decir, se clausurarán, desde las 5 de la tarde de los dias Sábados hasta las 8 de la mañana de los dias Lúnes de todo el año. Igual clausura será obligatoria durante los dias festivos i feriados."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Por exijirlo el interes nacional, en los establecimientos de la segunda categoría no podrá venderse ni consumirse bebida alcohólica alguna desde las 5 de la tarde de los dias Sábados hasta las 8 de la mañana de los dias Lúnes, i durante los dias festivos i feriados, fuera de las horas de almuerzo i de comida."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- Los establecimientos que inicien sus operaciones despues del 31 de Enero de un año, serán previamente clasificados por el Alcalde, quien dará al juez el aviso respectivo para los efectos de la publicacion i reclamos."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°- Los dueños, empresarios o empleados de los establecimientos que son materia de esta lei, los Alcaldes, los Jefes de policía u otros funcionarios que infrinjan algunas de sus disposiciones serán castigados por cada infraccion con una multa de quinientos pesos i con inhabilitacion para cargos públicos i derechos políticos durante 3 años.\nContra los jueces letrados u otros funcionarios judiciales que no cumplan los deberes que esta lei les impone, podrá cualquiera persona deducir un recurso de queja ante el Tribunal superior que corresponda; i éste deberá imponer, en caso de culpabilidad, la medida disciplinaria de suspension del cargo hasta por tres meses."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.°- La presente lei rejirá desde su publicacion en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULO TRANSITORIO Las Municipalidades devolverán la parte proporcional del valor de las patentes de los actuales establecimientos de espendio de bebidas alcohólicas cuyos dueños no deseen seguir con su negocio, despues de la vijencia de esta lei i que dén aviso de su resolucion, haciendo la manifestacion ante el alcalde dentro de los seis meses siguientes a su promulgacion."
+    }
+  ],
+  "definitions": []
+}

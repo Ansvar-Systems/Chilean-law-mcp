@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-125704",
+  "type": "statute",
+  "title": "LEY NUM. 5,020",
+  "short_name": "Ley 5020",
+  "status": "in_force",
+  "issued_date": "1931-12-28",
+  "in_force_date": "1931-12-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=125704",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Reemplázanse los artículos 556 y 557 del Código Civil, por los siguientes:\n\"Artículo 556. Las corporaciones pueden adquirir bienes de todas clases a cualquier título\".\n\"Artículo 557. Los bienes raíces que las corporaciones posean no pueden enajenarse, ni gravarse con hipoteca, censo, usufructo o servidumbre, ni arrendarse por más de ocho años si fueren predios rústicos, ni por más de cinco si fueren urbanos, sin previo decreto de juez, con conocimiento de causa y por razón de necesidad o utilidad manifiesta\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

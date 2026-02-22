@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1152103",
+  "type": "statute",
+  "title": "MODIFICA LA LEY GENERAL DE TELECOMUNICACIONES EN LO RELATIVO A LA FUNCIONALIDAD DEL SERVICIO DE RADIODIFUSIÓN",
+  "short_name": "Ley 21285",
+  "status": "in_force",
+  "issued_date": "2020-11-19",
+  "in_force_date": "2020-11-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1152103",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Agréganse en el artículo 7° bis de la ley N° 18.168, General de Telecomunicaciones, los siguientes incisos cuarto y quinto:\n\"Los concesionarios de servicios públicos de telecomunicaciones y quienes comercialicen equipos terminales móviles en el país deberán habilitar y mantener activa la funcionalidad de sintonización del servicio de radiodifusión de los equipos que la posean, cualquiera que sea el canal a través del cual sean comercializados.\nLas condiciones de reportabilidad, registro, homologación y demás necesarias para dar cumplimiento a la obligación referida se someterán a las normas que establezca la Subsecretaría, en relación con las exigencias que deban cumplir los terminales.\".\"."
+    }
+  ],
+  "definitions": []
+}

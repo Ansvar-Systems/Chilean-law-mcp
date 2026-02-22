@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22154",
+  "type": "statute",
+  "title": "SUPLEMENTOS",
+  "short_name": "Ley 303",
+  "status": "in_force",
+  "issued_date": "1895-09-17",
+  "in_force_date": "1895-09-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22154",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédense los siguientes suplementos a la partida 34 del presupuesto del Ministerio del Interior:\nDe treinta i cinco mil setecientos treinta pesos al ítem 3, destinado a la adquisicion de baterías eléctricas i composturas; aparatos telegráficos, postes, aisladores, alambres i demas materiales i flete de los mismos;\nDe once mil trescientos noventa i ocho pesos al ítem 4, que tiene por objeto el pago de jornales de las cuadrillas ambulantes que atienden a las reparaciones de líneas;\nDe mil ochocientos pesos al ítem 5, para pago de forraje de los animales pertenecientes al telégrafo;\nDe doce mil pesos al ítem 7, destinado a atender a los pasajes, trasportes, mayor arriendo de las oficinas, pago de suplentes i otros gastos imprevistos."
+    }
+  ],
+  "definitions": []
+}

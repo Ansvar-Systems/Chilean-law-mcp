@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25806",
+  "type": "statute",
+  "title": "MODIFICA EL CODIGO ORGANICO DE TRIBUNALES",
+  "short_name": "Ley 8770",
+  "status": "in_force",
+  "issued_date": "1947-04-02",
+  "in_force_date": "1947-04-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25806",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Substitúyese el inciso segundo del artículo 284 del Código Orgánico de Tribunales por el siguiente:\n\"Para Ministros y Fiscales de Cortes de Apelaciones, con el Juez Letrado más antiguo de la tercera categoría y con dos funcionarios de la segunda o tercera categoría, elegidos por méritos\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Esta ley regirá desde la fecha de su publicación en el \"Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

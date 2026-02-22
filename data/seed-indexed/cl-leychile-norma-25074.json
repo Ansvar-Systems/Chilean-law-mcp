@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25074",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N.O 5,154, DE 10 DE ABRIL DE 1933",
+  "short_name": "Ley 5277",
+  "status": "in_force",
+  "issued_date": "1933-09-30",
+  "in_force_date": "1933-10-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25074",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Modifícase el artículo 8.o de la ley número 5,154, de 10 de Abril del presente año, en la siguiente forma:\nA continuación del número 2.o agrégase:\n\"3.o Agrégase al artículo 8.o el siguiente número:\n\"La venta de artículos de primera necesidad hecha por comerciantes que sólo vendan al consumidor y que únicamente trafiquen en dichos artículos.\n\"Los comerciantes minoristas que no dediquen exclusivamente sus establecimientos al tráfico de esos artículos, podrán acogerse a la exención, si llevan en libros separados, la contabilidad correspondiente a la venta de dichos artículos.\n\"Para los efectos del inciso anterior se estimarán de primera necesidad los siguientes productos: harina, pan, trigo, fréjoles, maíz, mote, garbanzos, lentejas, carnes, grasas, mantecas, aceites comestibles, té, yerba mate, sal, fideos, papas, cebollas, frutas y verduras frescas, mariscos y pescados, azúcar, leche fresca y sus derivados, condensada, evaporada o en polvo, fósforos, velas, leña, carbón vegetal destinado al uso doméstico o hilo\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Las compraventas al por mayor, de los artículos a que se refiere el artículo anterior de esta ley, pagarán sólo el medio por ciento, siempre que los comerciantes o industriales contabilicen separadamente esas transacciones."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Las compraventas verificadas en los mataderos, vegas y mercados públicos o municipales, y las efectuadas por industriales o comerciantes que se dediquen exclusivamente a la elaboración y venta de uno o más de los artículos indicados en la disposición precedente, pagarán sólo el medio por ciento.\nSin embargo, este beneficio no será aplicable a los frigoríficos, fábricas de conservas o a las industrias que elaboren, en todo o parte, materias primas importadas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Esta ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

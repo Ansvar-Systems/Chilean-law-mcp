@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136254",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2170",
+  "status": "in_force",
+  "issued_date": "1909-03-04",
+  "in_force_date": "1909-03-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136254",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Se autoriza al Presidente de la República para invertir hasta la suma de noventa mil pesos ($ 90,000) en los gastos que orijine la concurrencia de Chile a la Esposicion que tendrá lugar en Quito el 10 de agosto de 1909."
+    }
+  ],
+  "definitions": []
+}

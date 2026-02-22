@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25193",
+  "type": "statute",
+  "title": "SUPLEMENTA LA LETRA J) de 02|03|04 DEL PRESUPUESTO\nVIGENTE DE LA BIBLIOTECA DEL CONGRESO NACIONAL",
+  "short_name": "Ley 5771",
+  "status": "in_force",
+  "issued_date": "1935-12-21",
+  "in_force_date": "1935-12-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25193",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Supleméntase con la suma de treinta mil pesos ($ 30,000) la letra j) \"Impresos, impresiones y publicaciones\" de 02|03|04 del Presupuesto vigente de la Biblioteca del Congreso Nacional."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto que demande esta ley se deducirá de la mayor entrada que produzca la Cuenta C-10."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

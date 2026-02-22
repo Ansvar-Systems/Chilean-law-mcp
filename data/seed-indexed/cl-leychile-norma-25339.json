@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25339",
+  "type": "statute",
+  "title": "MODIFICA EL D. L. N.o 576, DE 29 DE SEPTIEMBRE DE\n1925, ORGANICO DE LA CAJA DE RETIRO Y PREVISION SOCIAL\nDE LOS EMPLEADOS MUNICIPALES DE LA REPUBLICA Y AUTORIZA\nA DICHA CAJA PARA INVERTIR LA SUMA DE $ 300,000, EN\nAUXILIO A SUS IMPONENTES AFECTADOS POR EL TERREMOTO DE\n24 DE ENERO ULTIMO",
+  "short_name": "Ley 6373",
+  "status": "in_force",
+  "issued_date": "1939-07-26",
+  "in_force_date": "1939-08-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25339",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Sustitúyese la frase \"Cuarenta mil pesos\", que figura en el artículo 30 del D. L. N.o 576, de 29 de Septiembre de 1925, Orgánico de la Caja de Retiro y Previsión Social de los Empleados Municipales de la República, por la siguiente: \"ochenta mil pesos\".\nEsta Ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. Autorízase a la Caja de Retiro y Previsión Social de los Empleados Municipales de la República, para que invierta hasta la suma de trescientos mil pesos ($ 300,000), en auxilio de sus imponentes, afectados por el terremoto del 24 de Enero del presente año.\nEsta suma se cargará a los fondos de reserva de la Caja."
+    }
+  ],
+  "definitions": []
+}

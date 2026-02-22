@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1145820",
+  "type": "statute",
+  "title": "",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1887-01-15",
+  "in_force_date": "1887-01-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1145820",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Autorizase al Presidente de la República para que se invierta hasta cuatrocientos cincuenta mil pesos en ausiliar a las municipalidades, a fin de que puedan adoptar las medidas necesarias para combatir la epidemia del cólera.\nEsta lei empezará a rejir desde el día de su publicacion en el Diario Oficial, i la autorizacion que en ella se concede durará por el término de un año."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-27177",
+  "type": "statute",
+  "title": "Autoriza la expropiación del inmueble que indica, y\ncuyos deslindes señala, ubicado en la comuna de Renca,\ncon el objeto de construir en él la Escuela Primaria\nSuperior N.° 64, con grado vocacional.",
+  "short_name": "Ley 12586",
+  "status": "in_force",
+  "issued_date": "1957-10-03",
+  "in_force_date": "1957-10-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27177",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1° Declárase de utilidad pública y autorízase la expropiación del inmueble ubicado en la comuna de Renca, de propiedad del Servicio Nacional de Salud, inscrito a fojas 2.546, N.°s 4.716 y 4.717, del año 1925, y a fojas 1.368, N.° 2.835, del año 1925, y a fojas 1.368, N.° 2.835, del año 1928, del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, inscrito en el Rol de Avalúos con el N.° 6.075, modificado en 1956 por el N.° 503, y cuyos deslindes son:\nNorte, propiedad de don José Llop y de R. Tobar, y calle José Manuel Balmaceda;\nSur, Avenida Santa María;\nEste, propiedad de doña Teodora viuda de Fajardo y Elba Díaz, y\nOeste, propiedad de los señores Torres y R. Tobar."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.° La expropiación se llevará a efecto en conformidad a las disposiciones de la ley 3.313."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.° El inmueble expropiado será destinado a la construcción de la Escuela Primaria Superior N.° 64, con grado vocacional, de la comuna de Renca."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.° El gasto que demande la expropiación del inmueble y la construcción de la Escuela Primaria Superior N.° 64, con grado vocacional, de la comuna de Renca, se imputará a los fondos consultados en la ley 11.766."
+    }
+  ],
+  "definitions": []
+}

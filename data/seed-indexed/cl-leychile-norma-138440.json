@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138440",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2929",
+  "status": "in_force",
+  "issued_date": "1914-09-07",
+  "in_force_date": "1914-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138440",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se concede una prórroga de sesenta dias para el pago de las obligaciones contraidas en oro ántes del 1.º de agosto último i que hayan vencido o venzan entre esta fecha i el 1.º de noviembre próximo. Esta prórroga se contará desde el dia del vencimiento de cada obligacion, debiendo el deudor abonar, durante la prórroga, los intereses estipulados, o a falta de estipulación, el interés corriente.\nSin embargo, los acreedores podrán exijir la cancelacion de estas obligaciones a su vencimiento, sin tomarse en cuenta la prórroga, siempre que acepten el pago en moneda corriente, con el recargo que corresponda al tipo del cambio comercial por letras sobre Lóndres a noventa días, o, a falta de éste, con el recargo fijado por el Gobierno para el pago de los impuestos de internacion i esportacion.\nEl Presidente de la República podrá prorrogar este plazo por treinta dias mas en caso de que los impuestos de Aduana se continúen pagando en moneda corriente."
+    }
+  ],
+  "definitions": []
+}

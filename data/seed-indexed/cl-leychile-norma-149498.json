@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-149498",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4582",
+  "status": "in_force",
+  "issued_date": "1929-02-08",
+  "in_force_date": "1929-02-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149498",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Declárase de responsabilidad fiscal el empréstito por L 1.100,000 autorizado en virtud de la ley número 2,267, de 15 de Febrero de 1910 y destínase a rentas municipales ordinarias de la ciudad de Valparaíso la contribución de tres por mil sobre haberes muebles e inmuebles establecida en el artículo 2.o de la expresada ley.\nEl gastos que origine al Estado la aplicación de la disposición anterior se atenderá con las entradas que se crean por las modificaciones introducidas a la Ley de Herencias y Donaciones."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Condónanse las deudas al Fisco de la Municipalidad de Valparaíso, originadas por la insuficiencia de las cuotas municipales por servicios del empréstito a que se refiere el artículo 1.o de esta ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Derógase el decreto-ley número 509, de 27 de Agosto de 1925 en lo que autoriza a la Municipalidad de Valparaíso para contratar un empréstito con garantía fiscal, por la suma de L 800,000 al 7 1/2% y con una amortización acumulativa no inferior al 1/2% anual."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Derógase el decreto-ley número 508, de 27 de Agosto de 1925 en lo que autoriza la contratación de empréstitos sucesivos destinados a transformación y pavimentación de la ciudad de Valparaíso."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Autorízase al Presidente de la República para contratar por cuenta de la Municipalidad de Valparaíso, sin la garantía fiscal, un empréstito externo por la suma de L 800,000, o su equivalente en otra moneda, al 7 por ciento de interés y 1 por ciento de amortización acumulativa anual, de acuerdo con la ley número 4,568."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Esta ley empezará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

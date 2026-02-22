@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25192",
+  "type": "statute",
+  "title": "SUPLEMENTA EL ITEM 06|05|04 DEL PRESUPUESTO VIGENTE",
+  "short_name": "Ley 5770",
+  "status": "in_force",
+  "issued_date": "1935-12-20",
+  "in_force_date": "1935-12-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25192",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Supleméntase el ítem 06|05|04 del Presupuesto vigente, en la siguiente forma:\ne) Arriendos_______________ $ 3,000\ng) Materiales de consumo___ 40,000\nj) Impresos e impresiones__ 80,000\nv-1) Varios e imprevistos____ 12,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto de $ 135,000 que significa la aplicación de la presente ley se cubrirá con la mayor entrada que produzca la cuenta C-10 Arancel Aduanero."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

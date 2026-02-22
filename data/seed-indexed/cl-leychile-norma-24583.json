@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24583",
+  "type": "statute",
+  "title": "Deroga disposición contenida en la letra a) del\ninciso 2.o del artículo 3.o de la ley 4,092, de 15 de\nSeptiembre de 1926.",
+  "short_name": "Ley 4226",
+  "status": "in_force",
+  "issued_date": "1927-12-12",
+  "in_force_date": "1927-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24583",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Derógase la disposición contenida en la letra a) del inciso 2.o del artículo 3.o de la ley número 4,092, de 15 de Septiembre de 1926."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

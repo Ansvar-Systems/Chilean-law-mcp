@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1196733",
+  "type": "statute",
+  "title": "DISPONE QUE LOS DOCUMENTOS QUE INDICA DEL MINISTERIO DE TIERRAS Y COLONIZACION INGRESARAN AL ARCHIVO NACIONAL DENTRO DEL TIEMPO QUE MENCIONA",
+  "short_name": "Ley 8160",
+  "status": "in_force",
+  "issued_date": "1945-08-20",
+  "in_force_date": "1945-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1196733",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o. Los documentos del Ministerio de Tierras y Colonización comprendidos en la disposición del artículo 14, letra a) del Decreto con Fuerza de Ley del Ministerio de Educación Pública N.o 5,200, de 18 de Noviembre de 1929, ingresarán al Archivo Nacional cuando tengan diez años de antigüedad."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.°. Esta ley comenzará a regir desde su publicación en el \"Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-139946",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3318",
+  "status": "in_force",
+  "issued_date": "1917-09-26",
+  "in_force_date": "1917-09-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=139946",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de veinte mil pesos ($ 20,000), a fin de atender a los gastos que orijine la terminacion de los estudios del ante-proyecto del Ferrocarril de Santiago a Valparaíso por Casablanca\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24773",
+  "type": "statute",
+  "title": "CREA EN LA TESORERIA GENERAL DE LA REPUBLICA, UNA SECCION ENCARGADA DEL TIMBRAJE DE LOS LIBROS Y FACTURAS COMERCIALES.",
+  "short_name": "Ley 4609",
+  "status": "in_force",
+  "issued_date": "1929-07-15",
+  "in_force_date": "1929-07-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24773",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Créase una sección en la Tesorería General de la República, encargada del timbraje de libros y facturas comerciales, con los empleados que a continuación se expresan:\nDiez empleados del grado 19.o, con $ 350 mensuales cada uno, $ 42,000.\nVeinte empleados del grado 20.o, con $ 300 mensuales cada uno, $ 72,000.\nCuarenta y cinco empleados del grado 21.o, con $ 250 mensuales cada uno, 135,000 pesos.\nEl gasto total que irrogue la presente ley se hará con cargo a la mayor entrada proveniente de la Ley de Alcoholes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22848",
+  "type": "statute",
+  "title": "CONCEDE SUPLEMENTOS AL PRESUPUESTO DE MINISTERIO DE HACIENDA",
+  "short_name": "Ley 1687",
+  "status": "in_force",
+  "issued_date": "1904-09-07",
+  "in_force_date": "1904-09-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22848",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Concédense los siguientes suplementos a los ítem que se espresan del presupuesto de Hacienda:\nAl ítem 1572 de la partida 36, para pago a los empleados supernumerarios i a los que subroguen a los propietarios lejítima i temporalmente impedidos para ejercer sus funciones, quince mil pesos ($ 15 000).\nAl ítem 1580 de la misma partida, para pagar los gastos de carga, descarga i movilizacion de mercaderías en las aduanas i los jenerales de Administracion del mismo servicio en la de Valparaíso, doscientos mil pesos ($ 200 000)"
+    }
+  ],
+  "definitions": []
+}

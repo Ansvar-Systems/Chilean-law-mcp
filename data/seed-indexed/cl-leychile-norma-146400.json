@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-146400",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3521",
+  "status": "in_force",
+  "issued_date": "1919-07-19",
+  "in_force_date": "1919-07-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=146400",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Auméntase en doscientos catorce mil trescientos ochenta y siete pesos veinticinco centavos ($ 214,387.25) moneda nacional de oro, el subsidio estraordinario concedido al ferrocarril de Arica a La Paz por lei número 3,319, de 27 de setiembre de 1917."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Declárase libre de derechos de Aduana, la introduccion de cien carros-bodegas de veinticinco toneladas de capacidad y tres locomotoras Mallet, adquiridos para el mismo ferrocarril\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24999",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5016",
+  "status": "in_force",
+  "issued_date": "1931-12-18",
+  "in_force_date": "1931-12-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24999",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Redúcense las letras que se indican de la Partida 13, Capítulo 05, ítem 04, en la siguiente forma:\nc) ___________________ $ 27,000.-\ne) ___________________ $ 4,000.-\nk) ___________________ $ 4,000.-\n___________\n$ 35,000.-\n___________"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Supleméntase la Partida 13, Capítulo 06, Item 04, Letra d), en la suma de treinta y cinco mil pesos ($ 35,000), que se deducirá de los fondos a que se refiere el artículo 1.o."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-145781",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4237",
+  "status": "in_force",
+  "issued_date": "1927-12-30",
+  "in_force_date": "1928-01-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=145781",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Prorrógase hasta el 1.o de Enero de 1930, el plazo fijado por los decretos-leyes números 26, de 7 de Octubre de 1924, y 460, de 31 de Julio de 1925, para que sea obligatoria la libreta de identidad personal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Substitúyense los artículos 5.o y 6.o y el inciso 1.o del artículo 9.o del decreto-ley número 26, de 7 de Octubre de 1924, por los siguientes:\n\"Artículo 5.o Estarán obligados a obtener su libreta de identidad personal, todos los residentes en el territorio de la República, tanto nacionales como extranjeros, que hayan cumplido veintiún años de edad, libreta que será renovada cada cinco años.\nExceptúanse de esta obligación las mujeres, los religiosos enclaustrados, las personas recluidas en los hospicios y casas de orates, los condenados a prisión, presidio o reclusión, mientras dure la condena, y los inhábiles para todo trabajo.\n\"Artículo 6.o La libreta será documento suficiente para probar la identidad del individuo en todos los actos públicos o privados en que la presente, y tendrá, por lo tanto, valor legal; pero aquella que no reuna el requisito de haber sido renovada dentro de los cinco años que le fija el artículo anterior, sólo tendrá el valor de una presunción.\n\"Artículo 9.o Atendida su calidad, las libretas se dividirán en tres clases, cuyos precios respectivos no podrán exceder de las cantidades que a continuacion se indican: de primera clase, hasta veinte pesos; de segunda clase, hasta ocho pesos; el precio del carnet de identidad de tercera clase será de tres pesos. Queda a la elección del adquirente escoger una u otra de estas libretas.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Corresponderá a los Gabinetes de Identificación el otorgamiento de pasaportes para salir del territorio nacional, con arreglo al Reglamento que el Presidente de la República dicte sobre el particular."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Suprímese el inciso final del artículo 9.o del decreto-ley número 26, de 7 de Octubre de 1924.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23175",
+  "type": "statute",
+  "title": "LEI NUM. 2,178, QUE APRUEBA LOS GASTOS DE LA ADMINISTRACION PUBLICA DURANTE EL AÑO 1909",
+  "short_name": "Ley 2178",
+  "status": "in_force",
+  "issued_date": "1909-02-19",
+  "in_force_date": "1909-02-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23175",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Ministerios Moneda Oro\nCorriente\nInterior_______________$ 34.281,951.61 $ 5.994,666.65\nRelaciones Esteriores__ 371,512.50 1.223,594.98\nCulto__________________ 1.786,480.00 ____________\nColonizacion___________ 762,605.00 644,066.67\nJusticia_______________ 8.615,483.05 ___________\nInstruccion Pública___ 24.508,168.90 342,446.28\nHacienda_______________ 16.801,933.04 19.187,970.08\nGuerra_________________ 26.113,586.23 1.677,134.00\nMarina_________________ 14.905,390.59 14.845,224.33\nIndustria i Obras\nPúblicas______________ 46.937,292.65 29.256,785.74\n______________ _____________\nTotales_______$ 175.084,403.57 $ 73.171,888.73\nCuyos totales ascienden a ciento setenta i cinco millones ochenta i cuatro mil cuatrocientos tres pesos cincuenta i siete centavos en moneda corriente; i setenta i tres millones ciento setenta i un mil ochocientos ochenta i ocho pesos setenta i tres centavos en oro de dieciocho peniques."
+    }
+  ],
+  "definitions": []
+}

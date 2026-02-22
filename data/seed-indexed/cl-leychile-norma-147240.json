@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-147240",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4464",
+  "status": "repealed",
+  "issued_date": "1928-11-17",
+  "in_force_date": "1929-02-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=147240",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Substitúyese el inciso 2.o del artículo 7.o de la ley número 3,997, de 4 de Enero de 1924, por el siguiente:\n\"Si aplicadas las disposiciones de los artículos precedentes, resultare que la pensión de jubilación por percibir es inferior a doscientos pesos mensuales, la cantidad efectiva mensual no podrá ser inferior a ciento cincuenta pesos, y tendrá el monto que le corresponda dentro de las escalas de 150 a 175 y de 175 a 200 pesos.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Los empleados de planta, a contrata y a jornal y los operarios de la empresa de los Ferrocarriles del Estado y de la Sección Chilena del Ferrocarril de Arica a La Paz, jubilados con anterioridad a la promulgación de la presente ley y cuya pensión fuere inferior a doscientos pesos mensuales, tendrán derecho a que ésta les sea pagada, en lo sucesivo, aumentada conforme a lo dispuesto en el artículo anterior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

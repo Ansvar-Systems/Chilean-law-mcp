@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-30211",
+  "type": "statute",
+  "title": "DISPONE CONDONACION QUE INDICA",
+  "short_name": "Ley 18835",
+  "status": "in_force",
+  "issued_date": "1989-09-15",
+  "in_force_date": "1989-10-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30211",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Condónanse las diferencias que pudieren existir entre el monto del desahucio o indemnización y el precio de las acciones que con éstos se puedan adquirir de acuerdo con lo dispuesto en el artículo 30 de la ley N° 18.681 y en las leyes números 18.747 y 18.779, siempre que dichas diferencias sean inferiores al precio de una acción.\nLo dispuesto en el inciso anterior se aplicará también respecto de las ventas efectuadas con anterioridad a la publicación de esta ley."
+    }
+  ],
+  "definitions": []
+}

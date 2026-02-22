@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29233",
+  "type": "statute",
+  "title": "CONDONA PARCIALMENTE SUMAS ADEUDADAS A LA\nCORPORACION DE LA REFORMA AGRARIA POR LOS COLONOS QUE\nSEÑALA Y ESTABLECE NUEVA FORMA PARA EL PAGO DE SALDO DE\nESAS MISMAS OBLIGACIONES",
+  "short_name": "Ley 17711",
+  "status": "in_force",
+  "issued_date": "1972-08-29",
+  "in_force_date": "1972-09-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29233",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.- Condónanse el 50% de las sumas adeudadas a la Corporación de la Reforma Agraria por los colonos de las Colonias de Mariposas, Peumo Negro y Panguilemito, del departamento de Talca, la Colonia Alfalfares de la comuna de La Serena, y a los colonos de la ex hacienda Hospital (Cooperativa Agrícola John Kennedy), comuna de Paine, departamento de Maipo, por conceptos de saldos de precio de las parcelas y construcciones que han adquirido y por la Cooperativa Agropecuaria Mariposa Limitada de Reforma Agraria, a la misma corporación.\nCondónanse, asimismo, la totalidad de los intereses penales y multas en que hubieren incurrido los colonos y la cooperativa a que se refiere el inciso anterior; como, también, las deudas que tienen estos colonos con la Corporación de la Reforma Agraria por préstamos otorgados para labranza y habilitación de suelos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- El saldo de la deuda que les correspondiere pagar a los colonos y a la cooperativa indicada en el artículo anterior se harán exigibles a contar de la última cuota que deban abonar a la Corporación de la Reforma Agraria, dividido este saldo en cuotas iguales que no excedan del monto de las que hubieren estado cancelando con anterioridad."
+    }
+  ],
+  "definitions": []
+}

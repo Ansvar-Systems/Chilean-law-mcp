@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24903",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA CANCELAR A LA MUNICIPALIDAD DE SANTIAGO, DIVERSAS EXPROPIACIONES.",
+  "short_name": "Ley 4776",
+  "status": "in_force",
+  "issued_date": "1929-12-31",
+  "in_force_date": "1927-12-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24903",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para cancelar a la Municipalidad de Santiago, la suma de 2.384,713 pesos 60 centavos, que corresponde al valor de expropiación determinado por la Comisión de Hombres Buenos designada por la Intendencia de Santiago y aceptada por la Municipalidad de Santiago, de la parte en que afecta al Mercado Central la aplicación de la ley de 13 de Enero de 1888, sobre canalización del río Mapocho y expropiación de los terrenos en una faja de cien metros a uno y otro lado del canal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El gasto que demande la aplicación de la presente ley será financiado:\n1.o Con el ingreso a rentas fiscales de la suma de $ 2.016,000 que la I. Municipalidad de Santiago cancelará al Fisco por deudas derivadas del servicio del empréstito autorizado por la ley N.o 2,324 de fecha 18 de Julio de 1910;\n2.o Con el exceso, en la suma de $ 368,713.60, producido en las entradas aduaneras por derechos de importación sobre la suma considerada en el cálculo de entradas para el presente año."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

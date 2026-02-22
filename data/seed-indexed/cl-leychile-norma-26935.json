@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26935",
+  "type": "statute",
+  "title": "SUPRIME DEFINITIVAMENTE LA SUBVENCION QUE INDICA Y\nTRASPASA LA CANTIDAD DE $ 600.000, CONSULTADA EN EL ITEM\nQUE SEÑALA",
+  "short_name": "Ley 11944",
+  "status": "in_force",
+  "issued_date": "1955-10-19",
+  "in_force_date": "1955-11-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26935",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Suprímese definitivamente la subvención consignada en el ítem 06/01/04/x-IV Magallanes N.o 25) de la Ley General de Presupuesto vigente, destinada a \"reparaciones y gastos de mantenimiento del vapor \"Minerva\", que mantiene la línea entre Punta Arenas y Puerto Porvenir, por una sola vez\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Traspásase la cantidad de seiscientos mil pesos ($ 600.000) consultada en el ítem\n06/01/04/x-IV Magallanes, N.o 25) a los siguientes números de este mismo ítem: x-IV Magallanes N.o 19, Cuerpo de Bomberos de Punta Arenas, por una sola vez... $ 200.000; x-IV Magallanes N.o 22, Cuerpo de Bomberos de Porvenir por una sola vez... $ 50.000; x-IV Magallanes N.o 23. Cuerpo de Bomberos de Puerto Natales, por una sola vez... $ 100.000, y x-I Magallanes N.o 7, Cruz Roja de Punta Arenas, por una sola vez...$ 250.000.\""
+    }
+  ],
+  "definitions": []
+}

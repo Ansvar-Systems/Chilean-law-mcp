@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136831",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 232",
+  "status": "in_force",
+  "issued_date": "1894-12-29",
+  "in_force_date": "1894-12-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136831",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declara que la redaccion que corresponde a los ítem 8, 10, 11, 13 y 14 de la partida 6.ª del presupuesto vijente del Ministerio del Culto es la siguiente:\nItem 8.- Al teniente-cura de Antofagasta. Lei de presupuestos de 1893, 2,000 pesos.\nItem 10.- Al cura de Tocopilla. Lei de presupuesto de 1887, 2,250 pesos.\nItem 11.- Al cura de Cobija. Lei de presupuestos de 1889, 2,250 pesos.\nItem 13.- Al cura de Chiuchiu. Lei de presupuestos de 1893, 2,000 pesos.\nItem 14.- Al cura de Taltal. Lei de presupuestos de 1893, 2,000 pesos."
+    }
+  ],
+  "definitions": []
+}

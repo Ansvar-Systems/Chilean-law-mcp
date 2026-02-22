@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25020",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5065",
+  "status": "in_force",
+  "issued_date": "1932-02-20",
+  "in_force_date": "1932-03-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25020",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se declara que la disposición del artículo 2.o de la ley número 5,005, de 24 de Noviembre de 1931, sobre las pensiones que disfrutan los veteranos de la guerra de 1879-1884, no afecta a las inferiores a veinticuatro mil pesos ($ 24,000) y a las demás, únicamente sobre el exceso de esta suma.\nEstos excesos serán rebajados en la misma proporción en que se reduce el sueldo del grado equivalente.\nSi el exceso fuera hasta de dos mil cuatrocientos pesos ($ 2,400), será rebajado en un veinticinco por ciento (25o|ó)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta ley regirá desde el 1.o de Enero de 1932."
+    }
+  ],
+  "definitions": []
+}

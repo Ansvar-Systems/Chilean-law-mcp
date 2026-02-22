@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1191771",
+  "type": "statute",
+  "title": "PERMITE EL USO DE CÉDULAS DE IDENTIDAD Y PASAPORTES QUE SEÑALA PARA EFECTOS DE IDENTIFICAR A LOS ELECTORES EN LAS ELECCIONES Y PLEBISCITOS QUE INDICA",
+  "short_name": "Ley 21569",
+  "status": "in_force",
+  "issued_date": "2023-04-21",
+  "in_force_date": "2023-05-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1191771",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- En las elecciones y plebiscitos del Nuevo Procedimiento para Elaborar una Constitución Política de la República, establecido en los artículos 144 y siguientes de la Carta Fundamental, para el solo efecto de identificar al elector nacional, se aceptarán las cédulas de identidad o pasaportes cuya fecha de vencimiento estampada en el respectivo documento corresponda a alguno de los días del período comprendido entre el 1 de enero de 2020 y la fecha de realización del plebiscito a que se refiere el artículo 159 de la Constitución Política de la República. La misma regla se aplicará al elector extranjero respecto de la cédula de identidad para extranjeros.\"."
+    }
+  ],
+  "definitions": []
+}

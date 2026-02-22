@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26771",
+  "type": "statute",
+  "title": "DECLARA QUE LA DISPOSICION DEL ARTICULO 4°\nTRANSITORIO DEL D.F.L. N° 87, DE 1953, NO DEROGO PARA EL\nPERSONAL DEL INSTITUTO NACIONAL DE COMERCIO LAS LEYES DE\nPREVISION QUE SEÑALA",
+  "short_name": "Ley 11736",
+  "status": "in_force",
+  "issued_date": "1954-10-30",
+  "in_force_date": "1954-11-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26771",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Se declara que la disposición del artículo 4° transitorio del D.F.L. N° 87, de 1° de Junio de 1953, no derogó para el personal del Instituto Nacional de Comercio, las leyes de previsión que eran aplicables a los empleados en servicio antes de esa fecha, ni el inciso tercero del artículo 106 de la ley N° 10,343, debiendo aplicarse a estos funcionarios los Títulos V, VIII y IX del D.F.L. número 23/5,683, de 14 de Octubre de 1942."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Reemplázase en el artículo 10° del D.F.L. N° 87, la expresión \"empleados particulares\" por la siguiente \"empleados semifiscales\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- La planta y remuneraciones del personal del Instituto Nacional de Comercio será aprobada por el Consejo de ese organismo, a proposición de su Vicepresidente Ejecutivo.\nEn la misma forma se acordarán los nombramientos, ascensos, remoción y renuncias del personal.\nSólo con acuerdo del Consejo se podrá contratar empleados fuera de la planta y con carácter transitorio, debiendo fijarse el tiempo de duración de los contratos."
+    }
+  ],
+  "definitions": []
+}

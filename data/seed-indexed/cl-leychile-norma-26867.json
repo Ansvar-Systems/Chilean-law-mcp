@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-26867",
+  "type": "statute",
+  "title": "FIJA DISPOSICIONES PARA EJERCER Y OPTAR AL TITULO DE\nMEDICO CIRUJANO",
+  "short_name": "Ley 11861",
+  "status": "in_force",
+  "issued_date": "1955-08-03",
+  "in_force_date": "1955-08-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26867",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Para ejercer la profesión de Médico-Cirujano en el territorio de la República es necesario estar en posesión del título otorgado por la Universidad de Chile."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Los alumnos de las Escuelas de Medicina de la Universidad de Chile, de la Universidad de Concepción y de la Universidad Católica de Chile, para optar al título de Médico-Cirujano, deberán cumplir los siguientes requisitos:\na) Haber cursado satisfactoriamente los estudios completos de Medicina, y\nb) Estar en posesión del grado de Licenciado en Medicina otorgado por alguna de dichas Universidades."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- La Universidad de Chile determinará las pruebas para obtener el título de Médico-Cirujano, las cuales serán las mismas para los Licenciados de las tres Universidades. La Comisión designada por la Universidad de Chile para tomar el examen de\nMédico-Cirujano a Licenciados en Medicina de la Universidad de Concepción y de la Universidad Católica de Chile estará integrada por un profesor designado por el Rector de la Universidad respectiva."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°.- Se entenderá por estudios completos de Medicina los que comprendan los conocimientos correspondientes al Plan General de Estudios que rija para la Escuela de Medicina de la Universidad de Chile."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5°.- Los exámenes anuales en las Escuelas de Medicina de la Universidad de Concepción y de la Universidad Católica de Chile se rendirán ante Comisiones designadas por las propias Universidades y los resultados serán comunicados por escrito a la Universidad de Chile dentro de los sesenta días de su realización\"."
+    }
+  ],
+  "definitions": []
+}

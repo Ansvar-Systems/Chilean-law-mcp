@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22459",
+  "type": "statute",
+  "title": "LINEA TELEGRÁFICO DE PUERTO MONTT A PUNTA ARENAS",
+  "short_name": "Ley 1191",
+  "status": "in_force",
+  "issued_date": "1899-02-04",
+  "in_force_date": "1899-02-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22459",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la suma de cincuenta mil pesos en el estudio de una línea telegráfica que una a Puerto Montt con Punta Arenas."
+    }
+  ],
+  "definitions": []
+}

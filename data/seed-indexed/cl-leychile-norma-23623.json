@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23623",
+  "type": "statute",
+  "title": "CONCEDE VARIOS SUPLEMENTOS AL PRESUPUESTO DEL MINISTERIO DEL INTERIOR",
+  "short_name": "Ley 2955",
+  "status": "in_force",
+  "issued_date": "1914-12-12",
+  "in_force_date": "1914-12-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23623",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Concédense los siguientes suplementos a los ítem que se indican del Presupuesto del Ministerio del Interior:\nAl ítem 3,369.- Para gastos jenerales de\nSecretaría__________________________________ $ 30,000\nAl ítem 3,371.- Para gastos de servidumbre\ni adquisiciones de uniforme para los oficiales\nde Sala de esta Cámara______________________ $ 4,500\nAl ítem 3,375.- Para pago de cuentas\npendientes de años anteriores_______________ $ 30,000\nAl ítem 3,379.- para conservacion del jardin\nde la plaza del Congreso____________________ $ 3,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°.- Autorízase la inversion de las siguientes cantidades en los objetos que se indican:\nDos mil pesos ($2,000) en adquirir una coleccion completa de Boletines de Leyes desde 1810 hasta 1906 inclusive.\nSiete mil diez pesos ($7,010) en pagar los gastos efectuados por la Comision Parlamentaria que fué a estudiar las necesidades de las provincias del Norte."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°.- Autorízase, asimismo, la inversion en gastos jenerales de Secretaría de la Cámara de Diputados de la cantidad de ocho mil diez pesos ochenta i cinco centavos ($8,010.85) que quedó sobrante de la suma de setenta i dos mil pesos consultada en las leyes número 2,773, de 25 de Junio de 1913 i número 2,820, de 26 de Noviembre del mismo año, para la publicacion de sesiones de la Cámara en la prensa diaria."
+    }
+  ],
+  "definitions": []
+}

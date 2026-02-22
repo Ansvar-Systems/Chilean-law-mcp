@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24183",
+  "type": "statute",
+  "title": "LEI NÚM. 3,700, QUE CONCEDE SUPLEMENTOS PARA SERVICIOS DEL CONGRESO NACIONAL.",
+  "short_name": "Ley 3700",
+  "status": "in_force",
+  "issued_date": "1920-12-17",
+  "in_force_date": "1920-12-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24183",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédense los siguientes suplementos a los ítem que se indican, de la partida 16 \"Congreso Nacional\" del Presupuesto del Ministerio del Interior:\nAl ítem 4,144.- Para gastos de\nSecretaría, adquisicion de\nuniformes para los guardianes,\netc.____________________________________ $ 20,000\nAl ítem 4,147.- Para la publicacion\nen la prensa de las sesiones del\nSenado, etc.____________________________ 40,000\nAl ítem 4,150.- Para adquisicion i\ndistribucion de rejistros, impresion\ni distribucion de los demas efectos\nelectorales a que se refiere el\nartículo 69 de la Lei de Elecciones.____ 20,000\nAl ítem 4,154.- Para gastos jenerales\nde Secretaría i servicio de la guardia\nde la Cámara de Diputados, etc._________ 320,000\nAl ítem 4,156.- Para publicacion\nen la prensa de las sesiones de\nla Cámara de Diputados, etc.____________ 90,000\nAl ítem 4,160.- Para gastos de\nConservacion i aseo del edificio\ndel Congreso____________________________ 40,000\nEl gasto se deducirá de la mayor entrada proveniente\ndel impuesto sobre el papel sellado, timbres i\nestampillas."
+    }
+  ],
+  "definitions": []
+}

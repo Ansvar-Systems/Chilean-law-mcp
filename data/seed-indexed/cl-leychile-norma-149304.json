@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-149304",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4591",
+  "status": "in_force",
+  "issued_date": "1929-02-12",
+  "in_force_date": "1929-02-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149304",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Los créditos a la orden que consten de escritura pública podrán ser transferidos por endoso al Banco Central de Chile, por los Bancos accionistas para su descuento o redescuento en dicho Banco, siempre que cumplan, además, con los requisitos y condiciones que exige la Ley Orgánica del Banco Central."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El endoso deberá extenderse, a continuación, al dorso o al margen de la primera copia de la escritura y su firma será autorizada por un Notario Público. En lo demás, el endoso se sujetará a las reglas generales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La cesión por endoso conforme a los artículos precedentes comprende todas las fianzas, privilegios, hipotecas y demás garantías de crédito cedido y constituye al endosante en codeudor solidario.\nEn virtud del mismo endoso, podrán hacerse las inscripciones y anotaciones en los registros que correspondan y cumplirse las demás formalidades a que haya lugar."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o La presente ley empezará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

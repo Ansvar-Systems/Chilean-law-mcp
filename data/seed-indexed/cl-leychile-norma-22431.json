@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-22431",
+  "type": "statute",
+  "title": "AUTORIZACION AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR $ 45,447.45 EN LA CONSTRUCCION DEL FUERTE VERGARA.",
+  "short_name": "Ley 1148",
+  "status": "in_force",
+  "issued_date": "1898-12-28",
+  "in_force_date": "1899-01-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22431",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Autorízase al Presidente de la República para invertir hasta la cantidad de cuarenta i cinco mil cuatrocientos cuarenta i siete pesos cuarenta i cinco centavos en el pago de los servicios que se adeudan desde el año de 1896, para la construccion del fuerte \"Vergara\" en la Punta Sirena de la bahía de Valparaiso."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se declaran de utilidad pública los terrenos que en conformidad a los planos formados por la Direccion Jeneral de Fortificaciones, son necesarios para los fuertes de \"Vergara\" i \"Reñaca\" en el puerto de Valparaíso, comprendiendo los caminos i vías férreas necesarias para el servicio de los fuertes.\nLa espropiacion i pago se hará con arreglo a las prescripciones de la lei de 18 de Junio de 1857."
+    }
+  ],
+  "definitions": []
+}

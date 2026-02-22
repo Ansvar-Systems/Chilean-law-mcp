@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23928",
+  "type": "statute",
+  "title": "LEI NUM. 3.371, QUE CREA LA DIRECCION JENERAL DE ESPECIES VALORADAS",
+  "short_name": "Ley 3371",
+  "status": "in_force",
+  "issued_date": "1918-05-10",
+  "in_force_date": "1918-05-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23928",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° La fabricacion de los billetes fiscales y de las especies valoradas con destino al cobro i servicios de los impuestos públicos i la adquisicion i reparto de los utensilios de escritorios destinados al consumo de las oficinas fiscales, estarán a cargo de una reparticion denominada Direccion Jeneral de Especies Valoradas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° El personal de la Direccion Jeneral de Especies Valoradas, será el siguiente:\nUn Director Jeneral_________________________$ 20,000\nGratificacion al actual Director____________ 4,000\nUn secretario, oficial de fé pública________ 5,400\nEstablecimiento de Especies Valoradas\nUn inspector de la seccion de billetes______ 6,500\nUn oficial, ayudante del control____________ 6,000\nUn guarda-almacenes_________________________ 5,000\nUn repartidor de especies___________________ 3,000\nOficina de utensilios de escritorio\nUn jefe de la oficina_______________________ 13,200\nUn oficial de partes i archivero____________ 7,200\nUn guarda-almacenes_________________________ 5,000\nUn ayudante del guarda-almacenes____________ 3,600\nUn portero__________________________________ 1,600"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° El establecimiento de especies valoradas tendrá el personal técnico i los operarios que sean necesarios a juicio del Director Jeneral. La remuneracion de los empleados a contrata deberá figurar en la lei anual de Presupuestos.\nEl personal técnico será contratado por el Presidente de la República, a propuesta del Director Jeneral, i los operarios a jornal, directamente por este último funcionario."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° El Presidente de la República dictará dentro de los seis meses siguientes a la promulgacion de esta lei, los reglamentos necesarios para el funcionamiento de los servicios que por ella se crean."
+    }
+  ],
+  "definitions": []
+}

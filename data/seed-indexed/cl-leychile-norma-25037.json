@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-25037",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA\nCONTRATAR CON EL BANCO CENTRAL DE CHILE UN EMPRESTITO\nHASTA POR $138.000,000",
+  "short_name": "Ley 5137",
+  "status": "in_force",
+  "issued_date": "1933-02-16",
+  "in_force_date": "1933-02-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25037",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se autoriza al Presidente de la República para contratar con el Banco Central de Chile un préstamo hasta por ciento treinta y ocho millones de pesos ($138.000,000) moneda corriente con el único objeto de comprar a ese Banco los bonos de la Compañía de Salitre de Chile de valor nominal de veintiún millones cuatrocientos trece mil dólares americanos ($ USA. 21.413,000) que el Fisco le vendió con pacto de retroventa a virtud de la ley número 4,971, de 30 de Julio de 1931, y con arreglo al contrato celebrado por escritura pública de 26 de Septiembre del mismo año, y también para dar cumplimiento a lo establecido en la parte final del artículo siguiente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El préstamo devengará intereses de dos por ciento (2%) anual pagaderos el 30 de Junio y el 31 de Diciembre de cada año. Los intereses correspondientes al año en curso se descontarán del capital prestado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El préstamo será amortizado por cuotas semestrales iguales de cinco por ciento (5%) del capital primitivo, que se pagarán junto con los intereses, y la primera de ellas el 30 de Junio de 1934."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o La Ley de Presupuestos de Gastos de la Nación consultará anualmente las cantidades necesarias para el servicio de los intereses y amortizaciones del préstamo a que se refiere la presente ley. Dicho servicio será efectuado por la Caja de Amortización."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o No se aplicarán a este préstamo las limitaciones y prohibiciones establecidas en el decreto-ley número 486, de 21 de Agosto de 1925, que organizó el Banco Central de Chile."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

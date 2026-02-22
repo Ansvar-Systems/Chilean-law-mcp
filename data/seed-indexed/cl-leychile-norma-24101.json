@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24101",
+  "type": "statute",
+  "title": "LEI NUM. 3,599, QUE CONDONA UNA DEUDA FISCAL A LA MUNICIPALIDAD DE TOCOPILLA.",
+  "short_name": "Ley 3599",
+  "status": "in_force",
+  "issued_date": "1920-01-30",
+  "in_force_date": "1920-02-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24101",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Condónase a la Municipalidad de Tocopilla la deuda que tiene a favor del Fisco por la suma de ciento dieciseis mil ciento veinticuatro pesos, veinticinco centavos ($ 116,124.25), quedando éste libre de toda responsabilidad con respecto a la suma que corresponde por lei al denunciante don Cárlos Alonso."
+    }
+  ],
+  "definitions": []
+}

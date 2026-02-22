@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28642",
+  "type": "statute",
+  "title": "FACULTA AL PRESIDENTE DE LA REPUBLICA PARA CREAR, BAJO LA DEPENDENCIA DEL SERVICIO NACIONAL DE SALUD, EL BANCO NACIONAL DE SANGRE Y PARA REGLAMENTAR SUS FUNCIONES Y ORGANIZACION ESTABLECE EL EMPADRONAMIENTO DEL GRUPO DE SANGRE DE LOS HABITANTES DE LA REPUBLICA AUTORIZA A LA POLLA CHILENA DE BENEFICENCIA PARA EFECTUAR UN SORTEO ANUAL EXTRAORDINARIO A BENEFICIO DEL REFERIDO BANCO NACIONAL",
+  "short_name": "Ley 16720",
+  "status": "in_force",
+  "issued_date": "1967-11-30",
+  "in_force_date": "1967-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28642",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o- Autorízase al Presidente de la República para crear, dentro de un plazo de seis meses, dependiente del Servicio Nacional de Salud, el Banco Nacional de Sangre y para dictar las normas reglamentarias destinadas a determinar sus funciones y su organización.\nCorresponderá al Servicio Nacional de Salud estructurar el Banco Nacional de Sangre, entre cuyas finalidades estará la creación de ligas de donantes de sangre y la asistencia que se prestará a éstos.\nNo obstante lo que determine el Reglamento, el Banco Nacional de Sangre tendrá la tuición técnica de todos los Bancos de Sangre, públicos y privados; velará por el fiel cumplimiento del Reglamento; prestará la asesoría técnica que por ellos le fuere solicitada, recomendará medidas tendientes a mejorar, racionalizar y ordenar los Bancos ya existentes y propondrá al Ministerio de Salud Pública la creación de nuevos bancos, los cambios de categoría y las clausuras, cuando éstas procedieran.\nVelará por el perfeccionamiento técnico del personal médico y para-médico de todos los bancos de sangre y estimulará la investigación científica en este campo.\nSolamente el Banco Nacional de Sangre queda autorizado para elaborar plasma desecado o productos derivados de él, para lo cual podrá suscribir convenios con organismos fiscales o privados tendientes a materializar estas iniciativas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o- Establécese, a medida que las circunstancias lo aconsejen, el empadronamiento del grupo de sangre de los habitantes de la República, sujeto a las directivas que imparta el Servicio Nacional de Salud."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o- Autorízase a la Polla Chilena de Beneficencia para realizar un sorteo anual extraordinario libre de todo impuesto, gravamen o derecho fiscal o municipal, a beneficio exclusivo del Banco Nacional de Sangre.\nEl producto de estos sorteos deberá ser entregado, dentro del plazo máximo de diez días contado desde la fecha de su realización, al Servicio Nacional de Salud.\""
+    }
+  ],
+  "definitions": []
+}

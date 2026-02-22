@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25152",
+  "type": "statute",
+  "title": "LA CONTRIBUCION ESTABLECIDA POR LA LEY N.o 5,005, DE\n25 DE NOVIEMBRE DE 1931, QUE AFECTA LAS PENSIONES DE\nJUBILACION, RETIRO Y MONTEPIO, SERA REDUCIDA EN LA FORMA\nQUE SE INDICA",
+  "short_name": "Ley 5600",
+  "status": "in_force",
+  "issued_date": "1935-02-14",
+  "in_force_date": "1935-02-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25152",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o A contar desde el 1.o de Enero de 1935, se pagarán sin la contribución establecida por la ley N.o 5,005, de 25 de Noviembre de 1931, las pensiones de jubilación, retiro y montepío afectadas por esa ley, que hubieren sido otorgadas en conformidad a las leyes que hayan regido con anterioridad al 1.o de Enero de 1925, y las que hubieren sido otorgadas a personas con cuarenta o más años de edad."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o La contribución que establece la ley N.o 5,005, se aplicará reducida en una tercera parte durante el presente año, y en dos terceras partes durante el año 1936.\nDicha contribución quedará derogada a contar desde el 1.o de Enero de 1937."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o El gasto que importará la aplicación de esta ley por el presente año, se imputará a la mayor entrada que, con relación a los gastos públicos, arrojó el ejercicio financiero de 1934."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

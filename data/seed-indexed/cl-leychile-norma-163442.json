@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-163442",
+  "type": "statute",
+  "title": "CONCEDE AMNISTIA QUE INDICA",
+  "short_name": "Ley 17353",
+  "status": "in_force",
+  "issued_date": "1970-09-24",
+  "in_force_date": "1970-10-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=163442",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Concédese amnistía a don Jaime Jana Sáenz, condenado a la pena de cien días de presidio menor en su grado mínimo y a la suspensión de cargo u oficio público durante el tiempo de la condena, como autor del delito de secuestro del Carabinero Héctor Gutiérrez Orellana, por sentencia de la Iltma. Corte Marcial de fecha 9 de septiembre de 1969, que revocó la dictada por el Tercer Juzgado Militar de Concepción en la causa N.o 591-67.\"."
+    }
+  ],
+  "definitions": []
+}

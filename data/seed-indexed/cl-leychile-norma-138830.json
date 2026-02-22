@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-138830",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3074",
+  "status": "in_force",
+  "issued_date": "1916-03-29",
+  "in_force_date": "1916-03-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138830",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Se hacen extensivas a los ferrocarriles de Arica a la Paz i Red Central norte, en lo que no sean contrarias a la presente lei, las disposiciones de la lei número 2,498, de 1.° de febrero de 1911."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Créase en la Caja de Ahorros de la Empresa de los Ferrocarriles del Estado, una seccion especial para los empleados de los ferrocarriles señalados en el artículo precedente.\nLa Caja, con su actual personal, llevará una contabilidad separada para este servicio.\nLa Caja se denominará en lo sucesivo \"Caja de Ahorros de los Ferrocarriles del Estado\".\nTanto los servicios de entradas i gastos de la nueva seccion, como la distribucion de beneficios entre sus respectivos imponentes, no se confundirán, en ningun caso, con las operaciones correlativas de la actual Caja de Ahorros de la Empresa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Formará parte del Consejo de la Caja, en representacion del servicio que crea esta lei, el empleado del Ministerio de Ferrocarriles que designe el Presidente de la República."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Para los efectos de las jubilaciones establecidas en la lei 2,498, se computarán los años de servicios prestados en cualquiera de los Ferrocarriles del Estado."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° Toda pension de jubilacion o de montepío que se conceda en conformidad a la presente lei, será pagada con cargo al presupuesto de Ferrocarriles a que pertenezcan los agraciados."
+    }
+  ],
+  "definitions": []
+}

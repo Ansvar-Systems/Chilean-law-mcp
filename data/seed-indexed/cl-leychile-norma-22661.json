@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22661",
+  "type": "statute",
+  "title": "Ferrocarril de Ancud a Castro",
+  "short_name": "Ley 1453",
+  "status": "in_force",
+  "issued_date": "1901-01-19",
+  "in_force_date": "1901-02-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22661",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para que invierta la suma de veinte mil pesos en el estudio de un ferrocarril de trocha angosta de Ancud a la ciudad de Castro."
+    }
+  ],
+  "definitions": []
+}

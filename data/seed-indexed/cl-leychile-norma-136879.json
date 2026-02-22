@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136879",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2217",
+  "status": "in_force",
+  "issued_date": "1909-09-07",
+  "in_force_date": "1909-09-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136879",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese a don Eduardo Vigneaux el derecho de jubilar con el sueldo íntegro de que actualmente disfruta como jefe del Servicio de Materiales de los Ferrocarriles del Estado."
+    }
+  ],
+  "definitions": []
+}

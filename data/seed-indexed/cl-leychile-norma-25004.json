@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-25004",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5025",
+  "status": "in_force",
+  "issued_date": "1931-12-31",
+  "in_force_date": "1932-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25004",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Traspásase la suma de un millón cuatrocientos setenta y cinco mil pesos, al ítem 10|01|01é del Presupuesto de Marina de los ítem que se detallan a continuación:\nDel ítem 10|01|02|c $ 130,000\nDel ítem 10|01|02|b 120,000\nDel ítem 10|01|02|f 600,000\nDel ítem 10|02|01| 400,000\nDel ítem 10|01|04á 25,000\nDel ítem 10|01|04|b 200,000\n__________\n$ 1.475,000"
+    }
+  ],
+  "definitions": []
+}

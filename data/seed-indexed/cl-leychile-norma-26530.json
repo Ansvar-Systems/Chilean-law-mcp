@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26530",
+  "type": "statute",
+  "title": "ESTABLECE EL IMPUESTO QUE INDICA, A LOS BIENES\nRAICES DE NUEVA IMPERIAL.",
+  "short_name": "Ley 11096",
+  "status": "in_force",
+  "issued_date": "1952-11-07",
+  "in_force_date": "1952-11-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26530",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Establécese, por el término de dos años, a contar desde el 1.o de Enero del año 1953, un impuesto adicional del uno por mil a favor de la Municipalidad de Nueva Imperial, sobre el avalúo de los bienes raíces de dicha comuna.\nEl producto de este impuesto se entregará al Cuerpo de Bomberos de Nueva Imperial para la terminación de su cuartel y adquisición de material."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El Tesorero Comunal de Nueva Imperial llevará una cuenta especial, subsidiaria, de los ingresos y egresos de esta contribución especial adicional, y abrirá, además, en la respectiva Caja Nacional de Ahorros, una cuenta corriente especial, en la cual depositará los fondos de esta contribución y sobre la que sólo podrá girar para atender a los fines que indica esta ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o El Cuerpo de Bomberos de Nueva Imperial entregará a la Municipalidad para su publicación en un diario de la provincia, en el mes de Enero de cada año, el balance de las inversiones efectuadas por dicha Institución\"."
+    }
+  ],
+  "definitions": []
+}

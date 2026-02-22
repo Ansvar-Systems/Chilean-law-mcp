@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24308",
+  "type": "statute",
+  "title": "LEI NÚM. 3.868. QUE AUTORIZA EL PAGO DE LOS SUELDOS, PENSIONES, ETC. DURANTE EL SEGUNDO TRIMESTRE DEL AÑO 1922, I AUTORIZA LA INVERSION DE FONDOS EN ATENDER OTROS SERVICIOS PUBLICOS.",
+  "short_name": "Ley 3868",
+  "status": "in_force",
+  "issued_date": "1922-07-06",
+  "in_force_date": "1922-07-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24308",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Se autoriza al Presidente de la República para pagar, en conformidad a lo consultado en el Prespuesto de 1921 i a las leyes de carácter permanente que los hayan modificado, los sueldos i gratificaciones de partidas fijas i variables, de los empleados a contrata, los jornales, las pensiones de jubilacion i de gracia, los montepíos i retiros correspondientes a los meses de Abril, Mayo i Junio del presente año, con cargo a las entradas de 1922 i con imputacion, en su oportunidad, al Presupuesto del presente año.\nAutorízasele, asimismo, para pagar los canones de censos vencidos en el primer semestre de 1922 i para invertir, desde luego, hasta tres duodécimos en las partidas o ítems que se refieran a pagos de rentas de arrendamientos, contratos de provision o suministros i para adquisicion de materiales o artículos destinados a servicios impostergables."
+    }
+  ],
+  "definitions": []
+}

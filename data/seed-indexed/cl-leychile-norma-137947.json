@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-137947",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2771",
+  "status": "in_force",
+  "issued_date": "1913-02-07",
+  "in_force_date": "1913-02-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=137947",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Autorízase al Presidente de la República para invertir hasta la suma de setecientos mil pesos ($ 700,000), oro de dieciocho peniques, en iniciar la organizacion del servicio de aeronáutica i la fundacion de una escuela para el personal destinado a este servicio."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.º El personal dedicado a este servicio gozará la gratificacion establecida en el artículo 29 de la lei número 2,644."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Los jefes, oficiales e individuos de tropa pertenecientes al servicio de aeronáutica que se inutilicen en acto determinado del mismo, tendrán derecho a los siguientes beneficios:\na) La pension que correspondiere segun los años de servicios i las reglas jenerales al que se inutilice parcialmente, será aumentada en un cincuenta por ciento.\nSe entenderá por inutilidad parcial la que imposibilita para continuar en servicio en el Ejército.\nb) El que se inhabilite por inutilidad absoluta gozará como pension el sueldo íntegro que gozaba en servicio activo.\nSe entiende por inutilidad absoluta la que, ademas de imposibilitarlo para el servicio del Ejército, lo incapacita para ganar el sustento en ocupaciones privadas propias de la condición u oficio del individuo.\nc) El oficial que tenga ménos de seis años de servicios, será considerado, para los efectos de su retiro, como si lo hubiera cumplido.\nd) La familia de los que fallecieren en acto del servicio o a consecuencia directa del mismo, tendrá derecho a una pension de montepío equivalente al cincuenta por ciento del sueldo de que gozaba el individuo a la fecha de su fallecimiento i de la cual gozará con arreglo a las leyes jenerales."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Estas disposiciones se aplicarán tambien a los jefes, oficiales e individuos de tropa que por razon de sus funciones se encuentren en alguno de los casos previstos anteriormente."
+    }
+  ],
+  "definitions": []
+}

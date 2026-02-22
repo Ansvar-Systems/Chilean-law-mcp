@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24192",
+  "type": "statute",
+  "title": "LEI NUM. 3,711, QUE AUMENTA SUS SUELDOS AL PERSONAL DE LA OFICINA CENTRAL DE ESTADISTICA.",
+  "short_name": "Ley 3711",
+  "status": "in_force",
+  "issued_date": "1920-12-30",
+  "in_force_date": "1921-01-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24192",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.-Sustitúyese el artículo 24 de la lei 2,577, de 6 de Diciembre de 1911, que organizó la Oficina Central de Estadística, por el siguiente:\n\"Art. 24 El personal de la Oficina Central de Estadística, se compondrá de las siguiente planta de empleados con los sueldos anuales que se indican:\nUn Director Jeneral__________________________$ 19,200\nUn Sub-Director (Jefe de Seccion).___________ 15,600\nUn Consultor Técnico_________________________ 12,000\nCuatro Jefes de Seccion, cada uno con________ 13,200\nCinco Jefes de Servicio, cada uno con________ 10,800\nUn Secretario, Archivero i Bibliotecario_____ 8,400\nCinco Inspectores primeros, cada uno con_____ 8,400\nCinco Inspectores segundos, cada uno con_____ 7,200\nCinco Oficiales primeros, cada uno con_______ 6,000\nCinco Oficiales segundos, cada uno con_______ 4,800\nCinco Oficiales terceros, cada uno con_______ 3,600\nCinco Oficiales cuartos, cada uno con________ 3,000\nCinco Oficiales quintos, cada uno con________ 2,400\nCinco Oficiales sestos, cada uno con_________ 2,160\nUn portero primero___________________________ 1,800\nUn portero segundo___________________________ 1,560\nUn mensajero_________________________________ 1,080\nLos Inspectores enviados en comision del servicio fuera de Santiago, gozarán de un viático diario de dieciocho pesos ($ 18) en las provincias de Atacama inclusive al Norte i de quince pesos ($ 15) diarios en las demas provincias, teniendo aun derecho a que le sean abonados sus pasajes.\nEl puesto de Consultor Técnico no se proveerá cuando deje de servirlo la persona que actualmente lo desempeña."
+    }
+  ],
+  "definitions": []
+}

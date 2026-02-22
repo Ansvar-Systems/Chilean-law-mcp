@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-185803",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR\nHASTA LA SUMA DE $ 150,000 ORO, EN ATENDER A TODOS LOS\nGASTOS QUE ORIGINE LA CONCURRENCIA DE CHILE A LA VII\nCONFERENCIA PAN-AMERICANA",
+  "short_name": "Ley 5301",
+  "status": "in_force",
+  "issued_date": "1933-11-20",
+  "in_force_date": "1933-11-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=185803",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se Autoriza al Presidente de la República para invertir la suma de ciento cincuenta mil pesos oro ($ 150,000) en atender a todos los gastos que origine la concurrencia de Chile a la VII Conferencia Pan-americana."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto que significa el artículo anterior, se cubrirá con las siguientes reducciones del Presupuesto oro del Ministerio de Relaciones Exteriores y Comercio:\n$ 40,000 del ítem 05-03-01;\n$ 70,000 del ítem 05-03-02;\n$ 12,000 del ítem 05-04-01; y $ 28,000 del ítem 05-04-02."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

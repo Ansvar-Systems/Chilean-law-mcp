@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-30059",
+  "type": "statute",
+  "title": "MODIFICA ARTICULO 12 LEY N° 18.525",
+  "short_name": "Ley 18673",
+  "status": "in_force",
+  "issued_date": "1987-11-25",
+  "in_force_date": "1987-12-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30059",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Reemplázase en el inciso tercero del artículo 12 de la ley N° 18.525, sustituido por el artículo 36 de la ley N° 18.591, la oración comprendida entre el punto seguido (.) que sigue a la palabra \"azúcar\" y el punto seguido (.) que sigue a la palabra \"bajos\", por la siguiente:\n\"Los referidos promedios se reajustarán en el porcentaje de variación que haya experimentado el índice de precios promedio relevante para el comercio exterior de Chile habido entre el mes al que correspondan y el último mes del año anterior al de la determinación del monto de los derechos o rebajas, según lo certifique el Banco Central de Chile, y se ordenarán en series de mayor a menor, eliminándose de las mismas hasta el 25% de los valores más altos y hasta el 25% de los valores más bajos para el trigo, semillas de oleaginosas y aceites vegetales comestibles, y hasta el 35% de los valores más altos y hasta el 35% de los valores más bajos para el azúcar\"."
+    }
+  ],
+  "definitions": []
+}

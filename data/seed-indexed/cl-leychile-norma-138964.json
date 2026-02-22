@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138964",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2909",
+  "status": "in_force",
+  "issued_date": "1914-07-29",
+  "in_force_date": "1916-10-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138964",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declara de utilidad pública los terrenos que fueren necesarios para el ferrocarril de Cajon a Llaima, desvíos i pozos de lastre, debiendo hacerse la espropiacion de los terrenos en conformidad con la lei de 18 de junio de 1857, i a los planos que apruebe el Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

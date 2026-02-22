@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1161727",
+  "type": "statute",
+  "title": "DEUDORES.",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1832-10-20",
+  "in_force_date": "1832-10-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1161727",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Los deudores a la Hacienda nacional, en cualquiera de los ramos que pertenezcan a ésta, se constituyen en mora pasado el dia natural en que debieren hacer el pago de su deuda, sin verificarlo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° El deudor a la Hacienda nacional constituido en mora, pagará en todo el tiempo que dilatare el pago de su deuda el interés que corresponde al capital debido, a razon de un p% mensual, sin perjuicio de la ejecucion y apremios legales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° Las entregas que hicieren los deudores, se recibirán en las tesorerías a cuenta del interes debido hasta la fecha, y solo se admitirán a cuenta del principal despues de cubierto integramente aquel."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° En las causas que actualmente hubiere pendientes sobre el cobro del seis p% mensual, mandado pagar por el decreto del Gobierno de 13 de enero de 1824, o en las que hayan ocurrido dudas sobre el modo de pagar el dicho interes en concurrencia del principal, fallaran los tribunales, y harán las oficinas de Hacienda sus liquidaciones con arreglo a la presente lei, remitiendo a los deudores el cuatro p% de mas que se les haya exijido."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "5.° Siendo una gracia especial la que por el artículo anterior se dispensa a los deudores actuales del fisco, no se entiende perjudicar por la presente lei los derechos adquiridos por los acreedores particulares que se hayan subrogado en lugar del fisco, ni tampoco obligar a la Hacienda nacional a devolver lo que haya recibido en conformidad del citado decreto de 13 de enero."
+    }
+  ],
+  "definitions": []
+}

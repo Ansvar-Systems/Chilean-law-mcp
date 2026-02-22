@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24206",
+  "type": "statute",
+  "title": "LEI NUM. 3,727, QUE CONCEDE UN AUSILIO A LA JUNTA DE BENEFICENCIA DE CHILLAN.",
+  "short_name": "Ley 3727",
+  "status": "in_force",
+  "issued_date": "1921-02-16",
+  "in_force_date": "1921-09-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24206",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese a la Junta de Beneficencia de Chillan la suma de ciento treinta mil pesos ($130,000) como ausilio estraordinario para el Hospital de esa ciudad.\nEl gasto que importa esta lei se imputará a rentas jenerales de la Nacion."
+    }
+  ],
+  "definitions": []
+}

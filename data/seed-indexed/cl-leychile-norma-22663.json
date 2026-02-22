@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22663",
+  "type": "statute",
+  "title": "FERROCARRIL ENTRE PAPUDO I EL RAYADO",
+  "short_name": "Ley 1455",
+  "status": "in_force",
+  "issued_date": "1901-01-19",
+  "in_force_date": "1901-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22663",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para que invierta hasta la suma de quinientos mil pesos en la construccion de un ferrocarril, de trocha de 1 metro, entre el puerto de Papudo i el punto denominado El Rayado en el ferrocarril de Calera a Cabildo."
+    }
+  ],
+  "definitions": []
+}

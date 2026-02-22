@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25248",
+  "type": "statute",
+  "title": "SUPLEMENTA EL PRESUPUESTO VIGENTE DE LA CAMARA DE\nDIPUTADOS",
+  "short_name": "Ley 5972",
+  "status": "in_force",
+  "issued_date": "1936-12-24",
+  "in_force_date": "1937-01-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25248",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Supleméntase el Presupuesto vigente de la Cámara de Diputados en la suma de ciento cuarenta y seis mil pesos ($ 146,000), que se distribuirá como sigue:\nLetra k-1)____________________________ $ 60,000.-\nLetra j-1)____________________________ 20,000.-\nLetra j-2)____________________________ 66,000.-"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto que demande esta Ley se deducirá de la mayor entrada producida en la Cuenta c-33 \"Impuesto sobre Herencia y Donaciones\", del Cálculo de Entradas para el año en curso."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artícuo 3.o Esta Ley comenzará a regir desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

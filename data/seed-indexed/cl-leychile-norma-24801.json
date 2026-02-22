@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24801",
+  "type": "statute",
+  "title": "AUTORIZA LA INVERSION DE $ 173,345 EN DIVERSAS ADQUISICIONES DESTINADAS AL SERVICIO DE RECLUTAMIENTO DEL EJERCITO.",
+  "short_name": "Ley 4646",
+  "status": "in_force",
+  "issued_date": "1929-09-03",
+  "in_force_date": "1929-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24801",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para invertir, durante el año en curso, la suma de ciento setenta y tres mil trescientos cuarenta y cinco pesos ($ 173,345) en adquisiciones de muebles, útiles, libros, formularios, etc.; en impresiones y publicaciones; arriendo de locales; viáticos del personal que salga en comisión y en gastos menores del servicio de reclutamiento del Ejército."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Dedúzcase el gasto de la Partida 09/13/04/fl, del Presupuesto de Guerra vigente."
+    }
+  ],
+  "definitions": []
+}

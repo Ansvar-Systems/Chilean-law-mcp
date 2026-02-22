@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23988",
+  "type": "statute",
+  "title": "LEI NUM. 3,462, QUE AUMENTA LA PLANTA DE EMPLEADOS DE LA ADUANA DE LOS ANDES I ANEXA A ESTA EL RESGUARDO DE RIO COLORADO.",
+  "short_name": "Ley 3462",
+  "status": "in_force",
+  "issued_date": "1919-01-02",
+  "in_force_date": "1919-01-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23988",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° La Aduana de Los Andes tendrá, en adelante, a su cargo, todos los servicios que atiende actualmente el Resguardo de Rio Colorado, en conformidad al artículo 170 de la Ordenanza i demas leyes del ramo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Auméntase la planta de empleados de la Aduana de Los andes con los puestos i sueldos que a continuacion se indican:\nUn comprobador segundo____________ $ 3,600\nUn liquidador segundo_____________ 4,200\nUn guarda-almacen primero_________ 4,500\nUn teniente tercero del resguardo_ 4,800\nUn guarda_________________________ 3,600\nUn guarda segundo_________________ 2,600\nOcho guardianes, cada uno con dos\nmil cuatrocientos pesos___________ 19,200"
+    }
+  ],
+  "definitions": []
+}

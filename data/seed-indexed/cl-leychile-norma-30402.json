@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30402",
+  "type": "statute",
+  "title": "MODIFICA ARTICULO 30° DE LA LEY N° 18.469",
+  "short_name": "Ley 19035",
+  "status": "in_force",
+  "issued_date": "1991-01-21",
+  "in_force_date": "1991-02-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30402",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Sustitúyese el inciso cuarto del\nartículo 30° de la ley N° 18.469, por el siguiente:\n\"El porcentaje de contribución del Fondo a la atención del parto no podrá ser inferior al 75% para el grupo D.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- La presente ley entrará en vigencia a contar del día 1° del mes siguiente al de su publicación.\"."
+    }
+  ],
+  "definitions": []
+}

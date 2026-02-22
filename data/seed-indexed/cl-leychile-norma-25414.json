@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-25414",
+  "type": "statute",
+  "title": "AUMENTA LA DIETA PARLAMENTARIA",
+  "short_name": "Ley 6922",
+  "status": "repealed",
+  "issued_date": "1941-05-07",
+  "in_force_date": "1941-05-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25414",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Fíjase en cinco mil pesos ($ 5,000) mensuales la dieta de que gozarán los Diputados y Senadores."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o De la suma a que se refiere el artículo anterior, se deducirá mensualmente la cantidad de cien pesos por cada sesión de Cámara o de Comisión que no se celebrare o que se levantare por inasistencia de algún Diputado o Senador, salvo el caso en que funcionaren dos o más Comisiones al mismo tiempo y que hubiere concurrido a una de éllas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Para los efectos de lo dispuesto en el inciso 1.o del artículo 29 y del artículo 30 de la Constitución Política del Estado se entienden como funciones o comisiones de la misma naturaleza, las que se desempeñan como consejeros, directores o empleados en las instituciones semifiscales, empresas o entidades en que tenga intervención el Fisco, por aportes de capital, designación de miembrs de los Directorios o Consejos o participación de utilidades. Se exceptúan las comisiones o funciones cuya designación corresponda a la Cámara de Diputados o al Senado."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o La dieta parlamentaria es inembargable; salvo en el caso de responder al pago de pensiones alimenticias, para cuyo efecto podrá ser embargada hasta en un 50 por ciento."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o El mayor gasto que importe esta ley se imputará al exceso de rendimiento que producirán las nuevas rentas consultadas en la ley de reestructuración de los Servicios de Hacienda."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Artículo 6.o Esta ley comenzará a regir desde el 21 de Mayo del presente año."
+    }
+  ],
+  "definitions": []
+}

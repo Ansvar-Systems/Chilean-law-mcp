@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1122303",
+  "type": "statute",
+  "title": "HACE EXTENSIVAS A LA LINEA AEREA NACIONAL, LAS FRANQUICIAS ADUANERAS QUE OTORGA AL ESTADO LA PARTIDA 1899 DEL ARANCEL ADUANERO",
+  "short_name": "Ley 5819",
+  "status": "in_force",
+  "issued_date": "1936-02-13",
+  "in_force_date": "1936-03-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1122303",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se hacen extensivas a la Línea Aérea Nacional, las franquicias aduaneras que otorga al Estado la partida 1899 del Arancel Aduanero para la internación de aviones, combustibles, lubricantes, maquinarias, repuestos y materiales destinados al mantenimiento y conservación de sus aviones, maestranzas y aeródromos.\nLas solicitudes para las franquicias aduaneras que otorga la Partida 1899 citada, se harán por intermedio del Ministerio de Defensa Nacional y de acuerdo con el presupuesto anual de gastos de la Línea Aérea aprobado por el mismo Ministerio."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o. La presente Ley regirá desde su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio. Los aviones, combustibles y lubricantes que se hayan internado para la Línea Aérea Nacional entre el 1.o de Enero de 1935 y la fecha de vigencia de esta Ley, gozarán de las franquicias aduaneras a que se refiere el artículo 1.o."
+    }
+  ],
+  "definitions": []
+}

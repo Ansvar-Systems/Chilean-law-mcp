@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-24894",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4763",
+  "status": "in_force",
+  "issued_date": "1930-01-06",
+  "in_force_date": "1930-01-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24894",
+  "provisions": [
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Disposiciones transitorias {ARTS. 1-8} Primera.- Prorrógase hasta el 31 de Enero próximo, el período de cancelación de inscripciones electorales a que se refiere el artículo 3.o de la Ley número 4,554 de 9 de febrero de 1929, sólo para los efectos de que las Juntas Inscriptoras Departamentales Permanentes puedan completar la depuración del Registro con la eliminación de los electores cuyas inscripciones ordene cancelar el Director del Registro Electoral, en conformidad a la ley y debiendo dichas Juntas ordenar la publicación de la nómina completa de los ciudadanos eliminados del Registro a que se refiere el artículo 30 de la ley antes citada.\nAutorízase al Director del Registro Electoral para que proceda directamente a cancelar las inscripciones electorales de los ciudadanos que compruebe inscritos más de una vez en el Registro, debiendo dejar válida, en tales casos, solamente la última inscripción. Para este efecto, los denuncios a que se refiere el artículo 27 de la ley mencionada, los hará el Gabinete Central de Identificación ante el Director del Registro Electoral."
+    },
+    {
+      "provision_ref": "arttransitorio-2",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Segunda.- Con anterioridad a las próximas elecciones de Congreso Nacional, el Director del Registro Electoral publicará un Boletín General de Inscripciones canceladas, conteniendo la nómina completa de los ciudadanos eliminados del Registro por las causales de inhabilidad determinadas en esta ley. Queda facultado este funcionario para revalidar las inscripciones que erróneamente hubiesen sido canceladas debido a un alcance de nombres del ciudadano inscrito u otra causa debidamente comprobada, y asimismo, para completar esa eliminación cancelando las inscripciones de electores, cuyos fallecimientos compruebe posteriormente en forma fehaciente."
+    },
+    {
+      "provision_ref": "arttransitorio-3",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Tercera.- Publicado el Padrón Electoral de la República, cualquier ciudadano inscrito en los Registros Electorales, afectado por una omisión o error de impresión en que pudiera haberse incurrido, podrá observarlo ante el Director del Registro Electoral en presentación por escrito, acompañando los antecedentes del caso que que prueben fehacientemente la omisión o error reclamado. Este funcionario, en los casos que corresponda, rectificará dichos errores u omisiones por medio de oficio dirigido al Conservador de Bienes Raíces del respectivo departamento para los efectos de que la rectificación sea atendida por la respectiva Mesa Receptora de Sufragios el día de la elección."
+    },
+    {
+      "provision_ref": "arttransitorio-4",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Cuarta.- Para las próximas elecciones generales de Congreso Nacional, regirán las mismas circunscripciones electorales establecidas por decreto-ley número 543, de 19 de Septiembre de 1925. La ubicación de los Diputados electos por departamentos, a que se refiere el artículo 4.o de dicho decreto-ley, se determinará por la Cámara en conformidad a la nueva división territorial de la República, establecida de acuerdo con la ley número 4,544, de 21 de Enero de 1929."
+    },
+    {
+      "provision_ref": "arttransitorio-5",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Quinta.- Para las próximas elecciones generales del Congreso Nacional, suspéndense los efectos de las disposiciones establecidas en los artículos 12 y 14 respecto a declaraciones de candidaturas, las cuales podrán hacerse solamente por las Mesas Directivas Centrales de las grandes entidades de carácter político, social o económico, registradas en el Conservador del Registro Electoral en conformidad con lo establecido en el inciso a) del citado artículo 14. Para este efecto, las Autoridades Directivas Centrales de dichas grandes entidades políticas, sociales o económicas deberán declarar sus candidatos a Diputados y a Senadores ante el Director del Registro Electoral, antes de las veinticuatro horas del décimo quinto día anterior a la fecha de la elección como plazo fatal, y este funcionario las comunicará, por la vía más rápida, dentro de las veinticuatro horas siguientes, a los Conservadores de Bienes Raíces respectivos. Las candidaturas así declaradas formarán las únicas listas válidas definitivas por las cuales se podrá votar, conforme lo establece el artículo 23 de esta ley."
+    },
+    {
+      "provision_ref": "arttransitorio-6",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Sexta.- Bajo la dirección y responsabilidad del Director del Registro Electoral se hará una nueva edición oficial de la Ley de Elecciones de 19 de Septiembre de 1925, modificada por los decretos-leyes números 710 y 721, de fecha 6 y 18 de Noviembre del mismo año, adaptándola a las reformas señaladas en la presente ley, la que se tendrá como texto único de la Ley de Elecciones de la República. En las partes en que la ley diga \"Conservador del Registro Electoral\", queda facultado para reemplazar la palabra \"Conservador\" por \"Director\"."
+    },
+    {
+      "provision_ref": "arttransitorio-7",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Séptima.- Autorízase al Presidente de la República para que pueda invertir hasta la suma de cien mil pesos en atender a los gastos extraordinarios de publicaciones y de formación del Padrón Electoral a que esta ley se refiere. Este gasto será financiado por los ingresos creados por la ley número 4,559."
+    },
+    {
+      "provision_ref": "arttransitorio-8",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Octava.- La presente ley comenzará a regir desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

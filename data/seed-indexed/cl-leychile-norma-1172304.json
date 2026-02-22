@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1172304",
+  "type": "statute",
+  "title": "MODIFICA LA LEY Nº 20.898, QUE ESTABLECE UN PROCEDIMIENTO SIMPLIFICADO PARA LA REGULARIZACIÓN DE VIVIENDAS DE AUTOCONSTRUCCIÓN, EN MATERIA DE PLAZO DE VIGENCIA",
+  "short_name": "Ley 21415",
+  "status": "in_force",
+  "issued_date": "2022-01-28",
+  "in_force_date": "2022-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1172304",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1º",
+      "content": "\"Artículo 1º.- Sustitúyese, en el encabezamiento del artículo 1º, contenido en el Título I de la ley Nº 20.898, sobre regularización de viviendas, la expresión \"seis años\" por \"siete años\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2º",
+      "content": "Artículo 2º.- Renuévase la vigencia de las disposiciones del Título II de la ley Nº 20.898, sobre regularización de edificaciones destinadas a microempresas inofensivas o equipamiento social, por el tiempo que reste hasta completar el plazo de siete años desde la publicación de la referida ley Nº 20.898."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3º",
+      "content": "Artículo 3º.- Los plazos de vigencia aludidos en los artículos precedentes corresponden a aquellos que tienen los propietarios para ingresar las solicitudes de regularización ante las respectivas direcciones de obras municipales.\"."
+    }
+  ],
+  "definitions": []
+}

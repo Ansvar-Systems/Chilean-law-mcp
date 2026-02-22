@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134811",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1476",
+  "status": "in_force",
+  "issued_date": "1901-09-11",
+  "in_force_date": "1901-09-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134811",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese a la viuda e hijos menores del contra-almirante de la Armada Nacional don Manuel Señoret, una pension anual de tres mil pesos ($ 3,000) de la que gozarán con arreglo a la lei de montepío militar."
+    }
+  ],
+  "definitions": []
+}

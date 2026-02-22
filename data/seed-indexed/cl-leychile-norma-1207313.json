@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-1207313",
+  "type": "statute",
+  "title": "ESTABLECE LA INTEROPERABILIDAD COMÚN ENTRE DISPOSITIVOS MÓVILES DE INFORMACIÓN Y TELECOMUNICACIONES Y SUS CARGADORES",
+  "short_name": "Ley 21695",
+  "status": "in_force",
+  "issued_date": "2024-10-04",
+  "in_force_date": "2024-10-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1207313",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Modifícase la ley N° 19.496, que establece normas sobre Protección de los Derechos de los Consumidores, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 3, de 2019, del Ministerio de Economía, Fomento y Turismo, en la siguiente forma:\n1. Introdúcese, a continuación del artículo 12 B, el siguiente artículo 12 C, nuevo, pasando el actual artículo 12 C a ser artículo 12 D:\n\"Artículo 12 C.- Los proveedores de dispositivos móviles de información y telecomunicaciones deberán garantizar la interoperabilidad común entre los equipos y sus dispositivos de carga, a través de una interfaz de carga y protocolo de comunicación de carga compatibles.\nLos comercializadores de dispositivos móviles de información y telecomunicaciones deberán ofrecer a los consumidores la posibilidad de adquirir dichos productos con sus dispositivos de carga, o cada uno de ellos por separado, y no podrán atar, ligar o supeditar bajo modo o condición alguna la adquisición de uno de ellos a la del otro. Asimismo, deberán informar adecuada y oportunamente a los consumidores si el dispositivo de carga está o no incluido y sobre otras especificaciones relativas a los dispositivos de carga compatibles.\nUn reglamento dictado por el Ministerio de Economía, Fomento y Turismo establecerá las categorías o clases de dispositivos a los que se aplicará este artículo, las especificaciones técnicas para cada uno, la forma en que deberán cumplirse las obligaciones de información y demás obligaciones. Dentro de las clases o categorías de productos, el reglamento deberá al menos incluir a los dispositivos de telefonía móvil y ordenadores portátiles.\nEl incumplimiento de lo dispuesto en los incisos primero y segundo será sancionado de conformidad a lo dispuesto en el artículo 24.\"."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "primero Transitorio",
+      "title": "Artículo primero Transitorio",
+      "content": "Artículo primero.- Establécese un plazo de dos años desde la publicación de esta ley para que los dispositivos de telefonía móvil se comercialicen conforme a la presente normativa, y un plazo de cuatro años para los demás dispositivos móviles de información y telecomunicaciones."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "segundo Transitorio",
+      "title": "Artículo segundo Transitorio",
+      "content": "Artículo segundo.- El Ministerio de Economía, Fomento y Turismo deberá dictar el reglamento señalado en esta ley dentro del plazo de ciento ochenta días contado desde su publicación.\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22187",
+  "type": "statute",
+  "title": "ADQUISICION DEL FERROCARRIL DE COQUIMBO",
+  "short_name": "Ley 336",
+  "status": "in_force",
+  "issued_date": "1896-01-28",
+  "in_force_date": "1896-01-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22187",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Apruébase el contrato celebrado entre el Director del Tesoro, en representacion del Fisco, i el mandatario de la Compañía del Ferrocarril de Coquimbo, en virtud del cual se traspasan al Estado las líneas férreas con todos sus accesorios pertenecientes a dicha Compañia bajo las condiciones establecidas en el decreto supremo de 7 de Enero de 1895."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se autoriza al Presidente de la República para que proceda a ordenar los estudios i la construccion del ramal de la Paloma a Juntas del ferrocarril de Ovalle a San Márcos, i para que invierta en estas obras i en las de reconstruccion i mejoramiento de las líneas de Serena a Rivadavia i de Compañía a Serena, Coquimbo i Ovalle, la suma de seiscientos mil pesos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se declaran de utilidad pública los terrenos de particulares que sean necesarios para la construccion de las obras a que se refiere la presente lei con arreglo a los planos aprobados por el Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-1041750",
+  "type": "statute",
+  "title": "FERRO-CARRILES",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1857-06-18",
+  "in_force_date": "1857-06-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1041750",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1°\nTodo terreno que se necesite para el uso, tránsito i construcciones de un ferro-carril, i cuya ocupacion haya sido declarada de utilidad pública por una lei, se denunciará i pedirá con este objeto ante el Intendente de la respectiva provincia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2°\nEl Intendente nombrará en el acto una comision de tres hombres buenos a su juicio i vecinos de la propiedad denunciada, quienes reuniéndose sin escusa el dia i hora que se les designe, bajo la multa de doscientos pesos en el caso de inasistencia, harán la estimacion del terreno de que se trata, i de los daños i perjuicios que se causaren al propietario, por mayoría de opiniones, i sin considerarla ventaja que le de o haya dado el camino. En caso de no resultar mayoría, se sumará la cuantía de las tres apreciaciones, i la tercera parte su total resultado, será el valor que se fije."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3°\nDicha estimacion será entregada inmediatamente al propietario, o consignada en una Tesorería fiscal por su ausencia o resistencia en recibirla; i acto contínuo, será puesta la Empresa del ferro-carril o su representante en posesion del terreno.\nPor ningún recurso se suspenderán los procedimientos de la Intendencia.\nSi dentro de veinte dias contados desde que se dió posesion, no se reclamare del avalúo de la comision, se tendrá irrevocablemente por bueno."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4°\nEl interesado que quisiere reclamar del justiprecio hecho por la comision, ocurrirá dentro de veinte dias al Juez ordinario respectivo, solicitando que su contendor nombre un perito, para que junto con el que debe proponer desde luego el recurrente, hagan una tasacion circunstanciada i municiosa.\nUn tercero en discordia nombrará siempre el Juez para los casos de haberla.\nEl juicio se seguirá desde aquí con arreglo a la lei de 14 de agosto de 1838."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5°\nSi los tasadores se hubieren nombrado ante el Juez ordinario, i ya tuvieren presentado el justiprecio, se dará posesion a la Empresa en el acto que pague al propietario su valor, o previa constancia de haberse consignado por ausencia o negativa en recibirlo, i continuarán ventilándose los reclamos pendientes. De los procedimientos prescritos en este artículo solo se admitirá cualquier recurso legal en el efecto devolutivo."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6°\nLos juicios pendientes no impedirán el procedimiento sumario establecido por la presente lei."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23064",
+  "type": "statute",
+  "title": "LEI NUM. 2,006 QUE AUTORIZA LA INVERSION DE $ 2,000 PARA PAGAR VIATICOS A FUNCIONARIOS JUDICIALES CORRESPONDIENTES AL AÑO 1906.",
+  "short_name": "Ley 2006",
+  "status": "in_force",
+  "issued_date": "1907-09-04",
+  "in_force_date": "1907-09-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23064",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Autorízase al Presidente de la República para invertir hasta la cantidad de dos mil pesos en el pago de viáticos a funcionarios judiciales, en conformidad al art. 3.° de la lei de 11 de enero de 1883, por gastos hechos durante el año de 1906, que no alcanzaron a ser cubiertos con los fondos consultados en el ítem 2,044 de la partida 27 del presupuesto de Justicia de ese año."
+    }
+  ],
+  "definitions": []
+}

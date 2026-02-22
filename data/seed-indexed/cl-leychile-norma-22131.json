@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22131",
+  "type": "statute",
+  "title": "LEI DE CONTRIBUCIONES.-MODIFICACIONES",
+  "short_name": "Ley 278",
+  "status": "in_force",
+  "issued_date": "1895-02-11",
+  "in_force_date": "1895-02-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22131",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Suprímise el inciso 2° del número 1° del artículo 2° de la lei de 21 de Enero de 1895 que autoriza el cobro de las contribuciones.\nSuprímise tambien la segunda parte del número 2° del mismo artículo, que dice: \"no debiendo pagarlo los establecimientos que esten gravados con el impuesto que establece el número 1° de este mismo artículo\"."
+    }
+  ],
+  "definitions": []
+}

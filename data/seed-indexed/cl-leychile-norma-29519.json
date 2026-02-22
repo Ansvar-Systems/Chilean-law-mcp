@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29519",
+  "type": "statute",
+  "title": "MODIFICA DECRETO CON FUERZA DE LEY (G) N° 1, DE\n1968, Y AUMENTA HORAS QUE INDICA A LA PLANTA DEL\nPERSONAL DE LA ARMADA",
+  "short_name": "Ley 18094",
+  "status": "in_force",
+  "issued_date": "1981-12-29",
+  "in_force_date": "1982-01-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29519",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Introdúcense las siguientes modificaciones al decreto con fuerza de ley (G) N° 1, de 1968, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto N° 14, de 1977, de la Subsecretaría de Guerra:\na) Agrégase, en la letra d) del artículo 48, escalafón de Inspectores, antes de la expresión \"Capitán de Corbeta\", la siguiente: \"Teniente 1°... 6 años\", y b) Sustitúyese el inciso primero del artículo 228, por el siguiente:\n\"Anualmente se incluirá en la Ley de Presupuestos la provisión de fondos necesarios para financiar, en el Ejército, hasta 20 becas para estudiantes universitarios que cursen los seis últimos semestres de estudio de Derecho y hasta 30 becas para estudiantes que se encuentren en las mismas condiciones respecto de Medicina u Odontología; en la Armada, hasta 5 becas para estudiantes de iguales condiciones respecto de Medicina, y en la Fuerza Aérea, hasta 12 becas para estudiantes que cumplan los mencionados requisitos respecto de Medicina u Odontología, con una asignación por beca equivalente al sueldo base grado 14 de la Escala de Sueldos de las Fuerzas Armadas, con el objeto de que al recibir su título profesional, al término de la beca, ingresen a prestar servicios en la Institución, en la forma que determine la reglamentación pertinente\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Auméntanse en 27 las horas dentistas contempladas en la Planta de Profesionales asimilados al Régimen de Remuneraciones de la ley N° 15.076 de la Planta de Empleados Civiles de la Armada."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- La aplicación de las disposiciones de esta ley no podrá significar un mayor gasto fiscal."
+    }
+  ],
+  "definitions": []
+}

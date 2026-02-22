@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-210422",
+  "type": "statute",
+  "title": "LEY NUM. 4,843",
+  "short_name": "Ley 4843",
+  "status": "in_force",
+  "issued_date": "1930-02-19",
+  "in_force_date": "1930-02-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=210422",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese, por gracia, al ex-subteniente de carabineros, don Andrónico Carrasco Carrasco, el derecho a jubilar con una pensión de cuatro mil ochocientos pesos ($ 4,800) anuales.\nEsta ley empezará a regir el 1.o de Enero de 1930."
+    }
+  ],
+  "definitions": []
+}

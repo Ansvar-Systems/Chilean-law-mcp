@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24080",
+  "type": "statute",
+  "title": "LEI NUM. 3,572, QUE AUTORIZA LA CONTRATACION DE UN EMPRESTITO PARA LA EMPRESA DE AGUA POTABLE DE VALPARAISO.",
+  "short_name": "Ley 3572",
+  "status": "in_force",
+  "issued_date": "1919-12-10",
+  "in_force_date": "1919-12-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24080",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase a la Empresa de Agua Potable de Valparaiso para pedir propuestas públicas destinadas a contratar un crédito bancario hasta por la suma de quinientos mil pesos ($500,000), a fin de destinarlo a fondo de esplotacion de la referida Empresa, bajo las condiciones que determinará el Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

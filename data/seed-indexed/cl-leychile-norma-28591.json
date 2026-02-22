@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28591",
+  "type": "statute",
+  "title": "ABONA TIEMPO DE SERVICIOS Y CONCEDE BENEFICIOS ESPECIALES AL PERSONAL DE EMPLEADOS Y OBREROS QUE SE DESEMPEÑE EN AMBIENTES CALIFICADOS COMO TOXICOS",
+  "short_name": "Ley 16634",
+  "status": "in_force",
+  "issued_date": "1967-07-01",
+  "in_force_date": "1967-07-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28591",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°- Abónase, para los efectos de la jubilación y desahucio, un año por cada cinco años trabajados como empleado u obrero en ambientes calificados como tóxicos.\nLa calificación de tóxicos de los ambientes deberá ser hecha por el Departamento de Higiene Ambiental del Servicio Nacional de Salud y la resolución que al efecto dicte deberá publicarse en el Diario Oficial. Dentro del plazo de treinta días, contados desde la fecha de la publicación referida, cualquier interesado podrá recurrir en contra de la resolución ante el Juez del Trabajo respectivo, quien resolverá breve y sumariamente, sin forma de juicio y dentro del plazo máximo de diez días de formalizado el reclamo.\nDisminúyese asimismo, en un año por cada cinco servidos en ambientes calificados como tóxicos en conformidad al inciso anterior, la edad mínima exigida al personal de obreros para impetrar el derecho a jubilación por causa de vejez."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°- El personal de obreros y empleados de una industria gozará de inamovilidad durante todo el proceso en que se califique su ambiente como tóxico y hasta seis meses después de concluido ese proceso."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°- Los empleados u obreros que trabajen en ambientes declarados tóxicos en conformidad a lo establecido en el artículo anterior y cuya salud sea declarada irrecuperable por el Servicio Nacional de Empleados, en el caso de los empleados, y por el Servicio Nacional de Salud, en el caso de los obreros, tendrán derecho a jubilar percibiendo a título de pensión el promedio de las remuneraciones imponibles de los últimos tres meses.\""
+    }
+  ],
+  "definitions": []
+}

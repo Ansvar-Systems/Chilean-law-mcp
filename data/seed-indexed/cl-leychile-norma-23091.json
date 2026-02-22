@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23091",
+  "type": "statute",
+  "title": "LEI NUM. 2,048 QUE AUTORIZA LA INVERSION DE $ 79,841.94 EN PAGAR OBLIGACIONES CONTRAIDAS POR EL MINISTERIO DE INSTRUCCION PUBLICA, CORRESPONDIENTES A LA SECCION SECUNDARIA. SUPERIOR I ESPECIAL.",
+  "short_name": "Ley 2048",
+  "status": "in_force",
+  "issued_date": "1907-09-16",
+  "in_force_date": "1907-10-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23091",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la suma de setenta i nueve mil ochocientos cuarenta i un pesos noventa i cuatro centavos en el pago de las obligaciones contraidas por el Ministerio de Instruccion Pública, correspondiente a la Seccion Secundaria, Superior i Especial."
+    }
+  ],
+  "definitions": []
+}

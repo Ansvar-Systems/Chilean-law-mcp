@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23929",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3372",
+  "status": "in_force",
+  "issued_date": "1918-05-10",
+  "in_force_date": "1918-05-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23929",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Apruébase el adjunto proyecto de presupuestos de gastos de la Administracion Pública para el año 1918, con un total de doscientos seis millones novecientos noventa y cuatro mil doscientos treinta y siete pesos ochenta y siete centavos ($ 206.994,287.87) moneda corriente y de sesenta y cuatro millones ochocientos ochenta y nueve mil seiscientos sesenta y cinco pesos sesenta y tres centavos ($ 64.889,665.63) oro moneda nacional, distribuidos por Ministerios como sigue:\n| Billetes | Oro |\n______________________|________________|______________|\nMinisterio de | | |\nInterior_____________|$ 52.097,307 15 |$ 440,240 |\nMinisterio de | | |\nRelaciones, Culto y | | |\nColonizacion: | | |\nSeccion de Relaciones | | |\nEsteriores___________| 320,849 84 | 1.323,562 10|\nSeccion de Culto______| 1.474,731 | |\nSeccion de | | |\nColonizacion_________| 436,624 88 | |\nMinisterio de Justicia| 11.047,797 82 | |\nMinisterio de | | |\nInstruccion Pública | 37.073,214 07 | 176,446 |\nMinisterio de Hacienda| 20.329,694 28 | 45.923,325 47|\nMinisterio de Guerra__| 42.719,619 14 | 255,843 |\nMinisterio de Marina__| 21.920,488 83 | 16.717,532 41|\nMinisterio de | | |\nIndustria y Obras | | |\nPúblicas____________ | 16.399,077 86 | 50,883 32|\nMinisterio de | | |\nFerrocarriles________| 3.174,833 | 1,833 33|\n|________________|______________|\nTotal__________|$206.994,237 87 |$64.889,665 63|\n______________________|________________|______________|"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Se aprueba la proposicion de S. E. el Presidente de la República para cobrar en el año 1918, el impuesto adicional que puede exijirse, en conformidad a lo dispuesto en el artículo 29 de la lei número 3,091, de 5 de abril de 1916, que estableció una contribucion sobre la propiedad territorial, los bienes muebles y los valores mobiliarios, fijándolo en dos por mil\"."
+    }
+  ],
+  "definitions": []
+}

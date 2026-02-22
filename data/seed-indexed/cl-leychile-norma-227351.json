@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-227351",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1891-05-05",
+  "in_force_date": "1891-05-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=227351",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Los Bancos existentes en la República retirarán mensualmente, a contar desde la promulgación de esta lei, el diez por ciento de su emisión registrada hasta su total extinción."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Por las sumas que dejen de retirarse en los plazos fijados en el artículo anterior, abonarán al Fisco el interés de diez por ciento anual.\nTerminado el indicado plazo de diez meses, el Banco que no hubiere retirado todos sus billetes en circulación depositará billetes fiscales por un valor igual al de los billetes que aun adeudare. Este depósito se devolverá a medida que se presenten los billetes del Banco."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Las garantías a que se refiere la ley de 14 de marzo de 1887 se devolverán a los Bancos por una cantidad igual a la de los billetes que se retiraren mensualmente."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º La emisión bancaria será sustituida en la misma proporción i plazos fijados para su retiro por emisión de billetes fiscales con el carácter legal de las emisiones vijentes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5º Se derogan las leyes de 23 de julio de 1860 i 14 de marzo de 1887 en todo lo que se refiere a las emisiones de billetes de Banco."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.º Esta lei comenzará a rejir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

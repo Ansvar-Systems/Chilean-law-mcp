@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29117",
+  "type": "statute",
+  "title": "ESTABLECE EL NUMERO DE MIEMBROS DE QUE CONSTARA EL\nEL DIRECTORIO DE LA FEDERACION DE SINDICATOS\nPROFESIONALES DE ESTIBADORES Y DESESTIBADORES MARITIMOS\nDE CHILE",
+  "short_name": "Ley 17575",
+  "status": "in_force",
+  "issued_date": "1971-12-03",
+  "in_force_date": "1971-12-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29117",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- El Directorio de la Federación de Sindicatos Profesionales de Estibadores y Desestibadores y Marítimos de Chile (FEMACH) estará compuesto por siete miembros, todos los cuales gozarán de los beneficios que el Código del Trabajo establece en favor de los dirigentes sindicales y permanecerán dos años en sus funciones."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- La Federación de Sindicatos Profesionales de Estibadores y Desestibadores Marítimos de Chile (FEMACH) procederá a ratificar a los dos Directores que actualmente cumplen funciones adjuntos a los cinco titulares, en su próxima asamblea anual. Una vez ratificados estos dos directores se incorporarán de pleno derecho a la Directiva actual, permaneciendo los siete Directores en funciones como período ordinario por el lapso de dos años a contar de la fecha en que fueron elegidos."
+    }
+  ],
+  "definitions": []
+}

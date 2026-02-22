@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134200",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1153",
+  "status": "in_force",
+  "issued_date": "1898-12-29",
+  "in_force_date": "1898-12-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134200",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese a doña Cármen Puga, hija del capitán de la Independencia, don José María Puga, el goce de la pensión de montepío respectivo, de la que disfrutará con arreglo a la lei de montepío militar."
+    }
+  ],
+  "definitions": []
+}

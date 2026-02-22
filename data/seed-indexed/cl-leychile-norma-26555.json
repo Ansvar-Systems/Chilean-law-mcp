@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26555",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 10,223, RELACIONADA CON EL\nESTATUTO MEDICO",
+  "short_name": "Ley 11126",
+  "status": "in_force",
+  "issued_date": "1952-11-24",
+  "in_force_date": "1956-12-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26555",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único. Intercálanse en el inciso primero del artículo 2° de la ley N° 10,223, después de las palabras \"Universidad de Chile\", las siguientes: \"y de la Universidad de Concepción\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio. Todas las disposiciones que afectan a la Universidad de Chile establecidas en la ley N° 10,223, afectarán también a la Universidad de Concepción desde las mismas fechas que establece la mencionada ley N° 10,223\"."
+    }
+  ],
+  "definitions": []
+}

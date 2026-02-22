@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24755",
+  "type": "statute",
+  "title": "ADICIONA EL DECRETO CON FUERZA DE LEY NÚMERO 4,901 DE 20 DE JULIO DE 1927.",
+  "short_name": "Ley 4548",
+  "status": "in_force",
+  "issued_date": "1929-01-28",
+  "in_force_date": "1929-01-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24755",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Agrégase al artículo 5.o del decreto con fuerza de ley número 4,901, de 20 de Julio de 1927, el siguiente inciso:\n\"c) Con igual descuento mensual del cinco por ciento sobre sus pensiones con que contribuirán las personas que gocen de montepío de cargo de la Caja; y El actual inciso c) del mismo artículo tendrá letra d); y a continuación, agrégase el siguiente inciso:\n\"El Presidente de la República podrá elevar hasta el diez por ciento la erogación del cinco por ciento impuesta en los incisos a), b) y c) de este artículo\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Derógase la letra d) del artículo 7.o del mismo decreto número 4,901 y agréganse a continuación de la letra c) de dicho artículo 7.o los siguientes incisos:\nd) Con los fondos provenientes de las multas que se apliquen al personal por las faltas que cometa, sin perjuicio de lo dispuesto en la ley número 3,244, de 14 de Julio de 1917.\ne) Con las remuneraciones que se descuenten en el personal que se encuentre en disponibilidad o con licencias o que fuere suspendido o condenado por sentencia ejecutoriada, y\nf) Con los fondos de ahorros dejados por desertores de la Institución en la Caja Nacional de Ahorros y que no hayan sido retirados depués de cinco años de consumada la deserción."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

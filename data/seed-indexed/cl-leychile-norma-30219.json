@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30219",
+  "type": "statute",
+  "title": "AUTORIZA A LA FUERZA AEREA DE CHILE PARA DONAR;MATERIAL AEREO DADO DE BAJA DEL SERVICIO",
+  "short_name": "Ley 18843",
+  "status": "in_force",
+  "issued_date": "1989-10-18",
+  "in_force_date": "1989-11-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30219",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Autorízase al Comandante en Jefe de la Fuerza Aérea de Chile para que, directamente o a través de la autoridad institucional que designe done al Museo Nacional de Aeronáutica de Chile el siguiente material aéreo dado de baja del servicio:\na) AVION : Hawker Hunter Tipo MK9\nNUMERO DE SERIE : 41H680020\nNUMERO DE ORDEN FACH : J-744\nNUMERO DE CONTROL : 5211144\nF.S.N. : 1510F.29.71.J744\nb) AVION : Hawker Hunter Tipo MK9\nNUMERO DE SERIE : 64V3276\nNUMERO DE ORDEN FACH : J-747\nNUMERO DE CONTROL : 5723930\nF.S.N. : 1510F.29.71.J747\nc) AVION : Hawker Hunter Tipo MK9\nNUMERO DE SERIE : 41H688073\nNUMERO DE ORDEN FACH : J-748\nNUMERO DE CONTROL : 5723931\nF.S.N. : 1510F.29.71.J748\nd) AVION : Hawker Hunter Tipo MK9\nNUMERO DE SERIE : 41H688140\nNUMERO DE ORDEN FACH : J-750\nNUMERO DE CONTROL : 5211146\nF.S.N. : 1510F.29.71.5750\ne) HELICOPTERO : Sikorsky Tipo S-55T\nNUMERO DE SERIE : 551279\nNUMERO DE ORDEN FACH : H-55\nNUMERO DE CONTROL : 5800814\nF.S.N. : 1520H.17.59.H-55"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- La donación a que se refiere el artículo anterior estará exenta de todo impuesto y eximida del trámite de insinuación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Facúltase al Director del Museo Nacional de Aeronáutica de Chile para que, previa autorización del señor Comandante en Jefe de la Fuerza Aérea de Chile, pueda permutar las aeronaves recibidas en virtud de la presente ley por aeronaves similares de propiedad de otros países."
+    }
+  ],
+  "definitions": []
+}

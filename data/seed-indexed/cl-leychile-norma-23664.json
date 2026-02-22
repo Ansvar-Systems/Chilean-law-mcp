@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23664",
+  "type": "statute",
+  "title": "PRORROGA LOS EFECTOS DE LAS LEYES NÚMEROS 2,914 I; 2,965 QUE AUTORIZARON AL PRESIDENTE DE LA REPÚBLICA PARA PROHIBIR LA ESPORTACION DE GANADO, DE ARTÍCULOS; ALIMENTICIOS I DE CARBON DE PIEDRA I REDUCIR O SUSPENDER; LOS DERECHOS DE INTERNACION  DE LOS ARTÍCULOS ALIMENTICIOS, CON LAS RESTRICCIONES ESTABLECIDAS EN ESTA ULTIMA LEI  I DISPONE QUE LAS INFRACCIONES SERÁN PENADAS; CON UNA MULTA A BENEFICIO DE LOS DENUNCIANTES I APREHENSORES.",
+  "short_name": "Ley 3007",
+  "status": "in_force",
+  "issued_date": "1915-07-01",
+  "in_force_date": "1915-07-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23664",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Prorrógase por todo el presente año los efectos de la lei número 2,914, de 3 de Agosto de 1914, en la forma i con las restricciones establecidas por la lei número 2,965, de 31 de Diciembre del año citado."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2°- Se declara que las esportaciones clandestinas, contrarias a la lei número 2,914, de 3 de Agosto de 1914 o su intento, así como las faltas en las descargas de cabotaje de artículos alimenticios de esportacion prohibida, serán penadas con una multa equivalente al valor de las mercaderías respectivas, a beneficio de los denunciantes i aprehensores i de acuerdo con las disposiciones aduaneras que rijen sobre esta materia."
+    }
+  ],
+  "definitions": []
+}

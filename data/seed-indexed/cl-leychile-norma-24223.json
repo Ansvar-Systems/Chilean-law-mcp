@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24223",
+  "type": "statute",
+  "title": "LEI NUM. 3,748, QUE AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA DECRETAR PAGOS AUNQUE EXCEDAN EL ITEM O PARTIDA CORRESPONDIENTE, EN LOS CASOS QUE INDICA.",
+  "short_name": "Ley 3748",
+  "status": "in_force",
+  "issued_date": "1921-04-23",
+  "in_force_date": "1921-04-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24223",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- No obstante lo dispuesto por la lei núm. 3,491, de 30 de Enero de 1919, que modificó el artículo 14 de la lei de 16 de Setiembre de 1884, sobre formacion de los Presupuestos i sin perjuicio de lo establecido por el artículo 13 de la citada lei del 84, el Presidente de la República podrá decretar pagos, aunque excedan el ítem o partida correspondiente, en los casos que a continuacion se indican:\n1.° Cuando se trate del cumplimiento de sentencias ejecutoriadas, dictadas por autoridad competente; i 2.° Cuando se trate de decretos de pago de pensiones de jubilacion o de retiro, dictados en conformidad a las disposiciones vijentes, con posterioridad a la fecha de la promulgacion de la Lei de Gastos de la Nacion."
+    }
+  ],
+  "definitions": []
+}

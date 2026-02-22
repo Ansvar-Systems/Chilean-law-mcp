@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23159",
+  "type": "statute",
+  "title": "LEI NUM. 2,155, QUE FIJA LA FUERZA DE MAR I TIERRA DURANTE EL AÑO 1909",
+  "short_name": "Ley 2155",
+  "status": "in_force",
+  "issued_date": "1908-12-14",
+  "in_force_date": "1908-12-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23159",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Las fuerzas de mar i tierra durante el año 1909, no podrán exceder de 22,606 hombres; de los cuales, 7,780 pertenecerán al personal permanente del Ejército; 5,500 a los equipajes de la Armada; 7,260 a los conscriptos del Ejército; 500 a los conscriptos de la Armada, i 1,566 a los carabineros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° La Armada Nacional tendrá durante el mismo año de 1909, el siguiente material a flote:\nOnce buques de guerra; siete destroyers; ocho torpederas; tres buques escuelas; cuatro trasportes; nueve escampavías; i los pontones, remolcadores i demas embarcaciones ausiliares para el servicio."
+    }
+  ],
+  "definitions": []
+}

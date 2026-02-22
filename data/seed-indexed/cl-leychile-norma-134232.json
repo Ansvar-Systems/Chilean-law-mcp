@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-134232",
+  "type": "statute",
+  "title": "Lei que fija las reglas para declarar la mayoría\nnecesaria para la aprobación de los actos de las\ncorporaciones que dictan leyes, ordenanzas, etc.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1878-07-04",
+  "in_force_date": "1878-07-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134232",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Siempre que, según lo dispuesto por la Constitución o en las leyes, se necesitare el tercio o los dos tercios, la cuarta o las tres cuartas partes del número de miembros de una corporacion para funcionar, o resolver, i el número de personas de que conste o que en casos determinados la compongan, no admitiere division exacta por tres o por cuatro, respectivamente, se observará la siguiente regla: la fracción que resulte, despues de practicada la correspondiente operación aritmética para tomar el tercio o los dos tercios, la cuarta o las tres cuartas partes, se considerará como un entero i se apreciará como uno en el cómputo, si fuere superior a un medio, i si fuere igual o inferior, se despreciará. Así, la tercera parte de siete será dos i los dos tercios, cinco; la cuarta parte de once será tres i las tres cuartas partes ocho."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2º La misma regla se aplicará cuando las leyes exijan cualquiera otra parte proporcional de los miembros o de los votos de una corporación para que pueda funcionar o celebrar acuerdos, i el número de miembros no admitiere división exacta por la cifra que sirva de base a esa proporción."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Se deroga la lei de 8 de octubre de 1862\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-135548",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1893",
+  "status": "in_force",
+  "issued_date": "1906-12-12",
+  "in_force_date": "1906-12-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135548",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Autorízase al Presidente de la República para contratar, previa licitacion pública, i por precio alzado no mayor de doce millones de pesos ($ 12.000,000) moneda nacional de oro de dieciocho peniques, la construccion del ferrocarril de Osorno a Puerto Montt.\nLas propuestas para la licitacion se pedirán dentro del plazo de dos meses, a contar desde la publicacion de la presente lei en el diario Oficial, i se harán en conformidad a las bases estudiadas por la Direccion de Obras Públicas i que apruebe el Gobierno."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Decláranse de utilidad pública los terrenos municipales i particulares necesarios para la via, sus estaciones i anexos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Será libre de derechos de internacion el fierro elaborado para los puentes de la línea hasta la cantidad de mil seiscientas cincuenta toneladas."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23668",
+  "type": "statute",
+  "title": "ESCEPTUA A LOS INDIJENAS RADICADOS EN COMUNIDAD DEL PAGO DE LA CONTRIBUCION FISCAL DE HABERES I LES CONDONA LAS CANTIDADES QUE ADEUDEN DE ESTA CONTRIBUCION.",
+  "short_name": "Ley 3015",
+  "status": "in_force",
+  "issued_date": "1915-08-28",
+  "in_force_date": "1915-09-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23668",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Esceptúanse del pago del impuesto estraordinario de cuatro por mil establecido por la lei número 2,988, de fecha 1° de Marzo del presente año, a los indíjenas radicados en comunidad en el territorio de la República en conformidad a las leyes respectivas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2°- Condónanse a los indíjenas a que se refiere el artículo anterior, las sumas que adeudan en virtud del impuesto estraordinario establecido por la lei número 2,988 de 1° de Marzo de 1915."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3°- Esta lei rejirá desde el dia de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

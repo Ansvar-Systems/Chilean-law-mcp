@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23439",
+  "type": "statute",
+  "title": "Suprime la Caja de Crédito Salitrero i dispone que;las emisiones de bonos hechas por esta institucion i su;servicio quedarán a cargo de la Caja de Crédito;Hipotecario; ordena el reintegro en arcas fiscales del;saldo de los $ 5.000,000 en \nbonos a que se refiere la;lei N.° 1,992; concede dos meses de sueldo a los;empleados que queden cesantes i les abona el tiempo;servido en la Caja para los efectos de su jubilacion.",
+  "short_name": "Ley 2711",
+  "status": "in_force",
+  "issued_date": "1912-09-11",
+  "in_force_date": "1912-09-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23439",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- Se derogan los artículos 4, 5, 6, 7, 8, 9, 10, 11 i 12 de la lei N.° 1,992, de 27 de Agosto de 1907, i la N.° 2,166 de 20 de Febrero de 1909."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Las emisiones de bonos que se haya hecho la Caja de Crédito Salitrero i su servicio quedarán a cargo de la Caja de Crédito Hipotecario, hasta que espire el plazo de su amortizacion total.\nEl Fisco responderá a la Caja de Crédito Hipotecario de las pérdidas que le ocasione el servicio de las emisiones a que se refiere el inciso anterior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- El saldo que aun quedare de los cinco millones de pesos en bonos, i de los intereses de dichos bonos que la lei de 27 de Agosto de 1907 ordenó entregar a la Caja de Crédito Salitrero, será reintegrado en arcas fiscales.\nPara los fines indicados en el inciso precedente, la liquidacion de las entradas i gastos de la Caja de Crédito Salitrero, será sometida al conocimiento i fallo del Tribunal de Cuentas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- Los actuales empleados de la Caja de Crédito Salitrero tendrán derecho a una gratificacion de dos meses de sueldo, al cesar en sus funciones.\nPara los efectos de la jubilacion, les será de abono a los empleados de la Caja de Crédito Salitrero, el tiempo que han servido en esta oficina."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-185785",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5127",
+  "status": "in_force",
+  "issued_date": "1932-05-20",
+  "in_force_date": "1932-05-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=185785",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Sin perjuicio de lo establecido en las obligaciones ya contraídas, derivadas de la aplicación de la ley 4,828, de 11 de Febrero de 1930, sobre expropiaciones para el Barrio Cívico de Santiago, decláranse de cargo del Fisco las expropiaciones, derechos y obligaciones a que se refiere la antes citada ley 4,828."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Se declara, asimismo, concedida al Presidente de la República la autorización para contratar un empréstito hasta por treinta millones de pesos a que se refiere el articulo 4.o de dicha ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El Fisco dejará sin efecto las expropiaciones en tramitación y aun aquellas que tuvieren sentencia ejecutoriada o estén reducidas a escritura pública, siempre que los interesados cuyos predios comprendidos en la enumeración de las letras:\nc), d), f) y g) del art. 1.o de la ley citada, lo acepten por escrito dentro del plaza de tres meses contados desde la promulgación de la presente ley.\nEn estos casos, serán de cuenta del Fisco los gastos ocasionados en las tramitaciones de las expropiaciones, como peritajes, honorarios de abogados, publicaciones, etc., regulados por la justicia ordinaria."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Autorízase al Presidente de la República para vender en subasta pública los predios ya adquiridos o que adquiera de acuerdo con la ley número 4,828 y que no formen parte de las manzanas situadas entre las calles Agustinas, Teatinos, Nataniel Cox, Alonso Ovalle, Gálvez y Morandé para dar las mismas propiedades en pago o parte de pago de precio insoluto, o permutarlas por los predios que queden dentro de dicho radio por un precio que no sea inferior al de su adquisición por el Fisco.\nEn todo caso, el producto de las expresadas enajenaciones deberá destinarse preferentemente a pagar el valor de los bienes expropiados."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o No se aplicará el artículo 3.o de la presente ley a la propiedad ubicada en la calle Teatinos número 32, ni se entenderá autorizado el Presidente de la República, para venderla privadamente o en subasta pública, pudiendo cancelarse su precio con las propiedades cuya enajenación autoriza el artículo 4.o o con el producto de su venta."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Esta ley comenzará a regir desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

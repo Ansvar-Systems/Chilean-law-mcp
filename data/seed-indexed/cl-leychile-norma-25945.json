@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25945",
+  "type": "statute",
+  "title": "DECLARA EXENTO DE LAS CONTRIBUCIONES A LOS BIENES\nRAICES, POR UN PERIODO DE 5 AÑOS, A LOS PABELLONES DE\nEMERGENCIA CUYA UBICACION SEÑALA EN LA CIUDAD DE\nCONCEPCION",
+  "short_name": "Ley 9158",
+  "status": "in_force",
+  "issued_date": "1948-10-11",
+  "in_force_date": "1948-11-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25945",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Decláranse exentos de las contribuciones a los bienes raíces, por un período de cinco años, a los pabellones de emergencia ubicados en la calle Víctor Lamas sin número, del Parque Ecuador, de la ciudad de Concepción, inscritos en el rol respectivo bajo el número 2,642, y que son de propiedad de la Caja de Previsión de Empleados Particulares.\nTambién estarán exentos de esos impuestos los ocupantes de dichos pabellones."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Condónanse las contribuciones e intereses penales devengados y adeudados por la Caja de Previsión de los Empleados Particulares en relación con los pabellones de emergencia a que se refiere el artículo precedente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- La presente ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

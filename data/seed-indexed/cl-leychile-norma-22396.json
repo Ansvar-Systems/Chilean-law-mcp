@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-22396",
+  "type": "statute",
+  "title": "Inspectores Sanitarios",
+  "short_name": "Ley 1079 BIS",
+  "status": "in_force",
+  "issued_date": "1898-09-28",
+  "in_force_date": "1898-09-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22396",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Créanse dos plazas de inspectores sanitarios subrogados al Consejo Superior de Hijiene."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°. El nombramiento de estos empleados será hecho por el Presidente de la República a propuesta en terna del Consejo Superior de Hijiene i deberá recaer en médicos titulados que tengan por lo ménos dos años de ejercicio profesional."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°. Corresponderá a los inspectores sanitarios pesquisar las influencias insalubres, haciendo las comprobaciones necesarias e indicar las medidas conducentes a mejorar el estado hijiénico de las poblaciones i a prevenir nuevas causas de insalubridad."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Cada uno de los inspectores sanitarios gozará de un sueldo de tres mil pesos anuales i de un viático de cinco pesos diarios cada vez que se hallare de viaje."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Los inspectores sanitarios podrán ser destituidos por el Presidente de la República prévio informe del Consejo Superior de Hijiene."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° El Presidente de la República dictará los reglamentos necesarios para la ejecución de esta lei, prévio informe del mismo Consejo."
+    }
+  ],
+  "definitions": []
+}

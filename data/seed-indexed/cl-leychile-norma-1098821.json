@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-1098821",
+  "type": "statute",
+  "title": "SOBRE CALIFICACIÓN DE TRABAJO PESADO Y SUS EFECTOS",
+  "short_name": "Ley 20984",
+  "status": "in_force",
+  "issued_date": "2017-01-03",
+  "in_force_date": "2017-07-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1098821",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Introdúcense, en el artículo 3° de la ley N° 19.404, las siguientes modificaciones:\n1) Agrégase, en el inciso cuarto, a continuación de la palabra \"empleador\", la expresión \", el sindicato\".\n2) Intercálanse, a continuación del inciso quinto, los siguientes incisos sexto y séptimo, nuevos, pasando los actuales incisos sexto, séptimo y octavo a ser incisos octavo, noveno y décimo, respectivamente:\n\"La calificación de trabajo pesado de un determinado puesto de trabajo producirá efectos ya sea que se desempeñe por trabajadores contratados directamente por la entidad empleadora respectiva o bajo régimen de subcontratación o puestos a disposición por empresas de servicios transitorios.\nLas modificaciones a que hace referencia el inciso segundo del artículo 4° del Código del Trabajo no afectarán la calificación efectuada, salvo que se acredite que han variado los factores considerados en su evaluación.\"."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "PRIMERO Transitorio",
+      "title": "Artículo PRIMERO Transitorio",
+      "content": "Artículo primero.- La presente ley entrará en vigencia el día primero del sexto mes posterior a su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "SEGUNDO Transitorio",
+      "title": "Artículo SEGUNDO Transitorio",
+      "content": "Artículo segundo.- Será aplicable a los puestos de trabajo calificados como trabajo pesado con anterioridad a la entrada en vigencia de esta ley, lo dispuesto en el inciso sexto del artículo 3º de la ley Nº 19.404, incorporado por la presente ley, a partir de la fecha de su entrada en vigencia.\"."
+    }
+  ],
+  "definitions": []
+}

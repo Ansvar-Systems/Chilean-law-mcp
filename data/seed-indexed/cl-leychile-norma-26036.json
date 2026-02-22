@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26036",
+  "type": "statute",
+  "title": "CAJA DE LA HABITACION POPULAR AGREGA INCISO AL N° 1 DEL ARTICULO 21 DE LA LEY 7,600",
+  "short_name": "Ley 9355",
+  "status": "in_force",
+  "issued_date": "1949-07-28",
+  "in_force_date": "1949-08-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26036",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Agrégase al N° 1 del artículo 21 de la ley N° 7,600, de 8 de Octubre de 1943, el siguiente inciso:\n\"Con el voto conforme de los dos tercios de sus miembros, el Consejo podrá también acordar la venta al contado de poblaciones, o casas construídas por la Caja al Fisco, Municipalidades, instituciones de previsión, sindicatos con personalidad jurídica, corporaciones o empresas industriales, comerciales, agrícolas y mineras, para ser vendidas o arrendadas a sus empleados, obreros, imponentes o asociados, en su caso, que no sean dueños de otro inmueble\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- Se declaran válidas desde la fecha de los respectivos contratos las ventas efectuadas por la Caja dentro de los términos del artículo 1°, con anterioridad a la promulgación de la presente ley\"."
+    }
+  ],
+  "definitions": []
+}

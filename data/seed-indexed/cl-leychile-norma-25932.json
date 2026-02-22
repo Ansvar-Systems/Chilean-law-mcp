@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25932",
+  "type": "statute",
+  "title": "AUTORIZA A LA DIRECCION GENERAL DE LA EMPRESA DE LOS\nFERROCARRILES DEL ESTADO PARA QUE CEDA GRATUITAMENTE A\nLAS PERSONAS QUE INDICA LOS MATERIALES QUE RESULTEN DE\nLA DEMOLICION DE LA POBLACION QUE MENCIONA",
+  "short_name": "Ley 9129",
+  "status": "in_force",
+  "issued_date": "1948-10-07",
+  "in_force_date": "1948-11-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25932",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Autorízase a la Dirección General de la Empresa de los Ferrocarriles del Estado para que ceda, gratuitamente, a los ocupantes de las casas de la Población Ferroviaria de Emergencia, ubicada en la ciudad de Chillán, los materiales que resulten de la demolición de dicha población."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Los gastos de la demolición serán de cuenta de los interesados, quienes deberán retirar los materiales cedidos dentro de los noventa días siguientes a la fecha que indique la Dirección General de la Empresa de los Ferrocarriles del Estado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

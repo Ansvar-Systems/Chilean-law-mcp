@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27556",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR\nHASTA LA SUMA DE E° 3.000 EN OBRAS DE MEJORAMIENTO DE LA\nESCUELA DE INFANTERIA DEL GENERAL SAN MARTIN, DE SAN\nBERNARDO; MODIFICA EL ARTICULO 2° DE LA LEY 10.381, DE\n12 DE AGOSTO DE 1952, QUE DESTINO LOS TERRENOS QUE\nINDICA PARA LA CONSTRUCCION DE NUEVOS PABELLONES PARA LA\nESCUELA DE INFANTERIA YA INDICADA",
+  "short_name": "Ley 13914",
+  "status": "in_force",
+  "issued_date": "1960-02-02",
+  "in_force_date": "1960-02-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27556",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Suprímese del artículo 2° de la ley 10.381, de 12 de agosto de 1952, la frase \"que devengarán un interés del 8% y del 12% anuales, en caso de mora.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Autorízase a la Municipalidad de San Bernardo para que, con cargo a su presupuesto ordinario, integre en arcas fiscales la suma de tres mil escudos (E° 3.000), por una sola vez, en compensación de los intereses de que se la libera en el artículo anterior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° Autorízase al Presidente de la República para invertir hasta la suma de tres mil escudos (E° 3.000) en obras de mejoramiento de las dependencias de la Escuela de Infantería del General San Martín.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22183",
+  "type": "statute",
+  "title": "PENSION",
+  "short_name": "Ley 332",
+  "status": "in_force",
+  "issued_date": "1896-01-14",
+  "in_force_date": "1896-01-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22183",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se declara, por gracia, que doña Carmela Huppeinbauer, viuda del capitan de fragata don Manuel Antonio Riofrío, tiene derecho a la pension de montepío que le conceden las leyes como si su marido hubiere obtenido el permiso necesario para contraer matrimonio."
+    }
+  ],
+  "definitions": []
+}

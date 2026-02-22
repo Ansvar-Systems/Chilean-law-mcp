@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-23872",
+  "type": "statute",
+  "title": "Lei núm. 3,293, que concede gratificacion a algunos;miembros del personal diplomático i consular.",
+  "short_name": "Ley 3293",
+  "status": "in_force",
+  "issued_date": "1917-09-21",
+  "in_force_date": "1917-10-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23872",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Los funcionarios diplomáticos que presten sus servicios en Europa, Estados Unidos i en Japon gozarán durante el presente año de una gratificacion estraordinaria del treinta por ciento sobre sus sueldos, a contar desde el 1.° de Octubre próximo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Autorízase al Presidente de la República para invertir las sumas que fueren necesarias, en el pago, durante el presente año, a contar desde el 1.° de Octubre, de una asignacion especial a los funcionarios ad-honorem en Europa equivalente al treinta por ciento de los sueldos que les corresponderia percibir si tales puestos estuvieren actualmente rentados."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Los adictos militares i navales a la Embajada de Chile en los Estados Unidos i Legaciones en Inglaterra, Francia, Alemania, Holanda, Austria, Italia, España, Suiza, Japon, Arjentina i Brasil gozarán durante el presente año de una asignacion especial del treinta por ciento sobre sus sueldos, a contar desde el 1.° de Octubre próximo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Autorízase al Presidente de la República para invertir durante el presente año hasta la suma de ocho mil novecientos pesos ($ 8,900) oro de 18 peniques, en el pago, a contar desde el 1.° de Octubre próximo, de una gratificacion estraordinaria del treinta por ciento de sus sueldos a los Cónsules de profesion que prestan sus servicios en los paises en guerra i en Holanda."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° El mayor gasto se deducirá de las mayores entradas consulares."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22924",
+  "type": "statute",
+  "title": "FIJA EN PARIS LA RESIDENCIA DEL CONSULADO JENERAL DE LA REPUBLICA",
+  "short_name": "Ley 1798",
+  "status": "in_force",
+  "issued_date": "1906-01-24",
+  "in_force_date": "1906-01-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22924",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- El Consulado Jeneral de la República en Francia tendrá su residencia en París."
+    }
+  ],
+  "definitions": []
+}

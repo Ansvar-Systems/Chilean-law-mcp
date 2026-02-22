@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-22937",
+  "type": "statute",
+  "title": "SOBRE CONSTITUCION DE LA PROPIEDAD SALITRERA.",
+  "short_name": "Ley 1815",
+  "status": "in_force",
+  "issued_date": "1906-02-07",
+  "in_force_date": "1906-02-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22937",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Las personas que se crean con derecho a pertenencias salitrales en terrenos eriales del Estado o de las Municipalidades, deberán presentarse ante el Juzgado correspondiente, haciendo valer los títulos en que fundan su derecho dentro del plazo de cuatro meses, contados desde la vijencia de la presente lei.\nLo establecido en el inciso anterior no hace revivir derechos que hayan prescrito o caducado en conformidad a las disposiciones que reglan la materia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° La mensura de las pertenencias cuyos derechos hayan sido o sean declarados por la justicia ordinaria, deberá practicarse dentro del plazo de seis meses, contados desde la fecha de la presente lei o de la sentencia de término respectiva.\nLa mensura se practicará en la fecha que fije el juez correspondiente, de acuerdo con lo dispuesto en el artículo 49 del Código de Minería.\nSi despues del señalamiento del dia para la operacion se forman incidentes, el plazo indicado en el inciso anterior se suspenderá hasta su resolucion definitiva.\nLas oposiciones e incidentes se tramitarán breve i sumariamente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° La operacion de mensura se practicará por el injeniero designado por las partes o, si no lo hubiere en el departamento, por el perito nombrado por el juez, debiendo tomar parte en la operacion los injenieros que designe la Delegacion Fiscal de Salitreras.\nEl acta de mensura será siempre sometida a la aprobacion judicial, la cual se prestará solo en el caso en que, del exámen comparativo del acta de mensura con el pedimento, resultare que la pertenencia se ha ubicado realmente en el lugar que le corresponde.\nEl auto aprobatorio de una mensura será siempre consultable ante el Tribunal superior que corresponda."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Se considerarán prescritos los derechos que no se hicieren valer conforme a los artículos anteriores i se considerarán, asimismo, prescritos los derechos de los dueños de pertenencias que abandonaren la prosecucion de los juicios por mas de tres meses contados desde la última providencia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Son competentes para conocer en primera instancia de las demandas que se iniciaren con arreglo al artículo 1.°, esclusivamente los jueces letrados de lo civil en Santiago."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Esta lei comenzará a rejir desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

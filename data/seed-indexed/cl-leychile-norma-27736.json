@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-27736",
+  "type": "statute",
+  "title": "MODIFICA LA LEY 9.662, DE 22 DE DICIEMBRE DE 1950,",
+  "short_name": "Ley 14500",
+  "status": "in_force",
+  "issued_date": "1960-12-20",
+  "in_force_date": "1961-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27736",
+  "provisions": [
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULOS TRANSITORIOS {ARTS. 1-2} Artículo 1° Autorízase al Presidente de la República para refundir en un solo texto, al que se le dará numeración de ley, las disposiciones de la presente ley con las de la ley 9,662.\nEn uso de esta facultad, el Presidente de la República podrá coordinar y armonizar las disposiciones de la citada ley 9,662 con las modificaciones que le introduce la presente ley y con las que sufrió con motivo de la dictación del Código de Aguas y el decreto con fuerza de ley 150, de 1953, y sus modificaciones posteriores y alterar la numeración del articulado."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2° La Dirección de Riego deberá ofrecer nuevamente las obras en actual construcción a los beneficiados con ellas, con arreglo a las modalidades de la presente ley, siéndole especialmente aplicable lo dipuesto en el artículo 4°.\nPara este efecto los propietarios de terrenos beneficiados con obras de riego en actual construcción por el Estado, en conformidad a las leyes 4,445 y 9,662, pagarán sus deudas al Fisco, fijadas y reajustadas en la forma prescrita en la presente ley, respecto de las inversiones que se efectúen con posterioridad a la fecha de su vigencia. Las inversiones anteriores quedarán sometidas al régimen jurídico de reembolso prescrito en las referidas leyes.\""
+    }
+  ],
+  "definitions": []
+}

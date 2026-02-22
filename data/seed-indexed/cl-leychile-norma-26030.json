@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26030",
+  "type": "statute",
+  "title": "DEROGA LOS ARTICULOS DE LAS LEYES QUE SEÑALA EN\nRELACION CON LA PENA DE AZOTES",
+  "short_name": "Ley 9347",
+  "status": "in_force",
+  "issued_date": "1949-07-07",
+  "in_force_date": "1949-07-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26030",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Queda abolida la pena de azotes.\nDeróganse el artículo 4° de la ley de 3 de Agosto de 1876, publicada en \"El Araucano\" con fecha 5 de Octubre de aquel año, y la ley de 7 de Septiembre de 1883, publicada en el Diario Oficial el 10 de Septiembre del mismo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Esta ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-145794",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4428",
+  "status": "amended",
+  "issued_date": "1928-09-28",
+  "in_force_date": "1930-03-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=145794",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se autoriza al Presidente de la República para fijar una contribución adicional hasta de uno y medio por mil (1 1/2 o/oo), sobre el avalúo de los predios ubicados dentro de la zona de atracción de los nuevos ferrocarriles que se construyan por el Estado.\nEsta contribución se aplicará sobre los avalúos practicados en conformidad a la ley de contribución a los bienes raíces, número 4,174, de 5 de Septiembre de 1927."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La zona de atracción de cada ferrocarril se fijará por el Presidente de la República, antes de la recepción de los trabajos y la contribución se hará efectiva desde el año siguiente a la fecha inicial de la explotación, durante un plazo no mayor de diez años, y siempre que las entradas del tráfico en cada ferrocarril, no alcancen a cubrir los gastos de su explotación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El presupuesto de gastos ordinarios consultará, en el capítulo respectivo, una suma equivalente a la mitad del rendimiento de este impuesto, la que se invertirá en la construcción y habilitación de puentes, caminos y vías fluviales de acceso a las estaciones del ferrocarril respectivo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

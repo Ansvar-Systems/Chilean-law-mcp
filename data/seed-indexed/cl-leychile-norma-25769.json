@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25769",
+  "type": "statute",
+  "title": "TRASPASA LAS CANTIDADES DE LOS ITEM QUE SE INDICAN A\nLOS QUE EXPRESA, DEL PRESUPUESTO VIGENTE DE MARINA",
+  "short_name": "Ley 8286",
+  "status": "in_force",
+  "issued_date": "1945-09-26",
+  "in_force_date": "1945-09-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25769",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Traspásanse las siguientes cantidades de los ítem que se indican a los que se expresan a continuación, del Presupuesto de Marina vigente:\nDel ítem 10/01/01 \"Sueldos Fijos\"; al ítem\n10/01/04/G-3 \"Adquisición de carbón,\netc.\", la suma de________________________ $ 4.500,000\nDel ítem 10/01/02 \"Sobresueldos Fijos\" al\nítem 10/01/04/i-1 \"Rancho o Alimentación\",\nla cantidad de___________________________ $ 6.000,000\n___________\nTOTAL___________________________________ $10.500,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

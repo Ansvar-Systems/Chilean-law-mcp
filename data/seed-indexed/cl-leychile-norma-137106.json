@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-137106",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2463",
+  "status": "in_force",
+  "issued_date": "1911-02-01",
+  "in_force_date": "1911-03-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=137106",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º El servicio relijioso del Ejército i Armada i de los ausiliares a que se refiere el artículo 5.º de esta lei, estará a cargo de un sacerdote nombrado de acuerdo por la Santa Sede i el Presidente de la República.\nEste sacerdote llevará el título i desempeñará las funciones de Vicario Jeneral Castrense, con el cargo i prerrogativas correspondientes al grado de general de brigada, si tuviere la dignidad episcopal, o al de coronel, si no la tuviere.\nEl Vicario Castrense tendrá el sueldo de ocho mil pesos al año."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º El cuerpo de capellanes será formado por un capellan primero del Ejército con asimilacion de mayor i sueldo de cuatro mil pesos al año;\nUn capellan primero de la Armada, con asimilacion de capitan de corbeta i sueldo de cuatro mil pesos al año;\nUn secretario i cuatro capellanes del Ejército, con asimilacion de capitanes de segunda clase i sueldo de tres mil seiscientos pesos al año cada uno;\nDos capellanes de la Armada, con asimilacion de tenientes primeros i sueldo de tres mil seiscientos pesos al año cada uno;\nCinco capellanes ausiliares del Ejército, con asimilacion de tenientes primeros i sueldo de dos mil seiscientos pesos al año cada uno."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Los nombramientos de capellanes, su traslacion, ascenso o remocion serán hechos por el Vicario Castrense, previa la aprobacion suprema."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º La reglamentacion del servicio relijioso del Ejército, de la Armada i de sus ausiliares será aprobada por el Gobierno."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º Para los efectos de esta lei se considerará ausiliares del Ejército:\n1.º Los empleados i jornaleros de las maestranzas, arsenales, fábricas, talleres, depósitos i hospitales militares i navales i los que en ellos, por cualquier motivo, residan;\n2.º El personal de la Administración Pública de la provincia de Tacna;\n3.º Los empleados i jornaleros de los talleres i obras que por cuenta, con garantia o proteccion especial del Estado, se establezcan o realicen en la misma provincia;\n4.º Los colonos colocados en Tacna por el Gobierno."
+    }
+  ],
+  "definitions": []
+}

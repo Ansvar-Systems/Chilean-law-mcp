@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22483",
+  "type": "statute",
+  "title": "Montepíos fiscales para la ciudad de Santiago",
+  "short_name": "Ley 1217",
+  "status": "repealed",
+  "issued_date": "1899-07-03",
+  "in_force_date": "1920-02-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22483",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la suma de trescientos mil pesos en la creacion de montepíos fiscales en la ciudad de Santiago.\nUna ordenanza fijará el personal de administracion, sus atribuciones i las condiciones a que esos establecimientos sujetarán sus jiros.\nLa organizacion i administracion estarán a cargo de la Junta de Beneficencia de Santiago."
+    }
+  ],
+  "definitions": []
+}

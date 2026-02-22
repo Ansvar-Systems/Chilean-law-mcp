@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1039474",
+  "type": "statute",
+  "title": "HUANERAS DE COQUIMBO",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1842-10-31",
+  "in_force_date": "1842-10-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1039474",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Art. 1°. Se declaran de propiedad nacional las huaneras que existen en las costas de la provincia de Coquimbo, en el litoral del desierto de Atacama, y en las islas e islotes adyacentes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2°. Todo buque nacional o estranjero que sin permiso del Gobierno de Chile, sacase huano de cualquiera de los puntos comprendidos en la demarcacion que designa el artículo anterior, caerá en comiso con la carga que se hallare a su bordo."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3°. El Presidente de la República queda autorizado por el término de cinco años para gravar el huano con un derecho de salida, o para remitirlo a paises estranjeros de cuenta de la Nacion, o para ponerlo en remate público por un período que no pase de cinco años."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4°. También tendrá facultad para invertir por una vez, si fuere necesario, hasta la cantidad de seis mil pesos en un resguardo marítimo que impida la extraccion clandestina del huano."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "5°.- Los individuos que antes del 1° de Abril del presente año hubiesen de buena fé preparado cargamentos de huano en las costas de la República haciendo para ello gastos efectivos, podrán embarcar hasta el 1° de Enero de 1843 con permiso especial del Gobierno dichos cargamentos, si pagan de contado a la Aduana el derecho que el Gobierno señalare por cada quintal que se extrajese.\""
+    }
+  ],
+  "definitions": []
+}

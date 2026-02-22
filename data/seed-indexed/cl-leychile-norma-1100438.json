@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1100438",
+  "type": "statute",
+  "title": "Amnistía",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1861-10-18",
+  "in_force_date": "1861-10-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1100438",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "ARTÍCULO ÚNICO.\nSe concede amplia amnistía a todos los individuos que desde el año 51 hasta la fecha hubieren sido o pudieren ser enjuiciados por razon de delitos políticos.\nEl Estado condona las indemnizaciones fiscales a que dichos individuos pudieran ser responsables por causa de los mencionados delitos."
+    }
+  ],
+  "definitions": []
+}

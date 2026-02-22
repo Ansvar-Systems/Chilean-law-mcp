@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24484",
+  "type": "statute",
+  "title": "TEXTO DE LA LEY QUE APRUEBA LOS PRESUPUESTOS PARA\n1927",
+  "short_name": "Ley 4115",
+  "status": "in_force",
+  "issued_date": "1927-02-01",
+  "in_force_date": "1927-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24484",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ENTRADAS\nORDINARIAS:\nBienes Nacionales__ $ 18.290,018 92\nServicios\nNacionales_________ 102.659,359 25\nImpuestos directos\ne indirectos_______ 709.872,161 04\nEntradas varias____ 124.753,126 42 $ 955.574,665 63\n________________\nEXTRAORDINARIAS:\nEstudio y\nejecución de\nalcantarillados____ $ 8.585,000\nCanalización del\nMapocho____________ 2.000,000\nObras de Puertos___ 26.900,000 $ 37.485,000\n__________________________________\nTOTAL DE ENTRADAS_ $ 993.059,665 63\nGASTOS\nInterior___________ ______________ $ 133.796,415 28\nRelaciones\nExteriores_________ ______________ 9.226,889 31\nJusticia___________ ______________ 28.669,774 78\nInstrucción\nPública____________ ______________ 141.387,605 81\nHacienda___________ ______________ 298.290,274 94\nGuerra_____________ ______________ 115.228,669 98\nMarina_____________ ______________ 97.053,786 21\nAgricultura e\nIndustria__________ ______________ 14.470,908\nTierra y\nColonización_______ ______________ 1.980,865 80\nObras Públicas,\nComercio y Vías\nde Comunicación____ ______________ 126.581,267 90\nHigiene y\nAsistencia Social__ ______________ 24.659,915 62\nPrevisión Social y\nTrabajo____________ ______________ 1.713,292\n__________________\nTOTAL DE GASTOS__ $ 993.059,665 63"
+    }
+  ],
+  "definitions": []
+}

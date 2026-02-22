@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1194354",
+  "type": "statute",
+  "title": "MARINA. DIVISIÓN DEL TERRITORIO EN GOBERNACIONES MARITIMAS",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1848-08-30",
+  "in_force_date": "1848-08-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1194354",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "«Artículo 1.° El territorio marítimo de la República de Chile forma por ahora un solo departamento bajo la dirección i mando de un comandante jeneral subordinado al Ministro de Estado en el Departamento de Marina."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° El territorio marítimo de la República se divide en las siguientes gobernaciones marítimas:\n1.a Gobernación marítima de Atacama, que comprende el mar i costa de la República desde sus fronteras septentrionales, hasta el paralelo de la ensenada i pueblo de Chañaral, límite de la provincia del sur;\n2.a Gobernación Marítima de Coquimbo, que Comprende el mar i costa de la República desde el paralelo de la ensenada de Chañaral por el norte, hasta el paralelo de la boca del rio Choapa por el sur;\n3.a Gobernación marítima de Aconcagua, que comprende el mar i costa de la República desde el paralelo de la boca del rio Choapa por el norte hasta el paralelo de la estremidad norte de la bahía del Horcon;\n4.a Gobernación marítima de Valparaíso, que comprende el mar i costa de la República desde el paralelo de la estremidad norte de la bahía del Horcon por el norte, hasta el paralelo de la boca del rio Rapel por el sur;\n5.a Gobernación marítima de Colchagua, que comprende el mar i costa de la Republica desde el paralelo de la boca del río Rapel por el norte, hasta el paralelo de la boca del rio Mataquito por el sur;\n6.a Gobernación marítima del Maule, que comprende el mar i costa de la República desde el paralelo de la boca del rio Mataquito por el norte hasta el paralelo de la boca del río Itata por el sur;\n7.a Gobernacion marítima de Concepcion, que comprende el mar i costa de la República desde el paralelo de la boca del río Itata por el norte hasta el paralelo de la boca del rio Cautin o Imperial por el sur;\n8.a Gobernacion marítima de Valdivia, que comprende el mar i costa de la República desde el paralelo de la boca del rio Cautin o Imperial por el norte, hasta el paralelo de la caleta de Güeyusco por el sur;\n9.a Gobernacion marítima de Chiloé, que comprende el mar, costa e islas de la República desde el paralelo de la caleta de Güeyusco por el norte, hasta el paralelo de la estremidad meridional de la península de Tres Montes, por el sur;\n10. Gobernacion marítima de Magallánes que abraza el mar, costas e islas de la República situadas al sur del paralelo de la estremidad meridional de la península de Tres Montes;\n11. Gobernacion marítima de Juan Fernández, que comprende el mar e islas del mismo nombre i las de San Félix."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° El puerto de Valparaiso es la capital del departamento marítimo i el asiento de su gobierno militar i económico."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Cada gobernacion marítima se subdividirá en las subdelegaciones marítimas que determine el poder Ejecutivo, como mas conveniente a la matrícula de la jente de mar, a la mejor defensa de las costas, a la buena policía de los mares de la República i a la protección de los intereses fiscales»."
+    }
+  ],
+  "definitions": []
+}

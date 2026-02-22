@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23015",
+  "type": "statute",
+  "title": "LEI NÚM. 1,924 QUE CONSULTA FONDOS PARA COMBATIR LA VIRUELA",
+  "short_name": "Ley 1924",
+  "status": "in_force",
+  "issued_date": "1907-01-26",
+  "in_force_date": "1907-01-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23015",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Se autoriza al Presidente de la República para invertir hasta la suma de doscientos mil pesos en la adopcion de medidas destinadas a combatir las enfermedades infecciosas i en los gastos ocasionados por las mismas."
+    }
+  ],
+  "definitions": []
+}

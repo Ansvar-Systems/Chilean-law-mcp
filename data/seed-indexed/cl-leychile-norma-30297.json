@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30297",
+  "type": "statute",
+  "title": "LEY NUM. 18.926\nFIJA SENTIDO Y ALCANCE DEL DECRETO LEY N° 3.551, DE\n1980, EN LO RELATIVO A LA ASIGNACION DE ESPECIALIDAD AL\nGRADO EFECTIVO DEL PERSONAL CIVIL DE LAS FUERZAS ARMADAS\nQUE INDICA",
+  "short_name": "Ley 18926",
+  "status": "in_force",
+  "issued_date": "1990-01-31",
+  "in_force_date": "1990-02-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30297",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Declárase que el beneficio económico establecido en el artículo 41 del decreto ley N° 3.551, de 1980, para el personal de empleados civiles de carácter Profesional Universitario, no exige ni ha exigido que los interesados deban desempeñarse en cargos para cuya función la ley exija determinado títulos de esta naturaleza."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Modifícase el inciso primero del artículo 41 del decreto ley N° 3.551, de 1980, en la forma siguiente:\na) Reemplázanse la expresión \"Soldado 1° (E)\" por la de \"Cabo (E)\", y el punto y coma (;) que figura después de la palabra \"pesos\" por un punto (.).\nb) Suprímese la expresión \"Soldado (E) y grados equivalentes: seiscientos cinco pesos, cincuenta centavos.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Declárase que las sumas percibidas por concepto de la Asignación de Especialidad al Grado Efectivo establecida en el artículo 41 del decreto ley N° 3.551, de 1980, han sido bien percibidas hasta la fecha de la presente ley."
+    }
+  ],
+  "definitions": []
+}

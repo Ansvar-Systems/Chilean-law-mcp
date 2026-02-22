@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-192966",
+  "type": "statute",
+  "title": "PROHIBE MOVILIZAR, COMPRAR, VENDER O CELEBRAR CUALQUIERA TRANSACCION SOBRE CRINES DE ANIMALES, SIN LA EXIBICION DE LA GUIA DE LIBRE TRANSITO",
+  "short_name": "Ley 7534",
+  "status": "repealed",
+  "issued_date": "1943-08-31",
+  "in_force_date": "1989-12-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=192966",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Se prohibe movilizar, comprar, vender o celebrar cualquiera transacción sobre crines de animales, sin la exhibición de la correspondiente guía de libre transito, entregada por el dueño respectivo y expedida por la Municipalidad de la comuna, por el valor de $0 20 cada una. La contravención a esta disposición será penada con el comiso de la mercadería y con prisión en su grado máximo.\nLas Municipalidades otorgarán estas guías en la misma forma que lo hacen actualmente para las guías de libre tránsito de animales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Bajo la misma sanción, todo tenedor de crines de animales deberá conservar, mientras mantenga en su poder la existencia adquirida, los certificados de procedencia otorgados por los productores.\nNo podrá autorizarse la exportación de crines de animales sin previa entrega, por parte del exportador, del certificado de procedencia y de la guía a que se refieren esta disposición y el artículo anterior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La presente ley regirá desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-137585",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2602",
+  "status": "in_force",
+  "issued_date": "1912-01-11",
+  "in_force_date": "1912-01-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=137585",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese, por gracia, al capitan del batallon movilizado Bio-Bio, don Erasmo Guzman F., derecho a que se compute, para los efectos de su retiro, un año i veintitres dias que permaneció en receso para atender a la curacion de la herida de bala que recibió en la batalla de Miraflores."
+    }
+  ],
+  "definitions": []
+}

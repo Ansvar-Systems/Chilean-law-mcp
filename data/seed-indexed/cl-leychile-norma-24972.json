@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24972",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4927",
+  "status": "repealed",
+  "issued_date": "1931-01-05",
+  "in_force_date": "1975-07-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24972",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Por exigirlo el interés nacional, resérvase para el Estado el derecho de construir y explotar refinerías para beneficio de petróleo importado o nacional, y plantas para la hidrogenización de petróleos o carbones nacionales o extranjeros.\nSólo en virtud de una ley se podrá permitir que se construyan y exploten por particulares las refinerías o plantas a que se refiere el inciso anterior."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Los refinadores de petróleo que tengan instalaciones en explotación con anterioridad a la promulgación de la presente ley, tendrán derecho a continuar la explotación de sus instalaciones, pudiendo aumentar hasta el doble su capacidad de explotación actual.\nEstos refinadores deberán, dentro del plazo de un mes, comprobar ante el Ministerio de Fomento su capacidad de producción."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 2.o La presente ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

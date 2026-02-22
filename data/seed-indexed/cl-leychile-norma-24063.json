@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24063",
+  "type": "statute",
+  "title": "LEI NUM. 3,554, QUE SUPLEMENTA EL PRESUPUESTO DE MARINA.",
+  "short_name": "Ley 3554",
+  "status": "in_force",
+  "issued_date": "1919-09-29",
+  "in_force_date": "1919-10-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24063",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédense los siguientes suplementos a los ítem que se indican en el Presupuesto de Marina:\nItem 27. Sueldos de jente de mar_________$ 1.043.688.56\nItem 32. Racion de Armada________________ 697,381.62\nItem 33. Gratificaciones de Oficiales____ 327,859.41\nItem 34. Gratificaciones de jente de mar_ 360,105.94\nDéjase sin invertir igual cantidad del ítem 778 del mismo Presupuesto."
+    }
+  ],
+  "definitions": []
+}

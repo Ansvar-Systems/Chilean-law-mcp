@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1166445",
+  "type": "statute",
+  "title": "PROHIBICION DE HACER LEVAS.",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1826-08-24",
+  "in_force_date": "1826-08-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1166445",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1°",
+      "content": "Art. 1° Se prohibe absolutamente la práctica de hacer levas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2°",
+      "content": "Art. 2° A los que de este modo se hayan tomado para el servicio del ejercicio despues de la instalacion del Congreso se les dará libertad si voluntariamente no quieren continuar en él."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3°",
+      "content": "Art. 3° Se concede indulto a todos los desertores que ha tenido el ejército a quienes será libre o alistarse nuevamente o contraerse a cualquiera otro ejercicio, seguro de que la lei proteje y garantice su libertad."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4°",
+      "content": "Art. 4° La lei que fije la fuerza permanente de la República proveerá sobre el retiro y reemplazo de ella."
+    }
+  ],
+  "definitions": []
+}

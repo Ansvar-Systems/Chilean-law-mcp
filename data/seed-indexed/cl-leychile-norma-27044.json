@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27044",
+  "type": "statute",
+  "title": "MODIFICA EL DECRETO Nº 1.157, DE 13 DE JULIO DE 1931",
+  "short_name": "Ley 12144",
+  "status": "in_force",
+  "issued_date": "1956-09-26",
+  "in_force_date": "1956-10-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27044",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Intercálanse como incisos tercero y cuarto del N.o 5 del artículo 58 de la Ley General de Ferrocarriles, cuyo texto refundido fué aprobado por el decreto N.o 1,157, de 13 de Julio de 1931, los siguientes:\n\"Las empresas que en los cruces a nivel mantengan en funcionamiento dispositivos automáticos de señalización, aprobados por el Departamento de Transporte Ferroviario de la Subsecretaría de Transportes, no tendrán la obligación de mantener barreras ni personal de guardacruces.\nNo obstante lo dispuesto en el inciso anterior, las empresas deberán destacar guardabarreras provisionales, en los casos en que esté interrumpido el funcionamiento de dispositivos automáticos y por el plazo que dure su reparación hasta ponerlos en buen estado de funcionamiento\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Substitúyese el inciso cuarto del N.o 5 del artículo 58 de la citada Ley General de Ferrocarriles, por el siguiente, que pasará a ser inciso quinto:\n\"Se presume la falta de responsabilidad de las empresas ferroviarias en los accidentes de atropellamiento que ocurran en un cruce, en el cual aquéllas mantengan en buen estado de funcionamiento los dispositivos automáticos o los servicios de señales a que se refieren los incisos tercero y cuarto\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. La presunción de falta de responsabilidad a que se hace referencia en el artículo 2.o de la presente ley entrará en vigencia un año después de establecido el servicio de dispositivos automáticos de señalización para cada cruce."
+    }
+  ],
+  "definitions": []
+}

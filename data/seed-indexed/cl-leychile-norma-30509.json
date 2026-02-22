@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30509",
+  "type": "statute",
+  "title": "REAJUSTA MONTO DE INGRESO MINIMO MENSUAL",
+  "short_name": "Ley 19142",
+  "status": "in_force",
+  "issued_date": "1992-05-25",
+  "in_force_date": "1992-05-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30509",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Elévase, a contar del 1° de junio de\n1992, de $ 33.000.- a $ 38.600.- el monto del ingreso\nmínimo mensual a que se refiere el inciso primero del\nartículo 4° de la Ley N° 18.806.\nElévanse, a contar de la misma fecha, a $ 33.219.-, el ingreso mínimo mensual que perciben los trabajadores menores de 18 años de edad, a que se refiere el inciso primero del artículo 3° de la Ley N° 18.774 y a $ 28.707.- el que se emplea para fines no remuneracional a que se refiere el inciso primero del artículo 5° de la ley N° 18.647, modificada por la Ley N° 18.870.\nNo se imputarán al ingreso mínimo las cantidades que perciba el trabajador por concepto de gratificación legal, cualquiera que fuere su forma de pago."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Lo dispuesto en el artículo anterior no se aplicará para el cálculo de las remuneraciones de los profesionales funcionarios a que se refiere el artículo 7° de la Ley N° 15.076, modificado por el artículo 8° de la Ley N° 18.018."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- El mayor gasto fiscal que represente, durante el año 1992, la aplicación de esta ley, se financiará con transferencias del ítem\n50-01-03-25-33.104 de la partida Tesoro Público del Presupuesto vigente.\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24285",
+  "type": "statute",
+  "title": "LEI NUM. 3,837, QUE AUTORIZA LA ERECCION EN PUNTA ARENAS, DE UN MONUMENTO A DON WALDO SEGUEL",
+  "short_name": "Ley 3837",
+  "status": "in_force",
+  "issued_date": "1922-01-19",
+  "in_force_date": "1922-02-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24285",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase a la Comision de Alcaldes de Magallánes para erijir, por suscricion popular, en la ciudad de Punta Arenas, un monumento a la memoria del ex-Juez Letrado del Territorio don Waldo Seguel."
+    }
+  ],
+  "definitions": []
+}

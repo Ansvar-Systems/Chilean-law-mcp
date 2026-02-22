@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25143",
+  "type": "statute",
+  "title": "SUPLEMENTA EN LAS CANTIDADES QUE SE INDICAN LOS ITEM\nDEL PRESUPUESTO DEL MINISTERIO DE FOMENTO QUE SE\nEXPRESAN",
+  "short_name": "Ley 5553",
+  "status": "in_force",
+  "issued_date": "1934-12-29",
+  "in_force_date": "1935-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25143",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Supleméntase en las cantidades que se indican los siguientes ítem del Presupuesto del Ministerio de Fomento, para el presente año:\n12-06-11 Ferrocarriles______________ $ 4.800,000.-\n79.-F. C. Antofagasta a\nSalta____________ $ 1.500,000.-\n82.-F. C. Quino a\nGalvarino________ 300,000.-\n83.-F. C. Corte Alto a\nMaullín__________ 500,000.-\n85.-F. C. Cocule al Lago\nRanco____________ 100,000.-\n86.-F. C. Túnel de Las\nRaíces___________ 2.300,000.-\n87.-F. C. Paleco a Purén___ 100,000.-\nHidráulica____________________ 1.200,000.-\n89.-Alcantarillado de\nAntofagasta____________ $ 171,000.-\n90.-Alcantarillado Limache 323,000.-\n92.-Alcantarillado San\nFernando_______________ 336,000.-\n93.-Alcantarillado\nConcepción_____________ 283,000.-\na-108.-Zanjón de la Aguada_ 87,000.-"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto de $ 6.000,000 que autoriza la presente ley será de cargo a la mayor entrada de la cuenta C-10."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La presente ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

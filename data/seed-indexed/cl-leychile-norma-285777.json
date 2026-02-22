@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-285777",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA QUE DISPONGA\nUNA EMISION POSTAL CONMEMORATIVA DE LA XIV CONFERENCIA\nSANITARIA PANAMERICANA QUE SE CELEBRARA EN SANTIAGO EN\nOCTUBRE DEL PRESENTE AÑO",
+  "short_name": "Ley 11627",
+  "status": "in_force",
+  "issued_date": "1954-09-21",
+  "in_force_date": "1954-10-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=285777",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para que disponga una emisión postal conmemorativa de la XIV Conferencia Sanitaria Panamericana que se celebrará en Santiago en Octubre del presente año.\nEsta emisión será por una suma de diez millones de pesos ($ 10.000.000)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Con cargo al producto de la emisión autorizada en el artículo anterior se atenderán los gastos que demande la celebración de la citada XIV Conferencia Sanitaria Panamericana, debiendo rendirse cuenta documentada de la inversión a la Contraloría General de la República."
+    }
+  ],
+  "definitions": []
+}

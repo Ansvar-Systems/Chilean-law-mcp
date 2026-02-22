@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-30333",
+  "type": "statute",
+  "title": "IMPONE AL ESTADO LA OBLIGACION QUE INDICA",
+  "short_name": "Ley 18965",
+  "status": "in_force",
+  "issued_date": "1990-03-07",
+  "in_force_date": "1990-03-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30333",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- El Estado, sus organismos o sociedades en que tengan participación, deberán enajenar los derechos que adquieran o reciban a cualquier título, en sociedades cuyo objeto social esté fuera de la autorización para desarrollar actividades empresariales concedida al Estado o exceda los términos de dicha autorización, en el plazo de un año contado desde la recepción. Mientras no sean enajenados, tales derechos no se considerarán para la elección de directores de las sociedades, si fueren acciones de sociedades anónimas, ni para la designación de las personas encargadas de la administración y del uso de la razón social, si se tratare de derechos en otras especies de sociedades. Si transcurriere el plazo de un año sin que se enajenasen, aquellos derechos tampoco podrán ejercerse para concurrir a votaciones y decisiones propias de la administración de las sociedades, incluso en juntas de accionistas. Los quórum y mayorías legales se calcularán sin considerar esas acciones.\nCon todo, al Banco del Estado les serán aplicables las normas que sobre la materia establece la Ley General de Bancos."
+    }
+  ],
+  "definitions": []
+}

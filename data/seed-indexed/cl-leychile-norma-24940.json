@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24940",
+  "type": "statute",
+  "title": "Suprime por dos años el derecho de internación para;los objetos inutilizados de hierro viejo, que se;internen por los puertos de Chañaral al Norte.",
+  "short_name": "Ley 4822",
+  "status": "in_force",
+  "issued_date": "1930-02-10",
+  "in_force_date": "1930-02-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24940",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Suprímese, para los objetos inutilizados de hierro viejo que se internen por los puertos de Chañaral (Barquitos) al Norte del país, el derecho de internación que fija la Partida 1221 del Arancel Aduanero."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Autorízase al Presidente de la República para hacer extensiva a la internación de hierro viejo por otros puertos del país la franquicia de liberación de derechos a que se refiere el artículo anterior, siempre que las necesidades de la industria metalúrgica así lo aconsejen."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá sólo por el plazo de dos años, contados desde la fecha de su publicación en el Diario Oficial.\nCon todo, cesarán sus efectos aun antes del vencimiento de dicho plazo, si en ese intervalo cualquier establecimiento siderúrgico nacional empieza a producir materiales de aprovechamiento análogo y en forma que el Presidente de la República declare suficiente."
+    }
+  ],
+  "definitions": []
+}

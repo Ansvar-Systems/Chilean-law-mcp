@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22380",
+  "type": "statute",
+  "title": "CONTRIBUCION SOBRE HABERES",
+  "short_name": "Ley 1055",
+  "status": "in_force",
+  "issued_date": "1898-08-17",
+  "in_force_date": "1898-08-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22380",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Las Municipalidades que no hubieren nombrado en el presente año las comisiones avaluadoras podrán cobrar la contribucion sobre haberes en la misma forma que lo hubieren hecho en el año próximo pasado."
+    }
+  ],
+  "definitions": []
+}

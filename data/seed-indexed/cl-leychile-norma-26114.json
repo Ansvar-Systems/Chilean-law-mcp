@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26114",
+  "type": "statute",
+  "title": "AUTORIZA LA PERMUTA DE LOS SITIOS QUE INDICA, EN\nAYSEN",
+  "short_name": "Ley 9497",
+  "status": "in_force",
+  "issued_date": "1949-11-12",
+  "in_force_date": "1949-12-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26114",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Se autoriza al Presidente de la República y a la Municipalidad de Aysén para permutar los sitios números 1 y 2 de la manzana N° 59 fiscales, por el sitio número 2, de la manzana N° 29, de propiedad de dicha Municipalidad, que se encuentran ubicados en el Puerto de Aysén, comuna, departamento y provincia de Aysén, y cuyos deslindes son: sitios N° 1 y 2 de la manzana N° 59, con una cabida de 1.200 metros cuadrados; Norte, calle Sargento Aldea, con 24 metros; Este, sitio N° 3, con 50 metros; Sur, calle Esmeralda, con 24 metros, y Oeste, calle Arturo Prat, con 50 metros. Sitio N° 2, de la manzana N° 29, con una superficie de 1.250 metros cuadrados: Norte, sitio N° 1, con 50 metros; Este, parte del sitio N° 3, con 25 metros; Sur, sitio N° 7, con 50 metros, y Oeste, calle Bernardo O'Higgins, con 25 metros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

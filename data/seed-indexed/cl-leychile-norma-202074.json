@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-202074",
+  "type": "statute",
+  "title": "MODIFICA LA LEY Nº 19.713, INCORPORANDO LAS UNIDADES DE\nPESQUERIA QUE INDICA EN LAS ZONAS QUE SEÑALA A LA MEDIDA\nDE ADMINISTRACION LIMITE MAXIMO DE CAPTURA POR ARMADOR",
+  "short_name": "Ley 19822",
+  "status": "in_force",
+  "issued_date": "2002-08-21",
+  "in_force_date": "2002-08-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=202074",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones a la ley Nº 19.713:\n1). Agréganse, al final del artículo 2º, las siguientes letras:\n\"q) Sardina (Sardinops sagax) y Anchoveta (Engraulis ringens), en el área marítima correspondiente a la I y II Región.\nr) Jurel (Trachurus murphyi), en el área marítima correspondiente a la I y II Región.\".\n2). En el inciso segundo del artículo 4º, reemplázase la expresión \"e) y f)\" por \"e), f), q) y r)\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "chapter": "Artículos transitorios",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo 1º.- Para la primera asignación, la publicación de la resolución a que se refiere el artículo 6º de la ley Nº 19.713, respecto de las unidades de pesquería señaladas en el artículo 2º, letras q) y r), se efectuará dentro de los 10 días siguientes a la publicación de la presente ley. En la primera asignación de límite máximo de captura por armador, se considerarán las autorizaciones de pesca vigentes para cada unidad de pesquería, a la fecha del decreto supremo a que se refiere el artículo 6º de la ley Nº 19.713."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "chapter": "Artículos transitorios",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2º.- Las cuotas globales anuales de captura de las pesquerías sardina (Sardinops sagax) y anchoveta (Engraulis ringens) contenidas en la letra q) del artículo 2º de la ley Nº 19.713, se fijarán y regirán en el año calendario en que se publique esta ley.\"."
+    }
+  ],
+  "definitions": []
+}

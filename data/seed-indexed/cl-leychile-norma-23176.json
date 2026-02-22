@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23176",
+  "type": "statute",
+  "title": "Lei núm. 2,179, que prorroga la lei de;gratificaciones para los empleados públicos",
+  "short_name": "Ley 2179",
+  "status": "in_force",
+  "issued_date": "1909-02-19",
+  "in_force_date": "1909-02-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23176",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Autorízase al Presidente de la República para pagar durante el presente año las gratificaciones acordadas a los empleados públicos con arreglo a las leyes núms. 2,033 i 2,034 de 9 de Setiembre de 1907.\nTambien tendrán derecho a las gratificaciones establecidas por las citadas leyes los empleados de los Ministerios, los de las oficinas de Hacienda i los de Instruccion Primaria.\nContinuarán rijiendo hasta el 31 de Diciembre de 1909 las leyes núms. 1,839 i 1,929 de 13 de Febrero de 1906 i de 8 de Febrero de 1907, respectivamente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Reemplázase el inciso final del artículo 1.° de la lei número 2,033 por el siguiente:\n\"A los que perciban más de seis mil pesos ($ 6,000) quince por ciento\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se concede a los empleados de las Secretarías, Biblioteca i Redacciones de Sesiones del Senado i de la Cámara de Diputados, por una sola vez, una gratificacion de treinta por ciento sobre los sueldos percibidos durante el año de 1908."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Esta lei rejirá desde el 1.° de Enero de 1909."
+    }
+  ],
+  "definitions": []
+}

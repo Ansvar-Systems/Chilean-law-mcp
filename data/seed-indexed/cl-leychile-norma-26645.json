@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-26645",
+  "type": "statute",
+  "title": "AGREGA LA FRASE QUE INDICA AL ARTICULO 292 DEL\nCODIGO ORGANICO DE TRIBUNALES",
+  "short_name": "Ley 11307",
+  "status": "in_force",
+  "issued_date": "1953-10-07",
+  "in_force_date": "1953-10-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26645",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Agrégase al artículo 292 del Código Orgánico de Tribunales, en la 6.a categoría, suprimiendo el punto (.), la siguiente frase final: \"y demás personal de grado 19.o que presta sus servicios en la Corte Suprema y Cortes de Apelaciones\".\nReemplázase la conjunción \"y\", que figura entre las palabras \"Juzgados de Letras de Mayor Cuantía\" y \"Juzgados de Letras de Menor Cuantía\", por una coma (,)."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23772",
+  "type": "statute",
+  "title": "CONCEDE VARIOS SUPLEMENTOS AL PRESUPUESTO DEL MINISTERIO DEL INTERIOR",
+  "short_name": "Ley 3152",
+  "status": "in_force",
+  "issued_date": "1916-12-22",
+  "in_force_date": "1916-12-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23772",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.-Concédese los siguientes suplementos a los ítem que se indican del presupuesto del Ministerio del Interior:\n$ 120,000 al ítem 3,316 para gastos jenerales de secretaría i servicio de la guardia de la Cámara de Diputados, pago de servidumbre i adquisicion de uniformes de los oficiales de Sala i de los guardianes i calzado de estos últimos i para conservacion del Jardin del Congreso.\n$ 25,000 al ítem 3,318 para la publicacion en la prensa diaria de las sesiones de la Cámara de Diputados en los períodos ordinarios i estraordinarios de 1916."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°-Autorízase la inversion de gastos jenerales de secretaría de la Cámara de Diputados, de la suma de $ 15,594.59 que quedó sobrante de la cantidad de $ 40,000 consultada en el artículo 3.° de la lei número 3,037, de 20 de Noviembre de 1915, para la publicacion de las sesiones de la Cámara de Diputados en la prensa diaria."
+    }
+  ],
+  "definitions": []
+}

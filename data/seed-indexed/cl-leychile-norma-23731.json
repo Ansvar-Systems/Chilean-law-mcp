@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-23731",
+  "type": "statute",
+  "title": "AUTORIZA LA EMSION EN EL PAIS DE BONOS DEL ESTADO QUE PRODUZCAN HASTA $ 20.000,000, ORO DE 18 D., PARA PROSEGUIR LAS OBRAS DE AGUA POTABLE DE SANTIAGO I REINTEGRAR FONDOS DESTINADOS A LAS OBRAS DE LOS PUERTOS DE VALPARAISO I SAN ANTONIO I CONSTRUCCION DE NAVES. AUTORIZA, TAMBIEN LA EMISION DE $ 30,000,000, MONEDA CORRIENTE EN VALES DE TESORERIA PARA PAGAR CUENTAS ATRASADAS DEL ESTADO I ABONAR A LA CUENTA CORRIENTE DE CREDITO ABIERTA EN EL BANCO DE CHILE I DISPONE QUE EL SALDO EN DESCUBIERTO DE ESTA CUENTA NO PODRA EXEDER DE $ 15.000,000, NO AFECTANDO EL EXESO LA RESPONSABILIDAD DEL ESTADO.",
+  "short_name": "Ley 3094",
+  "status": "in_force",
+  "issued_date": "1916-04-29",
+  "in_force_date": "1916-05-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23731",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Se autoriza al Presidente de la República, por el término de un año, para emitir i colocar en el pais bonos del Estado, en oro, que produzcan hasta la suma de veinte millones de pesos de 18 peniques o su equivalente en libras esterlinas.\nEl interes de estos bonos, no podrá exeder del seis por ciento al año i tendrán una amortizacion acumulativa anual, que no pase del cuatro por ciento.\nEl Presidente de la República podrá contratar parte de este empréstito en vales de Tesorería, en oro, con seis por ciento de interes, al plazo de cinco años i que se amortizarán por terceras partes en los últimos tres años.\nLos adquirentes de los bonos o vales, podrán pagarlos en oro o en buenas letras sobre Lóndres a noventa dias vista."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- El producto de los bonos a que se refiere el artículo anterior, se destinará a la prosecucion de las obras de agua potable de Santiago i reintegro de fondos para los puertos de Valparaiso i San Antonio, i construccion de naves, hasta concurrencia de las cantidades autorizadas en la lei de Presupuesto del corriente año."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Los bonos que se emitan con arreglo al artículo 1.° de esta lei, servirán para caucionar los vales de Tesorería que puedan solicitar los Bancos conforme a las leyes números 2,912, de 3 de Agosto de 1914 i 3,025, de 4 de Setiembre de 1915."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- Se autoriza igualmente al Presidente de la República para emitir en el presente año hasta por la cantidad de treinta millones de pesos, moneda corriente, vales de Tesorería, de corte no inferior a cinco mil pesos, a plazo de cinco años i con interes no superior al ocho por ciento anual i amortizables por terceras partes en los últimos tres años de su plazo.\nLa emision de estos valores se hará a la par i su valor se destinará al pago de las cuentas pendientes del Estado de años anteriores, a virtud de decretos de que tome razon legalmente el Tribunal de Cuentas, hasta la cantidad de diez millones de pesos ($ 10.000,000) i el saldo será abonado a la cuenta corriente de crédito abierta en el Banco de Chile.\nEl saldo en descubierto de esta cuenta corriente no podrá exeder, en lo sucesivo, de los quince millones de pesos autorizados por la lei número 2,612, de 10 de Enero de 1912 i de los intereses correspondientes. El exeso de dicha suma no afectará la responsabilidad del Estado."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°- El Estado se reserva el derecho de efectuar amortizaciones estraordinarias de los bonos i vales de Tesorería cuya emision autoriza la presente lei.\nEn el testo de los bonos i vales se espresará esta reserva."
+    }
+  ],
+  "definitions": []
+}

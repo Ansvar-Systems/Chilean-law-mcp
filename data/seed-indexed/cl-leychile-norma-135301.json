@@ -1,0 +1,18 @@
+{
+  "id": "cl-leychile-norma-135301",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1670",
+  "status": "in_force",
+  "in_force_date": "1904-08-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135301",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declaran de utilidad pública los terrenos de propiedad municipal o particular que sean necesarios para construir las obras de defensa y accesorios que exijen la seguridad de los puentes de los ferrocarriles del Estado, debiendo hacerse la espropiacion de conformidad a las leyes vijentes i dentro del término de diez años, contados desde la promulgacion de la presente lei."
+    }
+  ],
+  "definitions": []
+}

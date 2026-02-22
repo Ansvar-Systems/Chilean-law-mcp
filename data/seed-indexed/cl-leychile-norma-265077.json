@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-265077",
+  "type": "statute",
+  "title": "INCORPORA AL DOMINIO MUNICIPAL LOS TERRENOS CEDIDOS PARA EQUIPAMIENTO",
+  "short_name": "Ley 20218",
+  "status": "in_force",
+  "issued_date": "2007-09-21",
+  "in_force_date": "2007-09-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=265077",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Reemplázase el artículo 135 del decreto con fuerza de ley N° 458, del Ministerio de Vivienda y Urbanismo, de 1976, Ley General de Urbanismo y Construcciones, por el siguiente:\n\"Artículo 135.- Terminados los trabajos a que se refiere el articulo anterior, o las obras de edificación, en su caso, el propietario y el arquitecto solicitarán su recepción al Director de Obras Municipales. Cuando la Dirección de Obras Municipales acuerde la recepción indicada, se considerarán, por este solo hecho, incorporadas:\na) Al dominio nacional de uso público, todas las calles, avenidas, áreas verdes y espacios públicos en general, contemplados como tales en el proyecto, y\nb) Al dominio municipal, los terrenos cedidos de conformidad al artículo 70 de esta ley para localizar equipamientos. Para el solo efecto de mantener la historia de la propiedad raíz, dichos terrenos se inscribirán a nombre del municipio respectivo, en el Registro de Propiedad del Conservador de Bienes Raíces, presentando el certificado de recepción definitiva. La Ordenanza General indicará las menciones que deberá incluir el certificado para poder ser inscrito en el mencionado Registro.\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- Los terrenos que con anterioridad a la publicación de esta ley hubieren sido cedidos para equipamiento de conformidad al artículo 70 del decreto con fuerza de ley N° 458, del Ministerio de Vivienda y Urbanismo, de 1976, Ley General de Urbanismo y Construcciones, podrán inscribirse a nombre de la municipalidad en el Conservador de Bienes Raíces respectivo, conforme a lo previsto en la letra b) del artículo 135 de dicho cuerpo legal.\"."
+    }
+  ],
+  "definitions": []
+}

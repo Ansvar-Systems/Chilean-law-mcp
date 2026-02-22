@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-227347",
+  "type": "statute",
+  "title": "MONEDA",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1860-07-28",
+  "in_force_date": "1860-07-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=227347",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.º\nLa Casa de Moneda acuñará monedas de oro de valor de un peso con lei de 9/ro de fino y con el peso de un gramo quinientos veinticinco milígramos.\nLa tolerancia de peso en el feble o fuerte de esta moneda será determinada por el Presidente de la República, segun los resultados de la acuñacion."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º\nLa Casa de Moneda sellará hasta la suma de quinientos mil pesos en moneda de plata de veinte, diez i cinco centavos con lei de 9/ro de fino. Las de viente centavos tendrán un peso de cuatro gramos sesenta centígramos, las de diez centavos el de dos gramos treinta centígramos, i las de cinco centavos el de un gramo quince centígramos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º\nLa Casa de Moneda podrá aumentar el precio de compra de la plata fina que necesite para sellar lasuma a que se refiere el artículo anterior, en ocho por ciento mas sobre el fijado por su tarifa. Asimismo podrá aumentar el precio de compra de las pastas de oro hasta setecientos quince pesos por quilógramo fino."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º\nSe autoriza al Presidente de la República para que fije el tipo de la moneda de oro que se crea por esta lei."
+    }
+  ],
+  "definitions": []
+}

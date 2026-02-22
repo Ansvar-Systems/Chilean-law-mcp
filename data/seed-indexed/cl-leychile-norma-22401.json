@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22401",
+  "type": "statute",
+  "title": "SUPLEMENTO AL PRESUPUESTO DEL INTERIOR",
+  "short_name": "Ley 1089",
+  "status": "in_force",
+  "issued_date": "1898-10-14",
+  "in_force_date": "1898-10-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22401",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de siete mil pesos al ítem 420 de la partida 56, i otro de cinco mil pesos al ítem 15 de la partida 65 del presupuesto del Interior."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22445",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1170",
+  "status": "in_force",
+  "issued_date": "1899-01-14",
+  "in_force_date": "1899-01-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22445",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Agrégase a la lei número 1,100, de 8 de octubre de 1898, el siguiente inciso:\n\"La Corte de Apelaciones de Santiago tendrá tambien a su cargo, en los mismos términos espresados en la citada lei número 1,100, todos los demas negocios que, provenientes de la provincia de Aconcagua, están actualmente sometidos a la jurisdiccion de la Corte de Apelaciones de Valparaiso.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-230726",
+  "type": "statute",
+  "title": "INTRODUCE LAS MODIFICACIONES QUE SEÑALA AL ARTICULO 309º\nDEL CODIGO DEL TRABAJO",
+  "short_name": "Ley 16434",
+  "status": "in_force",
+  "issued_date": "1966-02-14",
+  "in_force_date": "1966-02-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=230726",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º.- Introdúcense las siguientes modificaciones al artículo 309º del Código del Trabajo:\na) Agrégase el siguiente inciso segundo:\n\"Si el cuidado del niño lo requiere, el respectivo Servicio Médico prolongará por seis semanas más el subsidio maternal post-natal.\"\nb) Reemplázase su inciso segundo, que pasa a ser tercero, por el siguiente:\n\"Estos derechos no podrán renunciarse y durante los períodos de descanso queda prohibido el trabajo de las mujeres embarazadas y puérperas. Asimismo, no obstante cualquiera estipulación en contrario, deberán reservárseles sus empleos o puestos durante dichos períodos.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- En el inciso tercero del artículo 310º del Código del Trabajo, sustitúyense las palabras \"a seis semanas contadas desde aquél\" por \"al descanso post-natal.\""
+    }
+  ],
+  "definitions": []
+}

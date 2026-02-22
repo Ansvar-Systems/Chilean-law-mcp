@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30680",
+  "type": "statute",
+  "title": "DEROGA DISPOSICIONES QUE INDICA DE LA LEY N° 11.625,\nSOBRE ESTADOS ANTISOCIALES Y MEDIDAS DE SEGURIDAD Y\nMODIFICA ARTICULO 260 DEL CODIGO DE PROCEDIMIENTO PENAL",
+  "short_name": "Ley 19313",
+  "status": "in_force",
+  "issued_date": "1994-07-08",
+  "in_force_date": "1994-07-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30680",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Deróganse el Título I y los artículos 61, 64, 65 y 67 de la ley N° 11.625."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Suprímese el número 5° del inciso segundo del artículo 260 del Código de Procedimiento Penal.\"."
+    }
+  ],
+  "definitions": []
+}

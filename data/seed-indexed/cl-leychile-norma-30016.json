@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-30016",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 10.621, SOBRE PREVISION DE\nPERIODISTAS",
+  "short_name": "Ley 18625",
+  "status": "in_force",
+  "issued_date": "1987-06-10",
+  "in_force_date": "1987-06-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30016",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Reemplázase el régimen de montepío establecido en los artículos 61 a 66 de la ley N° 10.621, por el de pensiones de viudez y orfandad que se aplica a los empleados particulares, contenido en la ley N° 10.475.\nEl sueldo base de montepío, se determinará en conformidad a lo dispuesto por el inciso primero del artículo 52 de la ley N° 10.621, tratándose de imponentes activos y será equivalente al monto de la última pensión en el caso de los jubilados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Derógase el artículo 54 de la ley N° 10.621."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULOS TRANSITORIOS\nArtículo 1°.- Los montepíos otorgados por el Departamento de Periodistas de la Caja Nacional de Empleados Públicos y Periodistas, causados por quienes hubieran jubilado a contar del 1° de septiembre de 1975 y que hubieran fallecido a contar del 28 de diciembre de 1978 y antes de la vigencia de la presente ley se recalcularán de acuerdo a las normas siguientes:\na) Se aplicará al sueldo base de cálculo del montepío, los reajustes generales de pensiones, fueran ordinarios o extraordinarios, otorgados hasta la fecha de fallecimiento del causante;\nb) Sobre la base del resultado anterior se calculará la proporción del montepío que corresponda a cada actual beneficiario, aplicándole, además, los reajustes generales de pensiones sobrevinientes.\nLos montepíos recalculados en conformidad a lo dispuesto en este artículo, se devengarán a contar del mes siguiente a la fecha de publicación de esta ley en el Diario Oficial.\nLa aplicación de las disposiciones anteriores no podrá significar en caso alguno, disminución del monto de las pensiones de montepío en actual vigencia."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2°.- Las revalorizaciones y reajustes de pensiones que el referido Departamento de la Caja Nacional de Empleados Públicos y Periodistas hubiera pagado a los beneficiarios de montepío, aplicando el procedimiento establecido en el decreto ley N° 3.453, de 1980, se entenderán ajustados a derecho y legalmente incorporados a las respectivas pensiones."
+    }
+  ],
+  "definitions": []
+}

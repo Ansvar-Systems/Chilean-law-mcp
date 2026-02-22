@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-22683",
+  "type": "statute",
+  "title": "QUE CREA EL DEPARTAMENTO DE CHANCO",
+  "short_name": "Ley 1481",
+  "status": "in_force",
+  "issued_date": "1901-11-08",
+  "in_force_date": "1901-11-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22683",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Créase en la provincia de Maule un nuevo departamento con la denominacion de Chanco, cuyo territorio se compondrá de las subdelagaciones de Chanco, Curanipe y Reloca, del departamento de Cauquénes, i de los distritos signados con los números 1, 2 i 3 de la subdelegacion de Pahuil, del departamento de Constitucion, que formarán una subdelegacion denominada Guilhuine."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° El departamento tendrá por capital la actual villa de Chanco."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Su administracion será servida por los siguientes empleados:\nUn gobernador, con dos mil cuatrocientos pesos;\nUn oficial de pluma, con seiscientos sesenta pesos;\nUn juez de letras, con cuatro mil quinientos pesos;\nUn tesorero fiscal, con mil quinientos pesos;\nUn administrador de Correos, con ochocientos pesos.\nMiéntras no haya casa fiscal, el gobernador tendrá una asignacion anual de cuatrocientos pesos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Para los efectos de la jubilacion de los empleados que crea esta lei, solo se tomará en cuenta el setenta i cinco por ciento de la renta anual que se les asigna."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° El Presidente de la República pondrá en vijencia esta lei dentro de los sesenta dias siguientes al de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

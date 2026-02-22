@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22988",
+  "type": "statute",
+  "title": "LEI NUM. 1,895 QUE CONSULTA FONDOS PARA COMPRA DE MATERIALES TELEGRAFICOS",
+  "short_name": "Ley 1895",
+  "status": "in_force",
+  "issued_date": "1906-12-17",
+  "in_force_date": "1906-12-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22988",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único . Concédese un suplemento de sesenta mil pesos ($ 60,000) al ítem 2,938 de la partida 81 del presupuesto del Interior, destinado a la compra de materiales telegráficos, fletes, construcciones i reparaciones de líneas i pago de jornales."
+    }
+  ],
+  "definitions": []
+}

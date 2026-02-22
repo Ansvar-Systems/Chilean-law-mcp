@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23147",
+  "type": "statute",
+  "title": "LEI NUM. 2,142, QUE CONCEDE UN TERRENO FISCAL PARA ENSANCHAR EL CEMENTERIO DE TALAGANTE.",
+  "short_name": "Ley 2142",
+  "status": "in_force",
+  "issued_date": "1908-11-17",
+  "in_force_date": "1908-11-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23147",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se concede a la parroquia de Talagante, para destinarlo a las necesidades del Cementerio Parroquial, la propiedad del sitio fiscal anexo a dicho Cementerio i que deslinda: al norte, con el Cementerio; al sur, con terreno de la Parroquia; al este, con la calle pública; i al oeste, con el canal de los Cáceres."
+    }
+  ],
+  "definitions": []
+}

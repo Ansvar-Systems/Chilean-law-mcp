@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138821",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3001",
+  "status": "in_force",
+  "issued_date": "1915-03-01",
+  "in_force_date": "1915-03-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138821",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para proseguir la ejecucion de los siguientes trabajos que no alcanzaron a terminarse durante el año 1914; i para invertir con este objeto las sumas de treinta mil ochenta i un pesos treinta centavos ($ 30,081.30), oro de 18 d, i de cuatrocientos cincuenta i ocho mil doscientos seis pesos noventa i ocho centavos ($ 458,206.98), moneda corriente, de las entradas que produzca el Ferrocarril de Arica a La Paz:\nFERROCARRILES\nDe Selva Oscura a Curacautin;\nDe Paloma a Juntas;\nAcceso al Puente Maule;\nEstudio del Ferrocarril de Iquique a Pintados;\nEstudio del Ferrocarril de Antofagasta i Mejillones al Lonjitudinal;\nEstudio del Ferrocarril de El Alamo a Molina;\nEstudio del Ferrocarril de Curicó a Los Queñes, i Estudio del Ferrocarril de Arica a Zapiga.\nARQUITECTURA\nIntendencia de Colchagua i Subdelegacion Marítima de Mejillones.\nOBRAS HIDRAULICAS\nAgua Potable de Vallenar;\nAgua Potable de Talca;\nAgua Potable de Cobquecura;\nAgua Potable de Rancagua;\nLimpia boca-toma Canales Yungai i Zapata;\nRefuerzo del malecon de Taltal; i Pretil en el rio Copiapó."
+    }
+  ],
+  "definitions": []
+}

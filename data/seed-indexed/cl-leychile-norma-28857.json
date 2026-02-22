@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28857",
+  "type": "statute",
+  "title": "DECLARA QUE LA CABECERA DE LA COMUNA QUE SEÑALA ES\nEL PUEBLO DE HUEPIL",
+  "short_name": "Ley 17248",
+  "status": "in_force",
+  "issued_date": "1969-11-18",
+  "in_force_date": "1969-12-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28857",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°- Declárase que la cabecera de la comuna de Tucapel, del departamento de Yungay, provincia de Ñuble, es el pueblo de Huépil."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°- La presente ley entrará a regir sesenta días después de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

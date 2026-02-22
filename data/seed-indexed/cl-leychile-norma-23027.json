@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23027",
+  "type": "statute",
+  "title": "LEI NUM. 1,940 QUE DA EL CARÁCTER DE SUB-DIRECTOR AL CONTADOR PRIMERO DE LA DIRECCION DEL TESORO I LE ASIGNA UN SOBRESUELDO.",
+  "short_name": "Ley 1940",
+  "status": "in_force",
+  "issued_date": "1907-06-24",
+  "in_force_date": "1907-07-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23027",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. El contador primero de la Direccion del Tesoro será sub-director de dicha oficina i tendrá un sobresueldo de tres mil pesos anuales."
+    }
+  ],
+  "definitions": []
+}

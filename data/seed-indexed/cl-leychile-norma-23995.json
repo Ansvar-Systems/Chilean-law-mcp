@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23995",
+  "type": "statute",
+  "title": "LEI NUM. 3,471, QUE CONCEDE FONDOS PARA LA CONSTRUCCION DE ESTANQUES PARA COMBUSTIBLE LIQUIDO DESTINADO A LOS SUBMARINOS.",
+  "short_name": "Ley 3471",
+  "status": "in_force",
+  "issued_date": "1919-01-24",
+  "in_force_date": "1919-01-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23995",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir, por propuestas públicas, hasta la cantidad de cuatrocientos cincuenta mil pesos (450,000), moneda corriente, en la construccion de dos estanques para combustible líquido, con capacidad de seiscientas toneladas cada uno, para el servicio de los submarinos i accesorios.\nEsta suma se obtendrá de rentas jenerales de la Nacion."
+    }
+  ],
+  "definitions": []
+}

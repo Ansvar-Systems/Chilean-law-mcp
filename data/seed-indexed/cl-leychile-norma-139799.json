@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-139799",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3164",
+  "status": "in_force",
+  "issued_date": "1916-12-28",
+  "in_force_date": "1917-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=139799",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para invertir estraordinariamente, de las entradas del ferrocarril de Puente Alto al Volcan, hasta la suma de sesenta y un mil quinientos pesos ($ 61,500) en su esplotacion para el resto del año."
+    }
+  ],
+  "definitions": []
+}

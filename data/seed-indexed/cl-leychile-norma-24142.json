@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24142",
+  "type": "statute",
+  "title": "Lei núm. 3,648, que aumenta los derechos consulares.",
+  "short_name": "Ley 3648",
+  "status": "in_force",
+  "issued_date": "1920-08-06",
+  "in_force_date": "1920-09-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24142",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Auméntase en un ciento por ciento los derechos que se cobran por la lei núm. 2,208, de 19 de Octubre de 1909, que fija los aranceles consulares, con escepcion de los que se consultan en su artículo 4.°, números 22, 23 i 24 que se alzan en un ciento cincuenta por ciento, i de los establecidos en el artículo 2.°, números 1.°, 2.°, 12, 13, 14 i 15 de la citada lei, que quedarán modificados en la forma que a continuacion se espresa:\n\" 1.° Por el despacho de vapores mercantes nacionales se pagará, por una sola vez en el año, en cada Consulado, con relacion a su tonelaje, los derechos que a continuacion se espresan:\nA. Por vapores hasta de 500 toneladas de rejistro, $ 20.\nB. Por vapores de mas de 500 toneladas hasta 1,000 toneladas de rejistro, $ 30.\nC. Por vapores de mas de 1,000 toneladas hasta 3,000 toneladas de rejistro, $ 40.\nD. Por vapores de mas de 3,000 toneladas de registro $ 50.\nLos buques de vela mercantes nacionales pagarán estos derechos con una rebaja de 50%.\n2.° Por el despacho de una nave mercante nacional de mas de 300 toneladas de rejistro en arribada forzosa, siempre que ésta obligue a realizar cualquiera operacion, $ 10.\n12. Por un pasavante o patente provisional de navegacion para naves, desde 150 hasta 500 toneladas de rejistro, $ 10.\n13. Por un pasavante o patente provisional de navegacion para naves de mas de 500 toneladas de rejistro, $ 0.02 por cada tonelada.\n14. Por intervenir en la venta de una nave nacional de mas de 200 i hasta 1,000 toneladas, siempre que haya cambio de bandera, i por espedir el certificado correspondiente, $ 200.\n15. Por la misma actuacion en naves de mas de 1,000 toneladas, por cada tonelada de rejistro, $ 0.50."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Intercálase a continuacion del artículo 4.° de la citada lei núm. 2,208 de 19 de Octubre de 1909, el siguiente artículo nuevo:\n\"Artículo___ Toda nave mercante estranjera cuyo tonelaje neto de rejistro exceda de 3,000 toneladas, pagará, ademas de los otros derechos que figuran en el presente Arancel, por cada tonelada de exceso, $ 0.01.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Derógase la lei núm. 3,184, de 8 de Enero de 1917."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1086205",
+  "type": "statute",
+  "title": "Terrenos de indíjenas.- Prohibicion de hipotecarlos, darlos en arriendo, anticrésis, etc.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1883-01-20",
+  "in_force_date": "1883-02-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1086205",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.° La prohibicion de adquirir terrenos de indíjenas, hecha a los particulares en el artículo 6.° de la lei de 4 de agosto de 1874 en el territorio designado en dicho artículo, se estiende a las hipotecas, anticrésis, arriendos o cualquiera otro contrato en virtud del cual se prive directa o indirectamente a aquéllos de la posesion o tenencia del terreno, sobre terrenos situados dentro de esos límites, aun cuando el indíjena o la reduccion a quien pertenezcan tengan registrados su título de propiedad.\nEsta prohibicion subsistirá por diez años."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Las funciones que el artículo 5.° de la lei de 4 de diciembre de 1866 atribuia a una comision de injenieros i que el artículo 7.° de la lei de 4 de agosto de 1874 confirió a un Ministro de la Corte de Apelaciones de Concepcion, serán desempeñadas por una comision compuesta de un abogado, que la presidirá, i dos injenieros nombrados por el Presidente de la República.\nEsta comision se sujetará en sus procedimientos a las disposiciones de la citada lei de 1866.\nSi el título que la comision tuviere que estender a favor de un indíjena o de una reduccion pasare de trescientas hectáreas, deberá elevarse el espediente en consulta al Presidente de la República, acompañando un plano del terreno a que el título se refiere."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Restablécese el cargo de protector de indíjenas que creó el artículo 8.° de la lei de 4 de diciembre de 1866, con el sueldo que dicha lei le asignaba."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Esta lei comenzará a rejir desde el dia de su publicacion en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

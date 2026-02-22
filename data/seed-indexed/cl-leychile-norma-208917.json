@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-208917",
+  "type": "statute",
+  "title": "LEY NUM. 4.873",
+  "short_name": "Ley 4873",
+  "status": "in_force",
+  "issued_date": "1930-08-18",
+  "in_force_date": "1930-08-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=208917",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º Cédese a título gratuito y por tiempo indefinido, a la Municipalidad de San José de Maipo, un terreno fiscal, ubicado en la esquina suroriente de la plaza de esa comuna y con una cabida aproximada de un mil ochocientos metros cuadrados.\nDicho terreno se destinará a construir un edificio municipal y será entregado de acuerdo con el plano que apruebe la Oficina de Bienes Nacionales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2º La presente ley entrará en vigencia a contar desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

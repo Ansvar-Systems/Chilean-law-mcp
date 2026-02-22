@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135805",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2016",
+  "status": "in_force",
+  "issued_date": "1907-09-02",
+  "in_force_date": "1907-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135805",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se concede, por gracia, al teniente-coronel graduado don José Saavedra, para los efectos de su retiro, el abono de ocho años cuatro meses ocho dias que ha servido en el cuerpo de policia de Valparaiso."
+    }
+  ],
+  "definitions": []
+}

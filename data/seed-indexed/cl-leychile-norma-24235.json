@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24235",
+  "type": "statute",
+  "title": "LEI NUM. 3,774, QUE DEJA SIN EFECTO LA LEI NUM 3,745, RELATIVA AL MEJORAMIENTO ECONOMICO DEL PRESONAL DE LOS ESTABLECIMIENTOS DE ENSEÑANZA SUPERIOR, SECUNDARIA, COMERCIAL I ESPECIAL I CONCEDE UNA GRATIFICACION ESPECIAL, I CONCEDE UNA GRATIFICACION A ESTE PERSONAL I AL DE LAS BIBLIOTECAS I DE LA ESCUELA DE REFORMA PARA NIÑOS.",
+  "short_name": "Ley 3774",
+  "status": "in_force",
+  "issued_date": "1921-07-19",
+  "in_force_date": "1921-07-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24235",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Suspéndese desde el 1.° de Julio de 1921 la aplicacion de las disposiciones de la lei núm.\n3,745, de 23 de Abril último, en la parte referente a sueldos, sobresueldos, gratificaciones i aumentos trienales; como asimismo en cuanto establece incompatibilidades, limitaciones de horas de clases i supresion de honorarios de exámenes para el personal contemplado en dicha lei.\nSe suspende igualmente la provision de los puestos creados por la lei 3,745.\nSubsistirán, sin embargo, las disposiciones anteriores relativas a los premios de constancia establecidos por el artículo 44 de la lei de 9 de Enero de 1879."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° El personal de los establecimientos de enseñanza superior, secundaria, comercial i especial, el de las Bibliotecas Públicas i el de la Escuela de Reforma para Niños, gozará de una gratificacion sobre los sueldos i asignaciones que le correspondan en conformidad a las leyes i reglamentos dictados con anterioridad a la lei núm. 3,745.\nEsta gratificacion será de un treinta por ciento (30%) para el personal docente, i de un quince por ciento (15%) para el personal directivo i administrativo."
+    }
+  ],
+  "definitions": []
+}

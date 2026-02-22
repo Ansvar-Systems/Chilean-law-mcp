@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24469",
+  "type": "statute",
+  "title": "Concede liberación derechos Aduana efectos;destinados jefes de Misión extranjeros y su personal.",
+  "short_name": "Ley 4099",
+  "status": "in_force",
+  "issued_date": "1926-09-27",
+  "in_force_date": "1926-10-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24469",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se autoriza al Presidente de la República para declarar libres de derechos de internación, estampillas y otros impuestos, los efectos destinados a los Jefes de Misión (Embajadores, Enviados Extraordinarios y Ministros Plenipotenciarios, Ministros Residentes y Encargados de Negocios), sus Consejeros, Secretarios y Agregados Militares, Navales, Aeronáuticos y Comerciales, acreditados cerca del Gobierno de Chile, cuando esos efectos vengan por cuenta de los citados funcionarios y para su uso o consumo y que representen en derechos una cantidad que no exceda de veinte mil pesos ($ 20,000) en el primer año y de cuatro mil ($ 4,000) en los años subsiguientes para los Jefes de Misión, y de diez mil pesos ($ 10,000) en el primer año y de dos mil ($ 2,000) en los subsiguientes para el persona de las Embajadas y Legaciones (Consejeros, Secretarios, Agregados Militares, Navales, Aeronáuticos y Comerciales)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Estas franquicias se entenderán otorgadas únicamente en el caso de que exista reciprocidad de parte de la nación que represente el Jefe de la Misión y que el funcionario favorecido no ejerza, además de su cargo, la profesión de comerciante.\nNo se exige reciprocidad en los casos en que se trate de efectos que internen los representantes diplomáticos de la Santa Sede."
+    }
+  ],
+  "definitions": []
+}

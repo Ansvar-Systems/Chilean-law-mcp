@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23792",
+  "type": "statute",
+  "title": "ESTABLECE EL SERVICIO DE CUNAS EN LAS FABRICAS, TALLERES O ESTABLECIMIENTOS INDUSTRIALES EN QUE SE OCUPEN 50 O MAS MUJERES MAYORES DE 18 AÑOS.",
+  "short_name": "Ley 3186",
+  "status": "repealed",
+  "issued_date": "1917-01-13",
+  "in_force_date": "1925-04-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23792",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Toda fábrica, taller o establecimiento industrial que ocupe cincuenta o mas mujeres mayores de diociocho años, deberá disponer de una sala, especialmente acondicionada para recibir en las horas de trabajo a los hijos de las obreras durante el primer año de edad."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2°.- Las madres a que se refiere el artículo anterior tendrán derecho a disponer, para amamantar a sus hijos, de porciones de tiempo que en conjunto no exedan de una hora al dia.\nEl valor de este tiempo no podrá ser descontado del salario de la madre, cualquiera que sea la forma de remuneracion de su trabajo, i el derecho a usar de este tiempo en el objeto indicado, no podrá ser renunciado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3°.- Cada infraccion a esta lei será penada con una multa de cincuenta a quinientos pesos a beneficio fiscal."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4°.- El Presidente de la República dictará los reglamentos que exija la aplicacion de la presente lei, la cual empezará a rejir un año despues de su promulgacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

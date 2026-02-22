@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23751",
+  "type": "statute",
+  "title": "DISPONE QUE LOS BONOS EMITIDOS O QUE EN ADELANTE SE EMITAN PARA OBRAS DE RIESGO I EDIFICACION ESCOLAR SERVIRÁN DE CAUCION PARA RETIRAR LOS VALES DE TESORERÍA A QUE SE REFIERE LA LEI NÚMERO 2.912 I EXIME A LOS INDICADOS BONOS DEL PAGO DE TODO IMPUESTO",
+  "short_name": "Ley 3117",
+  "status": "in_force",
+  "issued_date": "1916-09-04",
+  "in_force_date": "1916-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23751",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Los bonos emitidos o que en adelante se emitan i cuyo producto se destine a ejecutar obras de riego i edificacion de escuelas públicas, en conformidad a las disposiciones de las leyes números 2,953, de 9 de Diciembre de 1914 i 3,069, de 21 de Marzo de 1916, servirán de caucion para retirar los vales de Tesorería a que se refiere la lei número 2,912, de 3 de Agosto de 1914.\nLos indicados bonos quedarán exentos de todo impuesto fiscal o municipal."
+    }
+  ],
+  "definitions": []
+}

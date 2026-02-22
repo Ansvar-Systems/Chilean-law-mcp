@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23980",
+  "type": "statute",
+  "title": "LEI NUM. 3,452, QUE PERMITE LA RESIDENCIA DE LOS CUERPOS DEL EJERCITO EN EL LUGAR DE LAS SESIONES DEL CONGRESO NACIONAL DURANTE EL AÑO 1919.",
+  "short_name": "Ley 3452",
+  "status": "in_force",
+  "issued_date": "1918-12-13",
+  "in_force_date": "1918-12-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23980",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Permítese, por el término de un año, la residencia de los cuerpos del Ejército permanente en el lugar de las sesiones del Congreso Nacional i diez leguas a su circunferencia."
+    }
+  ],
+  "definitions": []
+}

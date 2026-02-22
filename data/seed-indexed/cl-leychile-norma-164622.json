@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-164622",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4502",
+  "status": "in_force",
+  "issued_date": "1928-12-21",
+  "in_force_date": "1928-12-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=164622",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Decláranse de utilidad pública, para los efectos de la expropiación, los siguientes predios ubicados en el pueblo de Talagante, en conformidad al plano adjunto:\nPropietario y Calle Superficie Valor\nmts. declarado\nAgustín Rojas, Avenida\nPeñaflor 5,101 9,000\nPedro Rubio, M. Rodríguez 27,649 30,000\nDiego Santibáñez y\notros, M. Rodríguez 833 2,350\nMaría Saavedra, M. Rodríguez 286 472\nEmilio Avila, M. Rodríguez 108 550\nJosé Rodríguez, M. Rodríguez 1,968 1,564\nJuan E. Rojas, M. Rodríguez 4,835 7,000\nFernando Nilo, M. Rodríguez 2,325 3,500\nSucesión Plaza\nAdela Saavedra, M. Rodríguez 2,418 1,636\nManuel Maciel, M. Rodríguez 1,028 1,000\nSilverio Rojas, M. Rodríguez 775 821\nTránsito Rojas, M. Rodríguez 1,016 2,745\nAbel Santis, M. Rodríguez 1,920 2,090\nMaría Alfaro, M. Rodríguez 4,662 2,555\nAgustín Arriola, M. Rodríguez 1,177 550\nJuan Santis, M. Rodríguez 14,509 2,253\nPedro Macier\nJuan Villegas, A. Prat 5,190 800\nMauricio Ortega, A. Prat 627 200\nManuel Hurtado, A. Prat 5,029 5,992\nAvelina Valdivia, A. Prat 770 1,384"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La expropiación se verificará de acuerdo con la ley de 18 de Junio de 1857, y los gastos que demande el cumplimiento de la presente ley, se imputarán a la ley número 4,400, de 30 de Agosto de 1928."
+    }
+  ],
+  "definitions": []
+}

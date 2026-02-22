@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-22875",
+  "type": "statute",
+  "title": "QUE FIJA LAS FUERZAS DE MAR I TIERRA PARA EL AÑO I905.",
+  "short_name": "Ley 1720",
+  "status": "in_force",
+  "issued_date": "1904-12-29",
+  "in_force_date": "1904-12-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22875",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero. Las fuerzas del Ejército durante el año I905 no podrán exceder de once mil ciento sesenta i nueve hombres, de los cuales, cuatro mil novecientos cuarenta pertenecerán al personal permanente, setenta i nueve al cuadro del Rejimiento Jendarmes i seis mil ciento sesenta al contijente de veinte años, distribuidos en los cuerpos de infantería, artilleria, caballería e injenieros militares."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° a) Las fuerzas de mar constarán, en el mismo año I905, de quince buques de guerra, dos buque-escuelas, cuatro trasportes, dieciseis destróyers i torpederas, siete escampavías i los pontones, remolcadores i demas embarcaciones ausiliares necesarias para su servicio;\nb) El personal para el servicio de dichos buques no excederá de quinientos sesenta i ocho jefes i oficiales de guerra i mayores, i de cuatro mil seiscientos diecinueve individuos del equipo de sub-oficial a grumete;\nc) De un rejimiento de Artillería de Costa, compuesto de dos batallones, con un total de sesenta i cuatro jefes i oficiales i mil ciento cuarenta i cinco individuos de tropa."
+    }
+  ],
+  "definitions": []
+}

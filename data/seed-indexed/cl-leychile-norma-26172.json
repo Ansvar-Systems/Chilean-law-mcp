@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26172",
+  "type": "statute",
+  "title": "FIJA LA FORMA EN QUE DISTRIBUIRA LA PARTICIPACION\nCORRESPONDIENTE A LAS MUNICIPALIDADES DEL RENDIMIENTO DE\nLOS IMPUESTOS QUE INDICA",
+  "short_name": "Ley 9597",
+  "status": "in_force",
+  "issued_date": "1950-03-31",
+  "in_force_date": "1950-04-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26172",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- La distribución por el Fisco de la participación que corresponde a las Municipalidades en el rendimiento de los impuestos sobre la renta de 2.a y 3.a categorías, a que se refieren los artículos 29 del decreto supremo N° 2,688, de 30 de Abril de 1946, que fijó el texto refundido de la Ley de Rentas Municipales, y 34 de la ley N° 9,311, de 3 de Febrero de 1949, se hará por los años 1949, 1950 y 1951, en forma que ninguna Municipalidad reciba en estos años una suma inferior a la que recibió el año 1948. El mayor rendimiento sobre el año 1948 del porcentaje de dichos impuestos que perciben las Municipalidades se distribuirá, en estos mismos años, proporcionalmente al incremento del avalúo de los bienes raíces de las respectivas comunas."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "\"Artículo transitorio.- La distribución correspondiente al año 1949, que altere la proporción del año 1948, será compensada en las distribuciones posteriores\"."
+    }
+  ],
+  "definitions": []
+}

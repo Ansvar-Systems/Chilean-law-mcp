@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135804",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2014",
+  "status": "in_force",
+  "issued_date": "1907-09-02",
+  "in_force_date": "1907-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135804",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se eleva a cincuenta pesos mensuales la pension asignada por la lei de 17 de setiembre de 1890 a doña Jesus Urízar, viuda de Pradel, i a su hija soltera doña Natalia Pradel Urízar."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22774",
+  "type": "statute",
+  "title": "QUE PROMULGA EL PRESUPUESTO JENERAL DE GASTOS PARA 1903",
+  "short_name": "Ley 1593",
+  "status": "in_force",
+  "issued_date": "1903-02-10",
+  "in_force_date": "1903-02-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22774",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Moneda Corriente Oro\n________________ ____________\nInterior_____________ $ 11.847,238.31 $ 544,189.33\nRelaciones\nEsteriores_________ 402,389.40 940,497.07\nCulto________________ 976,775.00 ----------\nColinizacion_________ 807,790.00 107,000.00\nJusticia_____________ 4.944,896.43 ----------\nInstruccion Pública__ 10.660,331.32 40,800.00\nHacienda_____________ 7.666,581.65 18.651,635.97\nGuerra_______________ 10 291,872.13 75,800.00\nMarina_______________ 8.194,562.63 3.159,012.88\nIndustria____________ 1.381,348.50 ----------\nObras Públicas_______ 2.801,575.02 134,067.77\nFerrocarriles________ 22.048,494.18 ----------\n________________ ____________\nTOTALES__ $ 82.023,854.57 $ 23.653,003.02\nCuyos totales ascienden a ochenta i dos millones veintitres mil ochocientos cincuenta i cuatro pesos cincuenta i siete centavos en moneda corriente, i a veintitres millones seiscientos cincuenta i tres mil tres pesos dos centavos en oro."
+    }
+  ],
+  "definitions": []
+}

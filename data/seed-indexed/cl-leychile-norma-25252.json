@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25252",
+  "type": "statute",
+  "title": "APRUEBA PRESUPUESTOS DE ENTRADAS Y GASTOS CORRESPONDIENTES AL AñO 1937.",
+  "short_name": "Ley 5978",
+  "status": "in_force",
+  "issued_date": "1936-12-30",
+  "in_force_date": "1936-12-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25252",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Apruébase el Cálculo de Entradas y el Presupuesto de Gastos de la Nación para 1937, según el siguiente detalle:\nENTRADAS____________________________ $ 1,445.694,371.38\nGrupo \"A\" Bienes\nNacionales_________ 35.710,000.00\nGrupo \"B\" Servicios\nNacionales_________ 103.753,000.00\nGrupo \"C\"\nImpuestos Directos\ne Indirectos_______ 1,186.360,000.00\nGrupo \"D\" Entradas\nVarias_____________ 71.930,000.00\nSuperávit\ncalculado para\n1936_______________ 47.941,371.38\n________________\nGASTOS:_____________________________ $ 1,445.694,065.38\nPresidencia de la\nRepública__________\nCongreso Nacional__ 1.322,790.00\nServicios\nIndependientes_____ 10.072,633.00\nMinisterio del\nInterior___________ 4.721,370.00\nMinisterio de\nRelaciones\nExteriores_________ 270.737,879.00\nen m/c $ 3.946,766.0027.855,166.00\nen oro $ 5.977,100\na $ 4 m/l por\n$ oro__ 23.908,400.00\n_____________\nMinisterio de\nHacienda___________ 93.287,275.00\nen m/c $ 92.487,275.00\nen oro $: 200,000\na $ 4 m/ por\n$ oro__ $ 800,000.00\n_____________\nMinisterio de\nEducación__________ 241.982,042.00\nMinisterio de\nJusticia___________ 60.534,496.00\nMinisterio de\nDefensa Nacional:\nSubsecretaría de\nGuerra___________ 183.362,398.00\nSubsecretaría de\nMarina___________ 185.379,283.38\nSubsecretaría de\nAviación_________ 38.395,400.00\nMinisterio de\nFomento____________ 182.719,647.00\nMinisterio de\nAgricultura________ 9.721,641.00\nMinisterio de\nTierras y\nColonización_______ 17.780,226.00\nMinisterio del\nTrabajo____________ 33.442,895.00\nMinisterio de\nSalubridad Pública 84.378,924.00\n______________"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art1iculo 2.o Formará parte de las entradas ordinarias de 1937 la totalidad del superávit que arroje el balance del ejercicio presupuestario de 1936.\nEn la Ley de Presupuesto de 1937 se disminuirá en el cálculo de entradas el rendimiento previsto para la cuenta C-10 \"Derechos de Importación\", calculado en $ 620.000,000, en una suma igual al exceso del superávit de 1936 sobre lo previsto para el financiamiento del Presupuesto para 1937."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-27816",
+  "type": "statute",
+  "title": "DISPONE QUE LAS MERCADERIAS QUE INDICA NO ESTARAN\nAFECTAS A LAS TARIFAS QUE SEÑALA",
+  "short_name": "Ley 14624",
+  "status": "in_force",
+  "issued_date": "1961-09-12",
+  "in_force_date": "1961-09-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27816",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único. Las mercaderías provenientes del extranjero y que deban ser destinadas gratuitamente a los damnificados por el sismo de Mayo de 1960, no estarán afectas a las tarifas originadas en servicios prestados por la Empresa Portuaria de Chile, no rigiendo por tanto a su respecto lo que prescribe el artículo 31 del decreto con fuerza de ley N.o 290, de 1960.\""
+    }
+  ],
+  "definitions": []
+}

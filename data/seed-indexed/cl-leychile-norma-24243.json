@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24243",
+  "type": "statute",
+  "title": "LEI NUM. 3,784, QUE CONCEDE FONDOS PARA COMBATIR LA VIRUELA EN ATACAMA I COQUIMBO",
+  "short_name": "Ley 3784",
+  "status": "in_force",
+  "issued_date": "1921-09-05",
+  "in_force_date": "1921-09-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24243",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de cuarenta mil pesos ($ 40,000) en combatir la epidemia de viruelas en las provincias de Atacama i Coquimbo.\nEl gasto que importa esta lei se deducirá de la mayor entrada proveniente del premio del oro.\nEsta lei empezará a rejir desde la fecha de publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

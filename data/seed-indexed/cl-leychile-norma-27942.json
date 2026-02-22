@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-27942",
+  "type": "statute",
+  "title": "INSTITUYE EL 30 DE JUNIO DE CADA AÑO COMO EL DIA DEL BOMBERO Y ORDENA ACTOS CIVICOS CONMEMORATIVOS, EN LOS ESTABLECIMIENTOS EDUCACIONALES DEL PAIS.",
+  "short_name": "Ley 14866",
+  "status": "in_force",
+  "issued_date": "1962-06-27",
+  "in_force_date": "1962-06-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27942",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Institúyese la fecha del 30 de junio como \"El Día del Bombero\" destinado a conmemorar la fundación del Primer Cuerpo de Bomberos Voluntarios, organizado en Valparaíso el 30 de junio de 1851."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Las Escuelas Públicas y Particulares y los demás establecimientos de enseñanza del país organizarán, el último sábado del mes citado, actos cívicos conmemorativos\"."
+    }
+  ],
+  "definitions": []
+}

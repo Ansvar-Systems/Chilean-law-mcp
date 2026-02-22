@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23041",
+  "type": "statute",
+  "title": "LEI NUM. 1.970 QUE CONCEDE UN SUPLEMENTO PARA CREACION DE NUEVAS ESCUELAS",
+  "short_name": "Ley 1970",
+  "status": "in_force",
+  "issued_date": "1907-07-09",
+  "in_force_date": "1907-07-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23041",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de cincuenta mil pesos al ítem 2,990 del presupuesto de instruccion Pública para creacion de nuevas escuelas primarias en el territorio de la República i para el sostenimiento de las mismas i de las ya creadas que no figuran en el anexo, en conformidad al art. 4.° de la lei de 24 de noviembre de 1860 i al decreto núm. 3,081, de 5 de junio de 1905."
+    }
+  ],
+  "definitions": []
+}

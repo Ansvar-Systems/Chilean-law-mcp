@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27766",
+  "type": "statute",
+  "title": "DECLARA APLICABLES A LOS FUNCIONARIOS DE LA EX\nSUPERINTENDENCIA DE ABASTECIMIENTOS Y PRECIOS LAS\nDISPOSICIONES QUE INDICA Y FIJA LAS PENSIONES SEÑALADAS\nEN LA LEY N.o 11,881",
+  "short_name": "Ley 14556",
+  "status": "in_force",
+  "issued_date": "1961-04-14",
+  "in_force_date": "1961-04-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27766",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Declárase que a los funcionarios de la ex Superintendencia de Abastecimientos y Precios, incluídos en el DFL. N.o 331, de 4 de Abril de 1960, que no alcanzó a tramitarse por la Contraloría General de la República dentro de los plazos que establecía la ley N.o 13,305, se les aplicarán las disposiciones de ésta, a contar desde el 4 de Abril de 1960. En consecuencia, quedarán en igualdad de condiciones que los funcionarios cuyos cargos fueron suprimidos en virtud de las facultades administrativas que dicha ley otorgó al Presidente de la República y, en especial, les será aplicable el artículo 203 del citado cuerpo legal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto que signifique la aplicación del artículo anterior se financiará en la forma prevista en el artículo 203 de la ley N.o 13,305, inciso final."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Las pensiones señaladas en la ley N.o 11,881, no podrán ser inferiores, para todos sus efectos, al equivalente a dos vitales y medio de la provincia de Santiago, siempre que actualmente se encuentren sus beneficiarios clasificados por decreto supremo como ex directores de diarios. El mayor gasto que implique este artículo se imputará al artículo 2.o de la ley N.o 9.866.\""
+    }
+  ],
+  "definitions": []
+}

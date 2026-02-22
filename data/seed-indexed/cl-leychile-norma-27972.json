@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27972",
+  "type": "statute",
+  "title": "MODIFICA LOS ITEM QUE SEÑALA DEL PRESUPUESTO DE\nCAPITAL CORRESPONDIENTE AL AÑO 1962",
+  "short_name": "Ley 14903",
+  "status": "in_force",
+  "issued_date": "1962-09-11",
+  "in_force_date": "1962-09-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27972",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Modifícanse, en la forma que se expresa, los siguientes ítem del Presupuesto de Capital correspondiente al año 1962:\nSuprímese en el ítem 12|08|101.2, la siguiente frase:\n\"El aporte fiscal será hasta E° 4.850.000, pudiendo excederse este ítem por mayores aportes que se convengan con la International Development Asociation durante el año presupuestario de 1962.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Suprímese en el ítem 12|08|101.3, la siguiente frase:\n\"Este gasto se financiará con cargo al Convenio de Préstamo suscrito entre el Gobierno de Chile y el Development Loan Fund, del Gobierno de los Estados Unidos. Este ítem será excedible hasta el monto del Convenio.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Traspásanse las cantidades que se expresan, de los ítem que se indican, al ítem que se señala:\nE°\n__________\nDe los ítem 12|04|101.2 Arquitectura\nGeneral_____ 110.000\n07|01|110-15\nArquitectura Zona\nDevastada_______________ 900.000\n12|06|101\nPavimentación General___ 40.000\n12|09|101 Puertos\nGeneral_________________ 70.000\n07|01|110-20-a Puerto\nSan Vicente_____________ 1.800.000\n07|01|110-20-b\nPuertos Zona Devastada__ 450.000\n12|08|101-3 Túnel Lo\nPrado___________________ 780.000\n____________\nE° 4.150.000\nAl ítem 12|08|101-1 Dirección\nde Vialidad_________________ 4.150.000"
+    }
+  ],
+  "definitions": []
+}

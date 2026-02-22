@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23900",
+  "type": "statute",
+  "title": "LEI NUM. 3,330, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION RELACIONADOS CON LA ELECCION DE PRESIDENTE DE LA REPUBLICA.",
+  "short_name": "Ley 3330",
+  "status": "in_force",
+  "issued_date": "1917-11-30",
+  "in_force_date": "1917-12-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23900",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Reemplázanse los artículos 55 (64), 56 (65), 57 (66) i 58 (67) de la Constitucion Política, por los siguientes:\nArt. 55 (64). El nombramiento de electores se hará por departamentos noventa dias ántes de aquél en que espire la presidencia. Las calidades de los electores son las mismas que se requieren para ser Diputado.\nArt. 56 (65). Los electores reunidos cincuenta dias despues de aquél en que hayan sido nombrados procederán a la eleccion de Presidente, conforme a la Lei Jeneral de Elecciones.\nArt. 57 (66). Las mesas electorales formarán dos listas de todos los individuos que resultaren elejidos i despues de firmada por todos los electores, las remitirán firmadas i selladas, una al Cabildo de la capital de la Provincia, en cuyo archivo quedará depositada i cerrada i la otra al Senado.\nArt. 58 (67). Veinte dias ántes de aquél en que espire la presidencia se abrirán i leerán dichas listas en sesion pública de las dos Cámaras reunidas, que se celebrará en la Sala del Senado, a las dos de la tarde, haciendo de Presidente el que lo sea del Senado, i se procederá al escrutinio i en caso necesario a rectificar la eleccion.\nSi por cualquiera causa no terminasen estos actos en la fecha indicada, continuarán en los dias siguientes, constituyéndose el Congreso en sesion permanente."
+    }
+  ],
+  "definitions": []
+}

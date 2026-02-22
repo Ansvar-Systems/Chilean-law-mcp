@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1196600",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4332",
+  "status": "in_force",
+  "issued_date": "1928-06-21",
+  "in_force_date": "1928-06-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1196600",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para expropiar, en la provincia de Cautín, ciudad de Temuco, los terrenos ubicados a pocos kilómetros al Sur de dicha ciudad, en el lugar denominado \"Maquehua\", a orillas del río Cautín, o para permutarlos por otros, cuya ubicación y cabida determinará el Presidente de la República. Aquellos terrenos comprenden una superficie de 275 hectáreas, en que se encuentran radicadas las reducciones de Francisco Zenón Melivilu y Juan Llancanao, con títulos de merced otorgados por la Comisión Radicadora de Indígenas, el 9 de Marzo de 1905 y el 12 de Enero de 1906, por 107 y 168 hectáreas, respectivamente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Autorízase al Presidente de la República para ubicar a los propietarios de los terrenos señalados en el artículo anterior, en otros terrenos vacantes del territorio de colonización, si aceptaren permutarlos, para lo cual el Ministerio de Fomento designará una comisión especial que fije el monto de las indemnizaciones, la cabida y ubicación de los terrenos que recibirán como permuta."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Autorízase al Presidente de la República para invertir hasta la cantidad de cuarenta mil pesos ($ 40,000), en el pago de los traslados que correspondan, y de las indemnizaciones que procedan, o construcciones que sea del caso hacer en los nuevos terrenos que se cedan en permuta, en su caso, de acuerdo, en ambas situaciones, con la comisión especial a que se refiere el artículo anterior."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El gasto correspondiente, que se menciona en el artículo 3.o, se deducirá de los fondos que produzca el impuesto de la Ley de constitución de la Propiedad Austral, durante el año 1928."
+    }
+  ],
+  "definitions": []
+}

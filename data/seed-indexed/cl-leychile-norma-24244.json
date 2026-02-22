@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24244",
+  "type": "statute",
+  "title": "LEI NUM. 3,786, QUE CLASIFICA EN EL  3.ER ORDEN AL DEPARTAMENTO DE SAN ANTONIO PARA LOS EFECTOS DEL PAGO DE LAS PATENTES DE ALCOHOLES, I FIJA UN PLAZO EN ESTE DEPARTAMENTO PARA ENVIAR LAS LISTAS QUE SE INDICAN.",
+  "short_name": "Ley 3786",
+  "status": "in_force",
+  "issued_date": "1921-09-05",
+  "in_force_date": "1921-09-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24244",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Inclúyese en el tercer órden, de los departamentos a que se refiere el artículo 75 de la lei número 1,515, de 18 de Enero de 1902, modificada por la lei número 3,087, de 13 de Abril de 1916, el departamento de San Antonio creado por la lei número 3,212, de 29 de Enero de 1917."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° En las comunas del departamento de San Antonio en que no se hubiere cumplido con lo dispuesto en el inciso 1.° del artículo 78 de la lei número 3,087, sobre contribucion de alcoholes, se pasarán las listas establecidas en dicho inciso dentro de los treinta dias siguientes a la promulgacion de la presente lei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° La presente lei empezará a rejir desde su promulgacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

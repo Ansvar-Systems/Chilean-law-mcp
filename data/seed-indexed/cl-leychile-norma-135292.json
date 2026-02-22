@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135292",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1656",
+  "status": "in_force",
+  "issued_date": "1904-07-13",
+  "in_force_date": "1904-07-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135292",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- La dotacion del Cuerpo de Jendarmes de las Colonias será, por el presente año, la misma que consultaba con sus sueldos la lei de presupuestos del año próximo pasado."
+    }
+  ],
+  "definitions": []
+}

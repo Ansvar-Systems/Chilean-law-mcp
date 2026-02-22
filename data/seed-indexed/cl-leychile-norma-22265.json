@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22265",
+  "type": "statute",
+  "title": "LEI QUE AUTORIZA INVERSION DE FONDOS",
+  "short_name": "Ley 917",
+  "status": "in_force",
+  "issued_date": "1897-02-23",
+  "in_force_date": "1897-02-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22265",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la suma de cuarenta i cinco mil pesos en el pago de las cantidades que se consignan en el cuadro adjunto."
+    }
+  ],
+  "definitions": []
+}

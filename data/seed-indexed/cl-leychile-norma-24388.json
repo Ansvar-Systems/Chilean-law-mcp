@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24388",
+  "type": "statute",
+  "title": "LEI NÚM. 3,995, QUE CONCEDE LIBERACION DE DERECHOS DE INTERNACION PARA EL HOSPITAL DE TALCA",
+  "short_name": "Ley 3995",
+  "status": "in_force",
+  "issued_date": "1923-12-28",
+  "in_force_date": "1924-01-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24388",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declaran libres de derechos de internacion las maquinarias y accesorios destinados al establecimiento de una lavandería a vapor en el Hospital y Hospicio de la ciudad de Talca, siempre que sus derechos no excedan de la suma de tres mil pesos, moneda nacional de oro."
+    }
+  ],
+  "definitions": []
+}

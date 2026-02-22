@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22716",
+  "type": "statute",
+  "title": "QUE ESTABLECE LA PATENTE QUE DEBEN PAGAR LAS PERTENENCIAS FORMADAS CON DEPOSITOS DE LAS SUSTANCIAS MINERALES COMPRENDIDAS EN EL INCISO 3º DEL ART. 2º DEL CODIGO DE MINERIA.",
+  "short_name": "Ley 1524",
+  "status": "in_force",
+  "issued_date": "1902-01-23",
+  "in_force_date": "1902-01-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22716",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Las pertenencias formadas con depósitos de las sustancias minerales comprendidas en el inciso 3.° del artículo 2.° del Código de Minería, pagarán una patente de un peso por hectárea durante un año, a contar desde el 3 de Enero de 1902. Esta patente se elevará en un peso por hectárea en cada uno de los años siguientes hasta llegar a la de cinco pesos por hectárea, que establece la parte segunda del artículo 130 del Código citado."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23503",
+  "type": "statute",
+  "title": "Concede varios suplementos al Ministerio de Hacienda;i la suma de $ 100,000 para el pago de cuentas;pendientes, i deduce el gasto de un item del;Presupuesto.",
+  "short_name": "Ley 2795",
+  "status": "in_force",
+  "issued_date": "1913-08-20",
+  "in_force_date": "1913-08-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23503",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- Concédese los siguientes suplementos a los Item del Presupuesto de Hacienda que a continuacion se indican:\nItem 1,250.- Para pago de sueldos a los\nempleados supernumerarios i a los que\nsubroguen a los propietarios lejítima i\ntemporalmente impedidos para ejercer sus\nfunciones, veinte mil pesos_______________$ 20,000\nItem 1,742.- Para mayor cánon de arriendo de\noficinas i arriendo de las mismas, que\nesten situadas en localidades en donde no\nexistan edificios fiscales adecuados al\nobjeto, diez mil pesos____________________$ 10,000\nItem 1,752.- Para reparaciones de muelles i\nmalecones durante el año, debiendo\ncontratarse los trabajos por propuestas\npúblicas, siempre que su valor exceda de\ndiez mil pesos, treinta mil pesos_________$ 30,000\nitem 1,608.- Reconocimiento i planificacion,\nveinticinco mil pesos_____________________$ 25,000\nItem 1,610.- Para cateos i cubicacion de los\nterrenos destinados a la venta, veinticinco\nmil pesos_________________________________$ 25,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Autorízase al Presidente de la República para que invierta hasta la cantidad de cien mil pesos en atender a los gastos que demande la cancelacion de las cuentas pendientes del Ministerio de Hacienda."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Se dejará sin invertir la cantidad de $ 210.000 consultada en el item 1,758 del Presupuesto de Hacienda, para intereses del cinco por ciento i amortizacion del dos por ciento de la emision de tres millones de pesos autorizada por la lei N.° 1,858, de 19 de Febrero de 1906, gratificacion que la misma acuerda a los jefes, oficiales i soldados que hicieron la campaña de 1879-1884."
+    }
+  ],
+  "definitions": []
+}

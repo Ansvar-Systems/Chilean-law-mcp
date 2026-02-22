@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-138077",
+  "type": "statute",
+  "title": "ESTABLECE DIA DEL MAESTRO",
+  "short_name": "Ley 16662",
+  "status": "repealed",
+  "issued_date": "1967-08-24",
+  "in_force_date": "1977-10-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138077",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º.- Declárase \"Día del Maestro\" el 11 de Septiembre, destinado a las fiestas que Padres, Apoderados y Alumnos realicen en homenaje a los educadores, ya sea en actos públicos o privados.\nEl Ministerio de Educación Pública, en esta fecha, rendirá un homenaje al Maestro y entregará una medalla de oro a los que cumplan, en el año, 35 años de servicios.\nEn provincia este acto se realizará en cada ciudad donde un profesor cumpla 35 años de servicios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- La presente ley empezará a regir el 1º de Enero de 1967.\nEl Presupuesto de la Nación consultará anualmente en el ítem 09-01/3-27 del Presupuesto de la Secretaría y Administración General del Ministerio de Educación Pública, las sumas necesarias para cubrir el gasto que demande la aplicación del artículo anterior."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-27511",
+  "type": "statute",
+  "title": "DISPONE QUE LA CORPORACION DE LA VIVIENDA ENTREGARA\nA TITULO GRATUITO, A LOS DEUDOS DE LAS VICTIMAS DE LA\nCATASTROFE OCURRIDA EN LA BARRA DEL RIO MAULE EL 4 DE\nSEPTIEMBRE DE 1959, UNA CASA HABITACION DE LAS\nCONSULTADAS POR ELLA, PARA LA CIUDAD DE CONSTITUCION",
+  "short_name": "Ley 13579",
+  "status": "in_force",
+  "issued_date": "1959-10-08",
+  "in_force_date": "1959-10-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27511",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° La Corporación de la Vivienda entregará, a título gratuito, a Julia San Martín Chamorro viuda de Juan Antonio Sapúlveda Encina; María Isabel Peña Valenzuela viuda de Manuel Verdugo Cáceres; José del Carmen Tapia y Celsa Gómez Fierro, padres del pescador Luis Alfredo Tapia Gómez; María Mercedes Lagos Lagos, viuda de Nieves Segundo Vergara Bahamondes e Isolina Salgado Albornoz, abuela del pescador Aníbal Salgado Salgado; deudos de las víctimas de la catástrofe ocurrida en la barra del río Maule el 4 de septiembre de 1959, una casa habitación de las que dicha Corporación consulte en la ciudad de Constitución."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Las casas habitaciones que sean entregadas en virtud del artículo anterior, no podrán ser transferidas, enajenadas o gravadas dentro del plazo de 10 años, a contar desde su entrega.\""
+    }
+  ],
+  "definitions": []
+}

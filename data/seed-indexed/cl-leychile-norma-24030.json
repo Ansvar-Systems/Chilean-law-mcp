@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24030",
+  "type": "statute",
+  "title": "Lei núm. 3,516, que concede fondos para la;traslacion de los obreros desocupados de las salitreras.",
+  "short_name": "Ley 3516",
+  "status": "in_force",
+  "issued_date": "1919-07-16",
+  "in_force_date": "1919-07-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24030",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para invertir hasta la cantidad de trescientos mil pesos ($300,000), en la atencion de los gastos que demanden la traslacion i alimentacion de los obreros desocupados con motivo de la paralizacion de las salitreras."
+    }
+  ],
+  "definitions": []
+}

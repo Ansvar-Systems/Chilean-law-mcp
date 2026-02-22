@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1216900",
+  "type": "statute",
+  "title": "",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1888-08-31",
+  "in_force_date": "1888-09-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1216900",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "Artículo único.- Concédese por gracia a doña Irene Morales, ex-cantinera del ejército espedicionario al Perú i Bolivia, una pensión vitalicia de 15 pesos mensuales."
+    }
+  ],
+  "definitions": []
+}

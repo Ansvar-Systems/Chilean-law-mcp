@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-136238",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2087",
+  "status": "repealed",
+  "issued_date": "1908-02-15",
+  "in_force_date": "1928-04-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136238",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.º Los nacionales i los estranjeros nacionalizados que hayan ocupado i cultivado personalmente tierras fiscales situadas al sur de la provincia de Concepcion por mas de tres años, anteriores al 1.º de enero de 1908, tendrán derecho a que él Presidente de la República les otorgue título definitivo de propiedad aunque no reunan los requisitos exijidos para ser colonos nacionales o estranjeros.\nEsta disposicion no se aplica a los ocupantes situados en el territorio de Magallánes.\nSe concederán hasta cuarenta (40) hectáreas por cada padre de familia o madre viuda i veinte (20) hectáreas por cada hijo varon mayor de doce años.\nPara este efecto se formará i publicará en el Diario Oficial, con los detalles correspondientes, el empadronamiento de las familias que se encuentren en las condiciones a que se refiere el inciso anterior.\nEl Presidente de la República nombrará comisiones encargadas de formar dicha matrícula i ellas concederán a cada ocupante un título provisorio de merced, el cual servirá de base para el título definitivo que otorgará el Estado.\nDentro del plazo de seis meses, contados desde la fecha en que el Gobierno publique en el Diario Oficial la radicacion concluida en una subdelegacion determinada de los colonos a que se refiere esta lei, los ocupantes que se consideren perjudicados por las resoluciones de las comisiones radicadoras, podrán reclamar de ellas ante la justicia ordinaria.\nEstas reclamaciones serán tramitadas breve i sumariamente, en la forma preceptuada para los interdictos.\nLa resolucion judicial que reconozca al reclamante derecho a los beneficios de esta lei, servirá de título provisorio para los efectos de otorgar el definitivo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Los propietarios de las tierras situadas al sur de la provincia de Concepcion permitirán a los injenieros del Gobierno verificar los trabajos necesarios para levantar el plano de la rejion, bajo multa de diez a cien pesos por cada infraccion, multa que se irá duplicando cada vez en las reincidencias; se aplicará en la misma forma esta multa a los que destruyan las señales que construyan las comisiones de injenieros para llevar a cabo el levantamiento del plano."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Se autoriza la inversion de cien mil pesos ($ 100,000) en el cumplimiento de esta lei\"."
+    }
+  ],
+  "definitions": []
+}

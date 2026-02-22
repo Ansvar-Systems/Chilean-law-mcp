@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135343",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1764",
+  "status": "in_force",
+  "issued_date": "1905-09-12",
+  "in_force_date": "1905-09-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135343",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Se declaran de utilidad pública los terrenos necesarios para la construccion del ferrocarril de Melipilla a San Antonio en la seccion comprendida entre Puangue i El Sauce i para la formacion de un pozo de lastre entre los kilómetros 73,5 y 74\"."
+    }
+  ],
+  "definitions": []
+}

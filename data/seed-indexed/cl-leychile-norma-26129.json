@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26129",
+  "type": "statute",
+  "title": "TRASPASA LAS CANTIDADES QUE INDICA DEL PRESUPUESTO\nVIGENTE A LA FECHA DE LA PRESENTE LEY",
+  "short_name": "Ley 9550",
+  "status": "in_force",
+  "issued_date": "1949-12-28",
+  "in_force_date": "1950-01-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26129",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o. Traspásanse las siguientes cantidades a los ítem que se indican del Presupuesto vigente:\nDE LOS ITEM:\nMINISTERIO DE HACIENDA\nSubsecretaría\n06/01/12 Planta suplementaria___ $ 1.525.000\nMINISTERIO DE ECONOMIA Y COMERCIO\nSubsecretaría\n17/01/04/f-2 Pasajes y fletes en\nempresas privadas______ $ 4.000\n\" v-1 Para imprevistos ______ 8.000\nDirección de Comercio\n17/07/04/c Viáticos_______________ 30.000\n\" j Impresos, impresiones y\npublicaciones__________ 20.000\n_______________\n$ 1.587.000\n_______________\n_______________\nA LOS ITEM:\nMINISTERIO DE HACIENDA\nSubsecretaría\n06/01/04/g Materiales y artículos\nde consumo_____________ $ 25.000\nMINISTERIO DE DEFENSA NACIONAL\nSubsecretaría de Aviación\n11/01/04/i-1 Rancho o alimentación__ 250.000\n\" r-1 Electricidad y gas por\nintermedio de\nAprovisionamiento______ 250.000\n\" q Mantenimiento de\naviones________________ 1.000.000\nMINISTERIO DE ECONOMIA Y COMERCIO\nSubsecretaría\n17/01/04/k Gastos generales de\noficina________________ 6.000\n\" l Conservación y\nreparaciones___________ 6.000\nDirección de Comercio\n17/07/04/g Materiales y artículos\nde consumo_____________ 20.000\n\" k Gastos generales de\noficina________________ 15.000\n\" l Conservación y\nreparaciones___________ 15.000\n_______________\n$ 1.587.000\n_______________\n_______________"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Los fondos consultados en la presente ley sólo podrán ser invertidos en el pago de compromisos contraídos en el año 1949."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Las cantidades que no se alcancen a invertir al 31 de Diciembre de 1949 se contabilizarán en \"obligaciones por cumplir\"."
+    }
+  ],
+  "definitions": []
+}

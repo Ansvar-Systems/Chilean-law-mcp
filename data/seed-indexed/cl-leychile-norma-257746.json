@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-257746",
+  "type": "statute",
+  "title": "COMPLEMENTA LA LEY 7,869, RELACIONADA CON LA SOCIEDAD\nCONSTRUCTORA DE ESTABLECIMIENTOS EDUCACIONALES",
+  "short_name": "Ley 9654",
+  "status": "amended",
+  "issued_date": "1950-08-21",
+  "in_force_date": "1951-01-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=257746",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o a) Agrégase la siguiente frase final al inciso primero del artículo 19 de la ley N.o 7,869;\n\"Y en la atención de los gastos que demande la conservación y reparación de dichos establecimientos\".\nb) Agrégase el siguiente inciso al mismo artículo 19:\n\"El otro 50% del dividendo correspondiente al Fisco se invertirá en acciones de la clase \"A\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o. Con los fondos a que se refiere el inciso 1.o del artículo 19 de la ley N.o 7,869, modificado por la disposición precedente, se dará preferencia a la cancelación de las sumas que el Fisco adeuda a la Sociedad Constructora de Establecimientos Educacionales por obras de reparación y conservación ya ejecutadas en los edificios escolares."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley regirá desde el día 1.o de Enero de 1951\"."
+    }
+  ],
+  "definitions": []
+}

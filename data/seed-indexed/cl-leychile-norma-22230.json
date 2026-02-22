@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22230",
+  "type": "statute",
+  "title": "PROLONGACION DEL FERROCARRIL DE ARICA I TACNA HASTA EL PUNTO DENOMINADO SAN FRANCISCO",
+  "short_name": "Ley 381",
+  "status": "in_force",
+  "issued_date": "1896-09-15",
+  "in_force_date": "1896-09-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22230",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a la Empresa del Ferrocarril de Arica i Tacna, o a quien sus derechos represente, una prórroga de dieziocho meses contada desde la promulgacion de esta lei, para que concluya i entregue al servicio público la prolongacion de dicho ferrocarril hasta el punto denominado San Francisco."
+    }
+  ],
+  "definitions": []
+}

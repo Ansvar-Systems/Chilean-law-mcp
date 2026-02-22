@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1172623",
+  "type": "statute",
+  "title": "PROHÍBE LA DISCRIMINACIÓN LABORAL FRENTE A MUTACIONES O ALTERACIONES DE MATERIAL GENÉTICO O EXÁMENES GENÉTICOS",
+  "short_name": "Ley 21422",
+  "status": "in_force",
+  "issued_date": "2022-02-03",
+  "in_force_date": "2022-02-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1172623",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1°",
+      "content": "\"Artículo 1°.- Ningún empleador podrá condicionar la contratación de trabajadores, su permanencia o la renovación de su contrato, o la promoción o movilidad en su empleo, a la ausencia de mutaciones o alteraciones en su genoma que causen una predisposición o un alto riesgo a una patología que pueda llegar a manifestarse durante el transcurso de la relación laboral, ni exigir para dichos fines certificado o examen alguno que permita verificar que el trabajador no posee en su genoma humano mutaciones o alteraciones de material genético que puedan derivar en el desarrollo o manifestarse en una enfermedad o anomalía física o psíquica en el futuro."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2°",
+      "content": "Artículo 2°.- El trabajador podrá manifestar su consentimiento libre e informado para realizarse un examen genético, de conformidad con lo dispuesto en el artículo 14 de la ley N° 20.584, siempre y cuando esté dirigido a asegurar que reúne las condiciones físicas o psíquicas necesarias e idóneas para desarrollar trabajos o faenas calificados como peligrosos, con la única finalidad de proteger su vida o integridad física o psíquica, como asimismo la vida o la salud física o mental de otros trabajadores. En caso de ser requeridos estos exámenes por el empleador, éste deberá asumir su costo. Asimismo, en caso de existir relación laboral vigente, el tiempo utilizado en la realización de dichos exámenes se entenderá como trabajado para todos los efectos legales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3°",
+      "content": "Artículo 3°.- Los establecimientos de salud y los laboratorios que realicen este tipo de exámenes, como asimismo los empleadores que accedan a esta información, deberán adoptar todas las medidas de seguridad prescritas en la ley N° 20.584 y en el artículo 12 de ley N° 20.120, con el fin de proteger la intimidad del trabajador y garantizar un manejo reservado de los datos.\nEl trabajador siempre tendrá derecho a acceder a la información que arroje un examen genético.\"."
+    }
+  ],
+  "definitions": []
+}

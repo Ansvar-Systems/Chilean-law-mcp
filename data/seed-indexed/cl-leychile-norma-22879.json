@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22879",
+  "type": "statute",
+  "title": "LEI DE PRESUPUESTO PARA EL AÑO I905.",
+  "short_name": "Ley 1726",
+  "status": "in_force",
+  "issued_date": "1905-01-28",
+  "in_force_date": "1905-01-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22879",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "=======================================================\nMINISTERIOS || Moneda corriente | Oro |\n_______________||____________________|________________|\nInterior______ ||$ 15 598 393,8I|$ 906 766,66|\nRelaciones || | |\nEsteriores____ || 228 745,00| 874 162,27|\nCulto_________ || 1 044 680,00| ______________ |\nColonizacion__ || 1 279 130,00| ______________ |\nJusticia______ || 5 639 150,01| ______________ |\nInstruccion || | |\nPública_______ || I5 127 012,15| 135 033,33|\nHacienda______ || 8 357 22I,80| I3 653 513,67|\nGuerra________ || 11 361 154,29| 61 600,00|\nMarina________ || 8 923 296,62| 5 173 599,80|\nIndustria_____ || 2 236 377,56| 73 383,33|\nObras Públicas || 4 560 369,85| ______________ |\nFerrocarriles_ || 36 737 037,52| 830 034,09|\n||____________________|________________|\nTOTALES_____ ||$ 111 142 568,61|$ 21 708 093,15|\n|| | |\n=======================================================\nCuyos totales ascienden a ciento once millones ciento cuarenta i dos mil quinientos sesenta i ocho pesos i sesenta un centavos en meneda corriente, i a veintiun millones setecientos ocho mil noventa i tres pesos quince centavos en oro, debiendo hacerse la inversion en conformidad con las disposiciones del decreto 4I20, de 24 de Diciembre de I903, espedido por el Ministerio de Hacienda."
+    }
+  ],
+  "definitions": []
+}

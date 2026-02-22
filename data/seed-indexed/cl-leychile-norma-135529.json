@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135529",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1540",
+  "status": "in_force",
+  "issued_date": "1902-07-22",
+  "in_force_date": "1902-07-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135529",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En atencion a los servicios prestados al pais por el señor don Tadeo Izquierdo, asígnase a su viuda, doña Remedios Varas, una pension anual de mil quinientos pesos."
+    }
+  ],
+  "definitions": []
+}

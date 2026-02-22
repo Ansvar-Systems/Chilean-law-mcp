@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-144252",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3978",
+  "status": "in_force",
+  "issued_date": "1923-08-10",
+  "in_force_date": "1923-08-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=144252",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- En atencion a los servicios prestados durante la guerra del Pacífico por el capitan de fragata, don Alberto Fuentes M., se le concede, por gracia, el derecho a gozar de una pension de retiro equivalente al sueldo de que disfruten en servicio activo los jefes de la clase inmediatamente superior, debiendo tomarse igualmente por base, dicho sueldo, para los efectos de la lei de montepío militar.\""
+    }
+  ],
+  "definitions": []
+}

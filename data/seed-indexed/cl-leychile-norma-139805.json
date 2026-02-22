@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-139805",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3183",
+  "status": "in_force",
+  "issued_date": "1916-12-29",
+  "in_force_date": "1917-01-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=139805",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Se declaran de utilidad pública todos los terrenos necesarios para llevar a efecto el ensanchamiento de la calle Portales de la ciudad de Osorno, en conformidad al plano levantado por la Direccion de Obras Municipales con fecha 30 de mayo del presente año.\nEl ensanchamiento se hará de manera que la calle quede con doce metros a cada lado, medidos desde el eje de la línea férrea que atraviesa dicha calle."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Las espropiaciones de los terrenos a que se refiere el artículo 1.º, se efectuarán por la Municipalidad, cada vez que los propietarios soliciten línea para construir o reconstruir.\nPodrá tambien la Municipalidad acordar, por los dos tercios de sus miembros en ejercicio, las espropiaciones necesarias para dar cumplimiento a esta lei, sin esperar la construccion o reconstruccion de los edificios.\nLlegado el momento de la espropiacion de una estension de terreno, se procederá a efectuarla en conformidad a la lei de 18 de junio de 1857."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Cuando un propietario pida la línea para reconstruir o cuando sea obligado a demoler el edificio por su mal estado, no tendrá derecho a indemnizacion sino por el valor del terreno cedido a la via pública.\nSi la espropiacion de una propiedad fuera parcial, será de abono a la Municipalidad, en el pago del precio, el mayor valor que la parte no espropiada tomare a consecuencia de los trabajos a que la espropiacion se destina. En este caso, el propietario podrá exijir que se le espropie toda la propiedad."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º La Municipalidad venderá en pública subasta los terrenos que hubiere adquirido en conformidad al artículo anterior i aplicará su producto a la amortizacion estraordinaria de las deudas que hubiere contraido para pagar las espropiaciones referidas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º El pago de las espropiaciones a que dé lugar la presente lei, lo hará el Municipio emitiendo bonos hasta por la cantidad de doscientos mil pesos ($ 200,000) i para lo cual solicitará la facultad necesaria de la autoridad correspondiente."
+    }
+  ],
+  "definitions": []
+}

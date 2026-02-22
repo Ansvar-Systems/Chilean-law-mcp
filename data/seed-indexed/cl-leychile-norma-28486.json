@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28486",
+  "type": "statute",
+  "title": "ESTABLECE FECHA PARA FORMULAR LA DECLARACION QUE\nINDICA Y PAGAR LAS CONTRIBUCIONES QUE SEÑALA",
+  "short_name": "Ley 16486",
+  "status": "in_force",
+  "issued_date": "1966-05-25",
+  "in_force_date": "1966-06-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28486",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Los propietarios con derecho a acogerse a la franquicia establecida en el artículo 22° de la ley N° 4.174, cuyo texto fue fijado por la ley N° 16.467, deberán formular la declaración a que se refiere el inciso tercero del artículo 22° de la ley número 4.174, dentro de los 60 días siguientes al de la publicación de la presente ley, para que puedan gozar de dicha franquicia a contar del 1° de Enero de 1966."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Las contribuciones de bienes raíces correspondientes al segundo semestre de 1965 y primer semestre de 1966, de los predios ubicados en las provincias de Chiloé, Aysen y Magallanes, se pagarán durante el mes de Agosto de 1966."
+    }
+  ],
+  "definitions": []
+}

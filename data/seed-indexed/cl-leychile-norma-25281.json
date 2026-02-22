@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25281",
+  "type": "statute",
+  "title": "SUPRIME EL JUZGADO DE LETRAS DE MENOR CUANTIA DE\nMAULLIN",
+  "short_name": "Ley 6062",
+  "status": "in_force",
+  "issued_date": "1937-07-27",
+  "in_force_date": "1937-07-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25281",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Suprímese el Juzgado de Letras de Menor Cuantía de Maullín, con jurisdicción sobre la antigua comuna del mismo nombre, creado por el N.o 5,559 de 4 de Enero del año 1935."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El personal del Juzgado de Letras de Menor Cuantía de Maullín, que quedare cesante con motivo de la supresión a que se refiere el artículo 1.o tendrá derecho por una sola vez a pasaje y flete de cargo fiscal, con arreglo a las disposiciones del respectivo Reglamento."
+    },
+    {
+      "provision_ref": "art3-final",
+      "section": "3 FINAL",
+      "title": "Artículo 3 FINAL",
+      "content": "Artículo final. La presente Ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

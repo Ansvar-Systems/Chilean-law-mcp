@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22377",
+  "type": "statute",
+  "title": "EDIFICIO DEL CONGRESO",
+  "short_name": "Ley 1052",
+  "status": "in_force",
+  "issued_date": "1898-07-23",
+  "in_force_date": "1898-07-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22377",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Concédese un suplemento de doscientos mil pesos al ítem 6, partida 65 del presupuesto del Ministerio del Interior, destinado a la prosecucion de los trabajos del edificio del Congreso Nacional."
+    }
+  ],
+  "definitions": []
+}

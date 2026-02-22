@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23785",
+  "type": "statute",
+  "title": "AUTORIZA LA ADQUISICION DE LA PROPIEDAD SIGNADA CON EL NUM. 1,289 DE LA CALLE COMPAÑÍA DE SANTIAGO",
+  "short_name": "Ley 3174",
+  "status": "in_force",
+  "issued_date": "1917-01-02",
+  "in_force_date": "1917-01-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23785",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.-Autorízase al Presidente de la República para que adquiera en remate público la propiedad número 1,289 de la calle de Compañía de esta ciudad.\nEl valor del remate se deducirá de las sumas que reciba el Erario Nacional por redencion de censos."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-22829",
+  "type": "statute",
+  "title": "Fija las prescripciones para la concesion de;permisos i para hacer las instalaciones eléctricas en la;República",
+  "short_name": "Ley 1665",
+  "status": "repealed",
+  "issued_date": "1904-08-04",
+  "in_force_date": "1925-02-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22829",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. La concesion de permisos para la instalacion de empresas eléctricas destinadas al servicio del público, i la autorizacion para ocupar los bienes nacionales o fiscales con líneas eléctricas de cualquiera especie, corresponderá al Presidente de la República.\nA la misma autoridad corresponderá la vijilancia de las empresas i líneas eléctricas en lo que respecta a las condiciones de seguridad que deben ofrecer su instalacion i funcionamiento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Los permisos para instalaciones eléctricas subterráneas podrán otorgarse por un plazo de veinte años; i, para instalaciones eléctricas aéreas, no podrán exceder de diez años."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° En las ciudades de Santiago i Valparaíso i en las demas en que hubiere tranvías eléctricos, las líneas eléctricas de teléfonos, de alumbrado i demas que tengan por objeto la distribucion de fuerza o enerjía eléctrica, se canalizarán subterráneamente dentro del recinto que fije el Presidente de la República.\nLa canalizacion de las líneas existentes se efectuará en el término de cuatro años.\nSe esceptúan de estas disposiciones las líneas destinadas esclusivamente al servicio de tranvías."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Dentro del plazo de seis meses, contados desde la fecha de la promulgacion de esta lei, las empresas de tranvías eléctricos colocarán en todos los carros que empleen para el tráfico trompas o rejas salvavidas, conforme a las indicaciones que al respecto se prescriban en el reglamento a que se refiere el artículo siguiente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° El Presidente de la República dictará reglamentos en que se determinen las condiciones a que deben sujetarse la instalacion i funcionamiento de los servicios eléctricos a que la presente lei se refiere."
+    }
+  ],
+  "definitions": []
+}

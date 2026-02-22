@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24427",
+  "type": "statute",
+  "title": "LEI NUM. 4,047, QUE AUMENTA LA PLANTA DE JEFES DEL EJERCITO Y DISMINUYE LA DE TENIENTES. DISPONE TAMBIEN QUE LOS TENIENTES 2.ºS SE DENOMINARAN SUB-TENIENTES.",
+  "short_name": "Ley 4047",
+  "status": "in_force",
+  "issued_date": "1924-09-08",
+  "in_force_date": "1924-09-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24427",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Auméntase la actual planta del Ejército, fijada por las leyes número 2,080, de 25 de enero de 1908; número 2,341, de 12 de diciembre de 1910, y número 2,582, de 11 de diciembre de 1911, en las siguientes plazas: 7 Coroneles 4 Tenientes-coroneles y 28 Mayores, y disminúyense en 114 las de tenientes 1.os y 2.os"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.° Se sustituyen en la jerarquía militar los grados de teniente 1.° y teniente 2.o por las de teniente y sub-teniente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.° La disminución en el número de tenientes 1.os y 2.os se llevará a efecto a medida que vaquen las plazas correspondientes."
+    }
+  ],
+  "definitions": []
+}

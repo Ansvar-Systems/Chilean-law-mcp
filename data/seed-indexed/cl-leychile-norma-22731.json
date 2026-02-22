@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22731",
+  "type": "statute",
+  "title": "RECLUTAS I REEMPLAZOS.- SE AUTORIZA LA INVERSION DE $ 1.000,000 EN ATENDER A LOS GASTOS QUE DEMANDE ESTE SERVICIO DURANTE 1902.",
+  "short_name": "Ley 1541",
+  "status": "in_force",
+  "issued_date": "1902-07-30",
+  "in_force_date": "1902-08-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22731",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para invertir hasta la cantidad de un millon de pesos ($ 1.000,000) en atender a los gastos que demande el cumplimiento de la Lei de Reclutas i Reemplazos, durante el presente año."
+    }
+  ],
+  "definitions": []
+}

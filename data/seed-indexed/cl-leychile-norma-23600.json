@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23600",
+  "type": "statute",
+  "title": "CONCEDE FONDOS PARA LA ADQUISICION DE UN CUADRO DESTINADO AL CONGRESO NACIONAL",
+  "short_name": "Ley 2925",
+  "status": "in_force",
+  "issued_date": "1914-09-02",
+  "in_force_date": "1914-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23600",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para invertir la cantidad de veinte mil pesos ($ 20,000) en pagar a don Pedro Subercaseaux el valor del cuadro decorativo, \"Llegada de Almagro a Chile\", colocado en el Salon de Honor del Congreso Nacional."
+    }
+  ],
+  "definitions": []
+}

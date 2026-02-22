@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-1198284",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 21.075, QUE REGULA LA RECOLECCIÓN, REUTILIZACIÓN Y DISPOSICIÓN DE AGUAS GRISES, PARA FOMENTAR LA REUTILIZACIÓN DE AGUAS GRISES TRATADAS EN LA AGRICULTURA",
+  "short_name": "Ley 21623",
+  "status": "in_force",
+  "issued_date": "2023-11-14",
+  "in_force_date": "2023-11-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1198284",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Agrégase el siguiente numeral 6 en el artículo 8 de la ley N° 21.075, que regula la recolección, reutilización y disposición de aguas grises:\n\"6. Silvoagropecuarios. Incluye el riego de cultivos agrícolas, salvo los prohibidos en el artículo 9. Considera, entre otros, el riego de especies arbóreas o arbustivas frutales, cereales, cultivos industriales, viveros, cultivos de plantas leñosas, cultivos ornamentales, cultivos de flores, praderas o empastadas y producción de semillas.\"."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "primero Transitorio",
+      "title": "Artículo primero Transitorio",
+      "content": "Artículo primero.- Sin perjuicio de lo que dispongan la Ley de Presupuestos del Sector Público u otras leyes, durante el primer año de vigencia de esta ley, en forma trimestral, la Comisión Nacional de Riego y el Instituto de Desarrollo Agropecuario informarán a las comisiones de Agricultura y de Recursos Hídricos, Desertificación y Sequía del Senado y a las comisiones de Agricultura, Silvicultura y Desarrollo Rural y de Recursos Hídricos y Desertificación de la Cámara de Diputados, sobre la asignación de los recursos destinados a financiar sistemas de reutilización de aguas grises tratadas de uso agropecuario."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "segundo Transitorio",
+      "title": "Artículo segundo Transitorio",
+      "content": "Artículo segundo.- El reglamento al que alude la ley N° 21.075 deberá adecuarse a lo dispuesto en esta ley en el plazo de seis meses, contado desde la publicación de esta última.\"."
+    }
+  ],
+  "definitions": []
+}

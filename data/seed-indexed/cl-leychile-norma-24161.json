@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24161",
+  "type": "statute",
+  "title": "LEI NÚM. 3.669, QUE DECLARA FERIADO PARA VALPARAISO EL 20 DE SETIEMBRE DE 1920",
+  "short_name": "Ley 3669",
+  "status": "in_force",
+  "issued_date": "1920-09-13",
+  "in_force_date": "1920-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24161",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Declárase feriado para la provincia de Valparaiso, el dia 20 de Setiembre del presente año."
+    }
+  ],
+  "definitions": []
+}

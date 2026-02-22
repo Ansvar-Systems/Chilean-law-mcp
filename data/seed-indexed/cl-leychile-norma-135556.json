@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-135556",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1923",
+  "status": "in_force",
+  "issued_date": "1907-01-30",
+  "in_force_date": "1907-01-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135556",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Concédese a la \"Braden Copper Company\", o a quien sus derechos represente:\n1.º Permiso para construir i esplotar un ferrocarril a vapor, eléctrico o de sangre, que partirá de la ciudad de Rancagua hasta llegar al mineral \"El Teniente\", en la cordillera de los Andes;\n2.º El uso de los terrenos fiscales necesarios para la construccion de la via, sus estaciones, instalaciones para producir fuerza eléctrica i edificios anexos;\n3.º El uso de los caminos i calles de uso público que recorra o cruce la vía, sin perjuicio del tránsito jeneral."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Se declaran de utilidad pública los terrenos de propiedad municipal o particular que hayan de adquirirse durante el tiempo de la construccion de la obra, para la vía férrea, sus estaciones i anexos.\nLas espropiaciones se llevarán a efecto en conformidad a las disposiciones legales vijentes."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º La trocha de la línea i los planos definitivos de la obra deberán ser aprobados por el Presidente de la República.\nDichos planos se someterán a la aprobacion suprema dentro del plazo de seis meses, que comenzará a correr desde la publicacion de la presente lei en el Diario Oficial.\nSi trascurridos seis meses desde la presentacion de los planos, el Presidente de la República no decretare la modificacion de ellos, se tendrán como aprobados, i el concesionario podrá iniciar los trabajos.\nLa construccion de la via deberá iniciarse tres meses después de aprobados los planos, i concluirse en el plazo de tres años.\nSe considerará iniciada la obra cuando el concesionario hubiere invertido en ella cien mil pesos a lo ménos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Caducarán el permiso i las concesiones otorgadas en la presente lei si el concesionario no presentare los planos a la aprobacion del Presidente de la República, o no iniciare los trabajos, o no los terminare i entregare al tráfico público dentro de los plazos establecidos en el artículo precedente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º Las tarifas de carga, equipajes i pasajeros se someterán a la aprobacion del Presidente de la República."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.º Dentro de un mes contado desde la publicacion de la presente lei, el concesionario constituirá en arcas fiscales un depósito de diez mil pesos.\nEste depósito se aplicará a beneficio fiscal si el concesionario dejare de cumplir oportunamente cualquiera de las obligaciones que se le imponen en el Art. 3.º"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.º La compañía concesionaria o las personas o sociedades a quienes transfiera sus derechos, quedarán sometidos en lo que se relacione con esta concesion, a los tribunales chilenos, i no podrán en ningún caso recurrir al amparo diplomático."
+    }
+  ],
+  "definitions": []
+}

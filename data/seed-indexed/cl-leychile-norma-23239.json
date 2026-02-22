@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23239",
+  "type": "statute",
+  "title": "LEI NUM. 2,275, QUE CONCEDE UNA GRATIFICACION A LOS EMPLEADOS DE LA GUARDIA ESPECIAL DE VIJILANCIA MARITIMA DE VALPARAISO E IQUIQUE QUE HUBIEREN QUEDADO CESANTES.",
+  "short_name": "Ley 2275",
+  "status": "in_force",
+  "issued_date": "1910-03-05",
+  "in_force_date": "1910-03-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23239",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se concede, por gracia, a los empleados de la guardia especial de vijilancia maritíma de Valparaiso i de Iquique una gratificacion equivalente a un mes del sueldo de que disfrutaban en sus respectivos empleos.\nEsta asignacion se otorgará únicamente a aquellos empleados que hubieren quedado cesantes por supresion de los respectivos servicios, i siempre que no hubieren sido nombrados para desempeñar otro empleo fiscal."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23200",
+  "type": "statute",
+  "title": "LEI NUM. 2,211, QUE HABILITA COMO PUERTO MAYO TERRESTRE EL PUERTO MENOR DE HUAHUM, DEPENDIENTE DE LA ADUANA DE VALDIVIA.",
+  "short_name": "Ley 2211",
+  "status": "in_force",
+  "issued_date": "1909-09-07",
+  "in_force_date": "1909-09-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23200",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Habilítase como puerto mayor terrestre, dependiente de la Aduana de Valdivia, el puerto menor de Huahum."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23986",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3459",
+  "status": "in_force",
+  "issued_date": "1918-12-30",
+  "in_force_date": "1918-12-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23986",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Decláranse incluidos en el presupuesto del Ministerio de Marina los ítem 384 a 388 inclusive del presupuesto del año 1917 del mismo Ministerio, con un total de $ 19,000, moneda corriente.\n\"Déjese sin invertir en igual cantidad el ítem 619 del mismo presupuesto.\""
+    }
+  ],
+  "definitions": []
+}

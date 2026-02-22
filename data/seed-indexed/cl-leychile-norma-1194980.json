@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1194980",
+  "type": "statute",
+  "title": "DECLARA FERIADO EL DÍA 10 DE AGOSTO DE 2023 PARA LAS REGIONES DE TARAPACÁ Y ATACAMA",
+  "short_name": "Ley 21598",
+  "status": "in_force",
+  "issued_date": "2023-08-09",
+  "in_force_date": "2023-08-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1194980",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.- Declárase feriado el día 10 de agosto de 2023 para la Región de Tarapacá, con motivo de la celebración de la fiesta religiosa de San Lorenzo de Tarapacá."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- Declárase feriado el día 10 de agosto de 2023 para la Región de Atacama, con motivo de conmemorarse el Día del Minero.\"."
+    }
+  ],
+  "definitions": []
+}

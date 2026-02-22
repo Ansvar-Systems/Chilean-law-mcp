@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-26562",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA\nCONVERTIR Y CONSOLIDAR LAS OBLIGACIONES FISCALES QUE\nINDICA EN EL BANCO CENTRAL DE CHILE",
+  "short_name": "Ley 11134",
+  "status": "in_force",
+  "issued_date": "1952-12-10",
+  "in_force_date": "1952-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26562",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Se faculta al Presidente de la República para convertir y consolidar en el Banco Central de Chile, en un documento a largo plazo, las obligaciones fiscales actualmente vigentes que por un total de $ 3.400.000.000, han sido contratadas durante el presente año, con cargo a impuestos por percibir, por medio de letras de cambio giradas por la Caja Autónoma de Amortización de la Deuda Pública, aceptadas por el Tesorero General de la República y descontadas en dicho banco de acuerdo con las disposiciones contenidas en el artículo 15 de la ley 7,200, de 18 de Julio de 1942.\nEl nuevo documento que se suscriba conforme a la presente ley ganará intereses del 1 % anual y tendrá una amortización acumulativa del 2 %, también anual. El Fisco podrá efectuar, en cualquiera época, amortizaciones extraordinarias a este documento consolidado.\nSe entenderá que la operación a que se refiere el inciso primero de este artículo cumple la exigencia sobre pago en efectivo establecida en el inciso sexto del artículo 15 de la ley 7,200."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El servicio de esta obligación será realizado semestralmente por la Caja Autónoma de Amortización de la Deuda Pública con sus recursos propios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Las prohibiciones o restricciones contenidas en la Ley Orgánica del Banco Central de Chile no regirán para los efectos de esta ley."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Agrégase, en el inciso cuarto del artículo 15 de la ley N.o 7,200, de 18 de Julio de 1942, a continuación de la frase \"la Tesorería General de la República integrará\", lo siguiente: \"semanal y\",.\nAgrégase, a continuación del inciso cuarto del artículo 15 de la ley N.o 7,200, el siguiente inciso:\n\"El Tesorero General de la República será personalmente responsable del cumplimiento de esta obligación\"."
+    }
+  ],
+  "definitions": []
+}

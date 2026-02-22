@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-1105617",
+  "type": "statute",
+  "title": "ELIMINA BENEFICIO DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES EN MATERIA DE INTERESES DE LAS COTIZACIONES PREVISIONALES ADEUDADAS",
+  "short_name": "Ley 21023",
+  "status": "in_force",
+  "issued_date": "2017-07-14",
+  "in_force_date": "2017-08-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1105617",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Sustitúyese el inciso vigésimo del artículo 19 del decreto ley Nº 3.500, de 1980, que Establece Nuevo Sistema de Pensiones, por el siguiente:\n\"Los reajustes e intereses, incluidos los recargos a que se refieren los incisos undécimo y duodécimo, serán abonados conjuntamente con el valor de las cotizaciones en la cuenta de capitalización individual del afiliado. Serán de beneficio de la Administradora sólo las costas de cobranza.\"."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "PRIMERO Transitorio",
+      "title": "Artículo PRIMERO Transitorio",
+      "content": "Artículo primero.- La presente ley entrará en vigencia el primer día del mes posterior a su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "SEGUNDO Transitorio",
+      "title": "Artículo SEGUNDO Transitorio",
+      "content": "Artículo segundo.- Las disposiciones de esta ley se aplicarán a todos a los intereses, incluidos los recargos a que se refieren los incisos undécimo y duodécimo del artículo 19 del decreto ley Nº 3.500 de 1980, que estén devengados y no pagados, con excepción de aquellos que, a la fecha de su entrada en vigencia, estén en cobranza judicial, y en cuyas causas haya transcurrido el plazo para oponer excepciones sin que el ejecutado lo haya hecho o que, habiéndolas opuesto, éstas hayan sido rechazadas.\"."
+    }
+  ],
+  "definitions": []
+}

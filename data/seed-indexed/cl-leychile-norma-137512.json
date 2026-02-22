@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-137512",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2567",
+  "status": "in_force",
+  "issued_date": "1911-10-21",
+  "in_force_date": "1911-10-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=137512",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para contratar un empréstito que produzca hasta la suma de tres millones quinientas mil libras esterlinas ($ 3.500,000) a un tipo de interes que no exceda del cuatro i medio por ciento anual i con una amortizacion acumulativa, tambien anual, de uno por ciento, destinado a adquirir los elementos que se necesitan para la defensa nacional, incluso la adquisicion de un segundo \"Dreadnought\".\nEsta autorizacion durará por el término de tres años."
+    }
+  ],
+  "definitions": []
+}

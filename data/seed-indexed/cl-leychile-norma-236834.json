@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-236834",
+  "type": "statute",
+  "title": "AUTORIZA A LA FUERZA AEREA DE CHILE PARA QUE REALICE\nVUELOS HACIA Y DESDE PAISES EXTRANJEROS",
+  "short_name": "Ley 15701",
+  "status": "in_force",
+  "issued_date": "1964-09-16",
+  "in_force_date": "1964-09-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=236834",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o- Autorízase a la Fuerza Aérea de Chile para que realice vuelos de Transporte Aéreo Militar, en forma regular u ocasional, hacia y desde países extranjeros, los cuales deberán regresar al territorio nacional en un plazo que no exceda de sesenta días.\nFacúltase, asimismo, a la Fuerza Aérea de Chile para que pueda concurrir con sus aeronaves a países extranjeros en misiones de búsqueda, salvamento y rescate aéreo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o- Las tripulaciones de los transportes aéreos que viajen al exterior, tendrán derecho a percibir las remuneraciones o viáticos de acuerdo a lo establecido en las leyes y reglamentos vigentes para el personal que sea comisionado al extranjero."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o- El Presidente de la República dictará dentro del plazo de sesenta días el Reglamento correspondiente para la aplicación de la presente ley."
+    }
+  ],
+  "definitions": []
+}

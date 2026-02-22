@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24768",
+  "type": "statute",
+  "title": "CREA UN ÍTEM EXTRAORDINARIO, DESTINADO A SUBVENCIONAR DIVERSAS JUNTAS DE BENEFICENCIA.",
+  "short_name": "Ley 4604",
+  "status": "in_force",
+  "issued_date": "1929-06-27",
+  "in_force_date": "1929-07-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24768",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Créase un ítem extraordinario ascendente a la suma de cuatrocientos treinta y seis mil setecientos setenta y cinco pesos treinta y tres centavos ($ 436,775,33) con el objeto de subvencionar a las Juntas de Beneficencia que se expresan, con las cantidades que se indican:\nArica__________________ $ 143,695.33\nPisagua________________ 3,000.00\nIquique________________ 50,000.00\nTocopilla______________ 50,000.00\nAntofagasta____________ 50,000.00\nTaltal_________________ 20,000.00\nChañaral_______________ 5,000.00\nFreirina_______________ 37.00\nCoquimbo_______________ 19,815.00\nValparaíso_____________ 40,000.00\nTalcahuano_____________ 10,000.00\nValdivia_______________ 20,000.00\nPuerto Montt___________ 5,128.00\nAncud__________________ 100.00\nMagallanes_____________ 20,000.00"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El gasto que demande la presente ley se cubrirá con la mayor entrada proveniente de la ley número 4,536, de 18 de Enero de 1929, que fijó el impuesto a la producción y expendio de alcoholes."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La presente ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

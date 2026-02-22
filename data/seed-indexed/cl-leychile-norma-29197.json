@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-29197",
+  "type": "statute",
+  "title": "LEY N° 16.346, DE 20 DE OCTUBRE DE 1965 ESTABLECE LA LEGITIMACION ADOPTIVA",
+  "short_name": "Ley 17665",
+  "status": "in_force",
+  "issued_date": "1972-05-24",
+  "in_force_date": "1972-06-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29197",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Durante el plazo de un año, contado desde la fecha de publicación de la presente ley, no regirán las exigencias de edad máxima establecidas en los artículos 2° y 3° de la ley N° 16.346, para el legitimante y legitimado en su caso."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Intercálase en el artículo 2° de la ley N° 7613, que establece disposiciones sobre la adopción, entre los actuales incisos primero y segundo, el siguiente inciso nuevo:\n\"Sin embargo, podrán también adoptar las personas que tengan descendencia legítima, cuando todos sus hijos vivos hayan llegado a la mayor edad y presten por escritura pública su consentimiento para ello. Si alguno de los hijos legítimos hubiere fallecido dejando descendientes legítimos, se requerirá además el consentimiento de éstos otorgados por escritura pública, personalmente por ellos o por sus respectivos representantes legales.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Suprímese en el artículo 203 del Código Civil la frase:\n\"salvo que alguno de los cónyuges tenga descendencia legítima de un matrimonio anterior\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°.- Agrégase el siguiente inciso segundo al artículo 20 de la ley N° 4808, sobre Registro Civil:\n\"No obstante todo lo anterior, en las copias expedidas por los oficiales del Registro Civil, relativas a partidas de nacimiento de hijos legitimados por el matrimonio posterior de sus padres, no se dejará constancia de las subinscripciones que acrediten su condición de legitimados si no que esas copias deberán ser iguales a las de los hijos legítimos concebidos en matrimonio.\".\"."
+    }
+  ],
+  "definitions": []
+}

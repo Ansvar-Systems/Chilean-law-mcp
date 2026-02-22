@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26000",
+  "type": "statute",
+  "title": "REEMPLAZA EL ARTICULO 6° TRANSITORIO DE LA LEY N°\n8,766, POR EL QUE INDICA",
+  "short_name": "Ley 9307",
+  "status": "in_force",
+  "issued_date": "1949-01-31",
+  "in_force_date": "1949-02-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26000",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Reemplázase el artículo 6° transitorio de la ley N° 8,766, por el siguiente:\n\"Reconócese al personal de la Imprenta de Carabineros, para todos los efectos legales, como servido en Carabineros de Chile, el tiempo que trabajó en esta imprenta en calidad de obreros afectos a la ley N° 4,054, y en calidad de empleados particulares. El pago de las imposiciones respectivas será de cargo de los interesados\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Declárase que las plazas de Médicos 3°s, Dentistas 3°s, Visitadoras Sociales y Dietistas, que consulta el artículo 2° de la ley número 8,792 con el grado 16, corresponden al grado 14 de la escala de sueldos de Carabineros de Chile establecida por la ley N° 8,766."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- La presente ley regirá desde el 1° de Enero de 1949\"."
+    }
+  ],
+  "definitions": []
+}

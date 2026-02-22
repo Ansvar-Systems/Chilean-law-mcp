@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138462",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2954",
+  "status": "in_force",
+  "issued_date": "1914-12-02",
+  "in_force_date": "1914-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138462",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Decláranse de utilidad pública los terrenos necesarios para la ejecucion de las siguientes obras de caminos:\nContinuacion del camino de acceso a la estacion de Marruecos, desde la carretera de Lonquen;\nAcceso a la estacion de Graneros por el lado oriente;\nAcceso a la estacion de Rauco, del ferrocarril de Curicó a Hualañé.\nContinuación del camino de Huedque a Buchupureo; i Variante del acceso sur a la estacion de Colliguai, del ferrocarril de Rucapequen a Confluencia.\nLas espropiaciones consiguientes se llevarán a cabo con arreglo a los planos que apruebe el Presidente de la República i a las disposiciones de la lei de 18 de junio de 1857."
+    }
+  ],
+  "definitions": []
+}

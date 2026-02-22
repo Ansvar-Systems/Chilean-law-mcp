@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23076",
+  "type": "statute",
+  "title": "LEI NUM. 2.028 QUE DEROGA EL INCISO FINAL DEL ART 1.° DE LA LEI NUM. 1,839.",
+  "short_name": "Ley 2028",
+  "status": "in_force",
+  "issued_date": "1907-09-09",
+  "in_force_date": "1907-09-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23076",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se deroga el inciso final del art.\n1.° de la lei núm. 1,839, de 13 de febrero de 1906."
+    }
+  ],
+  "definitions": []
+}

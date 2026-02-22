@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-24157",
+  "type": "statute",
+  "title": "Lei núm. 3,665, que crea la Delegacion de Chile ante;la Sociedad de las Naciones.",
+  "short_name": "Ley 3665",
+  "status": "in_force",
+  "issued_date": "1920-09-10",
+  "in_force_date": "1920-09-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24157",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° La Delegacion de Chile ante la Sociedad de las Naciones se compondrá:\nHasta de tres delegados, que tendrán el carácter de Ministros Diplomáticos i el rango de Enviados Estraordinarios i Ministros Plenipotenciarios;\nDe un Consejero con rango de Ministro Residente; i De dos Secretarios con el rango de Secretarios de Legacion.\nEsta Delegacion durará por el plazo de dos años."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Las asignaciones de que disfrutarán estos funcionarios serán las siguientes:\nCada Delegado, treinta mil pesos moneda nacional de oro de sueldo anual i veinte mil pesos de la misma moneda para gastos de representacion;\nEl Consejero, veinticinco mil pesos moneda nacional de oro de sueldo anual i doce mil pesos de la misma moneda para gastos de representacion; i\nCada uno de los Secretarios, doce mil pesos moneda nacional de oro de sueldo anual i ocho mil pesos de la misma moneda para gastos de representacion."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Autorízase al Presidente de la República para que invierta hasta la cantidad de cien mil pesos moneda nacional de oro ($ 100,000) en los gastos de informacion i demas que fueren necesarios durante el desempeño de la Delegacion."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Los gastos que ocasionen el cumplimiento de esta lei se deducirán de las mayores entradas por derechos consulares que habrán de percibirse en el resto del presente año."
+    }
+  ],
+  "definitions": []
+}

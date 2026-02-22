@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23873",
+  "type": "statute",
+  "title": "Lei núm. 3,294, que autoriza delegar en las;Municipalidades el cobro del impuesto fiscal de haberes;i otros.",
+  "short_name": "Ley 3294",
+  "status": "in_force",
+  "issued_date": "1917-09-21",
+  "in_force_date": "1917-09-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23873",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Se autoriza al Presidente de la República para delegar en las Municipalidades el cobro del impuesto fiscal adicional sobre los bienes muebles e inmuebles establecido por la lei número 3,091, de 13 de Abril de 1916, de la contribucion sobre vinos i chichas que se establece por los artículos 54, 55 i 56 de la lei número 3,087 de la misma fecha i de las contribuciones de alcantarillado i desagües. Será obligatorio para estas corporaciones practicarlo en conformidad a las instrucciones que reciban de las respectivas tesorerías fiscales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Las Municipalidades en que el Presidente de la República delegue la facultad de cobrar los impuestos a que se refiere el artículo 1.°, percibirán el uno por ciento de las sumas que recauden en caso de que el impuesto fiscal adicional sobre los bienes muebles e inmuebles, establecido por la lei número 3,091, de 13 de Abril de 1916, sea de dos por mil o mas, i el uno i medio por ciento de esas sumas en caso de que dicho impuesto sea menor del dos por mil.\nLos fondos que perciban en conformidad al inciso anterior, los destinarán a remunerar a los empleados encargados del cobro de los impuestos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Esta lei rejirá desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

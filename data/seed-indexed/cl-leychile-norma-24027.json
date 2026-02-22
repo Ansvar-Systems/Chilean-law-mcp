@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24027",
+  "type": "statute",
+  "title": "LEI NÚM. 3.511, QUE CONCEDE DERECHO A JUBILAR A DON ENRIQUE GONZÁLEZ EDWARDS",
+  "short_name": "Ley 3511",
+  "status": "in_force",
+  "issued_date": "1919-07-01",
+  "in_force_date": "1919-07-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24027",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En atencion a los servicios prestados a la Cámara de Diputados por el Secretario de ella, don Enrique González Edwards, que se encuentra imposibilitado para continuar en el desempeño de sus funciones, concédesele el derecho de jubilar con el sueldo íntegro asignado a su empleo."
+    }
+  ],
+  "definitions": []
+}

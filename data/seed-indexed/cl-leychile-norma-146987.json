@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-146987",
+  "type": "statute",
+  "title": "CONCEDE AMNISTIA A LAS PERSONAS QUE SEÑALA",
+  "short_name": "Ley 18004",
+  "status": "in_force",
+  "issued_date": "1981-06-10",
+  "in_force_date": "1981-06-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=146987",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese amnistía a los siguientes Oficiales argentinos, procesados por los Tribunales Militares:\n- Mayor de Ejército Sr. Paulo Barileau.\n- Teniente Primero de Ejército Sr. Oscar Santos."
+    }
+  ],
+  "definitions": []
+}

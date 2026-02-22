@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-27885",
+  "type": "statute",
+  "title": "CREA ITEM EN EL PRESUPUESTO DE CAPITAL DE LA\nDIRECCION DE ESTADISTICA Y CENSOS",
+  "short_name": "Ley 14707",
+  "status": "in_force",
+  "issued_date": "1961-11-22",
+  "in_force_date": "1961-11-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27885",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Créase en el Presupuesto del Ministerio de Economía, Fomento y Reconstrucción, Dirección de Estadística y Censos, el Presupuesto de Capital en moneda corriente, con el siguiente ítem:\n07/03/104 \"Compra de casas y edificios\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Traspásase del Presupuesto Corriente en moneda nacional de la Dirección de Estadística y Censos la suma de E° 50.000 del ítem 07/03/02 Sueldos, al ítem 07/03/104 del Presupuesto de Capital en moneda corriente\"."
+    }
+  ],
+  "definitions": []
+}

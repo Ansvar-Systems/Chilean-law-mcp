@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25990",
+  "type": "statute",
+  "title": "SUBSTITUYE POR EL QUE INDICA EL INCISO 4° DEL ART. 10 DE LA LEY 7,868",
+  "short_name": "Ley 9295",
+  "status": "repealed",
+  "issued_date": "1949-01-15",
+  "in_force_date": "1952-09-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25990",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Sustitúyese el inciso 4° del artículo 10 de la ley N° 7,868, por el siguiente:\n\"Los Conservadores tendrán además derecho a cobrar ocho pesos por cada página de copia de inscripción, de los cuales cuatro corresponderán a los copistas o dactilógrafos, cuatro al Conservador y otros cuatro pesos por cada autorización de las mismas\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Esta ley regirá desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

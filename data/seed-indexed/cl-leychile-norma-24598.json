@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24598",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4243",
+  "status": "in_force",
+  "issued_date": "1927-12-31",
+  "in_force_date": "1928-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24598",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Descárguense en las siguientes sumas los ítem que se indican del Presupuesto de Marina del presente año:\nCapítulo XVIII, ítem 493. $ 20,000 Capítulo XVIII, ítem 498. 20,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Auméntase en la siguiente suma el ítem que se indica:\nCapítulo XV, ítem 409.. $ 40,000"
+    }
+  ],
+  "definitions": []
+}

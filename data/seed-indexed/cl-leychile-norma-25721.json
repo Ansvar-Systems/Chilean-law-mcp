@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25721",
+  "type": "statute",
+  "title": "ORDENA PAGAR A DON JULIO ROBLEDO A, LA SUMA DE $\n30,000. COMO INDEMNIZACION POR LA PERDIDA DEL BRAZO\nIZQUIERDO, A CONSECUENCIA DE UN ACCIDENTE DEL SERVICIO",
+  "short_name": "Ley 8031",
+  "status": "in_force",
+  "issued_date": "1944-11-20",
+  "in_force_date": "1944-12-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25721",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.° el Fisco pagará a don Julio Robledo Astorga la cantidad de treinta mil pesos ($ 30,0009) como indemnización por la pérdida total de su brazo izquierdo a consecuencias del accidente sufrido en el año 1940 en actos del servicio, como Técnico en la Comisión de Estudios Geológicos de la zona carbonífera de la provincia de Arauco dependiente del Ministerio de Fomento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.° El gasto que demande el cumplimiento de esta ley se deducirá del ítem 16|01|06|b-1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.° La presente ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

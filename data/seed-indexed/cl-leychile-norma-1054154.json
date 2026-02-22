@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1054154",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N.o 6,720, SOBRE EMPRESTITO A LA MUNICIPALIDAD DE OSORNO",
+  "short_name": "Ley 6847",
+  "status": "in_force",
+  "issued_date": "1941-02-24",
+  "in_force_date": "1941-04-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1054154",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o. Con el producto del empréstito municipal autorizado por la ley N.o 6.720, de 15 de Octubre de 1940, para construir un mercado en la ciudad de Osorno, se podrá también adquirir el predio en donde se levantará el mercado municipal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Autorízase al Presidente de la República para invertir hasta la suma de quinientos sesenta mil pesos en la adquisición de las propiedades colindantes al Liceo de Hombres de Osorno.\nNo podrá pagarse por estas propiedades un valor mayor al de su avalúo fiscal más el 10%.\nEl gasto que demande esta autorización se imputará al mayor rendimiento de la ley N.o 6,322, de 6 de Enero de 1939."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o. Esta ley comenzará a regir desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

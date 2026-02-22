@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-27302",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA\nSUSCRIBIR ACCIONES DE LA SOCIEDAD CONSTRUCTORA DE\nESTABLECIMIENTOS HOSPITALARIOS POR LA CANTIDAD QUE\nINDICA, LA QUE SERA INVERTIDA EN LOS HOSPITALES\nREGIONALES DE CONCEPCION Y CHILLAN.",
+  "short_name": "Ley 12944",
+  "status": "in_force",
+  "issued_date": "1958-08-20",
+  "in_force_date": "1958-08-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27302",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Autorízase al Presidente de la República para suscribir acciones de la Sociedad Construcctora de Establecimientos Hospitalarios por la suma de quinientos millones de pesos ($ 500.000.000), con cargo al 9% que del ingreso producido por los impuestos a la producción del cobre, la ley 11.828, de 5 de mayo de 1955, en su artículo 33, inciso 4, determina que serán depositados en moneda corriente en una cuenta especial en el Banco Central de Chile, para construcción de obras públicas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° La Sociedad Constructora de Establecimientos Hospitalarios, con los recursos a que se refiere el artículo 1° de esta ley, invertirá la suma de trescientos cincuenta millones de pesos ($ 350.000.000) en ampliar el Hospital Regional de Concepción, con el fin exclusivo de dotar y habilitar un Servicio de Urgencia para la ciudad, y ciento cincuenta millones de pesos ($ 150.000.000) para los mismos fines en el Hospital Regional de Chillán\"."
+    }
+  ],
+  "definitions": []
+}

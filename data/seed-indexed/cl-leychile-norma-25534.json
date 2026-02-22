@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25534",
+  "type": "statute",
+  "title": "LEY N° 7.390 DISPONE QUE LOS OBREROS QUE PRESTEN SERVICIOS EN LAS MUNICIPALIDADES DE LA REPUBLICA TENDRAN DERECHO A UN DESAHUCIO DE TREINTA DIAS DE JORNAL POR CADA AñO DE SERVICIO, SIEMPRE QUE CESEN EN SUS FUNCIONES POR CAUSAS AJENAS A SU VOLUNTAD.",
+  "short_name": "Ley 7390",
+  "status": "amended",
+  "issued_date": "1942-12-18",
+  "in_force_date": "1954-06-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25534",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.\nLos obreros que presten sus servicios en las Municipalidades de la República, que cesen en sus funciones por cualquier causa que no sea la comisión de delitos comunes ni faltas en el desempeño de sus funciones, comprobadas previa substanciación de un sumario administrativo, tendrán derecho a un desahucio correspondiente a 30 días de jornal por año servido o fracción de tiempo no inferior a 6 meses, computándose a los beneficiados el tiempo servido con anterioridad. En caso de fallecimiento, percibirán el desahucio correspondiente sus herederos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Estos desahucios serán de cargo de las Municipalidades respectivas, las cuales consultarán en sus presupuestos de gastos ordinarios las sumas necesarias para el cumplimiento de esta ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.-La presente ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

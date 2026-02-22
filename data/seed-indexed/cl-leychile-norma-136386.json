@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136386",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 79",
+  "status": "in_force",
+  "issued_date": "1893-08-16",
+  "in_force_date": "1893-08-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136386",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Los servicios prestados gratuitamente por doña Nieves Barrientos como ayudante de la escuela núm. 1 de Melipilla durante la guerra con España y transcurridos desde el 5 de Octubre de 1865 hasta el 13 del mismo mes de 1869, le servirán de abono para los efectos de su jubilación."
+    }
+  ],
+  "definitions": []
+}

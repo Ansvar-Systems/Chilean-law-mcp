@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22277",
+  "type": "statute",
+  "title": "LEI QUE MANDA REJIR, EN LAS MUNICIPALIDADES EN QUE NO SE HUBIERE FORMADO EL AVALÚO I MATRICULA DE LAS CONSTRIBUCIONES DE HABERES I DE PATENTES PARA EL PRESENTE AÑO, LAS CORRESPONDIENTES A 1896",
+  "short_name": "Ley 929",
+  "status": "in_force",
+  "issued_date": "1897-07-08",
+  "in_force_date": "1897-07-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22277",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º En las municipalidades en que no se hubiere formado el avalúo y matrícula de las contribuciones de haberes i de patentes para el presente año, rejirán las correspondientes a 1896."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Autorízase a la Municipalidad de Llico para que cobre la contribucion de los haberes mobiliarios correspondientes a los años de 1895 i 1896, con arreglo a la tasa de dos por mil fijada para 1896."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Los contribuyentes afectos al impuesto de patentes que no estuvieren incluidos en la última matrícula deberán presentarse a la Alcaldía solicitando que se les fije la patente que conforme a la lei les corresponda pagar."
+    }
+  ],
+  "definitions": []
+}

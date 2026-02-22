@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1049505",
+  "type": "statute",
+  "title": "MONEDAS",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1851-01-09",
+  "in_force_date": "1851-01-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1049505",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Habrá tres clases de moneda de oro denominadas Cóndor, Doblon i Escudo con la lei de nueve décimos fino.\nEl Cóndor tendrá el peso de trescientos cinco granos, quinientos cuarenta milésimos, o sea quince gramos doscientos cincuenta i tres milésimos i corresponderá a diez pesos plata.\nEl Doblon tendrá ciento cincuenta i dos granos setecientos setenta milésimos, i corresponderá a cinco pesos plata.\nEl Escudo tendrá sesenta i un granos, ciento ocho milésimos, i corresponderá a dos pesos plata."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Habrá cinco clases de moneda de plata con la lei de nueve décimos fino, a saber:\nEl Peso, que contendrá quinientos granos setecientos sesenta i ocho milésimos, o sea veinte i cinco gramos, i se dividirá en cien centavos.\nUna de cincuenta centavos conteniendo doscientos cincuenta granos, trescientos ochenta i cuatro milésimos.\nUna de veinte centavos con cien granos, ciento cincuenta i tres milésimos.\nUna de diez centavos con cincuenta granos, setenta i seis milésimos.\nUna de cinco centavos con veinte i cinco granos, treinta i ocho milésimos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Habrá dos clases de moneda de cobre denominadas centavos i medios centavos, de cobre refinado sin mezcla de otro metal.\nEl centavo tendrá el peso de diez gramos, o doscientos granos trescientos siete milésimos, i cien centavos compodrán un peso. El medio centavo será en la misma proporcion i peso."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Queda derogada la lei de 21 de noviembre de 1838, que fija el precio de los pesos fuertes, i las demas leyes u ordenanzas contrarias a la presente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° Se autoriza al Presidente de la República para que en vista de los resultados que dé la nueva maquinaria que va a establecerse en la Casa de Moneda de Santiago, designe el fuerte i feble con que se pueden emitir a la circulacion las monedas de oro i plata; para que haga en el tipo actual de las monedas las alteraciones a que de lugar esta lei; para que fije la cantidad que legalmente debe admitirse en cobre en los pagos, i para que tome las medidas convenientes al cumplimiento de la presente lei, i las que sean necesarias para uniformar la moneda circulante."
+    }
+  ],
+  "definitions": []
+}

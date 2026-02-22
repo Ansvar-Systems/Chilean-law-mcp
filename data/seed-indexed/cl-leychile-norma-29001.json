@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29001",
+  "type": "statute",
+  "title": "REFORMA LA CONSTITUCION POLITICA DEL ESTADO",
+  "short_name": "Ley 17420",
+  "status": "in_force",
+  "issued_date": "1971-03-30",
+  "in_force_date": "1971-03-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29001",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Modifícase el artículo 104 de la Constitución Política del Estado en la siguiente forma:\na) Suprímese en el inciso primero la frase \"de Organización y Atribuciones de las Municipalidades\", y b) Sustitúyese el inciso segundo por el siguiente:\n\"Podrán votar en la elección de Regidores los extranjeros mayores de 18 años de edad y que hayan residido por más de 5 años en el país, efecto para el cual habrá Registros particulares en cada comuna.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- La modificación constitucional a que se refiere el artículo anterior comenzará a regir el 4 de noviembre de 1970.\"."
+    }
+  ],
+  "definitions": []
+}

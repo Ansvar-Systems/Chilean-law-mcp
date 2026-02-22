@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24217",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3740",
+  "status": "in_force",
+  "issued_date": "1921-03-16",
+  "in_force_date": "1921-03-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24217",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o El personal del Desinfectorio Público de Santiago que en seguida se indica, tendrá los siguientes sueldos anuales:\nAdministrador___________________________________$ 5,760\nMecánico________________________________________ 5,000\nDos jefes desinfectores, con $ 3,360 anuales cada\nuno_____________________________________________ 6,720\nNueve desinfectadores, con $ 2,880 anuales cada\nuno_____________________________________________ 25,920\nFogonero________________________________________ 2,520\nTres cocheros primeros, con $ 2,520 cada uno____ 7,560\nTres cocheros segundos, con $ 2,100 cada uno____ 6,300"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Asígnase los siguientes sueldos anuales a los empleados que se indican a continuacion:\nDireccion Jeneral de Sanidad\nPortero_________________________________________$ 2,520\nInstituto de Hijiene\nPortero_________________________________________$ 2,520\nJardinero 1.o___________________________________ 2,520\nJardinero 2.o___________________________________ 1,680\nSeccion Química y Toxicolojía\nAusiliar________________________________________$ 2,520\nSeccion Bacteriolojía y Microscopía\nAusiliar________________________________________$ 2,520\nSeccion Vacuna y Seroterapia\nCuidador________________________________________$ 2,800\nDos caballerizos, con $ 2,520 cada uno__________ 5,040\nCuatro ausiliares con $ 2,520 cada uno__________$10,080"
+    }
+  ],
+  "definitions": []
+}

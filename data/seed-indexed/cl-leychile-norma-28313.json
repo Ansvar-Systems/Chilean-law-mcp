@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28313",
+  "type": "statute",
+  "title": "MODIFICA EL INCISO 2° Y ACLARA EL INCISO FINAL DEL\nARTICULO 111° DE LA LEY 15.575, DE 15 DE MAYO DE 1964,\nEN RELACION CON LA CONDONACION DE LAS DEUDAS POR\nCONCEPTO DE REAJUSTES E INTERESES SOBRE LOS MISMOS,\nPROVENIENTES DE PRESTAMOS REAJUSTABLES EN MONEDA\nEXTRANJERA, EN LOS CASOS QUE SEÑALA",
+  "short_name": "Ley 15914",
+  "status": "in_force",
+  "issued_date": "1964-11-25",
+  "in_force_date": "1964-12-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28313",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Reemplázase en el artículo 111°, inciso 2°, de la ley 15.575, la frase: \"para fomento lechero o limpia y drenaje de pantanos\", por la siguiente: \"para fomento lechero, mataderos frigoríficos o limpia y drenaje de pantanos\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2° Declárase que la excepción establecida en el inciso final del artículo 111° de la ley 15.575 no afecta a las Compañías Carboníferas filiales de la Corporación de Fomento de la Producción\"."
+    }
+  ],
+  "definitions": []
+}

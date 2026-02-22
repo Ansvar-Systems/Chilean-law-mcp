@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23131",
+  "type": "statute",
+  "title": "LEI NUM. 2,118, QUE AUTORIZA LA CONSTRUCCION DE UN CUARTEL PARA LA POLICIA DE ANTOFAGASTA",
+  "short_name": "Ley 2118",
+  "status": "in_force",
+  "issued_date": "1908-09-05",
+  "in_force_date": "1908-09-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23131",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir la suma de setenta i tres mil pesos ($ 73,000), en la construccion de un cuartel de la policia en la ciudad de Antofagasta."
+    }
+  ],
+  "definitions": []
+}

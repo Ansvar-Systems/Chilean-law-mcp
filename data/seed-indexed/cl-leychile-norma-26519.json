@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-26519",
+  "type": "statute",
+  "title": "AUTORIZA A LA JUNTA CENTRAL DE BENEFICENCIA PARA\nCONTRATAR PRESTAMOS POR LA SUMA QUE SEÑALA.",
+  "short_name": "Ley 11053",
+  "status": "in_force",
+  "issued_date": "1952-10-31",
+  "in_force_date": "1952-12-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26519",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Autorízase a la Junta Central de Beneficencia para contratar directamente con la Caja Nacional de Ahorros o con otras instituciones de crédito o particulares, uno o más préstamos que produzcan hasta la cantidad de treinta millones de pesos, a un interés no superior al 10% anual y con una amortización que extinga la deuda en el plazo máximo de siete años."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Para los efectos de la contratación del o los préstamos, no regirán las disposiciones restrictivas de la Ley Orgánica de la Caja Nacional de Ahorros."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La Junta Central de Beneficencia invertirá una cantidad no inferior a $ 15.000.000 en mejorar el actual edificio del Manicomio Nacional y sus instalaciones.\nEl saldo de este empréstito se destinará a mejorar las condiciones de vida de los asilados comunes y pensionados de 2.a y 3.a clases y atender a la Habilitación de los servicios del establecimiento."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Autorízase también a la Junta Central de Beneficencia para destinar un 8% de la utilidad bruta que arrojen la totalidad de los sorteos celebrados en el curso de cada año por la Polla Chilena de Beneficencia a amortizar el o los préstamos que se contraten, en conformidad a la autorización que se concede en el artículo 1.o de esta ley\"."
+    }
+  ],
+  "definitions": []
+}

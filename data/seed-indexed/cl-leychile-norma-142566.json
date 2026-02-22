@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-142566",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3738",
+  "status": "in_force",
+  "issued_date": "1921-02-25",
+  "in_force_date": "1921-03-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=142566",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se autoriza al Presidente de la República para que invierta hasta la suma de cincuenta millones de pesos ($ 50.000,000), moneda corriente, de los fondos provenientes del empréstito contratado en conformidad a la lei número 3,718, en la construccion y reparacion de caminos públicos, de acuerdo con los artículos 11 y 12 de la lei número 3,611, de 24 de abril de 1920, y en la prosecucion de obras autorizadas por leyes anteriores que hayan sido contratadas.\nLos jiros no podrán hacerse por una cantidad mayor que la que demanden las inversiones que dichas obras impongan."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Autorízasele, asimismo, para contratar un empréstito que produzca hasta la suma de dos millones de libras esterlinas (L 2.000,000), oro, en condiciones análogas a las que fija la lei número 3,718, de 17 de enero del presente año, cuyo producto se destinará al reintegro de los fondos que se inviertan en conformidad al artículo anterior, y el saldo a completar el plan de obras presentado por el Consejo de los Ferrocarriles del Estado, aprobado por el Presidente de la República.\nEl servicio de interes y amortizacion de la parte de este empréstito relativa a completar el plan de obras ferroviarias, se hará en la forma que la lei número 3,718 establece.\nEste empréstito quedará libre de toda contribucion fiscal o municipal."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta lei comenzará a rejir desde su publicacion en el Diario Oficial.\""
+    }
+  ],
+  "definitions": []
+}

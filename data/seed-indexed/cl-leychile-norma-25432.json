@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-25432",
+  "type": "statute",
+  "title": "MODIFICA EL CODIGO DE PROCEDIMIENTO PENAL",
+  "short_name": "Ley 7068",
+  "status": "in_force",
+  "issued_date": "1941-09-17",
+  "in_force_date": "1941-10-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25432",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Reemplázase el artículo 636 del Código de Procedimiento Penal por el siguiente:\n\"Artículo 636. Antes de declarar la rebeldía del inculpado o reo, el juez expedirá las órdenes correspondientes para citarlo o aprehenderlo y dirigirá requisitoria a los jueces de los lugares en que se sospeche que aquél haya podido albergarse\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Substitúyese el artículo 637 del mismo Código por el siguiente:\n\"Artículo 637. Las órdenes y requisitorias contendrán, en cuanto sea posible, los siguientes pormenores:\n1.o El nombre, apellido paterno y materno, cargo, profesión u oficio del inculpado, el apodo que tuviere, su residencia y las señas en virtud de las cuales pueda ser identificado;\n2.o El delito por el cual se le persigue;\n3.o La circunstancia señalada en el artículo 635 que hubiere dado motivo para expedir la orden o requisitoria; y\n4.o El término dentro del cual deba comparecer el inculpado, bajo apercibimiento de ser declarado reo rebelde y pararle los perjuicios correspondientes. Este término será de treinta días, contados desde aquel en que se expida la primera orden o requisitoria\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "\"Artículo 3.o Derógase el artículo 638 del Código mencionado."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Suprímese en el artículo 639, la frase \"en los edictos\"."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

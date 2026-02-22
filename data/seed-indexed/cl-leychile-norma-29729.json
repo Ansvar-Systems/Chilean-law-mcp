@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29729",
+  "type": "statute",
+  "title": "MODIFICA EL DECRETO LEY N° 2.885, DE 1979",
+  "short_name": "Ley 18312",
+  "status": "in_force",
+  "issued_date": "1984-05-15",
+  "in_force_date": "1984-05-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29729",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Establécese un nuevo plazo de cinco años, contado desde la fecha de publicación de esta ley, para ejercer el derecho a que se refiere el artículo 7° del decreto ley N° 2.885, de 1979."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Introdúcense las siguientes modificaciones al decreto ley N° 2.885, de 1979:\na) Elimínase en el artículo 7° la palabra \"actuales\".\nb) Reemplázanse el N° 1° y el N° 2° del artículo 8° por los siguientes:\n\"1°.- Que se encuentra en posesión material y continua del inmueble: durante diez años, a lo menos, a la fecha de presentación de la solicitud a que se refiere el artículo siguiente. El peticionario podrá agregar a su posesión la de una serie no interrumpida de antecesores. La continuidad podrá comprobarse por cualquier acto o hecho jurídico que la haga presumible.\n2°.- Que a la fecha de presentación de la solicitud referida en el artículo siguiente no existe juicio pendiente en su contra relativo a la posesión del predio, lo que deberá acreditar mediante certificación otorgada por el Juzgado de Letras de Isla de Pascua.\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- No podrán solicitarse los beneficios establecidos en el Título II del decreto ley N° 2.885, de 1979, respecto de aquellos terrenos sobre los cuales, hasta el día 16 de julio de 1983, se hubieren presentado solicitudes con tal objeto, a menos que éstas sean rechazadas en conformidad a la ley."
+    }
+  ],
+  "definitions": []
+}

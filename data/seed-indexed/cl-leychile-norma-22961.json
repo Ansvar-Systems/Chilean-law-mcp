@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22961",
+  "type": "statute",
+  "title": "LEI DE PRESUPUESTOS PARA 1906",
+  "short_name": "Ley 1854",
+  "status": "in_force",
+  "issued_date": "1906-02-13",
+  "in_force_date": "1906-02-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22961",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Ministerios Moneda Oro\ncorriente\nInterior_________________$ 18 846 752,47 $ 1 291 810,65\nRelaciones Esteriores____ 707 835,05 1 321 736,41\nCulto____________________ 1 358 432,00 ____________\nColonizacion_____________ 1 510 720,00 ____________\nJusticia_________________ 6 401 843,78 ____________\nInstruccion Pública______ 17 645 008,04 178 333,33\nHacienda_________________ 10 755 314,43 20 910 399,97\nGuerra___________________ 14 277 950,18 80 800,00\nMarina___________________ 9 510 126,13 6 644 079,27\nIndustria________________ 2 867 877,63 100 433,33\nObras Públicas___________ 4 893 499,82 ____________\nFerrocarriles____________ 35 087 895,20 540,600,00\n_____________ ____________\nTotales_____$123 863 254,73 $31 068 192,96\nCuyos totales ascienden a ciento veintitres millones ochocientos sesenta i tres mil doscientos cincuenta i cuatro pesos setenta i tres centavos en moneda corriente i a treinta i un millones sesenta i ocho mil ciento noventa i dos pesos noventa i seis centavos en oro."
+    }
+  ],
+  "definitions": []
+}

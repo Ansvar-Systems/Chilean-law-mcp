@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24671",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4340",
+  "status": "in_force",
+  "issued_date": "1928-07-04",
+  "in_force_date": "1928-07-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24671",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o.- Modifícanse los siguientes artículos de la ley número 4,112 de 12 de Enero de 1927, reformada por la ley número 4,302 de 9 de Febrero de 1928, en la forma que a continuación se expresa:\nArtículo 18. Suprímese el inciso segundo.\nArtículo 19. Agregar al final de este artículo \"Una vez acordado al préstamo, el valor de la totalidad de estos gastos podrá ser devuelto al interesado en dinero efectivo imputándolo al préstamo mismo\".\nArtículo 27. Substitúyase por el siguiente:\n\"Una vez aceptado el proyecto de planta de beneficio a que se refiere el artículo 24, se procederá a la adquisición e instalación de la maquinaria necesaria. El Consejo, de acuerdo con el informe de los técnicos de la Caja, fijará el monto del capital necesario para iniciar la explotación adecuada del establecimiento que se va a construir, capital que la Caja facilitará al solicitante en el momento oportuno.\nEl préstamo podrá acordarse en consecuencia no solamente por el valor total de la maquinaria instalada, sino también por el monto del capital de explotación antedicho, y por el valor de los estudios técnicos de que trata el artículo 19\".\nArtículo 43. Se reemplazan las palabras \"hasta un dos por ciento\", por \"hasta un tres por ciento\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o.- Esta ley comenzará a regir desde la fecha de su promulgación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

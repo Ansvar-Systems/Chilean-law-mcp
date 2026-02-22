@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22765",
+  "type": "statute",
+  "title": "Que concede fondos para el pago de profesores de la;Escuela Militar",
+  "short_name": "Ley 1584",
+  "status": "in_force",
+  "issued_date": "1903-01-17",
+  "in_force_date": "1903-01-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22765",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para que invierta hasta la suma de catorce mil trescientos pesos ($ 14,300) en pagar los sueldos de los profesores de la Escuela Militar que no se consultaron en el presupuesto que rijió en el año 1902, i la gratificacion del profesor encargado del gabinete de ciencias naturales."
+    }
+  ],
+  "definitions": []
+}

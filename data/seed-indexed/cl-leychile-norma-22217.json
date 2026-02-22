@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22217",
+  "type": "statute",
+  "title": "MUNICIPALIDAD DE TALCA",
+  "short_name": "Ley 367",
+  "status": "in_force",
+  "issued_date": "1896-07-31",
+  "in_force_date": "1896-07-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22217",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese a la Municipalidad de Talca un auxilio estraordinario de veintitres mil pesos, que invertirá en el mantenimiento de la policía de seguridad durante los meses de Junio, Julio i Agosto del presente año."
+    }
+  ],
+  "definitions": []
+}

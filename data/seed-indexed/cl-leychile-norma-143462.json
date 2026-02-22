@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-143462",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3878",
+  "status": "in_force",
+  "issued_date": "1922-08-09",
+  "in_force_date": "1922-08-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=143462",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Apruébase el siguiente presupuesto de entradas y gastos de la Empresa de los Ferrocarriles del Estado para 1922.\nLos ítem del presupuesto de gastos podrán excederse por la Direccion Jeneral del ramo, de acuerdo con el Consejo de Administracion y previa aprobacion del Presidente de la República, si el mayor desarrollo de los servicios lo requiere y las entradas de la Empresa lo permiten. En igual forma podrán aplicarse los posibles sobrantes de los diversos ítem en otros ítem que pudieran agotarse.\nPRESUPUESTO ORDINARIO\nEntradas\nRed Central Sur, $ 178.981,240 moneda corriente.\nRed Central Norte, $ 4.400,000 oro.\nGastos ordinarios\nRed Central Sur, $ 143.650,949 moneda corriente.\nRed Central Sur, $ 11.302,083 oro.\nRed Central Norte, $ 16.530,602 moneda corriente.\nRed Central Norte, $ 616,000 oro.\nGastos de renovacion\nRed Central Sur, $ 8.657,689 moneda corriente.\nRed Central Sur, $ 2.724,998 oro.\nRed Central Norte, $ 2.925,717 moneda corriente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La Empresa de los Ferrocarriles queda autorizada para mantener durante el año 1922 los actuales recargos por premio del oro de cincuenta por ciento (50%), en la Red Central Sur y de ciento setenta por ciento (170%) en la Red Central Norte."
+    }
+  ],
+  "definitions": []
+}

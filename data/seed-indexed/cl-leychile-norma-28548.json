@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-28548",
+  "type": "statute",
+  "title": "ESTABLECE JORNADA DE TRABAJO EN LAS MINAS DE CARBON.",
+  "short_name": "Ley 16581",
+  "status": "in_force",
+  "issued_date": "1966-11-17",
+  "in_force_date": "1966-12-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28548",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°- La jornada ordinaria de trabajo en el interior de las minas de carbón se contará desde que el trabajador recibe su lámpara hasta que la devuelve en la lamparería de superficie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°- La permanencia en el interior de las minas de carbón superior a ocho horas se pagará con el recargo que establece la ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°- Los reglamentos internos de las empresas, debidamente autorizados por la Dirección del Trabajo, determinarán los detalles de la aplicación de la jornada, de acuerdo con las modalidades específicas de las faenas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°- La modalidad de la jornada aludida en los artículos anteriores regirá a contar del 1° de Diciembre de 1966 pudiendo por decreto fundado del Presidente de la República ampliarse este plazo por una sola vez, en no más de 90 días."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- La aplicación de la modalidad de trabajo a que se refiere esta ley no podrá significar disminución de las actuales remuneraciones de los trabajadores ni pérdidas de los actuales beneficios pactados por convenios o conseguidos por ley, debiendo contemplarse las equitativas compensaciones en los tratos, bonos y beneficios, en relación con la nueva jornada."
+    }
+  ],
+  "definitions": []
+}

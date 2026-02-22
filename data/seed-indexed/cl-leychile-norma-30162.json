@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30162",
+  "type": "statute",
+  "title": "MODIFICA CODIGO ORGANICO DE TRIBUNALES",
+  "short_name": "Ley 18783",
+  "status": "in_force",
+  "issued_date": "1989-02-09",
+  "in_force_date": "1989-02-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30162",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Introdúcense las siguientes modificaciones al Código Orgánico de Tribunales:\n1.- Sustitúyese el inciso primero del artículo 57, por el siguiente:\n\"Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.\"\n2.- En el inciso quinto del artículo 61:\na) Sustitúyese después de la locución \"anual\" el punto (.) final por una coma (,), y\nb) Agrégase la siguiente frase: \"la que regirá a contar del 1° de marzo de cada año.\",y\n3.- Sustitúyese en el inciso segundo del artículo 93, la expresión \"cinco\" por \"tres\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "TRANSITORIO",
+      "title": "Artículo TRANSITORIO",
+      "content": "Artículo transitorio.- A contar del 1° de marzo de 1989, los actuales presidentes de las Cortes de Apelaciones pasarán a integrar la sala en que estuvieren los ministros que deban sucederlos."
+    }
+  ],
+  "definitions": []
+}

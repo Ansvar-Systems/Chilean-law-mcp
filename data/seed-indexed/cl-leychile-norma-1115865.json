@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1115865",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1884-01-10",
+  "in_force_date": "1884-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1115865",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTICULO 1.°\nDivídese el departamento de Chillan en tres, que se denominarán de Chillan, Búlnes i Yungai."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.°\nEl departamento de Chillan tendrá por capital la ciudad del mismo nombre i sus límites serán: al norte, el rio Ñuble; al este, los Andes; al oeste, los rios Ñubles e Itata; i por el sur, el rio Larqui i estero Guauco.\nLos límites del departamento de Búlnes serán: el rio Largüe i estero de Guauco, por el norte; por el este, una línea imajinaria que se estenderá de norte a sur, entre el nacimiento del estero mencionado i el rio Diguillin; el rio Itata por el poniente, i por el sur el Diguillin. Será su capital la villa de Búlnes.\nEl departamento de Yungai tendrá por límites: al norte, el rio Diguillin; al oriente, la Cordillera de los Andes; al poniente, el Itata; i al sur, este último rio hasta su union con el Cholguan, siguiendo el curso de éste hasta la Cordillera de los Andes; i será su capital la villa de Yungai."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.°\nEn cada uno de los departamentos de Búlnes i de Yungai habrá un gobernador, con el sueldo anual de mil quinientos pesos; un oficial de pluma, con el de trescientos; i un tesorero, con mil quinientos pesos anuales."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.°\nLa actual municipalidad de Chillan seguirá funcionando dentro del nuevo departamento de este nombre.\nEn cada uno de los otros de nueva creacion, nombrará el Presidente de la República tres alcaldes para que, hasta la próxima eleccion ordinaria de municipalidades, desempeñen en su respectivo departamento el cargo de tales con las atribuciones i obligaciones que espresa la lei de 24 de agosto de 1876.\nEjercerán tambien durante el mismo tiempo, en union con el gobernador, las funciones de administracion local, con arreglo a la lei de organizacion de municipalidades."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.°\nEl nuevo departamento de Chillan elejirá tres diputados i uno cada uno de los departamentos de Búlnes i Yungai."
+    }
+  ],
+  "definitions": []
+}

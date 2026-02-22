@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24152",
+  "type": "statute",
+  "title": "LEI NUM. 3,660, QUE AUTORIZA UNA NUEVA HIPOTECA SOBRE LA PROPIEDAD QUE OCUPA LA CASA DE ORATES DE SANTIAGO.",
+  "short_name": "Ley 3660",
+  "status": "in_force",
+  "issued_date": "1920-09-06",
+  "in_force_date": "1920-09-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24152",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase a la Junta de Beneficencia de Santiago para aumentar en dos millones quinientos mil pesos ($ 2.500,000) la hipoteca que grava a la Casa de Orates de Santiago a fin de destinar su producido a saldar los déficit de los establecimientos de beneficencia de esta capital.\nEl servicio de esta deuda se atenderá con fondos fiscales que se consultarán anualmente en la Lei de Presupuestos en la cantidad necesaria para este objeto."
+    }
+  ],
+  "definitions": []
+}

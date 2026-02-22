@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135290",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1604",
+  "status": "in_force",
+  "issued_date": "1903-07-31",
+  "in_force_date": "1903-08-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135290",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Facúltase al Presidente de la República para abonar al vicario apostólico de Tarapacá, don Guillermo Juan Cárter, la cantidad de dos mil novecientos pesos ($ 2,900) por las retribuciones que él hizo a sus coadjutores en la canonjía majistral de Santiago en los años 1895, 1896 i 1897.\""
+    }
+  ],
+  "definitions": []
+}

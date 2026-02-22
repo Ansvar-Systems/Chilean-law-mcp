@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-30589",
+  "type": "statute",
+  "title": "REAJUSTA MONTO DEL INGRESO MINIMO MENSUAL",
+  "short_name": "Ley 19222",
+  "status": "in_force",
+  "issued_date": "1993-05-24",
+  "in_force_date": "1993-05-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30589",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Elévase, a contar del 1° de junio de 1993, de $ 38.600.- a $ 46.000.- el monto del ingreso mínimo mensual.\nElévanse, a contar de la misma fecha, de $ 33.219.- a $ 39.587.- el ingreso mínimo mensual para los trabajadores menores de 18 años de edad; y de $ 28.707.- a $ 34.210.- el que se emplea para fines no remuneracionales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Agrégase el siguiente párrafo final al inciso tercero del artículo 8° del decreto ley N° 670, de 1974:\n\"Tampoco se imputarán al ingreso mínimo las cantidades que perciba el trabajador por concepto de gratificación legal, cualquiera que fuere su forma de pago.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Lo dispuesto en el artículo 1° de esta ley no se aplicará para el cálculo de las remuneraciones de los profesionales funcionarios a que se refiere el artículo 7° de la ley N° 15.076, modificado por el artículo 8° de la ley N° 18.018."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°.- El mayor gasto fiscal que represente, durante el año 1993, la aplicación de esta ley, se financiará con transferencias del ítem\n50-01-03-25-33.104 de la partida Tesoro Público del Presupuesto vigente.\"."
+    }
+  ],
+  "definitions": []
+}

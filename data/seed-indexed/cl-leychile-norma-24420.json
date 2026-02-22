@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24420",
+  "type": "statute",
+  "title": "LEI NUM. 4,034, EN QUE SE ESTABLECE QUE LOS ABOGADOS ESTAN EXENTOS DE RENDIR EXAMEN DE COMPETENCIA PARA OCUPAR LOS CARGOS QUE SE INDICAN",
+  "short_name": "Ley 4034",
+  "status": "in_force",
+  "issued_date": "1924-08-18",
+  "in_force_date": "1924-08-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24420",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En los concursos a que citen los Tribunales de Justicia para proveer los cargos de secretarios, notarios, conservadores de bienes raices, archiveros, oficiales del registro civil y receptores de mayor cuantía, los abogados están exentos de rendir exámen de competencia."
+    }
+  ],
+  "definitions": []
+}

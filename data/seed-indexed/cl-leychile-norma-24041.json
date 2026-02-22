@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24041",
+  "type": "statute",
+  "title": "LEI NÚM. 3,528, QUE SUPLEMENTA EL PRESUPUESTO DE MARINA",
+  "short_name": "Ley 3528",
+  "status": "in_force",
+  "issued_date": "1919-08-09",
+  "in_force_date": "1919-08-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24041",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese un suplemento de cuatrocientos mil pesos ($400,000) al ítem 546 del Presupuesto de Marina vijente.\nDéjase sin invertir igual cantidad del ítem 778 del indicado Presupuesto."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28327",
+  "type": "statute",
+  "title": "APRUEBA NUEVAS DISPOSICIONES APLICABLES AL PERSONAL\nDE LA EMPRESA DE LOS FERROCARRILES DEL ESTADO",
+  "short_name": "Ley 16055",
+  "status": "in_force",
+  "issued_date": "1964-12-28",
+  "in_force_date": "1965-01-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28327",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- No se aplicará al personal de la Empresa de los Ferrocarriles del Estado que se haya reincorporado al Servicio o se reincorpore en el futuro lo dispuesto en los artículos 2° y 3° de la ley N° 13.426."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2°.- A los reincorporados que se les reliquide el desahucio deberá efectuárseles a lo menos durante diez años los descuentos que correspondan según el artículo 3° de la ley N° 7.998.\nSi al momento del retiro de la Empresa este número de diez años no se hubiere cumplido, la nueva pensión de jubilación quedará afecta a un descuento de 4% por el tiempo que falte hasta completar dicho lapso.\nCuando el beneficiario no tenga derecho a jubilación, los descuentos necesarios para completar el número señalado, se rebajarán del desahucio reliquidable.\""
+    }
+  ],
+  "definitions": []
+}

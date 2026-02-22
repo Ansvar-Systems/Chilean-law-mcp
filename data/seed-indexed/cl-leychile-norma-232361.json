@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-232361",
+  "type": "statute",
+  "title": "MODIFICA EL DECRETO QUE INDICA, RELACIONADO CON LA LEY\nGENERAL DE BANCOS",
+  "short_name": "Ley 9686",
+  "status": "in_force",
+  "issued_date": "1950-09-14",
+  "in_force_date": "1950-10-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=232361",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o. Agregar a continuación del artículo 36 del decreto supremo N.o 3.154, de 23 de Julio de 1947, el siguiente artículo:\n\"Artículo ..... La disposición del artículo 35 no tendrá aplicación si la empresa bancaria se viere en el caso de suspender accidentalmente sus operaciones y el pago de sus obligaciones por causa de fuerza mayor.\nEn el evento expresado, la empresa dará aviso inmediato a la Superintendencia de Bancos y de acuerdo con ésta arbitrará las medidas necesarias para que la suspensión de sus operaciones y pagos produzca el mínimo de molestias y perjuicios a sus clientes y a terceros en general.\nPara todos los efectos legales se considerará un caso de fuerza mayor la huelga del personal que impida el funcionamiento normal de la empresa\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o. Agregar al artículo 23 de la ley N.o 7,498, de 17 de Agosto de 1943, el siguiente inciso:\n\"Estos plazos se aumentarán con los días hábiles durante los cuales el Banco librado huebiere suspendido, por cualquier motivo, sus operaciones y pagos\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o. Agregar al artículo 723 del Código de Comercio los siguientes incisos:\n\"Si el valor de una letra de cambio fuere cubierto oportunamente con un cheque girado contra una empresa bancaria que hubiere suspendido sus operaciones por fuerza mayor, se podrá efectuar el protesto de la letra el día subsiguiente al que la respectiva empresa bancaria normalice sus funciones, siempre que el cheque no fuere pagado por cualquier causa. En este evento se procederá al protesto de la letra sin que se produzca el perjuicio de ella en los términos del artículo 700 del Código de Comercio, debiéndose dejar testimonio en el acta de la circunstancia que motivó el retardo del protesto.\nEl tenedor de la letra protestada en conformidad al inciso que precede podrá ejercitar las acciones derivadas de ella, o a su opción las acciones civiles y penales derivadas del cheque.\nEl tenedor o el notario en su caso otorgará un recibo condicional del cheque librado en pago de la letra, sin perjuicio del recibo que deba otorgarse en su oportunidad en conformidad al artículo 721.\nLa Superintendencia de Bancos fijará, en caso de duda, el período en que la empresa bancaria haya suspendido sus operaciones por huelga\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23123",
+  "type": "statute",
+  "title": "LEI NUM. 2,102, QUE REORGANIZA LA PLANTA DE EMPLEADOS I LOS SUELDOS DE LA ADUANA I TESORERIA UNIDAD DE TALTAL",
+  "short_name": "Ley 2102",
+  "status": "in_force",
+  "issued_date": "1908-02-19",
+  "in_force_date": "1908-02-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23123",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Reorganízase la actual planta de empleados de la Aduana i Tesorería Unidas de Taltal en la forma i con los sueldos que a continuacion se indican:\nAdministracion\nAdministrador-Tesorero________________ $ 8,000\nUn portero____________________________ 1,200\nContaduria\n(SECCION DE TESORERIA)\nUn Jefe e Interventor_________________ $ 6,000\nUn Cajero_____________________________ 4,000\nUn Tenedor de Libros__________________ 4,000\nDos Oficiales ausiliares, con\n$ 2,400 cada uno______________________ 4,800\n(SECCION DE COMPROBACION)\nUn Oficial 1.°_________________________ $ 3,600\nUn Oficial 2.°_________________________ 3,000\n(SECCION DE LIQUIDACION)\nUn Oficial 1.°_________________________ $ 3,600\nUn Oficial 2.°_________________________ 3,000\nAlcaidia\nUn Alcaide_____________________________ $ 5,500\nUn Guarda Almacenes 1.°________________ 4,000\nDos Guarda-Almacenes segundos, con\n$ 3,000 anuales cada uno_______________ 6,000\nUn pesador 1.° de salitre______________ 4,000\nSeis pesadores segundos de salitre\ncon $ 3,600 anuales cada uno___________ 21,600\nUn portero_____________________________ 1,200\nResguardo\nUn Teniente 1.°________________________ $ 4,800\nUn Teniente 2.°________________________ 4,000\nDos Guardas-Primeros, con $ 3,000\nanuales c/u____________________________ 6,000\nSeis Guardas-Segundos, con $ 2,400\nanuales c/u____________________________ 14,400\nCuatro Patrones de botes, con $ 1,800\nanuales c/u____________________________ 7,200\nSeis Marineros-Primeros, con $ 1,440\nanuales c/u____________________________ 8,640\nOcho Marineros-Segundos, con $ 1,296\nanuales c/u____________________________ 10,368\nTenencia de Aduana de Paposo\nUn Teniente-Administrador______________ $ 2,500\nDos Marineros-Segundos, con $ 1,296\nanuales c/u____________________________ 2,592"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° La presente lei rejirá desde la fecha de su promulgacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

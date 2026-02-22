@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29262",
+  "type": "statute",
+  "title": "AUTORIZA LA LIBRE IMPORTACION DE LAS ESPECIES QUE\nINDICA",
+  "short_name": "Ley 17741",
+  "status": "in_force",
+  "issued_date": "1972-09-28",
+  "in_force_date": "1972-10-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29262",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.°- Autorízase la libre importación sin la exigencia del Registro de Importación y exenta de depósito previo en el Banco Central de Chile, y libérase de los derechos de Aduana, como asimismo de la tasa de despacho establecida en el artículo 190 de la ley N.° 16.464 y sus modificaciones, y considéranse legalmente embarcadas las siguientes especies donadas por la Parroquia \"San Nicolás\", de Alemania, a la Parroquia \"Nuestra Señora del Carmen\", de San Enrique de Chile (Chimbarongo - provincia de Colchagua):\nUn automóvil marca Mercedez Benz, modelo 280 S, motor número 130.920.10.027357, chasis N.° 108.016.10.056203;\nUna grabadora marca \"Sony\", modelo 5KB92.11/Tc 505;\nUna grabadora marca \"Saba\", modelo TG 440 F;\nUna Filmadora marca \"Nizon\" 8x super zoom;\nUn proyector de cine marca \"Canon\", modelo S. 400, y Un radio tocadisco marca \"Sanyo\" stereo, modelo G 2212."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.°- Las especies que se autoriza importar en el artículo 1.° no podrán ser enajenadas, a ningún título, antes de cumplirse 5 años desde su internación.\nTranscurrido dicho plazo, las especies podrán ser vendidas previo el pago de todos los derechos e impuestos de los cuales se les libera en esta ley."
+    }
+  ],
+  "definitions": []
+}

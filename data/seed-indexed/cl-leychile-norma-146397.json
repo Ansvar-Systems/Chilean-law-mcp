@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-146397",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3505",
+  "status": "in_force",
+  "issued_date": "1919-02-20",
+  "in_force_date": "1919-03-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=146397",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para invertir hasta la suma de cincuenta mil pesos ($ 50,000) en la adquisicion de la casa y sitio de don Nicolas Palma Rivero, ubicados en la calle Mapocho número 738 a 740, para el ensanche de la Avenida de la Canalizacion.\nLos fondos se deducirán de los intereses que el Fisco perciba del Banco de Chile en la cuenta corriente fiscal."
+    }
+  ],
+  "definitions": []
+}

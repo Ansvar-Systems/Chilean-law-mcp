@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1129480",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N.o 4.054, DE 8 DE SEPTIEMBRE DE 1924, QUE DECLARA OBLIGATORIO EL SEGURO DE ENFERMEDAD, INVALIDEZ Y ACCIDENTES DEL TRABAJO",
+  "short_name": "Ley 5937",
+  "status": "in_force",
+  "issued_date": "1936-09-29",
+  "in_force_date": "1936-10-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1129480",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Reemplázase la frase final del inciso 1.o del artículo 1.o de la Ley N.o 4.054, modificado por el Decreto Ley 698, de 12 de Noviembre de 1925, que dices \"siempre que no exceda de ocho mil pesos\", por la siguiente: \"siempre que no exceda de doce mil pesos anuales\","
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta Ley comenzará a regir desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

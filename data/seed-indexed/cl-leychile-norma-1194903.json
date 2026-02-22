@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1194903",
+  "type": "statute",
+  "title": "SANCIONA LOS DAÑOS EN LOS MEDIOS DE TRANSPORTE PÚBLICO DE PASAJEROS Y EN LOS BIENES E INFRAESTRUCTURA ASOCIADA A DICHA ACTIVIDAD",
+  "short_name": "Ley 21587",
+  "status": "in_force",
+  "issued_date": "2023-07-28",
+  "in_force_date": "2023-08-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1194903",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1°",
+      "content": "\"Artículo 1°.- Sustitúyese, en el inciso primero del artículo 198 de la ley N° 18.290, de Tránsito, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, promulgado el año 2007 y publicado el año 2009, del Ministerio de Transportes y Telecomunicaciones y del Ministerio de Justicia, la expresión \"en circulación\", por la siguiente: \", se encuentre o no en circulación\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2°",
+      "content": "Artículo 2°.- Introdúcense las siguientes modificaciones en el artículo 485 del Código Penal:\n1. Reemplázase, en su número 8°, el punto y final por un punto y coma.\n2. Agrégase el siguiente número 9°:\n\"9° En medios de transporte público de pasajeros o en bienes o infraestructura asociada a dicha actividad.\".\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-27656",
+  "type": "statute",
+  "title": "DISPONE QUE EL GASTO QUE DEMANDE EL CUMPLIMIENTO DE\nLAS LEYES QUE INDICA SE IMPUTARA AL ITEM QUE SEÑALA",
+  "short_name": "Ley 14059",
+  "status": "in_force",
+  "issued_date": "1960-09-14",
+  "in_force_date": "1960-10-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27656",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único. El gasto que demande el cumplimiento de las leyes 9,200, de 21 de Octubre de 1948, y 11,356, de 23 de Octubre de 1953, que abona y reconoce tiempo servido a don Vasco Valdebenito García, se imputará al ítem respectivo de Pensiones del Presupuesto del Ministerio de Hacienda.\""
+    }
+  ],
+  "definitions": []
+}

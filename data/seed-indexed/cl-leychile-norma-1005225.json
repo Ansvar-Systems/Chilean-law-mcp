@@ -1,0 +1,951 @@
+{
+  "id": "cl-leychile-norma-1005225",
+  "type": "statute",
+  "title": "CONSTITUCIÓN POLITICA DE LA REPUBLICA DE CHILE PROMULGADA EN 8 DE AGOSTO DE 1828",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1828-08-08",
+  "in_force_date": "1828-08-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1005225",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPITULO PRIMERO De la Nación",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o La Nación chilena es la reunión política de todos los chilenos naturales y legales.\nEs libre e independiente de todo poder extranjero. En ella reside esencialmente la soberanía, y el ejercicio de ésta en los poderes supremos con arreglo a las leyes. No puede ser el patrimonio de ninguna persona o familia."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPITULO PRIMERO De la Nación",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Su territorio comprende de Norte a Sur, desde el desierto de Atacama hasta el Cabo de Hornos, y de Oriente a Occidente, desde las Cordilleras de los Andes hasta el mar Pacífico, con las islas de Juan Fernández y demás adyacentes. Se divide en ocho provincias, que son: Coquimbo, Aconcagua, Santiago, Colchagua, Maule, Concepción, Valdivia y Chiloé."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPITULO PRIMERO De la Nación",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Su religión es la Católica Apostólica Romana, con exclusión del ejercicio público de cualquiera otra."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPITULO PRIMERO De la Nación",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Nadie será perseguido ni molestado por sus opiniones privadas."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Son chilenos naturales todos los nacidos en el territorio de la República."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Son chilenos legales:\n1.o Los hijos de padre o madre chilenos nacidos fuera del territorio de la República, en el acto de avecindarse en ella.\n2.o Los extranjeros casados con chilena, que profesando alguna ciencia, arte o industria, o poseyendo un capital en giro o propiedad raíz, tengan dos años de residencia en el territorio de la República.\n3.o Los extranjeros casados con extranjera que tengan alguna de las calidades mencionadas en el artículo precedente, y seis años de residencia.\n4.o Los extranjeros solteros que tengan alguna de las calidades antes expresadas, y ocho años de residencia.\n5.o Los que obtengan especial gracia del Congreso. Una ley particular designará la autoridad de que haya de solicitarse la declaración que exigen los casos anteriores."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.o Son ciudadanos activos:\n1.o Los chilenos naturales que, habiendo cumplido veintiún años, o antes si fueren casados, o sirvieron en la milicia, profesen alguna ciencia, arte o industria, o ejerzan un empleo, o posean un capital en giro, o propiedad raíz de qué vivir.\n2.o Los chilenos legales, o los que hayan servido cuatro años en clase de oficiales en los ejércitos de la República."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8.o Se suspende la ciudadanía:\n1.o Por ineptitud física o moral, que impida obrar libre y reflexivamente.\n2.o Por la condición de sirviente doméstico.\n3.o Por deudor del Fisco declarado en mora."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "Art. 9.o Se pierde la ciudadanía:\n1.o Por condena a pena infamante.\n2.o Por quiebra fraudulenta.\n3.o Por naturalizarse en otro país.\n4.o Por admitir empleos, distinciones o títulos de otro Gobierno sin especial permiso del Congreso.\nLos que, por alguna de las causas comprendidas en los cuatro números anteriores, hubiesen perdido la ciudadanía, podrán obtener rehabilitación."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "Art. 10. La Nación asegura a todo hombre, como derechos imprescriptibles e inviolables, la libertad, la seguridad, la propiedad, el derecho de petición, y la facultad de Publicar sus opiniones."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "Art. 11. En Chile no hay esclavos; si alguno pisase el territorio de la República, recobra por este hecho su libertad."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "Art. 12. Toda acción que no ataque directa o indirectamente a la sociedad, o perjudique a un tercero, está exenta de la jurisdicción del magistrado y reservada sólo a Dios."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "Art. 13. Ningún habitante del territorio puede ser preso ni detenido, sino en virtud de mandamiento escrito de juez competente, previa la respectiva sumaria, excepto el caso de delito in fraganti, o fundado recelo de fuga."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "Art. 14. Todo individuo preso o detenido conforme a lo dispuesto en el artículo precedente, y por delito en que no recaiga pena corporal, será puesto en libertad, inmediatamente que dé fianza en los términos requeridos por la ley."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "Art. 15. Ninguno podrá ser juzgado por comisiones especiales, sino por los tribunales establecidos por la ley. Esta, en ningún caso, podrá tener efecto retroactivo."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "Art. 16. Ninguna casa podrá ser allanada, sino en caso de resistencia a la autoridad legítima, y en virtud de mandato escrito de ella."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "Art. 17. Ningún ciudadano podrá ser privado de los bienes que posee, o de aquellos a que tiene legítimo derecho, ni de una parte de ellos por pequeña que sea, sino en virtud de sentencia judicial. Cuando el servicio público exigiese la propiedad de alguno, será justamente pagado de su valor, e indemnizado de los perjuicios en caso de retenérsela."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "Art. 18. Todo hombre puede publicar por la imprenta sus pensamientos y opiniones. Los abusos cometidos por este medio, serán juzgados en virtud de una ley particular y calificados por un tribunal de jurados."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "Art. 19. La ley declara inviolable toda correspondencia epistolar; nadie podrá interceptarla ni abrirla, sin hacerse reo de ataque a la seguridad personal."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPITULO III Derechos individuales",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "Art. 20. La ley declara culpable a todo individuo o corporación que viole cualquiera de los derechos mencionados en este capítulo. Las leyes determinarán las penas correspondientes a semejantes atentados."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPITULO IV De la forma de gobierno",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "Art. 21. La Nación chilena adopta para su gobierno la forma de República representativa popular, en el modo que señala esta Constitución."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPITULO V De la división de poderes",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "Art. 22. El ejercicio de la soberanía, delegado por la Nación en las autoridades que ella constituye, se divide en tres poderes, que son: el Legislativo, el Ejecutivo y el Judicial, los cuales se ejercerán separadamente, no debiendo reunirse en ningún caso."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPITULO VI Del Poder Legislativo",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "Art. 23. El Poder Legislativo reside en el Congreso Nacional, el cual constará de dos Cámaras, una de Diputados y otra de Senadores."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "De la Cámara de Diputados",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "Art. 24. La Cámara de Diputados se compondrá de miembros elegidos, directamente por el pueblo, en el modo que determinará la ley de elecciones."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "De la Cámara de Diputados",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "Art. 25. Se elegirá un Diputado por cada quince mil almas, y por una fracción que no baje de siete mil."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "De la Cámara de Diputados",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "Art. 26. En todo el territorio de la República se harán las elecciones de Diputados el primer domingo de marzo."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "De la Cámara de Diputados",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "Art. 27. Las funciones de los Diputados durarán dos años."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "De la Cámara de Diputados",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "Art. 28. Para ser elegido Diputado se necesita:\n1.o Ciudadanía en ejercicio.\n2.o Veinticinco años cumplidos, siendo soltero, o antes siendo casado.\n3.o Una propiedad, profesión u oficio de qué vivir decentemente."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "De la Cámara de Diputados",
+      "section": "29",
+      "title": "Artículo 29",
+      "content": "Art. 29. No pueden ser Diputados:\nLos individuos del clero regular, ni los del secular que obtengan algún beneficio curado."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "De la Cámara de Senadores",
+      "section": "30",
+      "title": "Artículo 30",
+      "content": "Art. 30. La Cámara de Senadores se compondrá de miembros elegidos por las Asambleas provinciales, a pluralidad absoluta de votos, a razón de dos Senadores por cada provincia."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "De la Cámara de Senadores",
+      "section": "31",
+      "title": "Artículo 31",
+      "content": "Art. 31. La elección de los Senadores se hará en todas las provincias el segundo domingo de marzo."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "De la Cámara de Senadores",
+      "section": "32",
+      "title": "Artículo 32",
+      "content": "Art. 32. Las funciones de los Senadores durarán cuatro años, debiendo renovarse por mitad en cada bienio. En el primero saldrá de la Cámara la mitad de los Senadores a la suerte, y en lo sucesivo los más antiguos."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "De la Cámara de Senadores",
+      "section": "33",
+      "title": "Artículo 33",
+      "content": "Art. 33. Las vacantes que ocurran en el Senado se llenarán por la Asamblea provincial a que corresponda, si estuviera reunida, o luego que se reúna si estuviera en receso."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "De la Cámara de Senadores",
+      "section": "34",
+      "title": "Artículo 34",
+      "content": "Art. 34. Para ser elegido Senador se necesita:\n1.o Ciudadanía en ejercicio.\n2.o Treinta años cumplidos.\n3.o Una propiedad o profesión científica productiva, al menos de la cantidad de quinientos pesos al año."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "De la Cámara de Senadores",
+      "section": "35",
+      "title": "Artículo 35",
+      "content": "Art. 35. Las condiciones exclusivas que se han impuesto a los Diputados en el artículo 29, comprenden también a los Senadores."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "De la Cámara de Senadores",
+      "section": "36",
+      "title": "Artículo 36",
+      "content": "Art. 36. Elegido un mismo sujeto para Senador y Diputado, escogerá de las dos elecciones la que más le convenga."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "37",
+      "title": "Artículo 37",
+      "content": "Art. 37. Las Cámaras se regirán por el reglamento que cada una acuerde."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "38",
+      "title": "Artículo 38",
+      "content": "Art. 38. Cada Cámara elegirá su Presidente, Vice-presidente y Secretarios."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "39",
+      "title": "Artículo 39",
+      "content": "Art. 39. Cada Cámara fijará sus gastos respectivos, poniéndolo en noticia del Gobierno, para que se incluyan en los presupuestos de gastos generales de la Nación."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "40",
+      "title": "Artículo 40",
+      "content": "Art. 40. Ninguna Cámara abrirá sus sesiones sin que se haya reunido más de la mitad del número total de sus miembros; mas si no se llenase este el día señalado por la Constitución, deberán reunirse los presentes, y compeler a los ausentes por medio de multas u otras penas."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "41",
+      "title": "Artículo 41",
+      "content": "Art. 41. Las Cámaras se comunicarán por escrito entre sí, y con el Presidente de la República por medio de sus respectivos Presidentes, con la autorización de un Secretario."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "42",
+      "title": "Artículo 42",
+      "content": "Art. 42. Los Diputados y Senadores son inviolables por las opiniones que manifiesten y votos que emitan en el desempeño de sus encargos. No hay autoridad que pueda procesarlos, ni aún reconvenirlos en ningún tiempo por ellos."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "43",
+      "title": "Artículo 43",
+      "content": "Art. 43. Ningún Diputado o Senador podrá ser arrestado durante sus funciones en la Legislatura, y mientras vaya o vuelva de ella, excepto el caso de delito in fraganti."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "44",
+      "title": "Artículo 44",
+      "content": "Art. 44. Ningún Diputado o Senador podrá ser acusado criminalmente desde el día de su elección, sino ante su respectiva Cámara, o la Comisión Permanente, si aquélla estuviera en receso. Si el voto de las dos terceras partes de ella declarase haber lugar a la formación de causa quedará el acusado suspenso de sus funciones legislativas, y sujeto al tribunal competente."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "Del gobierno interior de las Cámaras",
+      "section": "45",
+      "title": "Artículo 45",
+      "content": "Art. 45. En caso de ser arrestado algún Diputado o Senador por delito in fraganti, será puesto inmediatamente a disposición de la Cámara respectiva, con la información sumaria.\nLa Cámara procederá entonces conforme a lo dispuesto en la segunda parte del artículo precedente."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "Atribuciones del Congreso y especiales de cada Cámara",
+      "section": "46",
+      "title": "Artículo 46",
+      "content": "Art. 46. Son atribuciones exclusivas del Congreso:\n1.o Hacer y mandar promulgar los códigos, arreglar el orden de los Tribunales y de la administración de justicia.\n2.o Hacer leyes generales en todo lo relativo a la independencia, seguridad, tranquilidad y decoro de la República; protección de todos los derechos individuales enumerados en el capítulo tercero de esta Constitución, y fomento de la ilustración, agricultura, industria y comercio exterior e interior.\n3.o Aprobar o reprobar, aumentar o disminuir los presupuestos de gastos que el Gobierno presente; establecer las contribuciones necesarias para cubrirlos, su distribución en las provincias, el orden de su recaudación e inversión, y suprimir o reformar las existentes.\n4.o Aprobar o reprobar en todo o en parte las cuentas que el Gobierno presente anualmente a las Cámaras.\n5.o Contraer la deuda nacional, consolidarla, designar sus garantías y reglamentar el crédito público.\n6.o. Aprobar o reprobar la declaración de guerra que el Poder Ejecutivo haga, y los tratados que celebre con potencias extranjeras.\n7.o Designar anualmente la fuerza armada necesaria en tiempo de paz y de guerra.\n8.o Crear nuevas provincias, arreglar sus límites, habilitar puertos, establecer aduanas y derechos de importación y exportación.\n9.o Fijar el peso, ley, valor, tipo y denominación de las monedas, y arreglar el sistema de pesos y medidas.\n10. Permitir o prohibir la. admisión de tropas extranjeras en el territorio de la República, determinando el tiempo de su permanencia en él.\n11. Permitir o prohibir la salida de las tropas nacionales fuera del territorio de la República, determinando el tiempo de su regreso.\n12. Crear o suprimir empleos públicos, determinar o modificar sus atribuciones, señalar, aumentar o disminuir sus dotaciones o retiros; dar pensiones o recompensas pecuniarias o de otra clase, y decretar honores públicos a los grandes servicios.\n13. Conceder indultos en casos extraordinarios.\n14. Hacer los reglamentos de milicias, y determinar el tiempo y número en que deben reunirse.\n15. Elegir el lugar en que deban residir los supremos poderes nacionales.\n16. Aprobar o reprobar la erección y reglamentos de los bancos de descuento, Hipotecarios, o de cualquiera otra clase.\n17. Nombrar, reunidas las Cámaras, los miembros de la Corte Suprema.\n18. Nombrar, al día siguiente de su instalación, veinticuatro individuos que tengan las calidades requeridas para Ministros de la Suprema Corte y elegir de éstos a la suerte cinco y un Fiscal, los cuales conocerán en primera instancia de las causas de dichos Ministros en aquellos asuntos que no estén comprendidos en la segunda parte del artículo 47. En segunda instancia conocerá igual número, elegido del mismo modo. Una ley particular designará el modo y forma de proceder."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "Atribuciones del Congreso y especiales de cada Cámara",
+      "section": "47",
+      "title": "Artículo 47",
+      "content": "Art. 47. Son atribuciones exclusivas de la Cámara de Diputados:\n1.o Proponer las leyes relativas a impuestos y contribuciones, tomando en consideración las modificaciones con que el Senado las devuelva.\n2.o Conocer a petición de parte, o proposición de alguno de sus miembros, sobre las acusaciones contra el Presidente y Vice-presidente de la República, Ministros, miembros de ambas Cámaras y de la Corte Suprema de justicia, por delitos de traición, malversación de fondos públicos, infracción de la Constitución, y violación de los derechos individuales; declarar si hay lugar a la formación de causa, y en caso de haberlo, formalizar la acusación ante el Senado."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "Atribuciones del Congreso y especiales de cada Cámara",
+      "section": "48",
+      "title": "Artículo 48",
+      "content": "Art. 48. Es atribución exclusiva del Senado:\nAbrir juicio público a los acusados por la Cámara de Diputados, y pronunciar sentencia con la concurrencia, a lo menos, de las dos terceras partes de votos."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "De la formación de las leyes",
+      "section": "49",
+      "title": "Artículo 49",
+      "content": "Art. 49. Todo proyecto de ley, excepto los relativos a contribuciones e impuestos, puede tener su origen en cualquiera de las dos Cámaras, a proposición de uno de sus miembros, o por proyectos presentados por el Poder Ejecutivo."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "De la formación de las leyes",
+      "section": "50",
+      "title": "Artículo 50",
+      "content": "Art. 50. Aprobado un proyecto de ley en la Cámara de su origen, pasará inmediatamente a la otra Cámara para su discusión y aprobación."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "De la formación de las leyes",
+      "section": "51",
+      "title": "Artículo 51",
+      "content": "Art. 51. El proyecto de ley desechado por una de las Cámaras, no podrá ser presentado de nuevo hasta el siguiente período de la legislatura."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "De la formación de las leyes",
+      "section": "52",
+      "title": "Artículo 52",
+      "content": "Art. 52. El proyecto de ley adicionado, o corregido por la Cámara a que haya sido enviado, volverá a la de su origen, y quedará sometido a las reglas contenidas en los dos artículos precedentes."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "De la formación de las leyes",
+      "section": "53",
+      "title": "Artículo 53",
+      "content": "Art. 53. Aprobado un proyecto de ley por las dos Cámaras, será remitido al Poder Ejecutivo, el cual ordenará su promulgación, o lo devolverá a la de su origen con sus objeciones u observaciones."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "De la formación de las leyes",
+      "section": "54",
+      "title": "Artículo 54",
+      "content": "Art. 54. Si la devolución de que habla el artículo anterior no se verifica en los diez días siguientes al de la remisión del proyecto al Poder Ejecutivo, tendrá fuerza de ley y se promulgará como tal."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "De la formación de las leyes",
+      "section": "55",
+      "title": "Artículo 55",
+      "content": "Art. 55. Si 1a devolución se verifica en el término legal, el proyecto será reconsiderado en ambas Cámaras, tendrá fuerza de ley, y se promulgará inmediatamente por el Ejecutivo, si en cada una de las Cámaras se aprueba."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "De la formación de las leyes",
+      "section": "56",
+      "title": "Artículo 56",
+      "content": "Art. 56. No verificándose la aprobación del proyecto devuelto por el Ejecutivo, quedará suprimido por entonces, y no podrá ser presentado de nuevo hasta el siguiente período de la legislatura."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "De la formación de las leyes",
+      "section": "57",
+      "title": "Artículo 57",
+      "content": "Art. 57. No haciéndose la devolución en el término legal, por haber suspendido o terminado sus sesiones el Congreso, deberá verificarse en el primer día de su reunión."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "De las sesiones del Congreso",
+      "section": "58",
+      "title": "Artículo 58",
+      "content": "Art. 58. El Congreso abrirá sus sesiones ordinarias el día 1.o de junio de cada año, y las cerrará el 18 de septiembre. Si algún motivo particular exige prorrogar este término, no pasará nunca de un mes."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "De las sesiones del Congreso",
+      "section": "59",
+      "title": "Artículo 59",
+      "content": "Art. 59. Convocado extraordinariamente el Congreso, se ocupará exclusivamente de los negocios que motivaron la convocatoria."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "60",
+      "title": "Artículo 60",
+      "content": "Art. 60. El Supremo Poder Ejecutivo será ejercido por un ciudadano chileno de nacimiento, de edad de más de treinta años, con la denominación de Presidente de la República de Chile."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "61",
+      "title": "Artículo 61",
+      "content": "Art. 61. Habrá un Vice-presidente que en casos de muerte o imposibilidad física o moral del Presidente desempeñará su cargo. Sus calidades serán las mismas que se requieren para Presidente."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "62",
+      "title": "Artículo 62",
+      "content": "Art. 62. Las funciones del Presidente y Vicepresidente durarán cinco años. No podrán ser reelegidos, sino mediando el tiempo antes señalado, entre la primera y segunda elección."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "63",
+      "title": "Artículo 63",
+      "content": "Art. 63. El Presidente y Vice-presidente serán elegidos el día 5 de abril del año en que expire el término que señala la ley a la duración de uno y otro."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "64",
+      "title": "Artículo 64",
+      "content": "Art. 64. Elegirán al Presidente y Vicepresidente los electores que las provincias nombren en votación popular y directa, cuyo número será triple del total de Diputados y Senadores que corresponde a cada provincia."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "65",
+      "title": "Artículo 65",
+      "content": "Art. 65. El nombramiento de electores se hará el día 15 de marzo. Las calidades de éstos serán las que se exigen para Diputados en el artículo 28."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "66",
+      "title": "Artículo 66",
+      "content": "Art. 66. Los electores reunidos el día señalado en el artículo 63, y con las formalidades que designe la ley de elecciones, votarán indistintamente por dos personas, una de las cuales, por lo menos, no será natural ni avecindada en la provincia que la elija."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "67",
+      "title": "Artículo 67",
+      "content": "Art. 67. La mesa electoral formará listas dobles de las personas elegidas, cuyas listas firmadas por todos los electores, y selladas, se remitirán, una a la Asamblea Provincial, en cuyo archivo quedará depositada y cerrada, y la otra a la Comisión Permanente, que la conservará del mismo modo hasta la reunión de las Cámaras."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "68",
+      "title": "Artículo 68",
+      "content": "Art. 68. El día siguiente al de la instalación del Congreso, se abrirán y leerán dichas listas en sesión pública de las dos Cámaras, reunidas en el sitio de las sesiones del Senado, haciendo de Presidente el que lo sea de este cuerpo, y colocándose a su derecha el de la Cámara de Diputados. Los Secretarios de ambas Cámaras ejercerán en esta reunión las funciones de tales."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "69",
+      "title": "Artículo 69",
+      "content": "Art. 69. Leídas las listas, el Presidente del Senado nombrará una comisión compuesta de un número igual de Senadores y Diputados para que las revisen, y en la misma sesión den cuenta del resultado."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "70",
+      "title": "Artículo 70",
+      "content": "Art. 70. Acto continuo las Cámaras calificarán las elecciones, según las reglas que se establecerán en los artículos siguientes, y uno de los Secretarios leerá públicamente el resultado."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "71",
+      "title": "Artículo 71",
+      "content": "Art. 71. El que hubiere reunido mayoría absoluta de votos cotejados con el número de electores, será declarado Presidente de la República; mas si se hallasen dos con dicha mayoría, será Presidente el que tuviese mayor número, y el del accésit será declarado Vicepresidente.\nSi dos se hallasen con igual número, pertenece a las Cámaras nombrar uno de ellos Presidente, y otro Vice-presidente."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "72",
+      "title": "Artículo 72",
+      "content": "Art. 72. En caso que ninguno obtuviese mayoría absoluta de votos, las Cámaras elegirán, entre los que obtengan mayoría respectiva, el Presidente de República, y después el Vicepresidente entre los de la mayoría inmediata."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "73",
+      "title": "Artículo 73",
+      "content": "Art. 73. Si uno solo tuviese mayoría respectiva, y dos o más de lo inmediatos en número de votos se hallasen iguales, las Cámaras elegirán entre éstos el que deba competir con el primero, sea para la elección de Presidente, o Vice-presidente, según ocurriese el caso."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "74",
+      "title": "Artículo 74",
+      "content": "Art. 74. Si todos los candidatos se hallasen con igual número de votos, las Cámaras elegirán entre todos ellos, primero al Presidente, y luego al Vicepresidente en votación separada."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "75",
+      "title": "Artículo 75",
+      "content": "Art. 75. No podrá hacerse la calificación de estas elecciones, si no están presentes las tres cuartas partes de los miembros de ambas Cámaras. Si verificada la votación resultase igualdad de votos, se hará segunda vez, y si no resultase mayoría absoluta, se decidirá por la suerte."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "76",
+      "title": "Artículo 76",
+      "content": "Art. 76. El mismo día en que se completen los cinco años que debe durar el ejercicio de la presidencia y de la vice-presidencia, cesarán de hecho los que lo desempeñen, y serán reemplazados por los nuevamente elegidos. Mas si por algún motivo extraordinario no se hubiesen hecho o publicado las elecciones, cesarán, sin embargo, el Presidente y Vice Presidente, y el Poder Ejecutivo se depositara en el Presidente del Senado, o de la Comisión permanente, si estuvieren las Cámaras en receso."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "77",
+      "title": "Artículo 77",
+      "content": "Art. 77. Si el Presidente y Vice-presidente se hallasen imposibilitados de ejercer sus destinos, el Presidente del Senado, o el de la Comisión Permanente, si las Cámaras en receso, avisará inmediatamente a los pueblos por medio de los Intendentes, Para que se hagan las elecciones de electores el día 15 de marzo, continuando los demás periodos señalados para la elección de Presidente y Vice-Presidente, conforme a los artículos 63, 68 y 78, y entretanto se ejercerá el Poder Ejecutivo según lo dispuesto en el artículo anterior."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "78",
+      "title": "Artículo 78",
+      "content": "Art. 78. El día 18 de septiembre tomarán posesión de sus destinos el Presidente y Vice Presidente de la República, y el día que terminen sus funciones, deberán hallarse presentes los nuevamente electos, para prestar el juramento de estilo; mas si algún accidente impidiese la presencia del primero, el Vice-presidente se recibirá provisoriamente del Gobierno."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "79",
+      "title": "Artículo 79",
+      "content": "Art. 79. Dicho juramento se prestará ante las Cámaras reunidas. Lo mismo se observará respecto del que por impedimento del Presidente y Vice-presidente le sustituya, debiendo prestarse ante la Comisión Permanente, si estuviesen las Cámaras en receso."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "CAPITULO VII Del Poder Ejecutivo",
+      "section": "80",
+      "title": "Artículo 80",
+      "content": "Art. 80. El año anterior a cada elección de Presidente y Vice-presidente, el Congreso señalará el sueldo de que han de gozar uno y otro, sin que pueda aumentarse ni disminuirse durante los años que la ley, señala a la duración de sus empleos."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "Privilegios y facultades del Poder Ejecutivo",
+      "section": "81",
+      "title": "Artículo 81",
+      "content": "Art. 81. El Presidente y Vice-presidente no podrán ser acusados durante el tiempo de su gobierno, sino ante la Cámara de Diputados, por los delitos señalados en la parte segunda del artículo 47, capítulo VI de esta Constitución. La acusación puede hacerse en el tiempo de su gobierno, o un año después."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "Privilegios y facultades del Poder Ejecutivo",
+      "section": "82",
+      "title": "Artículo 82",
+      "content": "Art. 82. Pasado este año, que es el término designado a su residencia, ya nadie podrá acusarlos por delito alguno cometido durante el período de su gobierno."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "Privilegios y facultades del Poder Ejecutivo",
+      "section": "83",
+      "title": "Artículo 83",
+      "content": "Art. 83. Son atribuciones del Poder Ejecutivo:\n1.o Hacer observaciones u objeciones sobre los proyectos de ley remitidos por las Cámaras, y suspender su promulgación dentro de los diez días inmediatos a aquel en que se le presenten.\n2.o Proponer leyes a las Cámaras, o modificaciones y reformas a las dictadas anteriormente, en los términos que previene esta Constitución.\n3.o Pedir al Congreso la prorrogación de sus sesiones ordinarias por treinta días, y convocarlo a extraordinarias.\n4.o Nombrar y remover sin expresión de causa a los Ministros Secretarios del Despacho, y a los oficiales de las secretarías.\n5.o Proveer los empleos civiles, militares y eclesiásticos conforme a la Constitución y a las leyes, necesitando del acuerdo del Senado, o del de la Comisión Permanente en su receso, para los enviados diplomáticos, coroneles y demás oficiales superiores del Ejército permanente.\n6.o Destituir los empleados por ineptitud, omisión o cualquiera otro delito. En los dos primeros casos con acuerdo del Senado, o en su receso con el de la Comisión Permanente, y en el último pasando el expediente a los tribunales de Justicia para que sean juzgados legalmente.\n7.o Iniciar y concluir tratados de paz, amistad, alianza, comercio y cualesquiera otros, necesitando para la ratificación la aprobación del Congreso.\nCelebrar, en la misma, forma, concordatos con la Silla Apostólica, y retener o conceder pase a, sus bulas y diplomas.\n8.o Ejercer, conforme a las leyes, 1as atribuciones del patronato; pero no presentará obispos sino con aprobación de la Cámara de Diputados.\n9.o Declarar la guerra, previa la resolución del Congreso, y después de emplear los medios de evitarla sin menoscabo del honor e independencia nacional.\n10. Disponer de la fuerza de mar y tierra y de la milicia activa, para la seguridad interior y defensa exterior de la Nación, y emplear en los mismos objetos la milicia local, previa la aprobación del Congreso, o en su receso, de la Comisión Permanente.\n11. Dar retiros, conceder licencias, y arreglar las pensiones de los militares conforme a 1as leyes.\n12. En casos de ataque exterior o conmoción interior, graves e imprevistos, tomar medidas prontas de seguridad, dando cuenta inmediatamente al Congreso, o en su receso, a la Comisión Permanente, de lo ejecutado y sus motivos, estando a su resolución."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "Deberes del Poder Ejecutivo",
+      "section": "84",
+      "title": "Artículo 84",
+      "content": "Art. 84. Son deberes del Poder Ejecutivo:\n1.o Publicar y circular todas las leyes que el Congreso sancione, ejecutarlas y hacerlas ejecutar por medio de providencias oportunas.\n2.o Cuidar de la recaudación de las contribuciones generales, y decretar su inversión con arreglo a las leyes.\n3.o Presentar cada año al Congreso el presupuesto de los gastos necesarios, y dar cuenta instruída de la inversión del presupuesto anterior.\n4.o Dar anualmente al Congreso, luego que abra sus sesiones, razón del estado de la Nación en todos los ramos del Gobierno.\n5.o Velar sobre la conducta funcionaria de los empleados en el ramo judicial, y sobre la ejecución de las sentencias.\n6.o Tomar las providencias necesarias para que las elecciones se hagan en la época señalada en esta Constitución, y para que se observe en ellas lo que disponga la ley electoral."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "De lo que se prohibe al Poder Ejecutivo",
+      "section": "85",
+      "title": "Artículo 85",
+      "content": "Art. 85. Se prohibe al Poder Ejecutivo:\n1.o Mandar personalmente la fuerza armada de mar o tierra, sin previo permiso del Congreso, o en su receso, de las dos terceras partes de la Comisión Permanente. Obtenido éste, mandará la República el Vice-presidente.\n2.o Salir del territorio de la República durante su gobierno, y un año después de haber concluído.\n3.o Conocer en materias judiciales bajo ningún pretexto.\n4.o Privar a nadie de su libertad personal, y en caso de hacerlo, por exigirlo así el interés general, se limitará al simple arresto; y en el preciso término de veinticuatro horas pondrá el arrestado a disposición del juez.\n5.o Suspender por ningún motivo las elecciones nacionales, ni variar el tiempo que esta Constitución les designa.\n6.o Impedir la reunión de las Cámaras, o poner algún embarazo a sus sesiones.\n7.o Permitir goce de sueldo por otros títulos que el de actual servicio, jubilación o retiro conforme a las leyes.\n8.o Expedir órdenes sin rubricarlas y sin la firma del Ministro respectivo. Faltando este requisito, ningún individuo será obligado a obedecerlas."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "De los Ministros Secretarios de Estado",
+      "section": "86",
+      "title": "Artículo 86",
+      "content": "Art. 86. Habrá tres Ministros Secretarios de Estado para el Despacho. Cada uno de ellos será responsable de los decretos que firme, y todos de los que firmaren en común."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "De los Ministros Secretarios de Estado",
+      "section": "87",
+      "title": "Artículo 87",
+      "content": "Art. 87. Para ser Ministro se requiere ser ciudadano por nacimiento, y tener treinta años de edad."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "De los Ministros Secretarios de Estado",
+      "section": "88",
+      "title": "Artículo 88",
+      "content": "Art. 88. Luego que las Cámaras abran sus sesiones anuales, darán cuenta los Ministros en particular a cada una de ellas, del estado de sus ramos respectivos."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "De los Ministros Secretarios de Estado",
+      "section": "89",
+      "title": "Artículo 89",
+      "content": "Art. 89. Concluído su ministerio, no podrán salir del territorio de la República hasta pasados seis meses, durante los cuales estará abierto su juicio de residencia."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "CAPITULO VIII De la Comisión Permanente",
+      "section": "90",
+      "title": "Artículo 90",
+      "content": "Art. 90. Durante el receso del Congreso, habrá una Comisión Permanente, compuesta de un Senador por cada provincia."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "CAPITULO VIII De la Comisión Permanente",
+      "section": "91",
+      "title": "Artículo 91",
+      "content": "Art. 91. En los dos primeros años serán miembros de la Comisión Permanente, los Senadores nombrados en primer lugar por las respectivas Asambleas Provinciales, y en lo sucesivo los más antiguos. Los miembros de la Comisión nombrarán de entre ellos mismos su Presidente a pluralidad de votos."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "CAPITULO VIII De la Comisión Permanente",
+      "section": "92",
+      "title": "Artículo 92",
+      "content": "Art. 92. Son deberes de esta Comisión:\n1.o Velar sobre la observancia de la Constitución y de las leyes.\n2.o Hacer al Poder Ejecutivo las observaciones convenientes a este efecto, de cuya omisión será responsable al Congreso; y no bastando las primeras, las reiterará segunda vez.\n3.o Acordar por sí sola, en caso de insuficiencia del recurso antes señalado, la convocación del Congreso a sesiones extraordinarias.\n4.o Prestar o rehusar su consentimiento en todos los actos en que el Poder Ejecutivo lo necesite, según lo prevenido en esta Constitución."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "CAPITULO IX Del Poder Judicial",
+      "section": "93",
+      "title": "Artículo 93",
+      "content": "Art. 93. El Poder Judicial reside en la Corte Suprema, Cortes de Apelación y juzgados de primera instancia."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "CAPITULO IX Del Poder Judicial",
+      "section": "94",
+      "title": "Artículo 94",
+      "content": "Art. 94. La Corte Suprema se compondrá de cinco Ministros y un Fiscal. El Congreso aumentará este número según lo exijan las circunstancias."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "CAPITULO IX Del Poder Judicial",
+      "section": "95",
+      "title": "Artículo 95",
+      "content": "Art. 95. Para ser Ministro de la Corte Suprema se requiere ciudadanía natural o legal, treinta años a lo menos de edad, y haber ejercido por seis años la profesión de abogado."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "De las atribuciones de la Corte Suprema",
+      "section": "96",
+      "title": "Artículo 96",
+      "content": "Art. 96. Son atribuciones de la Corte Suprema:\n1.a Conocer y juzgar de las competencias entre los tribunales.\n2.a De los juicios contenciosos entre las provincias.\n3.a De los que resulten de contratos celebrados por el Gobierno, o por los agentes de éste en su nombre.\n4.a De las causas civiles del Presidente y Vicepresidente de la República, Ministros del Despacho y miembros de ambas Cámaras.\n5.a De las civiles y criminales de los empleados diplomáticos, cónsules e Intendentes de provincia.\n6.a De las de almirantazgo, presas de mar y tierra, y actos en alta mar.\n7.a De las de infracción de Constitución.\n8.a De las causas sobre suspensión o pérdida del derecho de ciudadanía, según lo dispuesto en esta Constitución.\n9.a De los demás recursos de que actualmente conoce, en el entretanto se reforma el sistema de administración de justicia.\n10. Ejercer la superintendencia directiva, correccional, consultiva y económica sobre todos los tribunales y juzgados de la Nación.\n11.Proponer en terna al Poder Ejecutivo los nombramientos de las Cortes de Apelación."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "De las atribuciones de la Corte Suprema",
+      "section": "97",
+      "title": "Artículo 97",
+      "content": "Art. 97. Se concede el recurso de súplica en todas las causas de que hablan las partes 2.a, 3.a, 4.a, 5.a, 6.a, 7.a y 8.a del artículo anterior. La Corte Suprema, para conocer, se compondrá entonces de los miembros natos y suplentes respectivos."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "De las Cortes de Apelación",
+      "section": "98",
+      "title": "Artículo 98",
+      "content": "Art. 98. Las Cortes de Apelación se compondrán del número de jueces que designe una ley especial.\nEsta designará también las provincias que debe comprender cada una de ellas, y el modo, forma, grado y orden en que deban ejercer sus atribuciones."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "De las Cortes de Apelación",
+      "section": "99",
+      "title": "Artículo 99",
+      "content": "Art. 99. Para ser miembro de las Cortes de Apelación se necesita la ciudadanía natural o legal, y haber ejercido cuatro años la profesión de abogado."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "De los juzgados de paz y de primera instancia",
+      "section": "100",
+      "title": "Artículo 100",
+      "content": "Art. 100. Habrá juzgados de paz para conciliar los pleitos en la forma que designe una ley especial."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "De los juzgados de paz y de primera instancia",
+      "section": "101",
+      "title": "Artículo 101",
+      "content": "Art. 101. En cada provincia habrá uno o más jueces de primera instancia, para conocer de las causas civiles y criminales que en ella se susciten, cuyo ministerio será ejercido por letrados según el modo que designe una ley particular."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "De los juzgados de paz y de primera instancia",
+      "section": "102",
+      "title": "Artículo 102",
+      "content": "Art. 102. Para ser juez letrado de primera instancia se necesita ciudadanía natural o legal, y haber ejercido por dos años la profesión de abogado."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "De los juzgados de paz y de primera instancia",
+      "section": "103",
+      "title": "Artículo 103",
+      "content": "Art. 103. Los empleos de miembros de la Corte Suprema, Cortes de Apelación y jueces letrados de primera instancia, serán por el tiempo que dure su buena comportación y servicios. Los que los desempeñen, no podrán ser privados de ellos sino por sentencia de tribunal competente."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "Restricciones del Poder Judicial",
+      "section": "104",
+      "title": "Artículo 104",
+      "content": "Art. 104. Todo juez, autoridad o tribunal que, a cualquiera habitante preso o detenido conforme al artículo 13 del capítulo III, no le hace saber la causa de su prisión o detención en el preciso término de veinticuatro horas, o le niega o estorba los medios de defensa legal de que quiera hacer uso, es culpable de atentado a la seguridad personal.\nProduce, por tanto, acción popular; el hecho se justificará en sumario por la autoridad competente, y el reo, oído del mismo modo, será castigado con la pena de la ley."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "Restricciones del Poder Judicial",
+      "section": "105",
+      "title": "Artículo 105",
+      "content": "Art. 105. Se prohibe a todos los jueces, autoridades y Tribunales imponer la pena de confiscación de bienes, y la aplicación de toda clase de tormentos. La pena de infamia no pasara jamás de la persona del sentenciado."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "Restricciones del Poder Judicial",
+      "section": "106",
+      "title": "Artículo 106",
+      "content": "Art. 106. Prohíbese igualmente ordenar y ejecutar el registro de casas, papeles, libros o efectos de cualquier habitante de la República, sino en los casos expresamente declarados por la ley, y en la forma que ésta determina."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "Restricciones del Poder Judicial",
+      "section": "107",
+      "title": "Artículo 107",
+      "content": "Art. 107. A ningún reo se podrá exigir juramento sobre hecho propio en causas criminales."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "CAPITULO X Del gobierno y administración interior de las provincias",
+      "section": "108",
+      "title": "Artículo 108",
+      "content": "Art. 108. El gobierno y administración interior de las provincias se ejercerá en cada una por la Asamblea Provincial y por el Intendente."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "De las Asambleas Provinciales",
+      "section": "109",
+      "title": "Artículo 109",
+      "content": "Art. 109. La Asamblea Provincial se compondrá de miembros elegidos directamente por el pueblo, en el modo que prescribirá la ley general de elecciones."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "De las Asambleas Provinciales",
+      "section": "110",
+      "title": "Artículo 110",
+      "content": "Art. 110. Se eligirá un Diputado por cada siete mil quinientas almas."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "De las Asambleas Provinciales",
+      "section": "111",
+      "title": "Artículo 111",
+      "content": "Art. 111. En las provincias que no se alcance, según esta base, o componer la Asamblea al menos de doce miembros, se completara este número, cualquiera que sea su Población."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "De las Asambleas Provinciales",
+      "section": "112",
+      "title": "Artículo 112",
+      "content": "Art. 112. Su duración será por dos años: y su instalación, que no podrá hacerse con menos de los dos tercios de sus miembros, será en la Capital de la provincia."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "De las Asambleas Provinciales",
+      "section": "113",
+      "title": "Artículo 113",
+      "content": "Art. 113. Para ser Diputado de la Asamblea se requiere ciudadanía en ejercicio, y ser natural o avecindado en 1a provincia."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "De las Asambleas Provinciales",
+      "section": "114",
+      "title": "Artículo 114",
+      "content": "Art. 114. Son atribuciones de las Asambleas Provinciales:\n1.a Calificar las elecciones de sus respectivos miembros.\n2.a Determinar el tiempo de sus sesiones, que nunca deben exceder del señalado por esta Constitución a la Legislatura Nacional.\n3.a Nombrar Senadores, y proponer en terna los nombramientos de Intendentes, viceintendentes, jueces Letrados de primera instancia.\n4.a Establecer municipalidades en aquellos lugares donde las crean convenientes.\n5.a Conocer y resolver sobre la legitimidad de las elecciones de estos cuerpos.\n6.a Aprobar o reprobar las medidas y planes que les propongan, conducentes al bien de su respectivo pueblo.\n7.a Autorizar, anualmente los presupuestos de 1as Municipalidades, aprobar o reprobar los gastos extraordinarios que éstas propongan, y los reglamentos que deban regirlas.\n8.a Tener bajo su inmediata inspección los establecimientos piadosos de corrección, educación, seguridad, policía, salubridad y ornato, y crear cualesquiera otros de conocida utilidad pública.\n9.a Examinar sus cuentas y corregir sus abusos, introducir mejoras en su administración y cuidar de que se hagan efectivas las leyes de su institución.\n10. Proponer el Gobierno las medidas y planes conducentes al bien de la provincia en cualquiera ramo.\n11. Darle cuenta anual del estado agrícola, industrial y comercial de la provincia, de los obstáculos que se oponen a su adelantamiento, y de los abusos que se noten en la administración de los fondos públicos.\n12. Distribuir las contribuciones entre los pueblos de la provincia.\n13. Formar el censo estadístico de ella.\n14. Velar sobre la observancia de la Constitución y de la ley electoral."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "De las Asambleas Provinciales",
+      "section": "115",
+      "title": "Artículo 115",
+      "content": "Art. 115. Las Asambleas Provinciales propondrán al Congreso los arbitrios que juzguen oportunos para ocurrir a los gastos de la administración de las provincias."
+    },
+    {
+      "provision_ref": "art116",
+      "chapter": "De los Intendentes",
+      "section": "116",
+      "title": "Artículo 116",
+      "content": "Art. 116. Los Intendentes y vice-intendentes serán nombrados por el Poder Ejecutivo, en virtud de la propuesta de que se habla en el número 3.o del artículo 114. Su duración será de tres años. No podrán ser reelegidos, sino mediando el tiempo antes señalado entre la primera y segunda elección."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "De los Intendentes",
+      "section": "117",
+      "title": "Artículo 117",
+      "content": "Art. 117. Son atribuciones de los Intendentes:\n1.a Ejecutar y hacer ejecutar la Constitución, leyes, órdenes del Poder Ejecutivo, y las resoluciones de la Asamblea Provincial que no se opongan a la Constitución y leyes generales.\n2.a Ejercer la sub-inspección general de las milicias de su respectiva provincia: proponer los jefes de acuerdo con la Asamblea, y por sí solos los oficiales subalternos, en ambos casos conforme a las leyes."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "Del gobierno y Municipalidad de los pueblos",
+      "section": "118",
+      "title": "Artículo 118",
+      "content": "Art. 118. En cada ciudad o villa que tenga Municipalidad habrá un gobernador local. Su nombramiento se hará a pluralidad absoluta de sufragios por la Municipalidad. Su duración será por dos años."
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "Del gobierno y Municipalidad de los pueblos",
+      "section": "119",
+      "title": "Artículo 119",
+      "content": "Art. 119. Son atribuciones de los gobernadores locales:\n1.a Citar a los habitantes de su distrito a las elecciones determinadas por la ley en los términos señalados por ella.\n2.a Mantener el orden en su territorio.\n3.a Nombrar y remover con acuerdo de las Municipalidades a sus subalternos.\n4.a Ejecutar las órdenes relativas a la policía y estadística de su territorio, y en cualquiera otro ramo que sus Municipalidades, en virtud de sus atribuciones, le remitan.\n5.a Ejecutar igualmente todas las que recibiera del Intendente de la provincia.\n6.a Observar y hacer observar la Constitución, leyes preexistentes y que en adelante se dictaren.\n7.a Presidir a las Municipalidades. En su defecto corresponde la presidencia al municipal que haya tenido mayor número de sufragios."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "Del gobierno y Municipalidad de los pueblos",
+      "section": "120",
+      "title": "Artículo 120",
+      "content": "Art. 120. En falta del gobernador local le sustituirá el municipal de que habla la parte última del anterior artículo."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "De las Municipalidades",
+      "section": "121",
+      "title": "Artículo 121",
+      "content": "Art. 121. El nombramiento de las Municipalidades se hará directamente por el pueblo conforme a la ley de elecciones. Su número no podrá pasar de doce, ni bajar de siete. Su duración será por dos años."
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "De las Municipalidades",
+      "section": "122",
+      "title": "Artículo 122",
+      "content": "Art. 122. Son atribuciones de las Municipalidades:\n1.a Dar dictamen al Gobernador local en las materias que lo pida.\n2.a Promover y ejecutar mejoras sobre la policía de salubridad y comodidad.\n3.a Sobre la administración e inversión de los caudales de propios y arbitrios, conforme al reglamento que aprobare la Asamblea Provincial.\n4.a Hacer el repartimiento de las contribuciones que hayan cabido a su distrito.\n5.a Establecer, cuidar y proteger las escuelas de primeras letras, y la educación pública en todos sus ramos.\n6.a Los hospitales, hospicios, panteones, casas de expósitos y demás establecimientos de beneficencia, bajo las reglas que se prescriban.\n7.a La construcción y reparación de los caminos, calzadas, puentes, cárceles, y todas las obras públicas de seguridad, comodidad y ornato.\n8.a Formar los reglamentos municipales sobre estos objetos, y pasarlos a la Asamblea Provincial para su aprobación.\n9.a Promover la agricultura, la industria y el comercio según lo permitan las circunstancias de sus pueblos.\n10. Arreglar su orden interior, y nombrar los empleados necesarios para su correspondencia y demás servicios.\n11. Disponer la celebración de las fiestas cívicas en su distrito."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "CAPITULO XI De la fuerza armada",
+      "section": "123",
+      "title": "Artículo 123",
+      "content": "Art. 123. La fuerza armada se compondrá del ejército de mar y tierra, y de la milicia activa y pasiva. El Congreso, en virtud de sus atribuciones, reglará el número, orden, disciplina y reemplazo, tanto del ejército como de la milicia, cuyo régimen debe ser uniforme."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "CAPITULO XI De la fuerza armada",
+      "section": "124",
+      "title": "Artículo 124",
+      "content": "Art. 124. Todo chileno en estado de cargar armas, debe estar inscrito en los registros de la milicia activa o pasiva, conforme al reglamento."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "CAPITUL0 XII Disposiciones generales",
+      "section": "125",
+      "title": "Artículo 125",
+      "content": "Art. 125. Todo hombre es igual delante de la ley."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "CAPITUL0 XII Disposiciones generales",
+      "section": "126",
+      "title": "Artículo 126",
+      "content": "Art. 126. Todo chileno puede ser llamado a los empleos. Todos deben contribuir a las cargas del Estado en proporción de sus haberes. No hay, clase privilegiada. Quedan abolidos para siempre los mayorazgos, y todas las vinculaciones que impidan el enajenamiento libre de los fundos. Sus actuales poseedores dispondrán de ellos libremente, excepto la tercera parte de su valor que se reserva a los inmediatos sucesores, quienes dispondrán de ella con la misma libertad."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "CAPITUL0 XII Disposiciones generales",
+      "section": "127",
+      "title": "Artículo 127",
+      "content": "Art. 127. Los actuales poseedores que no tengan herederos forzosos, dispondrán precisamente de los dos tercios que les han sido reservados, en favor de los parientes más inmediatos."
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "CAPITUL0 XII Disposiciones generales",
+      "section": "128",
+      "title": "Artículo 128",
+      "content": "Art. 128. Todo funcionario público está sujeto a juicio de residencia. Una ley especial reglará el modo de proceder en él."
+    },
+    {
+      "provision_ref": "art129",
+      "chapter": "CAPITUL0 XII Disposiciones generales",
+      "section": "129",
+      "title": "Artículo 129",
+      "content": "Art. 129. La República no reconoce fuera de su territorio tribunal alguno. Una ley especial designará el modo y forma en que hayan de terminarse los juicios que antes salían de ella."
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "CAPITULO XIII De la observancia, interpretación y reforma de la Constitución",
+      "section": "130",
+      "title": "Artículo 130",
+      "content": "Art. 130. Todo funcionario público sin excepción de clase alguna, antes de tomar posesión de su destino, prestará juramento de guardar esta Constitución."
+    },
+    {
+      "provision_ref": "art131",
+      "chapter": "CAPITULO XIII De la observancia, interpretación y reforma de la Constitución",
+      "section": "131",
+      "title": "Artículo 131",
+      "content": "Art. 131. El Congreso, en virtud de sus atribuciones, dictará todas las leyes y decretos que crea convenientes, a fin de que se haga efectiva la responsabilidad de los que la quebranten."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "CAPITULO XIII De la observancia, interpretación y reforma de la Constitución",
+      "section": "132",
+      "title": "Artículo 132",
+      "content": "Art. 132. Sólo el Congreso General podrá resolver las dudas que ocurran sobre la inteligencia de sus artículos."
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "CAPITULO XIII De la observancia, interpretación y reforma de la Constitución",
+      "section": "133",
+      "title": "Artículo 133",
+      "content": "Art. 133. El año de 1836 se convocará por el Congreso una gran Convención, con el único y exclusivo objeto de reformar o adicionar esta Constitución, la cual se disolverá inmediatamente que lo haya desempeñado. Una ley particular determinará el modo de proceder, número de que se componga, y demás circunstancia."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "CAPITULO XIII De la observancia, interpretación y reforma de la Constitución",
+      "section": "134",
+      "title": "Artículo 134",
+      "content": "Art. 134. Inmediatamente después de firmada esta Constitución, el actual Congreso Constituyente se dividirá en dos Cámaras, debiendo nombrarse los Senadores a pluralidad de votos. En este estado se ocupará exclusivamente en formar la ley de elecciones, y demás necesarias para poner en ejecución esta Constitución, debiendo separarse antes del 1.o de febrero de 1829."
+    }
+  ],
+  "definitions": []
+}

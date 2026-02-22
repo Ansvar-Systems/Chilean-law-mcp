@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138958",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3130",
+  "status": "in_force",
+  "issued_date": "1916-09-04",
+  "in_force_date": "1916-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138958",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se eleva en novecientos cincuenta mil pesos la autorizacion concedida al Presidente de la República por la lei número 2,953, de 9 de diciembre de 1914, para emitir bonos, con la garantía del Estado, i bajo las condiciones establecidas en la misma lei, a fin de atender, al mayor valor que importarán, los trabajos de construccion del Canal de Mauco, derivado del rio Aconcagua, i de subvenir al pago de los estudios definitivos de él; inspeccion de los trabajos i servicio de los bonos durante su construccion.\nLa emision i el servicio de estos bonos se hará en las condiciones que establece la citada lei."
+    }
+  ],
+  "definitions": []
+}

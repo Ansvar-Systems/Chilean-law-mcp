@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22715",
+  "type": "statute",
+  "title": "LEI DE PRESUPUESTOS PARA 1902",
+  "short_name": "Ley 1523",
+  "status": "in_force",
+  "issued_date": "1902-01-21",
+  "in_force_date": "1902-01-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22715",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Ministerio del Interior____________ $ 12.174,884 78\nMinisterio de Relaciones\nEsteriores, Culto i Colonizacion:\nSeccion de Relaciones Esteriores 1.515,653 34\nSeccion de Culto________________ 1.034,100 00\nSeccion de Colonizacion_________ 942,810 00\nMinisterio de Justicia_____________ 5.066,904 47\nMinisterio de Instruccion Pública__ 10.259,948 12\nMinisterio de Hacienda_____________ 19.672,700 06\nMinisterio de Guerra_______________ 13.445,406 49\nMinisterio de Marina_______________ 11.984,468 65\nMinisterio de Industria i Obras\nPúblicas:\nSeccion de Industria____________ 1.393,250 08\nSeccion de Obras Públicas_______ 2.207,908 87\nSeccion de Ferrocarriles________ 20.669,872 58\n_______________\nTOTAL______ $ 100.367,907 44"
+    }
+  ],
+  "definitions": []
+}

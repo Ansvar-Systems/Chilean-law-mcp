@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136382",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1893-01-02",
+  "in_force_date": "1893-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136382",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Concédese un suplemento de once mil pesos ($ 11,000) al ítem 10 de la partida 7.ª del presupuesto de Relaciones Exteriores á efecto de pagar el reclamo entablado por el cuidadano brasilero don José Joaquín de San Miguel en contra del Gobierno de Chile, transigido en un protocolo suscripto en esta capital, el día 20 de Noviembre de 1890, entre los plenipotenciarios del Brasil y de Chile.\""
+    }
+  ],
+  "definitions": []
+}

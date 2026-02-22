@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24361",
+  "type": "statute",
+  "title": "LEI NUM. 3,931, QUE DESTINA FONDOS PARA LA ADQUISICION  DE LAS INSTALACIONES I CAÑERIAS DEL AGUA POTABLE DE TALTAL",
+  "short_name": "Ley 3931",
+  "status": "in_force",
+  "issued_date": "1923-06-06",
+  "in_force_date": "1923-06-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24361",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para invertir hasta la suma de trescientos mil pesos ($300.000) en adquirir las instalaciones i cañerias existentes de distribucion del agua potable de la ciudad de Taltal, i atender al mejoramiento de las mismas de acuerdo con el contrato celebrado con la Compañía del Ferrocarril de Taltal, reducido a escritura pública ante el Notario de ese departamento con fecha 24 de Enero de 1923 i segun el cual dicha empresa venderá al Fisco el agua potable al precio máximo de un peso cincuenta centavos, moneda corriente, el metro cúbico."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.° El precio del agua potable que espenda al público la Empresa Fiscal no podrá exceder de tres pesos por metro cúbico."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.° El gasto que importe la aplicacion de esta lei se deducirá de la mayor entrada que se produzca en los servicios de agua potable i desagües."
+    }
+  ],
+  "definitions": []
+}

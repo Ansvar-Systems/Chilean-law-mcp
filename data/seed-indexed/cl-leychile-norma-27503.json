@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27503",
+  "type": "statute",
+  "title": "CEDE A LA SEGUNDA COMPAÑIA DE BOMBEROS, EN\nFORMACION, DE SAN MIGUEL, EL CARRO-BOMBA QUE SEÑALA, DE\nPROPIEDAD DEL MINISTERIO DE OBRAS PUBLICAS",
+  "short_name": "Ley 13562",
+  "status": "in_force",
+  "issued_date": "1959-10-03",
+  "in_force_date": "1959-10-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27503",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Cédese a título definitivo el carro-bomba, marca Saurer, motor número 70144, de propiedad del Ministerio de Obras Públicas, a la Segunda Compañía de Bomberos, en formación, de San Miguel."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° La Segunda Compañía de Bomberos no podrá enajenar durante 10 años este vehículo."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° Para los efectos de la recepción de este carro-bomba se hará cargo, en todos sus trámites legales, el Cuerpo de Bomberos de San Miguel.\""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30629",
+  "type": "statute",
+  "title": "MODIFICA NORMAS SOBRE REAJUSTABILIDAD DE PENSIONES\nDE REGIMENES PREVISIONALES QUE INDICA",
+  "short_name": "Ley 19262",
+  "status": "in_force",
+  "issued_date": "1993-11-02",
+  "in_force_date": "1993-11-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30629",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- En los artículos 14 del decreto ley N° 2.448 y 2° del decreto ley N° 2.547, ambos de 1979, suprímese la oración que aparece a continuación del punto seguido y agrégase el siguiente inciso:\n\"Con todo, si transcurrieren doce meses desde el último reajuste sin que la variación del referido Indice alcance el 15%, las aludidas pensiones se reajustarán en el porcentaje de variación que aquél hubiere experimentado en dicho período, en cuyo caso este último reajuste sustituirá al anteriormente indicado. El nuevo reajuste que corresponda aplicar regirá a contar del primer día del mes siguiente a aquel en que se alcance la citada variación o se cumpla el período señalado, según el caso.\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- El mayor gasto fiscal que irrogue la aplicación de la presente ley durante 1993, se financiará con transferencia del ítem\n50-01-03-25-33.104 de la Partida Tesoro Público del presupuesto vigente.\"."
+    }
+  ],
+  "definitions": []
+}

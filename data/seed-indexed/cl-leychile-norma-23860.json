@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23860",
+  "type": "statute",
+  "title": "LEI NÚM. 3,278, QUE CONCEDE FONDOS PARA EL MANTENIMIENTO DE VARIAS LEGACIONES",
+  "short_name": "Ley 3278",
+  "status": "in_force",
+  "issued_date": "1917-09-08",
+  "in_force_date": "1917-10-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23860",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para invertir las cantidades que fueren necesarias, en conformidad a la lei de 12 de Setiembre de 1883, sobre organizacion del servicio diplomático, en el mantenimiento de las siguientes Legaciones:\nLEGACION EN MEJICO Enviado Estraordinario i Ministro Plenipotenciario.\nLEGACION EN COLOMBIA Enviado Estraordinario i Ministro Plenipotenciario.\nOficial de Secretaría.\nLEGACION EN CUBA I VENEZUELA Enviado Estraordinario i Ministro Plenipotenciario.\nSecretario de la Legacion con residencia en Venezuela.\nOficial de Secretaría con residencia en Cuba.\nLEGACION EN URUGUAI I PARAGUAI Enviado Estraordinario i Ministro Plenipotenciario."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Autorízase al Presidente de la República para invertir en el pago de los sueldos de un Secretario de Legacion en Uruguai i Paraguai i de un Oficial de Secretaría en Méjico las sumas consultadas en los ítem 49 i 65 de la partida 3.a del Presupuesto de Relaciones Esteriores vijente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Los actuales funcionarios diplomáticos trasladados de su residencia actual con motivo de estos nombramientos no gozarán de las espensas de establecimiento que acuerda el artículo 10 de la lei de 12 de Setiembre de 1883."
+    }
+  ],
+  "definitions": []
+}

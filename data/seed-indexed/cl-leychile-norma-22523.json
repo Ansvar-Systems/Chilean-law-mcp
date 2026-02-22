@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-22523",
+  "type": "statute",
+  "title": "CONCESION PARA CONSTRUIR UN FERROCARRIL A LOS SEÑORES JAVIER ARLEGUI R. I VALENTIN LUMBERT",
+  "short_name": "Ley 1275",
+  "status": "in_force",
+  "issued_date": "1899-11-18",
+  "in_force_date": "1899-11-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22523",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Concédese a los señores Javier Arlegui Rodríguez i Valentin Lambert, o a quien sus derechos represente, permiso para construir i esplotar un ferrocarril entre la estacion de Peumo i el punto denominado Las Cabras, de trocha igual a la del ramal de Pelequen a Peumo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédese igual uso a los terrenos fiscales necesarios para construir la via, sus estaciones, edificios i maestranzas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Decláranse de utilidad pública los terrenos municipales i particulares que sean menester para la esplotacion del ferrocarril."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Los planos de la via deberán ser presentados al Presidente de la República, para su aprobacion, dentro del plazo de seis meses, contados desde que se promulgue esta lei, i dieziocho meses despues de dicha aprobacion deberá estar concluida la obra.\nCaducará el permiso i las concesiones si dejaren de cumplirse algunas de las cláusulas del inciso precedente.\nLas tarifas de fletes i pasajeros serán sometidas cada tres años a la aprobacion del Presidente de la República."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Decláranse libre de derechos de Aduana, por el término de dos años, las maquinarias, rieles i demas materiales para construir la línea i formar su equipo."
+    }
+  ],
+  "definitions": []
+}

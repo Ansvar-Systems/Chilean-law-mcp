@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23194",
+  "type": "statute",
+  "title": "LEI NUM. 2,202, QUE CONCEDE UNA GRATIFICACION AL PERSONAL DE LA GUARDIA DEL SENADO.",
+  "short_name": "Ley 2202",
+  "status": "in_force",
+  "issued_date": "1909-09-07",
+  "in_force_date": "1909-09-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23194",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese una gratificacion de treinta por ciento (30%) sobre los sueldos percibidos en el año 1908, al personal de la guardia del Senado."
+    }
+  ],
+  "definitions": []
+}

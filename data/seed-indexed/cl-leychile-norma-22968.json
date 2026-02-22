@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-22968",
+  "type": "statute",
+  "title": "LEI NUM. 1,867 QUE AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR CUARENTA MILLONES DE PESOS EN BILLETES FISCALES.",
+  "short_name": "Ley 1867",
+  "status": "in_force",
+  "issued_date": "1906-05-23",
+  "in_force_date": "1906-05-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22968",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- Dentro de los treinta dias siguientes a la promulgacion de la presente lei, el Presidente de la República emitirá cuarenta millones de pesos fiscales de curso legal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Veinte millones se destinarán a las obras autorizadas por las leyes núm. 1,835, de 12 de febrero de 1906, i núm. 1,813, de 21 de febrero de 1906, i se garantizarán con igual cantidad de pesos oro de dieciocho peniques, que se tomarán del producto del empréstito contratado en virtud de las leyes citadas i que ingresarán al fondo de conversion en la forma determinada por la lei número 1,721, de 29 de diciembre de 1904.\nLos veinte millones restantes podrán ser tomados por las instituciones de crédito i particulares, dentro del plazo de seis meses, entregando igual cantidad en oro sellado o en buenas letras sobre Lóndres.\nEl oro ingresará con sus intereses al fondo de conversion depositado en bancos europeos.\nLa cantidad que no sea tomada por los Bancos o por particulares en el plazo de seis meses designado, será invertida por el Estado en edificacion escolar, adquisicion de material rodante i construccion de obras en los Ferrocarriles del Estado o de otras obras que determina la lei de presupuestos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° La cantidad que invierta el Estado en las obras que determina el artículo precedente, será garantida con igual cantidad de oro sellado o en letras, tomado de las rentas de Aduana a contar desde el 1.° de Julio de 1907."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° El producto de la venta de las tierras magallánicas i de los terrenos salitrales afecto al fondo de conversion por la lei número 1,721, de 29 de diciembre de 1904, continuará afecto a la conversion de los billetes emitidos por esta lei hasta completar la totalidad de la emision."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Miéntras el Gobierno hace uso de los fondos emitidos con arreglo a la presente lei, podrá depositarlos en los Bancos nacionales a prorrata de los depósitos, con arreglo al balance de abril próximo pasado, a un interes inferior en tres por ciento o la tasa que ellos cobren por los saldos deudores."
+    }
+  ],
+  "definitions": []
+}

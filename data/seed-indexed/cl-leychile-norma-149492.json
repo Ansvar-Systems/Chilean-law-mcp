@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-149492",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4539",
+  "status": "in_force",
+  "issued_date": "1929-01-22",
+  "in_force_date": "1929-01-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149492",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para contratar, directamente en el país o en el exterior, en total o parcialidades, a un seis por ciento de interés y uno por ciento de amortización acumulativa anual, el empréstito por $ 40.000,000 en favor de la Caja de Crédito Minero, autorizado por la ley número 4,112, de 12 de Enero de 1927."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Autorízase, asimismo, al Presidente de la República, para contratar directamente, en el país o en el exterior, en total o por parcialidades, los empréstitos autorizados por las leyes que se indican:\na) Municipalidad de Antofagasta\nEmpréstito de doscientas cincuenta mil libras (L 250,000), autorizado por decreto supremo número 4,601, de 25 de Septiembre de 1925, con carácter de decreto-ley, según decreto-ley número 746, de 15 de Diciembre de 1925; la ley número 4,149, promulgada en 25 de Junio de 1928, prorrogó su plazo.\nb) Municipalidad de Iquique\nEmpréstito de quinientas mil libras esterlinas (L 500,000), autorizado por decreto supremo número 3,784, de 5 de Agosto de 1925, con carácter de decreto-ley, según decreto-ley número 546, de 22 de Septiembre de 1925.\nc) Municipalidad de Cauquenes\nEmpréstito por trescientos mil pesos ($ 300,000), autorizado por decreto supremo número 4,299, de 31 de Agosto de 1925, con carácter de decreto-ley, según decreto-ley número 765, de 17 de Diciembre de 1925.\nd) Municipalidad de Valdivia\nEmpréstito por un millón quinientos mil pesos ($ 1.500,000), autorizado por decreto ley número 530, de 21 de Septiembre de 1925.\ne) Municipalidad de Viña del Mar\nEmpréstito por catorce millones de pesos ($ 14.000,000), autorizado por ley número 4,283, de 7 de Febrero de 1928.\nEstos empréstitos podrán contratarse con o sin garantía fiscal. En el primer caso, el tipo de interés será hasta de seis por ciento para los empréstitos externos, y hasta de siete por ciento para los empréstitos internos. En el segundo caso, el tipo de interés podrá elevarse hasta siete y ocho por ciento respectivamente. La amortización, en cualquier caso, será de uno por ciento acumulativa anual."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El producto del empréstito o de los empréstitos consolidados a que se refieren los artículos anteriores, se distribuirá entre las entidades enumeradas en los mismos artículos, proporcionalmente al valor nominal emitido y cancelando previamente los anticipos bancarios que hayan sido contratados en favor de esas mismas entidades con cargo a la emisión definitiva de los bonos de los empréstitos respectivos, más los intereses y demás gastos ocasionados por tales anticipos.\nLa Tesorería General de la República efectuará directamente los servicios del empréstito o de los empréstitos consolidados. Para este efecto, la Caja de Crédito Minero integrará en cuenta de depósito en la Tesorería Provincial de Santiago, las sumas que correspondan al servicio de su cuota en el empréstito consolidado. El Ministerio del Interior (Departamento de Presupuestos Municipales), hará incluir en los Presupuestos Municipales las sumas requeridas para el servicio de las cuotas que corresponda a cada una de las Municipalidades enumeradas en el artículo 2.o de esta ley."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o La inversión del producto de cada uno de estos empréstitos se efectuará en conformidad con las autorizaciones de las leyes respectivas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

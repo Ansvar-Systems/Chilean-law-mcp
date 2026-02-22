@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-22638",
+  "type": "statute",
+  "title": "CONCESION DE LOS SERVICIOS DE ALUMBRADO FUERZA I TRACCION ELÉCTRICAS DE LA CIUDAD DE VALDIVIA",
+  "short_name": "Ley 1426",
+  "status": "in_force",
+  "issued_date": "1901-01-26",
+  "in_force_date": "1901-02-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22638",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Se faculta a la Municipalidad de Valdivia para contratar i conceder por treinta años, los servicios de alumbrado, fuerza i traccion eléctricas de la ciudad, pudiendo eximir al empresario de todo gravámen i contribucion municipal no estipulado en dicho contrato."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se concede a dicha Municipalidad la propiedad del terreno fiscal situado entre el estero de Piedra Blanca i los de Santo Domingo i San Pedro, que se juntan al rio Angachilla, limitando al noreste por el rio Calle-Calle, con una estension de doce mil hectáreas, segun el plano oficial levantado por el señor Vidal Gormaz, el año 1870.\nEl uso i goce de este terreno, como el del que adquirió la Municipalidad de Valdivia entre los esteros de Llancahue i Piedra Blanca, podrá ser concedida por treinta años al empresario con quien ha contratado los servicios de agua i desagües, luz, fuerza i traccion eléctricas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se declaran de utilidad pública los terrenos necesarios para la instalacion de estos servicios, como tambien para los de agua potable i desagües para los estanques i galpones i demas obras que requiera la empresa, conformándose a la lei de 18 de Junio de 1857.\nSe concede gratuitamente al empresario el uso del terreno fiscal urbano con frentes a la calle Canelos i al rio."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Se autoriza a la Empresa para construir un malecon en el rio Valdivia frente a su propiedad, para desembarque de sus materiales i sus necesidades posteriores."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Se declaran libres de derechos las máquinas i materiales que se internen del estranjero i que sean necesarias para el establecimiento del alumbrado, fuerza i traccion eléctricas, no excediendo el valor de dichas especies de cuatrocientos mil pesos."
+    }
+  ],
+  "definitions": []
+}

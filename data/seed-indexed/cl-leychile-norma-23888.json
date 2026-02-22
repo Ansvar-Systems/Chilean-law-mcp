@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23888",
+  "type": "statute",
+  "title": "LEI NUM. 3,311, QUE SUPLEMENTA EL PRESUPUESTO DE MARINA.",
+  "short_name": "Ley 3311",
+  "status": "in_force",
+  "issued_date": "1917-09-21",
+  "in_force_date": "1917-09-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23888",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese un suplemento de veinte mil pesos ($ 20,000), oro de 18 peniques, al ítem 688, partida 30 del Presupuesto de Marina, para pasajes de Oficiales i de sus familias, incluyendo fletes i equipajes tanto en el pais como en el estranjero.\nEsta suma se deducirá de los ítem 104 i 140 del mismo presupuesto i que se dejarán sin invertir en proporción al monto de este suplemento."
+    }
+  ],
+  "definitions": []
+}

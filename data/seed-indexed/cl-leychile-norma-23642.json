@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23642",
+  "type": "statute",
+  "title": "Prorroga las obligaciones provenientes de;operaciones mercantiles contraidas entre firmas;residentes en Chile i firmas residentes en paises que se;encuentran en moratoria o en guerra i las que de éstos;se devuelvan protestadas; i prorroga, \nasimismo la lei;número 2,929 que concedió un plazo de 60 dias para el;pago de las obligaciones en oro.",
+  "short_name": "Ley 2980",
+  "status": "in_force",
+  "issued_date": "1915-02-05",
+  "in_force_date": "1915-02-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23642",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Las obligaciones provenientes de opraciones mercantiles internacionales a cargo de personas o firmas que jiren en el territorio nacional, i a favor de firmas residentes en paises que se encuentren en moratoria o en guerra, se considerarán prorrogadas por el término de cuatro meses, contados desde la fecha en que la obligacion sea exijible.\nLas obligaciones mercantiles internacionales que sean devueltas protestadas por falta de aceptacion o pago de paises que se encuentren en moratoria o en guerra, se entenderán igualmente prorrogadas sin derecho a protesto i por el mismo plazo. Los beneficios de esta disposicion no se aplicarán en favor del jirador de una letra de cambio respecto del tomador o endosatarios residentes en Chile.\nLo dispuesto en los dos incisos anteriores se aplicará solamente a las obligaciones contraidas ántes del 1.° de Agosto de 1914.\nEl Presidente de la República determinará los paises que se encuentren en los casos contemplados en los incisos anteriores i podrá renovar por períodos que no exedan de treinta dias i hasta el 1.° de Setiembre del presente año, la prórroga a que se refiere este artículo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Las obligaciones contraidas en oro, ántes del 1.° de Agosto de 1914, continuarán rijiéndose, sin derecho a protesto, por la lei número 2,929, de 7 de Setiembre del año espresado, que se entenderá prorrogada por el plazo de noventa dias.\nEl Presidente de la República podrá prorrogar por plazos sucesivos, que no exedan de sesenta dias, los efectos de la referida lei hasta el 1.° de Setiembre de 1915."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Los intereses señalados en la citada lei número 2,929, se aplicarán en los casos del artículo 1.° de la presente lei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- Esta lei rejirá desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

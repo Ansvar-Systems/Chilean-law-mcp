@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22811",
+  "type": "statute",
+  "title": "Que exije el título de farmacéutico a los rejentes;de botica.",
+  "short_name": "Ley 1640",
+  "status": "in_force",
+  "issued_date": "1904-02-03",
+  "in_force_date": "1904-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22811",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero. Para rejentar botica se necesita haber obtenido en Chile el título de farmacéutico.\nNo obstante lo dispuesto en el inciso anterior, podrán rejentar boticas de su propiedad las personas que, con anterioridad a la vijencia de esta lei, hayan sido autorizadas para ello por el Gobierno, en conformidad a lo establecido en el artículo transitorio de la lei de 9 de Enero de 1879 i por la lei de 15 de Julio de 1881."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° En las poblaciones en donde no haya botica rejentada por farmacéutico titulado, el Gobierno podrá autorizar a una o varias personas para vender drogas i despachar recetas.\nEsta autorizacion rejirá solamente respecto de la poblacion para que se hubiere otorgado, i caducará un año despues que en ella se hubiere abierto un establecimiento de farmacia con rejente titulado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El Presidente de la República dictará, dentro de un año i prévio informe del Consejo Superior de Hijiene, los reglamentos necesarios para la ejecucion de esta lei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Derógase la lei de 15 de Julio de 1881 i el artículo transitorio de la lei de 9 de Enero de 1879."
+    }
+  ],
+  "definitions": []
+}

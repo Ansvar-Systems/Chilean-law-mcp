@@ -1,0 +1,57 @@
+{
+  "id": "cl-leychile-norma-25786",
+  "type": "statute",
+  "title": "DISPONE QUE EL SENADO Y LA CAMARA DE DIPUTADOS\nTENDRAN DOS REPRESENTANTES EN LA JUNTA CENTRAL DE\nBENEFICENCIA PUBLICA Y EN CADA CONSEJO DE ORGANISMOS\nFISCALES, DE ADMINISTRACION AUTONOMA O SEMIFISCALES",
+  "short_name": "Ley 8707",
+  "status": "repealed",
+  "issued_date": "1946-12-04",
+  "in_force_date": "1961-09-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25786",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o El Senado y la Cámara de Diputados tendrán, cada uno, dos representantes en la Junta Central de Beneficencia Pública y en cada Consejo de organismos fiscales, de administración autónoma o semifiscales de la República.\nEstos consejeros serán miembros de la Cámara de Diputados o del Senado.\nSe exceptúan de esta disposición el Instituto de Fomento Minero e Industrial de Tarapacá y el Instituto de Fomento Minero e Industrial de Antofagasta."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Los representantes del Congreso a que se refiere la presente ley, se designarán en una sola votación unipersonal en cada Cámara y resultarán elegidos los dos que obtengan las más altas mayorías. En caso de empate, la votación se repetirá, y si éste continuare, decidirá la suerte."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Los representantes del Congreso en los organismos señalados en el artículo 1.o de esta ley, terminarán sus funciones juntamente con el término del período parlamentario de la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Se derogan todas las disposiciones contrarias a la presente ley."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo 1.o Dentro del término de sesenta días, contados desde la fecha de la vigencia de esta ley, el Congreso designará los representantes a que ella se refiere."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "chapter": "Disposiciones transitorias",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2.o Los representantes del Congreso Nacional en los organismos a que esta ley se refiere, que reúnan los requisitos que ella exige y hubieren sido designados de acuerdo con sus disposiciones, continuarán en funciones hasta el término del actual período parlamentario. Los demás serán reemplazados en conformidad al artículo anterior\"."
+    }
+  ],
+  "definitions": []
+}

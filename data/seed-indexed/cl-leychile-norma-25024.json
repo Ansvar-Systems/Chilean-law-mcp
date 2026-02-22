@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-25024",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5078",
+  "status": "in_force",
+  "issued_date": "1932-03-04",
+  "in_force_date": "1932-03-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25024",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o El Instituto Bacteriológico de Chile, tendrá por objeto la investigación científica y la elaboración de sueros, vacunas, productos biológicos y bioquímicos, y demás productos que el Consejo determine."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El Instituto Bacteriológico de Chile tendrá personalidad jurídica, su domicilio legal será la ciudad de Santiago y estará a cargo de un director que tendrá su representación legal y será nombrado por el Presidente de la República.\nLa dirección superior del Instituto corresponderá a un Consejo compuesto del Ministro de Bienestar Social, que lo presidirá, del Director General de Sanidad, del Director General de Asistencia Social, del Decano de la Facultad de Medicina de la Universidad de Chile, de dos miembros elegidos por el Presidente de la República, de los cuales uno deberá ser médico y el otro farmacéutico y del director del establecimiento."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Los precios de venta de aquellos productos que fabrique el Instituto , y de los similares que elabore también la industria privada, serán fijados por una comisión compuesta de un representante del Instituto, de un representante de las industrias privadas, designado conforme al Reglamento que se dicte para la aplicación de esta ley y de un médico nombrado por el Presidente de la República.\nLa fijación de estos precios se hará de acuerdo con el costo de producción, más los gastos de amortización y un interés de remuneración del capital."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El Instituto deberá suministrar a la Dirección General de Sanidad, las vacunas antirrábicas, antivariólicas y antituberculosas. Practicará, también, los exámenes e investigaciones que la Dirección de Sanidad le encomiende.\nEl Instituto deberá suministrar sus productos a precio de costo a la Beneficencia y a la Caja de Seguro Obligatorio."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o El Instituto se financiará con los saldos que le adeuda el Fisco, en conformidad con el artículo 5.o de la ley N.o 4,557, de 29 de Enero de 1929, con las entradas que le produzca el comercio de los artículos que elabore y con las cantidades que el Presupuesto del Ministerio de Bienestar Social, consulte para los laboratorios de investigación y para la elaboración de las vacunas a que se refiere el artículo anterior."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Derógase la ley N.o 4,557, de 29 de Enero de 1929, con excepción del artículo 5.o."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22662",
+  "type": "statute",
+  "title": "FERROCARRIL DE CARACOLES A SAN PEDRO DE ATACAMA",
+  "short_name": "Ley 1454",
+  "status": "in_force",
+  "issued_date": "1901-01-19",
+  "in_force_date": "1901-02-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22662",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para que invierta hasta la suma de cincuenta mil pesos, en los estudios de un ferrocarril que una a Caracoles con San Pedro de Atacama, en la línea férrea de Antofagasta a Bolivia.\nEsta autorizacion durará por el término de dos años."
+    }
+  ],
+  "definitions": []
+}

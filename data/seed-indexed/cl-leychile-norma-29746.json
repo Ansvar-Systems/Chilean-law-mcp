@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-29746",
+  "type": "statute",
+  "title": "RECONOCE EQUIVALENCIA DE TITULO QUE INDICA",
+  "short_name": "Ley 18329",
+  "status": "in_force",
+  "issued_date": "1984-08-03",
+  "in_force_date": "1984-08-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29746",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- El título de profesor otorgado por el Ministerio de Educación Pública a quienes hubieren aprobado cursos regulares o extraordinarios en escuelas normales del Estado o particulares reconocidas por éste, será equivalente, para todos los efectos legales y académicos, al título de profesor de Enseñanza General Básica que otorgan las entidades de educación superior."
+    }
+  ],
+  "definitions": []
+}

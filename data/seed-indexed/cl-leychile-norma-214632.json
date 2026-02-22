@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-214632",
+  "type": "statute",
+  "title": "Ley núm. 5,129",
+  "short_name": "Ley 5129",
+  "status": "in_force",
+  "issued_date": "1932-11-04",
+  "in_force_date": "1932-11-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=214632",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Reemplázase la letra f) del artículo 19 (20) del decreto supremo número 225, de 17 de Febrero de 1927, por la siguiente:\n\"f) Una amortización razonable para compensar el agotamiento, desgaste y destrucción de los bienes usados en el negocio o empresa, incluyendo una asignación prudencial por los que se hubieren hecho inservibles.\nLa Dirección de Impuestos Internos determinará la cuantía de las deducciones que puedan prudencialmente hacerse\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La presente ley comenzará a regir a contar desde el 1.o de Enero de 1932."
+    }
+  ],
+  "definitions": []
+}

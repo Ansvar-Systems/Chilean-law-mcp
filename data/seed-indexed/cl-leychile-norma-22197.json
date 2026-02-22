@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22197",
+  "type": "statute",
+  "title": "Lei que aprueba el convenio ajustado en Santiago el 2 de febrero de 1896 entre los representantes de las repúblicas de Francia i de Chile sobre la cancelación de las reclamaciones orijinadas por la guerra civil de 1891",
+  "short_name": "Ley 346",
+  "status": "in_force",
+  "issued_date": "1896-02-12",
+  "in_force_date": "1896-02-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22197",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Apruébase el convenio ajustado en Santiago el 2 de Febrero de 1896 entre los representantes de las Repúblicas de Francia i de Chile, sobre la cancelacion de las reclamaciones orijinadas por la guerra civil de 1891, que han sido deducidas contra el Gobierno de Chile por ciudadanos franceses ante el respectivo tribunal de Arbitraje."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22880",
+  "type": "statute",
+  "title": "Autoriza al Presidente de la República para;contratar la esplotacion de las covaderas ubicadas desde;Coquimbo hasta Arica.",
+  "short_name": "Ley 1727",
+  "status": "in_force",
+  "issued_date": "1905-01-28",
+  "in_force_date": "1905-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22880",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República, por el término de un año, para que con acuerdo del Consejo de Estado, contrate para el consumo de la agricultura nacional, por medio de propuestas públicas i por un plazo que no exceda de siete años, la esplotacion de las covaderas ubicadas desde el puerto de Coquimbo hasta el de Arica."
+    }
+  ],
+  "definitions": []
+}

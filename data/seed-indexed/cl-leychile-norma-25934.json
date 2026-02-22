@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25934",
+  "type": "statute",
+  "title": "AUTORIZA A LA MUNICIPALIDAD DE SANTA CRUZ PARA\nTRANSFERIR GRATUITAMENTE AL FISCO EL INMUEBLE QUE INDICA",
+  "short_name": "Ley 9131",
+  "status": "in_force",
+  "issued_date": "1948-10-08",
+  "in_force_date": "1948-10-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25934",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Autorízase a la Municipalidad de Santa Cruz para transferir, gratuitamente, al Fisco, el inmueble de propiedad municipal ubicado en el sector de Quinahue, de esa comuna, y que tiene los siguientes deslindes: Norte, propiedad de don Pedro González; Sur, camino a Cunaco; Oriente, propiedad del señor Desiderio Pérez, y Poniente, propiedad del señor Gerardo Montecino. La superficie de este inmueble es de un mil seiscientos noventa metros cuadrados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- La transferencia a que se refiere el artículo anterior se hace con el exclusivo objeto de que el inmueble sea destinado a la instalación de un Retén de Carabineros, y si éste no fuere construído dentro de un plazo de cinco años, se resolverá la transferencia y se restituirá su dominio a la Municipalidad."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-26243",
+  "type": "statute",
+  "title": "MODIFICA EN LA FORMA QUE INDICA EL CODIGO DE MINERIA",
+  "short_name": "Ley 9725",
+  "status": "in_force",
+  "issued_date": "1950-10-16",
+  "in_force_date": "1950-10-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26243",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Intercálase en el inciso segundo del artículo 3.o del Código de Minería, a continuación de la frase \"...toda otra substancia fósil\", la siguiente:\n\"...como el ónix y el mármol...\"."
+    }
+  ],
+  "definitions": []
+}

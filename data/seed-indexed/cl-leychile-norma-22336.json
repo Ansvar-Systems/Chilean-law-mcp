@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22336",
+  "type": "statute",
+  "title": "GUARDIA ESPECIAL DEL CONGRESO",
+  "short_name": "Ley 1001",
+  "status": "in_force",
+  "issued_date": "1898-01-22",
+  "in_force_date": "1898-01-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22336",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para que pueda invertir, durante el año 1898, hasta la suma de tres mil pesos en pagar sueldos a las personas que hagan la guardia especial del Congreso Nacional, pudiendo deducir dicha cantidad de la partida de imprevistos del presupuesto del Ministerio del Interior."
+    }
+  ],
+  "definitions": []
+}

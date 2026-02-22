@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28389",
+  "type": "statute",
+  "title": "INTRODUCE MODIFICACIONES QUE INDICA AL CODIGO DEL\nTRABAJO",
+  "short_name": "Ley 16311",
+  "status": "in_force",
+  "issued_date": "1965-09-11",
+  "in_force_date": "1965-09-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28389",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Agréganse al artículo 136 del Código del Trabajo los siguientes incisos.\n\"Regirá para las empleadas particulares la prohibición a que se refiere el artículo 48 de este Código.\n\"La prohibición anterior regirá también para los menores de 18 años que tengan la calidad de empleados particulares\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Agrégase, a continuación del artículo 136 del Código del Trabajo, el siguiente artículo 136 bis:\n\"Artículo 136 bis.- La prohibición establecida en el artículo 49, respecto de los trabajos subterráneos, regirá, también, para la mujer empleada particular. Sin embargo, se exceptúan de la prohibición:\na) Las empleadas que ocupan cargos de dirección o de carácter técnico que entrañen responsabilidad;\nb) Las empleadas ocupadas en servicios de sanidad o de asistencia social;\nc) Las mujeres que, durante sus estudios, y para los efectos de su formación profesional realicen prácticas en la parte subterránea de una mina, y\nd) Las empleadas que, en el ejercicio de su profesión, tengan que bajar ocasionalmente a la parte subterránea de una mina."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Las multas establecidas en los artículos 90° y 178° del Código del Trabajo serán equivalentes a uno a tres sueldos vitales mensuales de la escala a) del departamento de Santiago, las que se duplicarán en caso de reincidencia."
+    }
+  ],
+  "definitions": []
+}

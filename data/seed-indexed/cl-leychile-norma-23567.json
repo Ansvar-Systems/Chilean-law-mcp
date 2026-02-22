@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23567",
+  "type": "statute",
+  "title": "CONCEDE FONDOS PARA COMBATIR LAS ENFERMEDADES INFECCIOSAS I DEMAS GASTOS QUE ORIJINE EL SERVICIO SANITARIO DEL PAIS.",
+  "short_name": "Ley 2885",
+  "status": "in_force",
+  "issued_date": "1914-02-08",
+  "in_force_date": "1914-02-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23567",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Se autoriza al Presidente de la República para invertir hasta la suma de doscientos mil pesos ($ 200,000), en la adopcion de medidas para combatir las enfermedades infecciosas i demas gastos del servicio sanitario del país."
+    }
+  ],
+  "definitions": []
+}

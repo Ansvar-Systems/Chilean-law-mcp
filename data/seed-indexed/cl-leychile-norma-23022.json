@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23022",
+  "type": "statute",
+  "title": "LEI NÚM. 1,934 QUE FIJA LOS SUELDOS DE LOS EMPLEADOS DE LA INSPECCION JENERAL DE AGUA POTABLE I SANEAMIENTO",
+  "short_name": "Ley 1934",
+  "status": "in_force",
+  "issued_date": "1907-02-09",
+  "in_force_date": "1907-02-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23022",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se reemplaza la partida 97, \"Obras Públicas, del presupuesto del Ministerio del Interior, por la siguiente:\nPARTIDA 97\nOBRAS PUBLICAS\nGastos fijos\nItem...Sueldo del Inspector Jeneral de Agua\nPotable i saneamiento__________________ $ 10,000\nItem...Un Secretario__________________________ 5,000\nItem...Dos injenieros primeros, con siete mil\ndoscientos pesos cada uno______________ 14,400\nItem...Dos injenieros segundos, con seis mil\npesos cada uno_________________________ 12,000\nItem...Dos injenieros terceros, con cuatro mil\nochocientos pesos cada uno_____________ 9,600\nItem...Un contador____________________________ 4,000\nItem...Un ayudante de contador________________ 1,800\nItem...Un oficial primero_____________________ 3,000\nItem...Dos oficiales segundos, con mil\nochocientos pesos cada uno_____________ 3,600\nItem...Dos dibujantes primeros, con dos mil\ndoscientos pesos cada uno______________ 4,400\nItem...Dos dibujantes segundos, con mil\nochocientos pesos cada uno_____________ 3,600\nItem...Un guarda-almacenes____________________ 3,000\nItem...Un reproductor de planos_______________ 1,800\nItem...Un portero primero_____________________ 720\nItem...Un portero segundo_____________________ 600"
+    }
+  ],
+  "definitions": []
+}

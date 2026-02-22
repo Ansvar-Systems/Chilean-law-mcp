@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-22541",
+  "type": "statute",
+  "title": "Concesion a don Agustin Ross para construir un;ferrocarril entre el establecimiento carbonífero mina;Loreto i la ciudad de Punta Arenas.",
+  "short_name": "Ley 1300",
+  "status": "in_force",
+  "issued_date": "1899-12-18",
+  "in_force_date": "1900-01-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22541",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Concédese a don Agustin Ross o a quien sus derechos represente, permiso para construir i esplotar un ferrocarril a vapor entre el establecimiento carbonífero conocido bajo el nombre de Mina Loreto i a ciudad i puerto de Punta Arenas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédese igualmente el uso de los terrenos fiscales necesarios para la construccion de la línea, sus estaciones, edificios i maestranzas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Se declara de utilidad pública los terrenos de propiedad municipal o particular que se necesiten para el trazado de la línea i para la construccion de estaciones i de canchas de depósitos de carbon, edificios i maestranzas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Los planos de la via deberán someterse a la aprobacion del Presidente de la República dentro del plazo de seis meses, contado desde la promulgacion de esta lei, i tres años despues de aprobados dichos planos deberá estar terminada la obra.\nCaducarán el permiso i las concesiones para la obra si no se cumpliera alguna de las prescripciones del inciso precedente.\nLas tarifas de fletes i pasajeros serán tambien sometidas a la aprobacion del Presidente de la República cada tres años."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Se declaran libre de derechos de internacion las maquinarias a vapor i eléctrica, los rieles i demas materiales para la construccion i equipo de la línea."
+    }
+  ],
+  "definitions": []
+}

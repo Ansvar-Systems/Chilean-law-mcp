@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1120453",
+  "type": "statute",
+  "title": "MUNICIPALIDADES.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1849-08-28",
+  "in_force_date": "1849-08-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1120453",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Para conocer de los recursos de nulidad en la eleccion de municipalidades se establece dentro del Consejo de Estado un Tribunal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° La compondrán los dos Consejeros, miembros de las Cortes Superiores de Justicia, un Consejero que haya sido Ministro i los dos Consejeros que hayan desempeñado los cargos de Intendentes, Gobernadores o Municipales. Hará de Fiscal el que lo sea de la Corte Suprema."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Será Presidente de este Tribunal el Vocal Juez mas antiguo. A él se dirijirán los recursos i por él serán sustanciados los espedientes hasta ponerlos en estado de resolucion o definitiva."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° El recurso de nulidad no obsta para que se reciban las Municipalidades que hayan salido electas, i funcionarán miéntras no se resuelva por el Tribunal."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° Si el Tribunal declara la nulidad en el primer año, se repetirá la eleccion; pero si lo fuere despues, serán reemplazadas por la anterior hasta que llegue el período electoral."
+    }
+  ],
+  "definitions": []
+}

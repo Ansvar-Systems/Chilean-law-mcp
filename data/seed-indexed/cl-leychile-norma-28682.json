@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-28682",
+  "type": "statute",
+  "title": "APRUEBA NORMAS POR LAS QUE SE REGIRA LA UNIVERSIDAD\nAUSTRAL DE CHILE",
+  "short_name": "Ley 16848",
+  "status": "in_force",
+  "issued_date": "1968-06-03",
+  "in_force_date": "1968-06-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28682",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- La Universidad Austral de Chile establecerá los planes y programas de sus escuelas, en conformidad con los niveles vigentes en el país, con las necesidades de su propia organización docente y con las peculiares exigencias educacionales, técnicas y profesionales de la región."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- La Universidad Austral de Chile otorgará los títulos académicos y profesionales correspondientes a la enseñanza que imparta, los cuales serán válidos para todos los efectos legales, en especial los pertinentes al ejercicio de las profesiones respectivas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Se hará excepción del título de Médico-Cirujano, Dentista, Químico Farmacéutico y Bioquímico que continuarán siendo otorgados por la Universidad de Chile.\nLa Facultad de Medicina de la Universidad de Chile establecerá con la Facultad de Medicina de la Universidad Austral de Chile, las relaciones destinadas a legitimar la otorgación del mismo título a los egresados de ambas escuelas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°.- Los niveles de formación general, científica y técnica de las diversas carreras que enseñe la Universidad Austral de Chile deberán corresponder a los vigentes en la Universidad de Chile. En todas las comisiones de los exámenes de grado de la Universidad Austral de Chile tendrá derecho a voz y voto un representante de la Facultad respectiva de la Universidad de Chile, el que elevará informe al Ministro de Educación Pública."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5°.- Facúltase al Presidente de la República para aprobar los nuevos Estatutos de la Universidad Austral de Chile que elaborarán conjuntamente el Consejo y el Directorio de dicha Corporación."
+    }
+  ],
+  "definitions": []
+}

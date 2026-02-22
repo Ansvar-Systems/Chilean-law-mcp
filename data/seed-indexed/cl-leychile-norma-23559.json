@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23559",
+  "type": "statute",
+  "title": "REDUCE LA GRATIFICACION DE QUE GOZA EL PERSONAL DEL EJERCITO I DE LA MARINA QUE PRESTA SUS SERVICIOS EN EL TERRITORIO DE MAGALLANES I EN LAS PROVINCIAS DE TACNA, TARAPACA I ANTOFAGASTA, I SUPRIME LAS QUE ACUERDA LA LEI NUM. 2,644 A LOS ADICTOS MILITARES I NAVALES A LAS LEGACIONES I A LOS OFICIALES DE GUERRA I MAYORES DEL EJERCITO I DE LA ARMADA COMISIONADOS EN EL ESTRANJERO.",
+  "short_name": "Ley 2873",
+  "status": "in_force",
+  "issued_date": "1914-02-09",
+  "in_force_date": "1914-02-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23559",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- El personal del Ejército i de la Armada, a que se refieren los artículos 6.° i 35 de la lei número 2,614, de 23 de Febrero de 1912, gozará sólo de una gratificacion equivalente al diez por ciento del sueldo i viático que le corresponde."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Los adictos militares o navales a las legaciones de Chile gozarán solamente, por causas de estas destinaciones, de la gratificacion que les asigna el artículo 5° de la lei de 12 de Setiembre de 1883, i no tendrán derecho a la que establece el artículo 31 de la citada lei número 2,644."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Derógase en todas sus partes el artículo 63 de la lei número 2,644, de 13 de Febrero de 1912."
+    }
+  ],
+  "definitions": []
+}

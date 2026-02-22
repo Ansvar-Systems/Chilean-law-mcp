@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-28769",
+  "type": "statute",
+  "title": "LEY NUM.17.050\nCONCEDE AMNISTIA A LAS PERSONAS CONDENADAS POR\nDELITOS COMETIDOS CON OCASION DE LAS ELECCIONES DE MARZO\nDE 1961.",
+  "short_name": "Ley 17050",
+  "status": "in_force",
+  "issued_date": "1968-12-11",
+  "in_force_date": "1968-12-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28769",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Concédese amnistía a las personas condenadas por delitos electorales cometidos con ocasión de la elección general de Diputados y Senadores realizada el 5 de marzo de 1961.\nConcédese, asimismo, amnistía a las personas condenadas por delitos comunes o establecidos en leyes especiales, perpetrados el día de la elección a que se refiere el inciso anterior, cuyas circunstancias y móviles, según se desprende de la sola sentencia, estén causal e inequívocamente vinculadas a situaciones producidas con motivo y durante el desarrollo del acto electoral.\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30412",
+  "type": "statute",
+  "title": "AUTORIZA AL BANCO CENTRAL DE CHILE PARA ORDENAR\nACUÑACION DE MONEDAS CONMEMORATIVAS DEL QUINTO\nCENTENARIO DEL DESCUBRIMIENTO DE AMERICA",
+  "short_name": "Ley 19045",
+  "status": "in_force",
+  "issued_date": "1991-01-30",
+  "in_force_date": "1991-02-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30412",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Autorízase al Banco Central de Chile para ordenar la acuñación de hasta 75.000 monedas de plata, conmemorativas del Quinto Centenario del Descubrimiento de América, y cuyas características básicas serán las siguientes:\n1. Valor o denominación: $ 10.000.- plata.\n2. Peso bruto: 27 gramos.\n3. Diámetro: 40 milímetros.\n4. Forma: circular.\n5. Canto: estriado.\n6. Ley de fino: 925 milésimas.\n7. Aleación: 926 milésimas de plata y 75 milésimas de cobre.\n8. Tolerancia en el peso:\n0.27 gramos en más o en menos.\n9. Tolerancia en la ley: -0, + 3 milésimas.\nEl Banco Central de Chile, en uso de la atribución que le confiere el artículo 30 de su Ley Orgánica, determinará el diseño del anverso y del reverso y demás características de las monedas indicadas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Las monedas a que se refiere la presente ley tendrán curso legal y poder liberatorio y circulación ilimitada.\nEl Banco Central de Chile podrá comercializar las monedas referidas, en el país o en el exterior, en el precio y demás condiciones que determine.\"."
+    }
+  ],
+  "definitions": []
+}

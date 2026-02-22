@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23614",
+  "type": "statute",
+  "title": "CONCEDE FONDOS PARA LAS OBRAS DE ALCANTARILLADO DE IQUIQUE, ANTOFAGASTA, TOCOPILLA I ARICA; PARA LOS ALCANTARILLADOS DOMICILIARIOS DE LOS EDIFICIOS FISCALES EN ELLAS EXISTENTES; I PARA EL SANEAMIENTO DE LOS TERRENOS I VALLES PRÓXIMOS A ESTA ULTIMA CIUDAD; DECLARA DE UTILIDAD PÚBLICA LOS TERRENOS QUE SE REQUIERAN, I, PRORROGA EL PLAZO PARA COBRAR DERECHOS ADICIONALES PARA LA INTERNACION DE DIFERENTES CLASES DE MERCADERÍAS, POR EL TIEMPO NECESARIO PARA REINTEGRAR LOS FONDOS QUE SE INVIERTAN I QUE SE DEDUCIRÁN DE DIVERSOS EMPRÉSTITOS",
+  "short_name": "Ley 2943",
+  "status": "in_force",
+  "issued_date": "1914-11-11",
+  "in_force_date": "1914-11-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23614",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Se autoriza al Presidente de la República, por el término de un año, para invertir hasta la suma de un millon setecientos mil pesos ($ 1.700,000) en la terminacion de las obras de alcantarillado de Antofagasta, en la construccion de obras análogas en Tocopilla i Arica i en el saneamiento de los terrenos i valles próximos a esta última poblacion.\nDe la suma a que se refiere el inciso anterior se podrán invertir, tambien, hasta cuarenta mil pesos en la reparacion de las obras de alcantarillado de Iquique, debiendo ser reembolsados por la Municipalidad en la forma i tiempo que determine el Presidente de la República.\nDichas obras se harán conforme a los planos de la Direccion Jeneral de Obras Públicas que apruebe el Presidente de la República, oyendo al Consejo Superior de Hijiene.\nCon los mismos fondos cuya inversion se autoriza por esta lei se ejecutarán tambien los alcantarillados domiciliarios de los edificios de propiedad fiscal existentes en las ciudades indicadas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Se declaran de utilidad pública los terrenos municipales o particulares necesarios para la construccion de alcantarillas i de los que deban ser saneados, haciéndose las espropiaciones con arreglo a la lei de 18 de Junio de 1857.\nLos particulares cuyos terrenos sean saneados con las obras que se ejecuten, deberán soportar sin otra indemnizacion que el beneficio que las mismas obras les reporten, las servidumbres de acueducto i desagües que fuere necesario constituir, i de los demas trabajos que se deben realizar en conformidad a los planos aprobados por el Presidente de la República.\nSe aplicarán a los alcantarillados de Tocopilla i Arica las disposiciones de las leyes número 342, de 19 de Febrero de 1896 i número 1,835, de 12 de Febrero de 1906."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- De las sumas a que ascienden las autorizaciones anteriores, un millon cuatrocientos mil pesos ($ 1.400,000) se deducirá de los fondos devueltos al Estado de pagos hechos por construccion de naves de guerra i serán reintegrados a los empréstitos de que procedan con el recargo adicional de los derechos de Aduana establecidos por la lei número 2,641, de 12 de Febrero de 1912 i número 2,778, de 13 de Julio de 1913, el cual se seguirá cobrando por el tiempo necesario para efectuar dicho reintegro.\nEl saldo de trescientos mil pesos ($ 300,000) se deducirá de las entradas del ferrocarril de Arica a la Paz."
+    }
+  ],
+  "definitions": []
+}

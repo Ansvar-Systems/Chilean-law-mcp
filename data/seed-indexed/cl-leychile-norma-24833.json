@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24833",
+  "type": "statute",
+  "title": "Autoriza el remate de una propiedad fiscal ubicada;en la calle Gay, de la ciudad de Santiago.",
+  "short_name": "Ley 4688",
+  "status": "in_force",
+  "issued_date": "1929-11-15",
+  "in_force_date": "1929-11-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24833",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente d0 la República, para vender en remate públisco, el sitio de la propiedad fiscal y de una extensión de 2,160 metros cuadrados, más o menos, ubicado en la calle Gay, entre Avenida España y Avenida República, de la ciudad de Santiago.\nEl mínimum para las posturas no será inferior a la suma de ciento noventa mil pesos ($ 190,000)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Con el producto de esta venta se atenderá a la construcción de un edificio para la Escuela de Sordomudos y Ciegos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

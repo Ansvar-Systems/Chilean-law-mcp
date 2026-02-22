@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26761",
+  "type": "statute",
+  "title": "LIBERA DE DERECHOS DE INTERNACION, DE ALMACENAJE, Y\nEN GENERAL DE TODO DERECHO O CONTRIBUCION, AL MATERIAL\nQUE INDICA, DESTINADO A LAS EMBARCACIONES QUE SEÑALA,\nIGUALMENTE AL MATERIAL QUE MENCIONA, DE PROPIEDAD DE\nMANUEL Y JOSE DEL CARMEN BALLESTEROS MUÑOZ",
+  "short_name": "Ley 11698",
+  "status": "in_force",
+  "issued_date": "1954-10-14",
+  "in_force_date": "1954-10-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26761",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Libéranse de derechos de internación, de almacenaje, de los impuestos establecidos en el decreto de Hacienda N° 2,772, de 18 de Agosto de 1943, que fijó el texto refundido de las disposiciones sobre impuesto a la internación, producción y cifra de negocios, y, en general, de todo derecho o contribución, a los motores, materiales, accesorios y repuestos marinos destinados a embarcaciones de no más de 500 toneladas de registro, cuyo puerto de matricula esté situado en la provincia de Chiloé."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Las especies liberadas por el artículo anterior pagarán los derechos y contribuciones que correspondan cuando sean trasladadas a otras provincias o cuando las respectivas embarcaciones sean utilizadas en navegaciones totalmente ajenas a la provincia de Chiloé."
+    },
+    {
+      "provision_ref": "art3-transitorio",
+      "section": "3 Transitorio",
+      "title": "Artículo 3 Transitorio",
+      "content": "Artículo transitorio.- Libérase de derechos de internación, de almacenaje, de los impuestos establecidos en el decreto número 2,772, de 18 de Agosto de 1943, que fijó el texto refundido de las disposiciones sobre impuestos a la internación, producción y cifra de negocios, y, en general, de todo derecho o contribución, a los accesorios embarcados en Bremen, en el buque \"Essen\" el día 15 de Marzo de 1954, contenidos en un cajón de 270 kilogramos de peso bruto, con marca MWM 3641, Puerto Montt, Chile, consistentes en un eje cigüeñal completo para motor Diesel marino con rueda dentada y contrapesos, cuyo precio CIF fué de US$ 1.277, de propiedad de Manuel y José del Carmen Ballesteros Muñoz.\""
+    }
+  ],
+  "definitions": []
+}

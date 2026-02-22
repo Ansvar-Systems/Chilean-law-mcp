@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23685",
+  "type": "statute",
+  "title": "CONCEDE UN SUPLEMENTO PARA PUBLICACIONES DE LA CAMARA DE DIPUTADOS",
+  "short_name": "Ley 3040",
+  "status": "in_force",
+  "issued_date": "1915-12-04",
+  "in_force_date": "1915-12-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23685",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Concédese un suplemento de treinta mil pesos ($ 30,000) al ítem 3,107 de la partida 14 del Presupuesto del Interior para costear la publicacion de Boletin de Sesiones de la Cámara de Diputados i las demas impresiones de esta misma Cámara."
+    }
+  ],
+  "definitions": []
+}

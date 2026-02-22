@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23075",
+  "type": "statute",
+  "title": "LEI NUM. 2.027 QUE AUMENTA A TRES EL NUMERO DE TAQUIGRAFOS DE LA CAMRA DE DIPUTADOS I CONSULTA FONDOS PARA PAGAR UN TAQUIGRAFO SUPERNUMERARIO.",
+  "short_name": "Ley 2027",
+  "status": "in_force",
+  "issued_date": "1907-09-09",
+  "in_force_date": "1907-09-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23075",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Auméntase a tres el número de taquígrafos terceros que fija el artículo 1.° de la lei núm. 1,451, de 18 de agosto de 1900, para la Redaccion de Sesiones de la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Autorízase la inversion hasta de seiscientos pesos en el pago de los sueldos devengados ántes de la promulgacion de la presente lei por los servicios de un taquígrafo tercero supernumerario en la espresada Redaccion de Sesiones."
+    }
+  ],
+  "definitions": []
+}

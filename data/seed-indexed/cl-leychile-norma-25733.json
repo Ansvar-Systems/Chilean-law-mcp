@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25733",
+  "type": "statute",
+  "title": "HACE EXTENSIVAS AL PERSONAL DEL EJERCITO, ARMADA Y\nFUERZA AEREA EN RETIRO, CUYOS CESES FUERON EXPEDIDOS CON\nPOSTERIORIDAD AL 1.° DE ENERO DE 1939, LAS DISPOSICIONES\nDE LA LEY N.° 7,167, SOBRE QUINQUENIOS",
+  "short_name": "Ley 8048",
+  "status": "in_force",
+  "issued_date": "1944-12-21",
+  "in_force_date": "1944-12-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25733",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.° Las disposiciones de la Ley N.° 7,167, de 2 de Febrero de 1942, se hacen extensivas al personal del Ejército, Armada y Fuerza Aérea en retiro, cuyos ceses fueron expedidos con posterioridad al 1.° de Enero de 1939."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.° El gasto que significa esta ley se imputará al ítem de Pensiones del Presupuesto del Ministerio de Defensa Nacional."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.° Esta ley comenzará a regir desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

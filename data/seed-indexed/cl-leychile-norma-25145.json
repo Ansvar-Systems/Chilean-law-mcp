@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25145",
+  "type": "statute",
+  "title": "CREA UN JUZGADO DE LETRAS DE MENOR CUANTIA EN\nMAULLIN",
+  "short_name": "Ley 5559",
+  "status": "in_force",
+  "issued_date": "1935-01-04",
+  "in_force_date": "1935-01-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25145",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Créase un Juzgado de Tetras de Menor Cuantía en Maullín, que tendrá por jurisdicción el radio que abarca los límites de dicha comuna."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El juzgado de que se trata en el artículo anterior, será servido por el siguiente personal, con las rentas que a continuación se indican:\nJuez de Letras de Menor Cuantía________________$ 15,750\nSecretario_____________________________________ 9,000\nOficial de sala________________________________ 3,780"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La presente ley regirá desde el 1.o de Enero de 1935."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "cl-leychile-norma-24040",
+  "type": "statute",
+  "title": "LEI NUM. 3,527, QUE AUTORIZA LA ACUÑACION DE $ 25.000,000 EN MONEDA DIVISIONARIA I LA EMISION DE $ 4.600,000 EN BILLETES DEL TIPO DE UN PESO.",
+  "short_name": "Ley 3527",
+  "status": "repealed",
+  "issued_date": "1919-08-08",
+  "in_force_date": "1925-10-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24040",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para hacer acuñar hasta veinte millones de pesos ($ 20.000,000) en moneda de níquel, de veinte, de diez i cinco centavos i de cobre de dos i un centavos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° La aleacion de estas monedas será de veinticinco por ciento de níquel i de setenta i cinco por ciento de cobre i tendrán los siguientes pesos, diámetro i tolerancia:\nLa moneda de veinte centavos 4 1/2 gramos de peso, 22 1/2 milímetros de diámetro, tres centésimas i cuatro milésimas, respectivamente, de tolerancia en la lei i en el peso; la de diez centavos tres gramos de peso, 19 1/2 milímetros de diámetro, i la de cinco centavos 2 gramos de peso i 16 1/2 milímetros de diámetro, i la tolerancia de estas dos monedas será de tres centésimas en la lei i de cinco milésimas en el peso.\nLa moneda de níquel se emitirá con los mismos cuños i leyendas de la actual moneda de plata, cambiándose en ellos la designacion en letras del valor de cada moneda por la cifra correspondiente en números."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° La moneda de cobre cuya acuñacion se autoriza por el artículo 1.° será de uno i dos centavos con aleacion de 95 por ciento de cobre, 4 por ciento de estaño i 1 por ciento de zinc, i peso de tres i medio gramos i diámetro de veintiun milímetros de dos centavos, i de dos i medio gramos i dieciocho milímetros la de un centavo i tolerancia de tres centésimas en la lei i de quince centésimas en el peso en las dos monedas. Se emplearán en la acuñacion de estas dos monedas los cuños de la actual moneda de cobre, sustituyéndose en ellos por números la indicacion de su respectivo valor."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Nadie está obligado a recibir mas de cincuenta pesos en moneda de níquel.\nLas Oficinas Fiscales admitirán en pago, sin limitacion de cantidad, las monedas de níquel o de cobre i las Tesorerías Fiscales las cambiarán a su presentacion por monedas de mayor corte."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° Queda prohibida, bajo pena de comiso i de multa equivalente al valor legal de las respectivas monedas, la refundicion de las monedas divisionarias."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Articulos Transitorios {ARTS. 1-5} Artículo 1.° Autorízase al Presidente de la República para hacer acuñar hasta cinco millones de pesos ($ 5.000,000) en moneda de plata de valor de un peso con quinientos milésimos de lei, 9 gramos de peso i veintinueve milímetros de diámetro, i en moneda divisionaria de plata de veinte, diez i cinco centavos con cuatrocientos milésimos de lei.\nEstas monedas se sujetarán en todo lo demas a la lei de acuñacion de monedas de plata número 2,947, de 8 de Noviembre de 1918."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Art. 2.° El Presidente de la República hará reacuñar en la moneda de a peso, indicada en el artículo anterior, las monedas acuñadas en conformidad a las leyes anteriores; cuya lei sea distinta a la establecida en dicho artículo."
+    },
+    {
+      "provision_ref": "art3-transitorio",
+      "section": "3 Transitorio",
+      "title": "Artículo 3 Transitorio",
+      "content": "Art. 3.° Declárase caducada la facultad del Presidente de la República para emitir el resto de las cantidades que le autorizan leyes anteriores."
+    },
+    {
+      "provision_ref": "art4-transitorio",
+      "section": "4 Transitorio",
+      "title": "Artículo 4 Transitorio",
+      "content": "Art. 4.° Se autoriza al Presidente de la República para emitir, en cambio de billetes inutilizados por el uso, cuatro millones seiscientos mil pesos ($ 4.600,000) en billetes del tipo de un peso que existen en el Tesorillo de la Oficina de Emision de Billetes Fiscales."
+    },
+    {
+      "provision_ref": "art5-transitorio",
+      "section": "5 Transitorio",
+      "title": "Artículo 5 Transitorio",
+      "content": "Art. 5.° Se autoriza al Presidente de la República para adquirir las pastas i los discos necesarios para la acuñacion de las monedas a que se refieren los artículos 1.° i 1.° transitorio, i se le autoriza, asimismo, para invertir hasta la cantidad de trescientos mil pesos ($ 300,000) en dar cumplimiento a esta lei."
+    }
+  ],
+  "definitions": []
+}

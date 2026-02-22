@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23218",
+  "type": "statute",
+  "title": "LEI NUM. 2,235, QUE DECLARA DE UTILIDAD PUBLICA LAS PROPIEDADES PARTICULARES NECESARIAS PARA LAS OBRAS DEL PUERTO DE TALCAHUANO.",
+  "short_name": "Ley 2235",
+  "status": "in_force",
+  "issued_date": "1909-12-16",
+  "in_force_date": "1909-12-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23218",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Decláranse de utilidad pública para las obras del puerto militar de Talcahuano, todos los terrenos, edificios i construcciones, de propiedad particular, ubicados dentro de los siguientes límites: al Sur, la Estacion de los Ferrocarriles del Estado; al Norte, el fuerte de Punta Larga; al Oriente, mar; i al Poniente, el camino público de Túmbez.\nAutorízase al Presidente de la República para que pague las indemnizaciones correspondientes al valor de los terrenos espropiados.\nPara las espropiaciones a que dé lugar esta lei se observará el procedimiento que establece la lei de 18 de Junio de 1857."
+    }
+  ],
+  "definitions": []
+}

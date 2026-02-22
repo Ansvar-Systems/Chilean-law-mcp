@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-141387",
+  "type": "statute",
+  "title": "LEI NUMERO 3,399",
+  "short_name": "Ley 3399",
+  "status": "in_force",
+  "issued_date": "1918-08-09",
+  "in_force_date": "1918-08-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=141387",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Elévase, por gracia, a dos mil cuatrocientos pesos ($ 2,400), la pension anual de que actualmente disfruta la viuda e hijas solteras del jeneral de division, don José Manuel 2.o Novoa\"."
+    }
+  ],
+  "definitions": []
+}

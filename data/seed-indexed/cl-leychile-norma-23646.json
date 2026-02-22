@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23646",
+  "type": "statute",
+  "title": "Declara inembargables las contribuciones sobre;haberes i sobre acciones i bonos de varias;Municipalidades hasta la concurrencia de las sumas;necesarias para los servicios que se indican, miéntras;no hayan sido cancelados los empréstitos \ncontratados,;con garantía del Gobierno, por las mismas Corporaciones.",
+  "short_name": "Ley 2984",
+  "status": "in_force",
+  "issued_date": "1915-02-11",
+  "in_force_date": "1915-02-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23646",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Miéntras no hayan sido cancelados los empréstitos contratados con la garantía del Estado, no serán embargables las contribuciones sobre haberes i sobre acciones i bonos de las Municipalidades de Antofagasta, Valparaiso, Viña del Mar, Santiago, Concepcion i Valdivia, hasta la concurrencia de las sumas necesarias para los siguientes servicios:\na) Empréstitos contratados con la garantía del Estado;\nb) Policía de Aseo;\nc) Alumbrado público; i\nd) Pagos de los sueldos de los empleados municipales.\nEl producto de dichas contribuciones quedará especialmente afecto a los espresados servicios, con el órden de preferencia indicado."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Esta lei comenzará a rejir desde la fecha de su publicacion en el Diario Oficial pero no afectará los embargos que se hayan trabado con anterioridad."
+    }
+  ],
+  "definitions": []
+}

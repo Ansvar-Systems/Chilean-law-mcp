@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-131711",
+  "type": "statute",
+  "title": "DERECHO A SUFRAGIO. SE DETERMINA EL VALOR DEL INMUEBLE, CAPITAL, ETC., NECESARIO PARA EJERCERLO",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1864-12-24",
+  "in_force_date": "1864-12-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=131711",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "Artículo único. El valor de la propiedad inmueble, el capital empleado en alguna especie de jiro o industria, el ejercicio de una industria o arte i el goce de un empleo, renta o usufructo, de que hablan las partes primera i segunda del artículo 8.° de la Constitucion, consistirán:\nEn las provincias de Atacama, Coquimbo, Aconcagua, Santiago i Valparaiso, en una propiedad inmueble cuyo valor no baje de mil pesos o un capital en jiro de dos mil o el ejercicio de algun arte o industria, cuya renta sea a lo menos de doscientos pesos anuales.\nEn las provincias de Colguagua, Talca, Maule, Ñuble, Concepcion i Arauco, indistintamente, el valor de la propiedad inmueble será quinientos pesos, el capital en jiro de mil i la de arte o industria de ciento cincuenta anuales.\nEn las provincias de Valdivia, Llanquihue, Chiloé, indistintamente, el capital en jiro de quinientos pesos, la renta de arte o industria de cien pesos, i la propiedad valdrá cuatrocientos pesos."
+    }
+  ],
+  "definitions": []
+}

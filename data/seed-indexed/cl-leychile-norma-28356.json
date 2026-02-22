@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28356",
+  "type": "statute",
+  "title": "MODIFICA LA LEY NUMERO 11.828, DE 1955",
+  "short_name": "Ley 16255",
+  "status": "in_force",
+  "issued_date": "1965-05-13",
+  "in_force_date": "1965-06-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28356",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Agréganse al artículo 26° de la ley N° 11.828, de 1955, los siguientes incisos:\n\"Terminadas las obras del camino de Santiago a Arica y del camino Longitudinal sur, los fondos correspondientes se distribuirán en la siguiente forma:\na) 35% para construir y pavimentar los caminos transversales de Santiago a Arica;\nb) 45% para la construcción y pavimentación de los caminos transversales de Santiago a Puerto Montt;\nc) 20% para la construcción y pavimentación de los caminos transversales de las provincias de Chiloé, Aysen y Magallanes, y\nd) el 50% de la letra c) se invertirá en Chiloé continental y Aysen, debiendo iniciarse de inmediato el estudio del camino de Puerto Montt a Puerto Aysen.\nAutorízase al Ministerio de Obras Públicas para que, de los fondos consultados en el inciso anterior, destine las sumas necesarias para construir doble vías y pasos a distinto nivel en la Carretera Panamericana y Longitudinal Sur.\nAutorízase al Presidente de la República para contratar uno o más empréstitos, internos o externos, con el objeto de llevar a cabo las obras que indican los dos incisos precedentes, los que se amortizarán con el rendimiento del impuesto establecido en la presente ley."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Con cargo a los recursos indicados en el artículo 33° de la ley N° 11.828, de 1955, correspondientes a la provincia de O'Higgins, el Departamento de Arquitectura del Ministerio de Obras Públicas cerrará, techará y dotará de servicios higiénicos, a la cancha de básquetbol que en Rancagua posee la Asociación de ese deporte."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- El Ministerio de Obras Públicas dará preferencia a la construcción del camino San Javier, Cauquenes, Quirihue, Tomé y Concepción, con cargo a los recursos de la letra b) del artículo 1° de la presente ley."
+    }
+  ],
+  "definitions": []
+}

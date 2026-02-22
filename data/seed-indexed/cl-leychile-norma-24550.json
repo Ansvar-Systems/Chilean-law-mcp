@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24550",
+  "type": "statute",
+  "title": "Prorroga plazo número 4.o artículo 44 Constitución;Política aprobación Ley Presupuestos. Establece que si;Congreso no prestase aprobación antes 1.o de Enero 1928,;Ley Presupuestos presentada por Ejecutivo, regirá como;ley.",
+  "short_name": "Ley 4191",
+  "status": "in_force",
+  "issued_date": "1927-09-17",
+  "in_force_date": "1927-09-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24550",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o El plazo de cuatro meses establecido en el número 4.o del artículo 44 de la Constitución Política, empezará a contarse desde el 1.o de Septiembre del presente año, para los efectos de la aprobación del proyecto de Ley de Presupuestos Generales de la Nación, para 1928."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Si el Congreso Nacional no prestare su aprobación al proyecto de Ley de Presupuestos antes del 1.o de Enero de 1928, regirá como Ley de Presupuestos para 1928, el proyecto de ley que presente al Congreso Nacional, el Presidente de la República, antes del 1.o de Diciembre próximo."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

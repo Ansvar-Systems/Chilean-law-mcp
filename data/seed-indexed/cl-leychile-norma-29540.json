@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29540",
+  "type": "statute",
+  "title": "DECLARA FERIADO LEGAL EL DIA 21 DE ABRIL DE 1982",
+  "short_name": "Ley 18116",
+  "status": "in_force",
+  "issued_date": "1982-04-14",
+  "in_force_date": "1982-04-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29540",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Declárase feriado legal el 21 de Abril de 1982, día en que se realizará el XV Censo de Población y IV de Vivienda.\nCon todo, los funcionarios y personal de los servicios u organismos fiscales, semifiscales, empresas del Estado y Municipalidades, que directa o indirectamente tengan alguna participación en el levantamiento censal están obligados ese día a cumplir con las funciones que le sean encomendadas para tal efecto."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El día indicado, desde las 04.00 y hasta las 18.00 horas, no podrá realizarse ninguna clase de espectáculos públicos o deportivos.\nAsimismo permanecerán cerrados, durante el señalado horario, los locales comerciales, restaurantes, fuentes de soda, bares y, en general, todo comercio de venta de artículos alimenticios, con excepción del que se realice en lugares de tránsito de pasajeros."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Carabineros de Chile tendrá a su cargo la fiscalización del cumplimiento de las disposiciones contenidas en el artículo anterior, denunciando las infracciones a la autoridad correspondiente. El infractor será sancionado con una multa a beneficio fiscal no inferior a veinte unidades tributarias mensuales ni superior a cien.\nConocerá de tales infracciones en única instancia, el Juzgado de Policía Local competente."
+    }
+  ],
+  "definitions": []
+}

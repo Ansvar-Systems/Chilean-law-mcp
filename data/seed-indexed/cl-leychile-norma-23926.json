@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23926",
+  "type": "statute",
+  "title": "LEI NUM. 3,363, QUE AUTORIZA LA ADQUISICION DE LA PROPIEDAD SIGNADA CON EL NUM. 1,292 DE LA CALLE AGUSTINAS DE SANTIAGO.",
+  "short_name": "Ley 3363",
+  "status": "in_force",
+  "issued_date": "1918-04-24",
+  "in_force_date": "1918-04-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23926",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Se autoriza al Presidente de la República para que invierta hasta la cantidad de quinientos mil pesos ($ 500,000), en la adquisicion de la casa i sitio núm. 1,292 de la calle Agustinas de esta Capital.\nEl pago se efectuará por anualidades de ochenta i tres mil trescientos treinta i tres pesos, treinta i tres centavos ($ 83,333.33), durante tres años, con el interes de 8% anual.\nEl Gobierno reconocerá una deuda de doscientos cincuenta mil pesos ($ 250,000) a la Caja de Crédito Hipotecario, que grava la propiedad."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° El gasto correspondiente a esta adquisicion se deducirá de la venta o arrendamiento de los terrenos fiscales de Magallanes."
+    }
+  ],
+  "definitions": []
+}

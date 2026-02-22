@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-25289",
+  "type": "statute",
+  "title": "ACLARA ARTICULOS 117 Y 127 DEL CODIGO DE MINERIA, APROBADO POR DECRETO-LEY 488, DE 24 DE AGOSTO DE 1932.",
+  "short_name": "Ley 6110",
+  "status": "in_force",
+  "issued_date": "1937-09-27",
+  "in_force_date": "1937-09-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25289",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Se entenderá que no han estado afectas a la sanción de caducidad establecida por el artículo 127 del Código de Minería, cada una de las pertenencias mineras respecto de las cuales se haya pagado una patente inferior a la que les correspondía según su extensión superficial, siempre que no se haya ordenado cancelar sus inscripciones por sentencia judicial ejecutoriada."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Si de las rectificaciones de los roles resulta que un minero no ha pagado patente por una fracción de su pertenencia, deberá hacerlo dentro de los seis meses siguientes a la fecha de la publicación de la rectificación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Desde Abril de 1938, las oficinas encargadas de recaudar las patentes incluirán en la nómina a que se refiere el artículo 117 del Código de Minería, las propiedades mineras que hayan pagado una patente inferior a la que les corresponda según su extensión superficial. Podrán, al efecto, solicitar del propietario todos los datos y antecedentes necesarios y pedir los informes pertinentes al Servicio de Minas del Estado."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Esta Ley regirá desde su publicación en el Diario Oficial\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. Las disposiciones de la presente Ley se aplicarán a las pertenencias que en la actualidad se encuentren en el caso contemplado en el artículo 1.o."
+    }
+  ],
+  "definitions": []
+}

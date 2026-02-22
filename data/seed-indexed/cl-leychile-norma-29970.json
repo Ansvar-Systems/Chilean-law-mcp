@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-29970",
+  "type": "statute",
+  "title": "MODIFICA EL DECRETO LEY N° 1.878, DE 1977",
+  "short_name": "Ley 18578",
+  "status": "in_force",
+  "issued_date": "1986-11-26",
+  "in_force_date": "1986-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29970",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Agrégase a continuación del punto final del inciso tercero del artículo 3° del decreto ley N° 1.878, de 1977, la siguiente oración:\n\"Estará afecto, además, a lo dispuesto en la Ley N° 12.856, si fuere imponente de la Caja de Previsión de la Defensa Nacional, como también sus cargas familiares y sus padres e hijas solteras mayores de veintiún años de edad que vivan a sus expensas.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El organismo pagador de la Central Nacional de Informaciones efectuará los descuentos establecidos en los números 1 y 4 del artículo 7° de la ley N° 12.856 y pondrá directamente a disposición de su Director, el monto mensual recaudado por este concepto."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Las sumas recaudadas se depositarán en una cuenta en el Banco del Estado de Chile, y serán contabilizadas y administradas por el Director Nacional de Informaciones o por la autoridad u organismo que él designe, a los que les corresponderá exclusivamente girar sobre dicha cuenta a medida de las necesidades y para los fines a que se refiere el artículo 7° de la Ley N° 12.856."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°.- Un reglamento establecerá las normas que regulen la aplicación de los artículos 2° y 3° de esta ley."
+    }
+  ],
+  "definitions": []
+}

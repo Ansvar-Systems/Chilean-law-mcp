@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-280508",
+  "type": "statute",
+  "title": "MODIFICA LA REGULACIÓN DE LA CUOTA MORTUORIA DEL SEGURO ESCOLAR Y DE LA ASIGNACIÓN POR MUERTE DE BENEFICIARIOS DE PENSIÓN BÁSICA SOLIDARIA DE INVALIDEZ, CARENTES DE RECURSOS",
+  "short_name": "Ley 20301",
+  "status": "amended",
+  "issued_date": "2008-10-20",
+  "in_force_date": "2016-04-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=280508",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- En el caso de fallecimiento de un estudiante por un accidente que sufra a causa o con ocasión de sus estudios o en la realización de su práctica profesional, que se encuentre protegido por el seguro a que se refiere el artículo 3° de la ley N° 16.744, la persona o Institución que compruebe haberse hecho cargo de los funerales de la víctima, recibirá como cuota mortuoria, con el fin de cubrir el valor de ellos, una suma equivalente a tres ingresos mínimos para fines no remuneracionales vigentes a la fecha del fallecimiento de la víctima."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Derogado"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- El mayor gasto que represente la aplicación de esta ley, se financiará con cargo al Presupuesto del Ministerio del Trabajo y Previsión Social."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "TRANSITORIO",
+      "title": "Artículo TRANSITORIO",
+      "content": "Artículo transitorio.- Los beneficiarios de pensión básica solidaria de invalidez carentes de recursos, que hubiesen fallecido a partir del 1 de julio de 2008 y hasta el día precedente al de entrada en vigencia de esta ley, causarán asignación por muerte, de conformidad a lo dispuesto en el artículo 2°. Para tal efecto, los correspondientes beneficiarios deberán presentar la respectiva solicitud ante el Instituto de Previsión Social."
+    }
+  ],
+  "definitions": []
+}

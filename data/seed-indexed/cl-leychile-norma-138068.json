@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-138068",
+  "type": "statute",
+  "title": "PAGO DEL SALARIO AGRICOLA EN LOS DIAS QUE SEÑALA",
+  "short_name": "Ley 16611",
+  "status": "in_force",
+  "issued_date": "1967-01-12",
+  "in_force_date": "1967-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138068",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º- Los obreros agrícolas que debido a las condiciones climáticas imperantes no pudieren realizar sus labores habituales, tendrán derecho a percibir en dinero efectivo hasta un 50% del salario que les hubiere correspondido, siempre que se hubiesen presentado a trabajar en el día anterior.\nAquella parte del salario, o complementaria de él, recibida en especies, que forme parte de la ración alimenticia del obrero o de su familia, le será entregada normalmente durante los días a que se refiere el inciso primero.\nLos obreros agrícolas tendrán derecho a la asignación familiar completa. La semana corrida se pagará según el promedio de lo devengado en dinero efectivo por el trabajador, en el período respectivo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º- Los empleados y obreros agrícolas contratados por períodos mensuales, tendrán derecho a percibir la totalidad de las remuneraciones del período correspondiente si, en el caso contemplado en el artículo 1º, han cumplido con las exigencias a que esa disposición se refiere y se han presentado a realizar sus funciones regularmente de acuerdo con las disposiciones legales pertinentes."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3º- El Reglamento determinará la forma y los casos en que procederá el pago del salario aludido en el artículo 1º de esta ley, como igualmente el porcentaje que deberá pagarse en dinero efectivo dentro del límite del 50% a que se refiere dicho artículo."
+    }
+  ],
+  "definitions": []
+}

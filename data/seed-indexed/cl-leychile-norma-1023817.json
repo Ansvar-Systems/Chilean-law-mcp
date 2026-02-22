@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1023817",
+  "type": "statute",
+  "title": "ADELANTA LA PLENA VIGENCIA DEL SISTEMA DE PROTECCIÓN AL CONTRIBUYENTE DEL IMPUESTO ESPECÍFICO A LOS COMBUSTIBLES (SIPCO) PREVISTO EN LA LEY N° 20.493",
+  "short_name": "Ley 20505",
+  "status": "in_force",
+  "issued_date": "2011-03-16",
+  "in_force_date": "2011-03-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1023817",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Introdúcense las siguientes modificaciones a la ley N°20.493, que Crea un Nuevo Sistema de Protección al Contribuyente ante las Variaciones en los Precios Internacionales de los Combustibles:\n1) Incorpóranse las siguientes modificaciones al artículo 2°:\na) Modifícase el inciso tercero, del siguiente modo:\ni) Reemplázase en la primera oración, la palabra \"simple\", por la expresión \"ponderado\".\nii) Intercálase a continuación del punto seguido (.), la siguiente oración:\n\"El promedio ponderado a que se refiere este inciso se calculará aplicando a los precios de mercados de futuros un porcentaje que esté entre 0% y 50%, y aplicando a los demás precios el porcentaje remanente, hasta enterar el 100%.\".\nb) Reemplázase, en el inciso décimo, la expresión \"las dos semanas anteriores\" por la siguiente: \"las dos semanas inmediatamente anteriores o\", las dos veces que aparece.\n2) Agrégase el siguiente artículo tercero transitorio:\n\"Artículo tercero.- La vigencia mínima prevista en el inciso quinto del artículo 2°, será de dos semanas, la primera vez que se fijen los parámetros indicados.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- La Comisión Nacional de Energía deberá elaborar un nuevo informe con los precios de referencia a que se refiere el artículo 2° de la ley N° 20.493, que sustituya aquellos que hubiese enviado el lunes anterior a la vigencia de esta ley.\"."
+    }
+  ],
+  "definitions": []
+}

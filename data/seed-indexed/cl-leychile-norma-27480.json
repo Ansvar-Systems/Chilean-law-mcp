@@ -1,0 +1,67 @@
+{
+  "id": "cl-leychile-norma-27480",
+  "type": "statute",
+  "title": "MODIFICA LAS LEYES N.oS 11,469, 11,860 Y 13,305",
+  "short_name": "Ley 13491",
+  "status": "in_force",
+  "issued_date": "1959-09-25",
+  "in_force_date": "1959-10-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27480",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Substitúyese la primera parte del inciso primero del artículo 35.o de la ley N.o 11,469, sobre Estatuto de los Empleados Municipales de la República, hasta la palabra \"presupuesto\" por lo siguiente:\n\"Artículo 35.o El monto total de las remuneraciones anuales de los empleados municipales de planta por concepto de sueldo base y gratificación anual, no podrá ser superior al porcentaje que se indica en la escala que sigue, determinado en relación a los ingresos ordinarios devengados en el año en que corresponde confeccionar el presupuesto.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Intercálanse al indicado artículo 35.o los siguientes incisos nuevos, que pasan a ser segundo y tercero:\n\"El cálculo de los ingresos ordinarios a que se refiere el inciso anterior se hará sobre la base de los ingresos devengados durante los seis primeros meses del año, multiplicados por dos:\nPara los efectos indicados en la presente ley, se considerará sueldo base la totalidad de las remuneraciones que perciban los empleados, con excepción de los quinquenios, la asignación familiar, la gratificación anual y la remuneración por trabajos extraordinarios a que se refiere el artículo 28.o."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Suprímese en el último inciso del artículo 27.o, la siguiente frase final: \"y tampoco regirán para ésta las limitaciones a que se refiere el inciso anterior.\""
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Reemplázase en el inciso primero del artículo 32.o de la misma ley, la frase \"anterior a aquel en que corresponda confeccionar el presupuesto del año siguiente\", por la siguiente: \"en que corresponda confeccionar el presupuesto, calculados en la forma indicada en el artículo 35.o\"."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o Substitúyese el artículo 109.o de la ley N.o 11,860, sobre Organización y Atribuciones de las Municipalidades, por el siguiente:\n\"Artículo 109.o El monto total de las remuneraciones anuales de los obreros municipales de planta, por concepto de salario base y gratificación anual no podrá ser superior al 30 % de los ingresos ordinarios devengados en el año en que corresponda confeccionar el presupuesto, calculados en la forma indicada en el artículo 35.o de la ley sobre Estatuto de los Empleados Municipales de la República.\nSe entiende por salario base la totalidad de las remuneraciones que perciban los obreros, con excepción de los quinquenios, asignación familiar, gratificación anual y pago de horas extraordinarias.\""
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Artículo 6.o En el artículo 239.o de la ley N.o 13,305, reemplázase la letra \"y\" que existe entre las palabras \"Farmacéuticos\" y \"Químicos\" por una coma (,) y a continuación de la palabra \"Químicos\" se agrega la siguiente frase: \"Constructores Civiles, Contadores y Técnicos Colegiados\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículos transitorios {Arts. 1-3} Artículo 1.o Las Municipalidades que se hubieren excedido en los porcentajes de limitaciones a que se refiere la presente ley, tendrán el plazo de 5 años, contado desde el 1.o de Enero de 1960, para encuadrarse en ellos. Mientras esto no suceda les queda prohibido crear nuevos cargos de empleados y obreros, aumentar los grados, mejorar las rentas u otorgar otros beneficios.\nNo obstante lo anterior, el Presidente de la República, a solicitud de la Municipalidad, por decreto fundado, podrá autorizar en casos calificados, la contratación \"a honorarios\" de personal para atender servicios extraordinarios."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2.o Facúltase a las Municipalidades que a la fecha de publicación de esta ley hubieren acordado modificar las plantas o remuneraciones de sus empleados con el fin de encuadrarse dentro de las limitaciones establecidas en los artículos 32.o y 35.o de la ley N.o 11,469, sobre Estatuto de los Empleados Municipales de la República, para que en el plazo de treinta días contados desde esa misma fecha, dejen sin efecto total o parcialmente dicho acuerdo."
+    },
+    {
+      "provision_ref": "art3-transitorio",
+      "section": "3 Transitorio",
+      "title": "Artículo 3 Transitorio",
+      "content": "Artículo 3.o Condónase la deuda que afecta al personal de empleados y obreros de la Municipalidad de Temuco por concepto de aumento de remuneraciones, acordado en sesión de la Corporación de fecha 24 de Junio de 1958, objetado de ilegal por la Contraloría General de la República.\nLa condonación cubre los aumentos correspondientes a los meses de Marzo a Diciembre de 1958 y las sumas que el personal haya reintegrado les serán devueltas con el pago del sueldo más próximo a la vigencia de la presente ley.\""
+    }
+  ],
+  "definitions": []
+}

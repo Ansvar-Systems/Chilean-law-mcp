@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1092741",
+  "type": "statute",
+  "title": "Juntas electorales",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1892-08-30",
+  "in_force_date": "1892-08-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1092741",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "ARTÍCULO ÚNICO\nSi al verificarse la reunion determinada por el artículo 47 de la lei de 20 de Agosto de 1890 se notare que la Junta Electoral de alguna subdelegacion estuviere incompleta, sea por inasistencia de alguno de sus miembros o por otra causa, se completará su número con los mayores contribuyentes que sigan en la lista formada segun el artículo 9.°; i si no hubiere contribuyentes, el juez de letras agregará la subdelegacion a la mas inmediata i de mas fácil comunicacion, sin consideracion a que sea urbana o rural ni al número de órden.\nEl juez de letras procederá en este caso en conformidad a lo dispuesto en el artículo 9.º ya citado."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22416",
+  "type": "statute",
+  "title": "LINEA TELEGRAFICA DE PUNTA DUNGENESS A PUNTA ARENAS",
+  "short_name": "Ley 1118",
+  "status": "in_force",
+  "issued_date": "1898-11-25",
+  "in_force_date": "1898-11-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22416",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República por el término de seis meses, para que pueda invertir hasta la suma de treinta i cinco mil pesos en la construccion de una línea telegráfica que una Punta Dungeness con Punta Arenas."
+    }
+  ],
+  "definitions": []
+}

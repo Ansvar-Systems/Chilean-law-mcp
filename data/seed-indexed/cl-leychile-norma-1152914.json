@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1152914",
+  "type": "statute",
+  "title": "NOMBRAMIENTO DE ELECTORES EN LOS PUEBLOS EN QUE NO EXISTA MUNICIPALIDAD NI QUIEN LE SUSTITUYA PARA ELEJIR EL INTENDENTE DE LA PROVINCIA",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1826-12-16",
+  "in_force_date": "1826-12-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1152914",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1°",
+      "content": "Art. 1.° En los pueblos que no hayan Cabildos ni se encuentren los individuos a quienes en defecto de Rejidores llama la lei a elejir el intendente de provincia, se juntarán los vecinos del mismo modo que para la eleccion de Diputados al Congreso, y elejirán siete electores los que suplirán el defecto de los llamados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2°",
+      "content": "Art. 2.° Comuníquese al Poder Ejecutivo para su cumplimiento."
+    }
+  ],
+  "definitions": []
+}

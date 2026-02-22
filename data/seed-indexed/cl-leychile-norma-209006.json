@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-209006",
+  "type": "statute",
+  "title": "Ley núm. 4,699",
+  "short_name": "Ley 4699",
+  "status": "in_force",
+  "issued_date": "1929-11-29",
+  "in_force_date": "1929-12-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=209006",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º Corresponde a la Junta Central de Beneficencia percibir e invertir las asignaciones a que se refieren los incisos 3º y 4º del artículo 1056 del Código Civil.\nLa Junta Central invertirá el producto de la asignación en obras de beneficencia y asistencia social de la comuna, departamento o provincia del último domicilio del testador."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º Derógase el número 10 del artículo 47 del decreto-ley número 740, de 7 de Diciembre de 1925."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3º La presente ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

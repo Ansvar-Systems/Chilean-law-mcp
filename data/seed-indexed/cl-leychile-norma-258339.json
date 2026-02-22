@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-258339",
+  "type": "statute",
+  "title": "INTRODUCE MODIFICACIONES A LA ASIGNACION FAMILIAR",
+  "short_name": "Ley 20172",
+  "status": "amended",
+  "issued_date": "2007-02-02",
+  "in_force_date": "2007-02-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=258339",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Introdúcense las siguientes modificaciones en el decreto con fuerza de ley N° 150, de 1981, del Ministerio del Trabajo y Previsión Social:\n1) Sustitúyese, en las letras g) de los artículos 2° y 3°, la frase \"lo establecido en el N° 4 del artículo 29 de la ley N° 16.618\" por \"una medida de protección dispuesta por sentencia judicial\".\n2) En su artículo 7°:\na) Agréganse, en los incisos segundo y tercero a continuación de los respectivos puntos apartes (.) que pasan a ser comas (,), la frase siguiente: \"no requiriendo para ello el consentimiento del beneficiario.\".\nb) Agrégase el siguiente inciso cuarto nuevo:\n\"Los empleadores y las entidades pagadoras de las asignaciones familiares, no podrán rechazar las solicitudes a que se refieren los incisos precedentes.\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- El mayor gasto fiscal que represente la aplicación de esta ley durante el año 2006, se financiará con cargo al ítem 50-01-03-24-\n03.122 de la partida presupuestaria Tesoro Público."
+    }
+  ],
+  "definitions": []
+}

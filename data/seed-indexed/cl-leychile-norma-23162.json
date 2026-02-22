@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23162",
+  "type": "statute",
+  "title": "LEI NUM. 2,159, QUE CONCEDE LA SUMA DE $ 100,000 PARA AUXILIAR A LOS DAMNIFICADOS DE CALABRIA I SICILIA",
+  "short_name": "Ley 2159",
+  "status": "in_force",
+  "issued_date": "1909-02-19",
+  "in_force_date": "1909-02-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23162",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la cantidad de cien mil pesos en ausiliar a los damnificados de Calabria i Sicilia."
+    }
+  ],
+  "definitions": []
+}

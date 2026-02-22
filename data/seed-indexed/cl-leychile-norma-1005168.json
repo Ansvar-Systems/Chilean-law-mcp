@@ -1,0 +1,1749 @@
+{
+  "id": "cl-leychile-norma-1005168",
+  "type": "statute",
+  "title": "CONSTITUCION POLITICA DEL ESTADO DE CHILE SANCIONADA Y PROMULGADA EN 30 DE OCTUBRE DE 1822",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1822-10-30",
+  "in_force_date": "1822-10-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1005168",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPITULO I De la Nación Chilena",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTICULO 1.o La Nación Chilena es la unión de todos los chilenos: en ella reside esencialmente la soberanía, cuyo ejercicio delega conforme a esta Constitución."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPITULO I De la Nación Chilena",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La Nación Chilena es libre e independiente de la Monarquía española y de cualquiera otra potencia extranjera: pertenecerá sólo a sí misma, y jamás a ninguna persona ni familia."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPITULO I De la Nación Chilena",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El territorio de Chile conoce por límites naturales: al sur, el Cabo de Hornos; al norte, el despoblado de Atacama; al oriente, los Andes; al occidente, el mar Pacífico. Le pertenecen las islas del Archipiélago de Chiloé, las de la Mocha, las de Juan Fernández, la de Santa María y demás adyacentes."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Son chilenos:\n1.o Los nacidos en el territorio de Chile.\n2.o Los hijos de chileno y de chilena, aunque hayan nacido fuera del Estado.\n3.o Los extranjeros casados con chilena, a los tres años de residencia en el país.\n4.o Los extranjeros casados con extranjera, a los cinco años de residencia en el país, si ejercen la agricultura o la industria, con un capital propio, que no baje de dos mil pesos; o el comercio, con tal que posean bienes raíces de su dominio, cuyo valor exceda de cuatro mil pesos."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o El Poder Legislativo, a propuesta del Ejecutivo, puede dispensar las calidades del artículo anterior en favor de los extranjeros que han hecho o hicieren servicios importantes al Estado."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Todos los chilenos son iguales ante la ley, sin distinción de rango ni privilegio."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.o Todos pueden ser llamados a los empleos con las condiciones de la ley."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8.o Todos deben contribuir para los gastos del Estado en proporción de sus haberes."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPITULO II De los chilenos",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "Art. 9.o Todo chileno debe llenar las obligaciones que tiene para con Dios y los hombres, siendo virtuoso, honrado, benéfico, buen padre de familia, buen hijo, buen amigo, buen soldado, obediente a la Constitución y a la ley, y funcionario fiel, desinteresado y celoso."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPITULO UNICO",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "Art. 10. La religión del Estado es la Católica, Apostólica, Romana, con exclusión de cualquiera otra.\nSu protección, conservación, pureza e inviolabilidad es uno de los primeros deberes de los jefes del Estado, como el de los habitantes del territorio su mayor respeto y veneración, cualquiera que sean sus opiniones privadas."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPITULO UNICO",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "Art. 11. Toda violación del artículo anterior será un delito contra las leyes fundamentales del país."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPITULO I Del Gobierno",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "Art. 12. El Gobierno de Chile será siempre representativo, compuesto de tres poderes independientes, Legislativo, Ejecutivo y Judicial."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPITULO I Del Gobierno",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "Art. 13. El Poder Legislativo reside en un Congreso: el Ejecutivo en un Director, y el Judicial en los Tribunales de Justicia."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPITULO II De los ciudadanos",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "Art. 14. Son ciudadanos todos los que tienen las calidades contenidas en el artículo 4.o con tal que sean mayores de veinticinco años o casados y que sepan leer y escribir; pero esta última calidad no tendrá lugar hasta el año de 1833."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPITULO II De los ciudadanos",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "Art. 15. Pierden la ciudadanía:\n1.o Los que adquieran naturaleza en país extranjero.\n2.o Los que admitan empleo de otro Gobierno.\n3.o Los que son condenados a pena aflictiva o infamante, si no obtienen rehabilitación.\n4.o Los que residiesen cinco años continuos fuera de Chile, sin licencia del Gobierno."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPITULO II De los ciudadanos",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "Art. 16. La ciudadanía se suspende:\n1.o En virtud de interdicción judicial, por incapacidad moral o física.\n2.o En el deudor quebrado.\n3.o En el deudor a los caudales públicos.\n4.o En el sirviente doméstico asalariado.\n5.o En el que no tiene modo de vivir conocido.\n6.o En el que se halla procesado criminalmente."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPITULO I De su formación",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "Art. 17. El Congreso se compone de dos Cámaras, la del Senado, y la de los Diputados: se reunirá cada dos años el 18 de septiembre, teniéndose por primera época la de la actual legislatura de 1822."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPITULO I De su formación",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "Art. 18. La Cámara del Senado se formará:\n1.o De los individuos de la Corte de Representantes elegidos por la Cámara de los Diputados en la forma que se dirá, y de los ex Directores.\n2.o De los Ministros de Estado.\n3.o De los Obispos con jurisdicción dentro del territorio, y en su defecto, del Dignidad que presida el Cabildo Eclesiástico.\n4.o De un Ministro del Supremo Tribunal de Justicia, nombrado por el mismo Tribunal.\n5.o De tres jefes del Ejército, de la clase de brigadier inclusive arriba, nombrados por el Poder Ejecutivo.\n6.o Del Delegado Directorial del departamento en que abra sus sesiones el Congreso.\n7.o De un Doctor de cada Universidad nombrado por su claustro.\n8.o De dos comerciantes y de dos hacendados, cuyo capital no baje de treinta mil pesos, nombrados por la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPITULO I De su formación",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "Art. 19. La Cámara del Senado abrirá y cerrará sus sesiones en el mismo día que la de los Diputados."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPITULO I De su formación",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "Art. 20. Cada una de las Cámaras tendrá el tratamiento de Excelencia Suprema."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPITULO I De su formación",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "Art. 21. Cada una de ellas arreglará su policía y gobierno interior."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPITULO I De su formación",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "Art. 22. La Cámara de los Diputados se formará del modo siguiente: En la fiesta cívica del 5 de abril se expedirá una convocatoria, pidiéndose por los Cabildos a los inspectores, alcaldes de barrio y jueces de distrito, listas de los ciudadanos elegibles para electores, prefijándoles el perentorio término de quince días para que las remitan."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPITULO I De su formación",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "Art. 23. El 1.o de mayo se fijarán copias de estas listas por el término de quince días en los ángulos de la plaza mayor de cada departamento, excluyéndose de ellas al Delegado Directorial durante su mando."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPITULO I De su formación",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "Art. 24. Dentro de este término se oirán los reclamos de los que hayan sido omitidos, y sobre los inscriptos indebidamente, decidiéndose en el acto por los mismos Cabildos, sin apelación a otro Tribunal."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPITULO I De su formación",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "Art. 25. El 15 de mayo se procederá por los Cabildos y vecinos, que quisieren concurrir, a un sorteo de un elector por cada mil almas."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPITULO I De su formación",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "Art. 26. En los departamentos, donde no haya Cabildo, el Delegado Directorial, el párroco y el procurador general nombrarán seis vecinos de los principales, que uniéndose con ellos, hagan las funciones del Cabildo."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPITULO I De su formación",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "Art. 27. En las subsecuentes elecciones harán las veces del Cabildo, si no lo hubiere, los electores anteriores: y si estuviesen reducidos a menor número de siete, elegirán ellos mismos los que llenen el de nueve."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPITULO I De su formación",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "Art. 28. Verificado el sorteo y publicada la elección, se avisará a los electos concurran a la ciudad cabecera del departamento para el día 1.o de junio, en que indefectiblemente debe procederse a la elección de Diputados, por los electores que concurrieron."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "CAPITULO I De su formación",
+      "section": "29",
+      "title": "Artículo 29",
+      "content": "Art. 29. En el mismo día 1.o de junio, reunidos los electores en las casas de Cabildo, sacarán a la suerte de entre sí mismos un presidente de la junta electoral, y acto continuo procederá ésta a elegir por votos secretos los Diputados que correspondan al departamento, e igual número de suplentes."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPITULO I De su formación",
+      "section": "30",
+      "title": "Artículo 30",
+      "content": "Art. 30. La base de la elección para el número de Diputados y sus suplentes, será uno por cada quince mil almas."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPITULO I De su formación",
+      "section": "31",
+      "title": "Artículo 31",
+      "content": "Art. 31. En los departamentos donde sólo llegue al número de siete mil, se elegirá un Diputado y su suplente; pero si bajase de este número, se reunirá al más inmediato, y se verificará la elección en éste por la base antedicha."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPITULO I De su formación",
+      "section": "32",
+      "title": "Artículo 32",
+      "content": "Art. 32. Si en algún departamento sobrare un número de almas, que no llegue a quince mil, pero que pase de siete mil, elegirá un Diputado más."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPITULO I De su formación",
+      "section": "33",
+      "title": "Artículo 33",
+      "content": "Art. 33. Si alguno fuese elegido en dos o más departamentos, representará por el primero que acepte, y por los demás entrarán los suplentes."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPITULO I De su formación",
+      "section": "34",
+      "title": "Artículo 34",
+      "content": "Art. 34. Se tendrá por electo para Diputado el que obtenga la pluralidad absoluta de sufragios, y en igualdad de votos, decidirá la suerte."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPITULO I De su formación",
+      "section": "35",
+      "title": "Artículo 35",
+      "content": "Art. 35. Podrá recaer la elección en uno de los mismos electores, si reúne las dos terceras partes de sufragios."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPITULO I De su formación",
+      "section": "36",
+      "title": "Artículo 36",
+      "content": "Art. 36. Concluída la elección, se avisará inmediatamente a los Diputados electos, para que concurran a la capital del Estado, y se abran las sesiones en la fiesta cívica del 18 de septiembre."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPITULO II De las calidades de los electores",
+      "section": "37",
+      "title": "Artículo 37",
+      "content": "Art. 37. Podrán ser electores:\n1.o Todos los ciudadanos, que no hayan perdido la ciudadanía, o no tengan suspenso su ejercicio.\n2.o Los militares que tengan bienes raíces, y no manden tropa de línea."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPITULO II De las calidades de los electores",
+      "section": "38",
+      "title": "Artículo 38",
+      "content": "Art. 38. Hasta pasados doce años no podrán ser electores, ni puestos en la lista de elegibles, los que cometieron soborno después del sorteo; y si concluído éste, se justificare el delito, se reemplazará el elector por otro sorteo hecho en la forma que queda prevenida: lo mismo se practicará, si la suerte hubiere recaído en los exceptuados por el artículo anterior."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "39",
+      "title": "Artículo 39",
+      "content": "Art. 39. Para ser Diputado se requiere:\n1.o Tener las calidades que deben concurrir en los electores.\n2.o Tener en el departamento que lo elige, alguna propiedad raíz, cuyo valor no baje de dos mil pesos, o ser oriundo del departamento.\n3.o Saber leer y escribir.\n4.o No podrán ser Diputados los militares que tengan a su mando tropa de línea, ni los Delegados Directoriales podrán ser elegidos por el departamento en que gobiernen."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "40",
+      "title": "Artículo 40",
+      "content": "Art. 40. Electo el Diputado, a pluralidad de votos, y extendiéndose una acta del nombramiento, se otorgarán los poderes inmediatamente por los electores en la forma siguiente: «En la ciudad o villa de a días del mes de del año de\nEstando congregados en la sala de Cabildo los señores electores de este departamento, (aquí los nombres de los electores) dijeron ante mí el infrascrito escribano y testigos: que, después de haber procedido en la forma prescrita en la Constitución al sorteo de electores, para nombrar Diputados de este departamento, habían tenido a bien elegir por sus representantes a don N. y don N., etc., según aparece de la acta firmada en este día, y en su consecuencia les otorgan cuantos poderes sean necesarios para que, en unión de los demás representantes de la Nación, acuerden y determinen cuanto estimen necesario al bien común de ella, aprobando y ratificando desde ahora cuanto hagan a nombre del departamento por quien representan, y obligando a sus vecinos al cumplimiento, sin que por falta de poder dejen de hacer cuanto entiende útil, sin salir de los límites del Poder Legislativo expresados en la Constitución. Así lo otorgaron y firmaron en el citado día, mes y año de que doy fe.»"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "41",
+      "title": "Artículo 41",
+      "content": "Art. 41. Las actas y poderes se examinarán por la Corte de Representantes dos meses antes del dieciocho de septiembre; y estando conformes, le pondrán visto bueno, firmándose por todos y el Secretario. Si fueren reprobados por falta de las calidades dispuestas en la Constitución, darán inmediatamente aviso a los departamentos, expresando el vicio, para que se haga nueva elección."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "42",
+      "title": "Artículo 42",
+      "content": "Art. 42. Los Diputados, el día en que se abra el Congreso, jurarán ante la Corte de Representantes, el Director Supremo y el Supremo Tribunal de Justicia en la forma siguiente: «¿Juráis por Dios y por vuestro honor proceder fielmente en el desempeño de vuestras augustas funciones, dictando las leyes que mejor convengan al bien de la Nación, a la libertad política y civil, a la seguridad individual, y de propiedades de sus individuos, y a los demás fines para que os habéis congregado, explicados en nuestra Constitución?--Sí, juro. - Sí así lo hiciereis, Dios os alumbre y defienda: y si no, responderéis a Dios y a la Nación. »"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "43",
+      "title": "Artículo 43",
+      "content": "Art. 43. Hecho el juramento, se procederá inmediatamente por la Cámara de Diputados a la elección de un Presidente, Vice-Presidente y Secretarios, y acto continuo nombrará la misma Cámara los dos comerciantes y dos hacendados para la Cámara del Senado, conforme al artículo 18."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "44",
+      "title": "Artículo 44",
+      "content": "Art. 44. Las sesiones durarán sólo tres meses; pero podrán prorrogarse un mes más, si el Poder Ejecutivo lo pide, o las dos terceras partes del Congreso."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "45",
+      "title": "Artículo 45",
+      "content": "Art. 45. En ningún caso, ni por autoridad alguna se reconvendrá a los Diputados por sus opiniones: no podrán demandarse por deudas, mientras duren las sesiones, y si dieren mérito para alguna causa criminal, serán jueces cinco abogados sorteados de veinte, que nombrará la misma Cámara de los Diputados; pudiendo recusarse cinco sin causa, y con ella los demás. Conocerá de la recusación la misma Cámara en el término de ocho días perentorios."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPITULO III De las calidades de los Diputados",
+      "section": "46",
+      "title": "Artículo 46",
+      "content": "Art. 46. En el tiempo de las sesiones y dos meses después de concluídas, no podrán los Diputados pretender para sí, ni para otro, ni admitir del Poder Ejecutivo comisión lucrativa o empleo, que no sea de inmediata escala."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPITULO IV De las facultades del Congreso",
+      "section": "47",
+      "title": "Artículo 47",
+      "content": "Art. 47. Corresponde al Congreso:\n1.o Dictar todas las leyes convenientes al bien del Estado.\n2.o Fijar las contribuciones directas e indirectas, y aprobar su repartimiento.\n3.o Declarar la guerra, a propuesta del Poder Ejecutivo.\n4.o Procurar la paz y aprobar sus tratados.\n5.o Ratificar los tratados de alianza, comercio y neutralidad, que proponga el Ejecutivo.\n6.o Cuidar de la civilización de los indios del territorio.\n7.o Disponer que se manden agentes diplomáticos, u otros Ministros a potencias extranjeras.\n8.o Establecer la fuerza que necesite la nación en mar y tierra.\n9.o Dar las ordenanzas para el Ejército, Milicia y Armada.\n10. Levantar nuevas tropas.\n11. Mandarlas fuera del Estado.\n12. Recibir tropas extranjeras, o permitirles tránsito.\n13. Crear nuevas autoridades o empleos, y suprimir los establecidos.\n14. Examinar la inversión de los gastos públicos.\n15. Reglar el comercio, las aduanas y aranceles.\n16. Decretar la adquisición o enajenación de bienes nacionales.\n17. Hacer efectiva la responsabilidad de los empleados públicos.\n18. Aprobar los reglamentos para la administración en todos ramos.\n19. Dar el plan general de educación pública.\n20. Determinar el valor, espesor, tipo y peso de las monedas.\n21. Fijar los pesos y medidas.\n22. Recibir empréstitos en casos muy urgentes.\n23. Proteger la libertad de la imprenta.\n24. Procurar se generalice la ilustración.\n25. Hacer todos los establecimientos, que conduzcan al bien de la Nación.\n26. Proteger el fomento de la agricultura, de la industria, del comercio y de la minería.\n27. Amparar la libertad civil y de las propiedades.\n28. Demarcar el territorio del Estado, los límites de los departamentos, situar las poblaciones y titularlas.\n29. Conceder, en casos muy útiles a la Nación, privilegios exclusivos por tiempo determinado.\n30. Señalar pensiones, gratificaciones y sueldos, a propuesta del Ejecutivo.\n31. Nombrar el Director del Estado en los casos de nueva elección, y poder reelegirlo una sola vez.\n32. Interpretar, adicionar, derogar, proponer y decretar las leyes en caso necesario."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "48",
+      "title": "Artículo 48",
+      "content": "Art. 48. Las leyes pueden tener principio en la Cámara del Senado, o en la de Diputados."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "49",
+      "title": "Artículo 49",
+      "content": "Art. 49. Se exceptúan del artículo anterior las que se dirijan a imponer contribuciones, cuya iniciativa es peculiar a la Cámara de Diputados, quedando sólo a la del Senado la facultad de admitirlas, repulsarlas o modificarlas."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "50",
+      "title": "Artículo 50",
+      "content": "Art. 50. Todo proyecto de ley se discutirá en tres distintas sesiones, antes de su deliberación."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "51",
+      "title": "Artículo 51",
+      "content": "Art. 51. Podrá discutirse y aprobarse en una sola sesión, si las dos terceras partes de los votos así lo acordasen previamente."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "52",
+      "title": "Artículo 52",
+      "content": "Art. 52. La Cámara que dió origen a la ley que se halle en el caso del artículo anterior, deberá pasar con ella los fundamentos que tuvo para discutir y deliberar en una sola sesión; y si la Cámara, que reciba el proyecto de ley, no aprueba las causales, devolverá el proyecto para que se discuta en otras dos sesiones."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "53",
+      "title": "Artículo 53",
+      "content": "Art. 53. Aprobado el proyecto en la Cámara donde haya tenido principio, se pasará a la otra, para que discutido en ella del mismo modo que en la primera, lo reforme, apruebe o deseche."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "54",
+      "title": "Artículo 54",
+      "content": "Art. 54. Todo proyecto de ley desechado por una de las Cámaras, quedará a la siguiente legislatura."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "55",
+      "title": "Artículo 55",
+      "content": "Art. 55. El proyecto de ley aprobado por ambas Cámaras pasará al Director del Estado, para que lo suscriba y publique."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "56",
+      "title": "Artículo 56",
+      "content": "Art. 56. Si el Director tuviere reparos que objecionar, los expondrá dentro de quince días, devolviendo el proyecto a la Cámara de su origen, donde, discutido de nuevo en tres distintas sesiones, si resultase aprobado por mayoría absoluta de votos, se pasará a la otra Cámara, y si en ésta fuere también aprobado por pluralidad absoluta, tendrá fuerza de ley y será publicada por el Poder Ejecutivo."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "57",
+      "title": "Artículo 57",
+      "content": "Art. 57. Si dentro de quince días no devuelve el Poder Ejecutivo el proyecto de ley, se tendrá por suscrito y debe publicarse."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "58",
+      "title": "Artículo 58",
+      "content": "Art. 58. El Poder Ejecutivo podrá promover en cualquiera de las Cámaras la iniciativa de una ley; pero no presentará extendido el proyecto de ella."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "59",
+      "title": "Artículo 59",
+      "content": "Art. 59. La Cámara, donde la ley aprobada tuvo origen, la pasará al Poder Ejecutivo en la forma siguiente: «El Senado y la Cámara de Diputados del Estado de Chile, reunidos en Congreso, han decretado: (Aquí la ley)» y concluirá: «Pásese al Director del Estado para su cumplimiento.»"
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "60",
+      "title": "Artículo 60",
+      "content": "Art. 60. El Poder Ejecutivo la publicará con esta fórmula: «El Director Supremo del Estado de Chile, etc.: Hago saber: que todos deben obedecer y cumplir el decreto siguiente: (Aquí la ley)» y concluirá: «Publíquese, imprímase y circúlese.» CAPITULO VI De la Corte de Representantes"
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "61",
+      "title": "Artículo 61",
+      "content": "Art. 61. Habrá un cuerpo permanente con el nombre de Corte de Representantes."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "62",
+      "title": "Artículo 62",
+      "content": "Art. 62. Se compondrá de siete individuos electos por la Cámara de Diputados en votación secreta, y de los ex- Directores, que serán miembros vitalicios."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "63",
+      "title": "Artículo 63",
+      "content": "Art. 63. Cuatro, al menos, de los siete deberán elegirse de entre los mismos Diputados. Se hará la primera elección por la actual legislatura."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "64",
+      "title": "Artículo 64",
+      "content": "Art. 64. Los miembros de esta Corte deben tener las mismas calidades que exige la Constitución para ser Diputado."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "65",
+      "title": "Artículo 65",
+      "content": "Art. 65. Se renovará la Corte cuando se nombre nuevo Director, y si éste se reelige, podrá también ser reelecta."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "66",
+      "title": "Artículo 66",
+      "content": "Art. 66. Al abrir sus sesiones la Cámara de Diputados, tomará la Corte permanente el carácter de Senado, reuniéndosele los vocales que designa el artículo 18."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "67",
+      "title": "Artículo 67",
+      "content": "Art. 67. Concluídas las sesiones de la Cámara del Senado, sólo quedará la Corte de Representantes investida de las atribuciones siguientes:\n1.a Cuidar del cumplimiento de la Constitución y de las leyes.\n2.a Convocar el Congreso en casos extraordinarios.\n3.a Recibir las actas y poderes de los Diputados, aprobarlos o reprobarlos, conforme al artículo 39.\n4.a Ejercer provisoriamente y conforme a la Constitución, todo lo que corresponde al Poder Legislativo; pero sin que sus determinaciones tengan fuerza de ley permanente, hasta la aprobación del Congreso."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "68",
+      "title": "Artículo 68",
+      "content": "Art. 68. Cualquiera proyecto de ley provisoria puede iniciarse por la Corte de Representantes o por el poder Ejecutivo; y en uno y otro caso, aprobado el proyecto en la Corte de Representantes por cinco al menos, de sus miembros, y conformándose el Poder Ejecutivo, se publicará corno ley provisoria en la forma siguiente: «El Director Supremo del Estado, de acuerdo con la Suprema Corte de Representantes, decreto: (Aquí la ley)» y concluirá: « Publíquese, imprímase, circúlese y llévese al Congreso»."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "69",
+      "title": "Artículo 69",
+      "content": "Art. 69. En el caso de estar disconformes el Ejecutivo y la Corte, repulsado por tres veces el proyecto, se archivará donde tuvo su origen."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "70",
+      "title": "Artículo 70",
+      "content": "Art. 70. Podrán removerse sus individuos por delito probado en juicio legal."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "71",
+      "title": "Artículo 71",
+      "content": "Art. 71. La formación de este juicio seguirá el orden prevenido para los Diputados."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "72",
+      "title": "Artículo 72",
+      "content": "Art. 72. En las causas civiles serán demandados ante los Tribunales establecidos por la ley."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "73",
+      "title": "Artículo 73",
+      "content": "Art. 73. En el caso de remoción, muerte, renuncia o de ausencia fuera del Estado de algunos de los siete electos, nombrará el Director Supremo, de acuerdo con la Corte, el que haya de reemplazarle hasta la reunión de la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "74",
+      "title": "Artículo 74",
+      "content": "Art. 74. En los casos de renuncia, o de pedir venia para salir fuera del Estado, se reunirá el Director con los demás vocales de la Corte, y otorgarán o no a pluralidad absoluta de sufragios."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "75",
+      "title": "Artículo 75",
+      "content": "Art. 75. Los electos para la Corte de Representantes, durante su cargo, retendrán sus anteriores empleos y no podrán obtener otros si no son de rigurosa escala; pero si el empleo es incompatible a juicio de la misma Corte, se nombrará para él un suplente."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "76",
+      "title": "Artículo 76",
+      "content": "Art. 76. El ex-Director más antiguo hará de Presidente, y no habiéndolo, el que eligiere la Corte de entre sus individuos."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "77",
+      "title": "Artículo 77",
+      "content": "Art. 77. En el plan general de sueldos, designará la ley los que deba gozar la Corte de Representantes, el Secretario y oficiales."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "78",
+      "title": "Artículo 78",
+      "content": "Art. 78. Será privativo de la Corte nombrar un Secretario, y a éste proponerle los oficiales necesarios para el despacho."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "CAPITULO V Modo de formar las leyes, sancionarse y promulgarse",
+      "section": "79",
+      "title": "Artículo 79",
+      "content": "Art. 79. Tendrá tratamiento de Excelencia Suprema en cuerpo, y de Señoría sus individuos."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "80",
+      "title": "Artículo 80",
+      "content": "Art. 80. El Poder Ejecutivo se servirá por un solo individuo, que se denominará Director Supremo, con la renta anual que le señale la ley en el plan general de sueldos. Tendrá el tratamiento de Excelencia Suprema, y honores de capitán general de Ejército."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "81",
+      "title": "Artículo 81",
+      "content": "Art. 81. El Director Supremo será siempre electivo, y jamás hereditario: durará seis años, y podrá ser reelegido una sola vez por cuatro años más."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "82",
+      "title": "Artículo 82",
+      "content": "Art. 82. Para ser Director Supremo se requiere:\n1.o Haber nacido en Chile.\n2.o Haber residido en el territorio del Estado cinco años inmediatos a la elección, a no ser que hubiese estado fuera con carácter público en servicio del Gobierno.\n3.o Ser mayor de veinticinco años y de notoria virtud.\n4.o La elección y reelección se hará por el Congreso en sesión permanente, reuniéndose ambas Cámaras en la sala del Senado al siguiente día de su instalación. Hará de Presidente en esta sesión el que lo sea de la Cámara del Senado, y de Vice Presidente el de la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "83",
+      "title": "Artículo 83",
+      "content": "Art. 83. Se procederá a la elección por votos secretos, y resultará electo el que obtenga los sufragios de las dos terceras partes de los Diputados y Senadores existentes y no licenciados, pudiendo recaer la elección en uno de ellos."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "84",
+      "title": "Artículo 84",
+      "content": "Art. 84. Se tendrá por primera elección la que ha hecho del actual Director la presente legislatura de 1822."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "85",
+      "title": "Artículo 85",
+      "content": "Art. 85. Hecha nueva elección, el ex-Director pasará a la Corte de Representantes de individuo nato, con una tercera parte del sueldo que gozaba como Director, si no lo tuviese mayor o igual por otro empleo."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "86",
+      "title": "Artículo 86",
+      "content": "Art. 86. Para los casos de muerte, si el Congreso no estuviese reunido, se observará lo siguiente.- Habrá una caja de tres llaves de distintas guardas, depositada en una pieza contigua a la Sala Directorial. En los aniversarios cívicos del 12 de febrero, 5 de abril y 18 de septiembre el Director llevará un pliego escrito y firmado de su letra y nombre, y sellado con el sello de la Nación, y a presencia de todas las autoridades, lo guardará en dicha caja, haciendo presente, que contiene el nombramiento de la Regencia que haya de sucederle hasta la reunión del Congreso, si fallece. Serán tres los nombrados que la compongan, si no hay guerra interior; en cuyo caso será Director interino el primero de los tres nombrados. Una de las llaves guardará el Supremo Director, otra el Presidente de la Corte de Representantes, y otra el Presidente del Supremo Tribunal de Justicia. El Director, cuando se sienta en peligro de muerte, avisará secretamente a su Ministro de Gobierno el lugar en que guarda la llave. Si llega el caso de fallecer, el Ministro de Gobierno citará inmediatamente a todas las autoridades, corporaciones, jefes militares y vecinos principales, y a las veinticuatro horas, llevando la llave del Director que acabó, abrirá en consorcio de los otros dos claveros la caja, y a presencia de todos, se sacará el pliego, se abrirá y leerá, y acto continuo se recibirán los nombrados, prestando juramento ante la Corte de Representantes."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "87",
+      "title": "Artículo 87",
+      "content": "Art. 87. En las horas que medien para este recibimiento, mandarán los Ministros de Estado en sus respectivos Departamentos."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "88",
+      "title": "Artículo 88",
+      "content": "Art. 88. Podrá en sana salud el Director mudar el pliego, citando a todas las autoridades y jefes militares; pero nunca podrá omitirlo en los aniversarios antedichos: y siempre que mude el pliego dará a las llamas el que se hallaba guardado, a presencia de todos los asistentes."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "CAPITULO I De su elección y duración",
+      "section": "89",
+      "title": "Artículo 89",
+      "content": "Art. 89. La Regencia o el Director interino, sólo durará hasta que se elija el propietario por el Congreso, si estuviese reunido o próximo a instalarse; pero si faltaren para la reunión más de seis meses, la Corte de Representantes convocará indefectiblemente los Diputados a Congreso extraordinario para hacer la elección; y verificada, se retirarán los Diputados."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "90",
+      "title": "Artículo 90",
+      "content": "Art. 90. Pertenece al Director el mando supremo, y la organización y dirección de los Ejércitos, Armada y Milicias; pero no podrá mandarlos en persona, sin el consentimiento del Poder Legislativo."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "91",
+      "title": "Artículo 91",
+      "content": "Art. 91. Dispondrá de toda la fuerza dentro del Estado, y consultará con el Poder Legislativo para mandar algunas fuera de él."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "92",
+      "title": "Artículo 92",
+      "content": "Art. 92. Nombrará por sí sólo los generales en jefe de los Ejércitos."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "93",
+      "title": "Artículo 93",
+      "content": "Art. 93. Dará todos los empleos subalternos, a propuesta de los respectivos jefes, y en la forma que previenen las leyes."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "94",
+      "title": "Artículo 94",
+      "content": "Art. 94. Dará los de brigadier arriba, de acuerdo con el Poder Legislativo."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "95",
+      "title": "Artículo 95",
+      "content": "Art. 95. Por medio de ministros y agentes diplomáticos, etc., podrá entablar y seguir con potencias extranjeras, negociaciones, tener sesiones, hacer estipulaciones preliminares sobre tratados de treguas, paz, alianza, comercio, neutralidad y otras convenciones; pero para su aprobación deberá pasarlas al Legislativo, como se previene en la atribución 5.a, artículo 47, capítulo IV, título IV."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "96",
+      "title": "Artículo 96",
+      "content": "Art. 96. Nombrará por sí sólo los empleados de nueva creación, y los suplentes e interinos, que no se exceptuaren en esta Constitución."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "97",
+      "title": "Artículo 97",
+      "content": "Art. 97. Presentará para los obispados de la Nación dignidades, beneficios eclesiásticos de patronato, a consulta del Senado, si estuviera reunido, o de la Corte de Representantes."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "98",
+      "title": "Artículo 98",
+      "content": "Art. 98. Concederá el pase, y retendrá los decretos conciliares y bulas pontificias, obrando de acuerdo con el Poder Legislativo, si fueren disposiciones generales o de asuntos gubernativos; y si de negocios de justicia o contenciosos, los pasará en consulta al Supremo Tribunal de Justicia."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "99",
+      "title": "Artículo 99",
+      "content": "Art. 99. El sólo librará contra la caja nacional, y no se ejecutará sentencia alguna contra el Fisco, sin su cúmplase."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "100",
+      "title": "Artículo 100",
+      "content": "Art. 100. Para proceder con arreglo en los antedichos libramientos, cada Ministerio, en lo sucesivo, arreglará sus gastos por un presupuesto anual, consiguiente a la suma líquida de las rentas y contribuciones y a las necesidades ciertas de la Nación."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "101",
+      "title": "Artículo 101",
+      "content": "Art. 101. Cuidará de que por ningún motivo se confundan los gastos de un Ministerio con los de otro. Todo cuanto tenga relación con el presupuesto de un Ministerio, se entenderá que le pertenece, no abonándose partida que deje de estar incluída en los presupuestos."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "102",
+      "title": "Artículo 102",
+      "content": "Art. 102. Con aprobación del Poder Legislativo dará los reglamentos que estime necesarios para la ejecución de las leyes."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "103",
+      "title": "Artículo 103",
+      "content": "Art. 103. Todas las provisiones de los Tribunales de Justicia se despacharán a nombre del Supremo Director."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "104",
+      "title": "Artículo 104",
+      "content": "Art. 104. Cuando se haya acordado por el Poder Legislativo la necesidad de mandar algún Enviado a países extranjeros, el Director elegirá las personas."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "105",
+      "title": "Artículo 105",
+      "content": "Art. 105. Nombrará los Secretarios de Estado y del Despacho y podrá separarlos a su arbitrio."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "106",
+      "title": "Artículo 106",
+      "content": "Art. 106. Cuidará de todo lo que conduzca a la conservación del orden público y seguridad del Estado."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "107",
+      "title": "Artículo 107",
+      "content": "Art. 107. Nombrará todos los años jueces visitadores de los departamentos, que observen el estado de los pueblos, oigan sus quejas e informen de las mejoras que puedan hacerse; autorizándoles para proveer de pronto remedio, en los casos y con las formalidades que la ley prescriba."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "108",
+      "title": "Artículo 108",
+      "content": "Art. 108. Podrá el Director suspender las ejecuciones capitales, y conmutar penas, si mediare algún grave motivo, obrando de acuerdo con el Supremo Tribunal de Justicia; pero no concederá indultos generales sin aprobación del Poder Legislativo."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "109",
+      "title": "Artículo 109",
+      "content": "Art. 109. Observará la más rigorosa economía de los fondos públicos, no aumentando gastos, sino en casos muy precisos, y con aprobación del Poder Legislativo."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "110",
+      "title": "Artículo 110",
+      "content": "Art. 110. Por ningún Ministerio dará ascensos civiles ni militares, cuando haya agregados, supernumerarios o sobrantes de las mismas clases, para que todas las escalas se pongan en el orden debido."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "111",
+      "title": "Artículo 111",
+      "content": "Art. 111. No creará nuevos empleos, juntas ni comisiones gravosas a la Hacienda, sin aprobación del Poder Legislativo."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "112",
+      "title": "Artículo 112",
+      "content": "Art. 112. No hará contrata de interés al Fisco, sin oír primero a las oficinas o juntas respectivas."
+    },
+    {
+      "provision_ref": "art113",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "113",
+      "title": "Artículo 113",
+      "content": "Art. 113. No podrá abrir empréstitos ni exigir nuevas contribuciones directas ni indirectas bajo de ningún pretexto, sin que se aprueben y fijen por el Poder Legislativo."
+    },
+    {
+      "provision_ref": "art114",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "114",
+      "title": "Artículo 114",
+      "content": "Art. 114. No puede por sí conceder privilegios exclusivos."
+    },
+    {
+      "provision_ref": "art115",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "115",
+      "title": "Artículo 115",
+      "content": "Art. 115. A nadie le privará de sus posesiones y propiedades; y cuando algún caso raro de utilidad o necesidad común lo exija, será indemnizado el valor, a justa tasación de hombres buenos."
+    },
+    {
+      "provision_ref": "art116",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "116",
+      "title": "Artículo 116",
+      "content": "Art. 116. La utilidad y necesidad común serán calificadas por los dos Supremos Poderes, Legislativo y Ejecutivo, y por el Tribunal Supremo de Justicia."
+    },
+    {
+      "provision_ref": "art117",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "117",
+      "title": "Artículo 117",
+      "content": "Art. 117. A ninguno privará de su libertad ni le castigará con pena alguna por sí: el Ministro que firmase orden para esto y la autoridad que la ejecute, serán responsables a la Nación como de un grave atentado contra la seguridad individual."
+    },
+    {
+      "provision_ref": "art118",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "118",
+      "title": "Artículo 118",
+      "content": "Art. 118. Por ningún caso impedirá la reunión del Congreso en los tiempos señalados ni pondrá trabas a sus discusiones que deberán ser enteramente libres: si alguno le influyere lo contrario, será tenido por reo de alta traición a la Patria, sin que su delito prescriba en tiempo alguno."
+    },
+    {
+      "provision_ref": "art119",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "119",
+      "title": "Artículo 119",
+      "content": "Art. 119. No podrá salir fuera del departamento de la capital por más de quince días sin permiso del Congreso o de la Corte de Representantes, si éste no estuviere reunido; y cuando salga por mayor tiempo, obtenido el permiso, nombrará uno o más Delegados Supremos, y se publicará el nombramiento."
+    },
+    {
+      "provision_ref": "art120",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "120",
+      "title": "Artículo 120",
+      "content": "Art. 120. Necesita del mismo permiso para casarse, ser padrino y visitar con carácter público."
+    },
+    {
+      "provision_ref": "art121",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "121",
+      "title": "Artículo 121",
+      "content": "Art. 121. En un peligro inminente del Estado, que pida providencias muy prontas, el Poder Legislativo podrá concederle facultades extraordinarias por el tiempo que dure la necesidad, sin que por ningún motivo haya la menor prórroga."
+    },
+    {
+      "provision_ref": "art122",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "122",
+      "title": "Artículo 122",
+      "content": "Art. 122. Antes de tomar posesión de su destino, jurará en la Sala del Senado ante el Congreso, en la forma siguiente: Yo N., nombrado Para Director Supremo del Estado de Chile, juro por Dios, por los Santos Evangelios y por mi honor, que guardaré y haré guardar la Constitución y leyes del Estado: que procuraré la mayor felicidad de la Nación: que defenderé su libertad política, y la igualdad, la libertad, seguridad y propiedad de sus individuos: y que quiero desde ahora sea nulo y jamás obedecida cuanto hiciere en contrario. Dios me ayude si lo cumplo, y si no me lo demande."
+    },
+    {
+      "provision_ref": "art123",
+      "chapter": "CAPITULO II Facultades y límites del Poder Ejecutivo",
+      "section": "123",
+      "title": "Artículo 123",
+      "content": "Art. 123. La persona del Director es inviolable."
+    },
+    {
+      "provision_ref": "art124",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "124",
+      "title": "Artículo 124",
+      "content": "Art. 124. Habrá tres Ministros Secretarios de Estado para el despacho de los negocios, de Gobierno y Relaciones Exteriores, de Hacienda, de Guerra y Marina."
+    },
+    {
+      "provision_ref": "art125",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "125",
+      "title": "Artículo 125",
+      "content": "Art. 125. Entenderán en todos los negocios peculiares a su despacho con aquella fidelidad, integridad, desinterés y prudencia que exige el bien de la Nación y el honor del Gobierno."
+    },
+    {
+      "provision_ref": "art126",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "126",
+      "title": "Artículo 126",
+      "content": "Art. 126. Sus atribuciones se fijarán por un reglamento separado, que presentará el Poder Ejecutivo al Legislativo para su aprobación."
+    },
+    {
+      "provision_ref": "art127",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "127",
+      "title": "Artículo 127",
+      "content": "Art. 127. El Director podrá reunir en un sólo individuo dos Ministerios por tiempo determinado; pero para reunirlos todos en uno, o para subdividir los negocios en más de tres Ministros, deberá esperar el consentimiento del Congreso."
+    },
+    {
+      "provision_ref": "art128",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "128",
+      "title": "Artículo 128",
+      "content": "Art. 128. Los Ministros son responsables de todas las providencias, órdenes y decretos que suscriben; pero se exceptúan de la responsabilidad en aquellos casos en que obren conformes con el dictamen de otras autoridades, juntas u oficinas a quienes deban pedirlo: así es que sólo responderán cuando, separándose del informe, procedan arbitrariamente."
+    },
+    {
+      "provision_ref": "art129",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "129",
+      "title": "Artículo 129",
+      "content": "Art. 129. Los que dieren el parecer responderán en los casos exceptuados."
+    },
+    {
+      "provision_ref": "art130",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "130",
+      "title": "Artículo 130",
+      "content": "Art. 130. Prescribe la responsabilidad de los Ministros de legislatura en legislatura."
+    },
+    {
+      "provision_ref": "art131",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "131",
+      "title": "Artículo 131",
+      "content": "Art. 131. Para hacer efectiva la responsabilidad de los Ministros, puesta la acusación, declarará la Cámara de Diputados, si hay o no lugar a la formación de causa; y declarado por la afirmativa, quedará suspenso el Ministro hasta su conclusión, y se pasarán los antecedentes a la Cámara del Senado, que debe conocer y sentenciar según su conciencia, ejerciendo un poder racional y de discreción."
+    },
+    {
+      "provision_ref": "art132",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "132",
+      "title": "Artículo 132",
+      "content": "Art. 132. Los Ministros firmarán las órdenes del Director en sus respectivos Departamentos, sin que de otro modo sean obedecidas, a no ser que se indique en el decreto el motivo por qué no firma el Ministro a quien correspondía."
+    },
+    {
+      "provision_ref": "art133",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "133",
+      "title": "Artículo 133",
+      "content": "Art. 133. Cuando se resistiese a firmar el Ministro del despacho, podrá el Director consultarse con el de otro; y si éste se conviene en firmar, será la orden obedecida, y responsable el Ministro que la firma."
+    },
+    {
+      "provision_ref": "art134",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "134",
+      "title": "Artículo 134",
+      "content": "Art. 134. Si llegare el caso del artículo anterior, deberá indicarse en el decreto la excusa del Ministro a quien correspondía firmar; y si hubiere de comunicarse por oficio, irá éste rubricado al margen por el Director."
+    },
+    {
+      "provision_ref": "art135",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "135",
+      "title": "Artículo 135",
+      "content": "Art. 135. A los Ministros en sus respectivos despachos, se dirigirán todas las comunicaciones y oficios, entendiéndose sólo directamente con el Director, las Cámaras del Congreso, la Corte de Representantes y el Tribunal Supremo de Justicia."
+    },
+    {
+      "provision_ref": "art136",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "136",
+      "title": "Artículo 136",
+      "content": "Art. 136. Los Ministros propondrán al Director los oficiales de su despacho: pedirán también su remoción cuando lo estimen conveniente; pero si no fuere por delito probado en juicio legal, reasumirán los empleos que servían antes de ser llamados a los Ministerios, o se les dará otros equivalentes."
+    },
+    {
+      "provision_ref": "art137",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "137",
+      "title": "Artículo 137",
+      "content": "Art. 137. En cada uno de los Ministerios habrá un oficial mayor subsecretario con ejercicio de decretos."
+    },
+    {
+      "provision_ref": "art138",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "138",
+      "title": "Artículo 138",
+      "content": "Art. 138. Todo decreto de sustanciación se firmará solamente por el Ministro y el sub-secretario respectivo; pero los decretos de pago, las resoluciones definitivas y cualquiera otras que lleven la calidad de tales, se firmarán por el Director."
+    },
+    {
+      "provision_ref": "art139",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "139",
+      "title": "Artículo 139",
+      "content": "Art. 139. El sub-secretario podrá firmar por el Ministro en ausencias de éste, enfermedades u otro impedimento, expresando el motivo en la antefirma."
+    },
+    {
+      "provision_ref": "art140",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "140",
+      "title": "Artículo 140",
+      "content": "Art. 140. Los Ministros no son recusables; pero el Poder Ejecutivo podrá, en casos de notoria implicancia, hacer que se abstengan, y despachar con otro Ministro o con el sub-secretario respectivo."
+    },
+    {
+      "provision_ref": "art141",
+      "chapter": "CAPITULO III De los Ministros de Estado",
+      "section": "141",
+      "title": "Artículo 141",
+      "content": "Art. 141. Los Ministros tendrán el tratamiento de Excelencia."
+    },
+    {
+      "provision_ref": "art142",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "142",
+      "title": "Artículo 142",
+      "content": "Art. 142. Quedan abolidas las Intendencias, y el territorio se dividirá en Departamentos, y éstos en distritos."
+    },
+    {
+      "provision_ref": "art143",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "143",
+      "title": "Artículo 143",
+      "content": "Art. 143. Todo departamento tendrá un juez mayor con el nombre de Delegado Directorial, que mande en lo político y militar dentro de las demarcaciones que hoy tienen los partidos, u otras que señale el Congreso."
+    },
+    {
+      "provision_ref": "art144",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "144",
+      "title": "Artículo 144",
+      "content": "Art. 144. Los Delegados Directoriales se nombrarán por el Poder Ejecutivo de acuerdo con el Legislativo. Se regirán por los reglamentos que se publiquen después, obrando por ahora conforme a la ordenanza de intendentes en lo adaptable."
+    },
+    {
+      "provision_ref": "art145",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "145",
+      "title": "Artículo 145",
+      "content": "Art. 145. En la capital habrá el mismo Delegado con igual jurisdicción dentro de los límites del departamento."
+    },
+    {
+      "provision_ref": "art146",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "146",
+      "title": "Artículo 146",
+      "content": "Art. 146. El de la capital tendrá el tratamiento de Señoría Ilustre, y los de fuera el de Señoría."
+    },
+    {
+      "provision_ref": "art147",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "147",
+      "title": "Artículo 147",
+      "content": "Art. 147. El Gobierno por sus respectivos Ministerios, y los Tribunales directamente, se entenderán con dichos magistrados."
+    },
+    {
+      "provision_ref": "art148",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "148",
+      "title": "Artículo 148",
+      "content": "Art. 148. Se tratará de rentarlos conforme las circunstancias lo permitan, acordando el Poder Ejecutivo con el Legislativo las asignaciones correspondientes."
+    },
+    {
+      "provision_ref": "art149",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "149",
+      "title": "Artículo 149",
+      "content": "Art. 149. Se les proveerá en igual forma de asesores rentados para cada departamento, o en oportunas localidades para dos o más."
+    },
+    {
+      "provision_ref": "art150",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "150",
+      "title": "Artículo 150",
+      "content": "Art. 150. Los Delegados Directoriales y los asesores, antes de tomar posesión de sus empleos, darán fianza de residencia."
+    },
+    {
+      "provision_ref": "art151",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "151",
+      "title": "Artículo 151",
+      "content": "Art. 151. Durarán los Delegados asesores el término de tres años, y podrán reelegirse por otro igual, dando antes residencia conforme a las leyes."
+    },
+    {
+      "provision_ref": "art152",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "152",
+      "title": "Artículo 152",
+      "content": "Art. 152. Desde el día de la publicación de esta Constitución, hará el Director el nombramiento de todos los Delegados, pudiendo continuar a los que estime convenientes, dando fianzas, y mudar a otros aunque hayan servido un corto tiempo."
+    },
+    {
+      "provision_ref": "art153",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "153",
+      "title": "Artículo 153",
+      "content": "Art. 153. A estos Delegados corresponde privativamente el nombramiento de jueces de distrito, celadores, inspectores y alcaldes de barrio, dentro de los términos de su jurisdicción."
+    },
+    {
+      "provision_ref": "art154",
+      "chapter": "CAPITULO I De los Jueces Mayores",
+      "section": "154",
+      "title": "Artículo 154",
+      "content": "Art. 154. En cada capital de departamento habrá también un teniente de la Tesorería General, propuesto por ésta al Poder Ejecutivo que debe confirmarlo; y será de su cargo recaudar y responder de los intereses fiscales."
+    },
+    {
+      "provision_ref": "art155",
+      "chapter": "CAPITULO II De los Cabildos",
+      "section": "155",
+      "title": "Artículo 155",
+      "content": "Art. 155. Subsistirán los Cabildos en la forma que hoy tienen, hasta que el Congreso determine su número y atribuciones."
+    },
+    {
+      "provision_ref": "art156",
+      "chapter": "CAPITULO II De los Cabildos",
+      "section": "156",
+      "title": "Artículo 156",
+      "content": "Art. 156. Serán presididos por los Delegados Directoriales, y, en su defecto por los alcaldes de primera elección."
+    },
+    {
+      "provision_ref": "art157",
+      "chapter": "CAPITULO II De los Cabildos",
+      "section": "157",
+      "title": "Artículo 157",
+      "content": "Art. 157. Ninguno de sus individuos podrá ser arrestado o preso, sino por orden expresa del Supremo Director, quien sólo la podrá librar en materias de Estado, y en las de justicia la Cámara de Apelaciones; pero si la naturaleza de la causa exigiese un pronto remedio, se les arrestará por la autoridad competente en lugar decente y seguro, se avisará inmediatamente al Director."
+    },
+    {
+      "provision_ref": "art158",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "158",
+      "title": "Artículo 158",
+      "content": "Art. 158. El Poder judicial reside en los Tribunales de Justicia. A ellos toca exclusivamente la potestad de aplicar las leyes, con total independencia del Legislativo y Ejecutivo, si no es en los casos exceptuados en esta Constitución: no ejercerán otras funciones que las de juzgar conforme a las leyes vigentes y hacer que se ejecute lo juzgado."
+    },
+    {
+      "provision_ref": "art159",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "159",
+      "title": "Artículo 159",
+      "content": "Art. 159. Para ser magistrado o juez, es necesario tener las mismas calidades que para ser Diputado en el Congreso: las de literatura, virtud y méritos, se determinarán por las leyes."
+    },
+    {
+      "provision_ref": "art160",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "160",
+      "title": "Artículo 160",
+      "content": "Art. 160. Habrá un Tribunal Supremo de Justicia, y de él dependerán la Cámara de Apelaciones, los Tribunales y empleados de justicia."
+    },
+    {
+      "provision_ref": "art161",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "161",
+      "title": "Artículo 161",
+      "content": "Art. 161. Se compondrá de cinco Ministros, de los cuales uno será Presidente, cuyo nombramiento ya está hecho en primera creación por el Supremo Poder Ejecutivo."
+    },
+    {
+      "provision_ref": "art162",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "162",
+      "title": "Artículo 162",
+      "content": "Art. 162. En las vacantes sucesivas se consultará en terna por el Supremo Tribunal, para que el Ejecutivo elija de acuerdo con el Legislativo,"
+    },
+    {
+      "provision_ref": "art163",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "163",
+      "title": "Artículo 163",
+      "content": "Art. 163. Se entenderá con el Fiscal de lo civil."
+    },
+    {
+      "provision_ref": "art164",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "164",
+      "title": "Artículo 164",
+      "content": "Art. 164. Tendrá a su servicio un Relator Secretario, un oficial que subrogue a éste, un escribano y un portero dotados del tesoro público."
+    },
+    {
+      "provision_ref": "art165",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "165",
+      "title": "Artículo 165",
+      "content": "Art. 165. Su tratamiento en cuerpo es el de Excelencia Suprema, y Señoría el de sus miembros."
+    },
+    {
+      "provision_ref": "art166",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "166",
+      "title": "Artículo 166",
+      "content": "Art. 166. Sus atribuciones son:\n1.a Conocer en las causas de segunda suplicación y de injusticia notoria.\n2.a De las de nulidad de las sentencias dadas en\núltima instancia, al solo efecto de reponer y devolver.\n3.a Conocer en los casos y circunstancias, que permite el derecho de gentes, en los negocios de embajadores, cónsules, agentes y demás ministros diplomáticos.\n4.a En las causas civiles y criminales de separación y suspensión de los funcionarios superiores no exceptuados en esta Constitución.\n5.a En las de residencia a los que deban darla.\n6.a En las de patronato.\n7.a En los recursos de fuerza y protección.\n8.a En dirimir las competencias entre los Tribunales superiores y entre los inferiores.\n9.a En oír las dudas sobre la inteligencia de la ley, para consultarlas al Supremo Poder Legislativo.\n10. Proponer al mismo Poder las mejoras que crea\nútiles en la legislación.\n11. Consultar y proponer al Ejecutivo todos los empleos de justicia que vacaren.\n12. Nombrar letrados que diriman las discordias de la Cámara.\n13. Presidir por turno las visitas de cárcel de cada semana.\n14. Exigir y examinar mensualmente las listas de las causas civiles y criminales que pasarán la Cámara y juzgados, para activar el despacho.\n15. Responder a las consultas de los Poderes Ejecutivo y Legislativo."
+    },
+    {
+      "provision_ref": "art167",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "167",
+      "title": "Artículo 167",
+      "content": "Art. 167. Las sentencias de muerte, de expatriación o destierro por más de un año, no podrán ejecutarse en todo el territorio de la Nación, sea cual fuere el Tribunal o juzgado que las pronuncie, sin la aprobación de este Supremo Tribunal, quien verá los autos en el término de tres días prorrogables hasta seis, y juzgará por sólo su mérito."
+    },
+    {
+      "provision_ref": "art168",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "168",
+      "title": "Artículo 168",
+      "content": "Art. 168. Podrán recusarse con causa los Ministros de este Tribunal, conociendo de la recusación el Senado, si estuviese reunido, o la Corte de Representantes, en el perentorio término de ocho días; y depositándose la multa de doscientos pesos aplicables al fondo público, si se declara no haber lugar a la recusación."
+    },
+    {
+      "provision_ref": "art169",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "169",
+      "title": "Artículo 169",
+      "content": "Art. 169. En los casos de implicancia, los que no la tengan, nombrarán abogados que llenen el Tribunal, prefiriendo a los Ministros no impedidos de la Cámara de Apelaciones."
+    },
+    {
+      "provision_ref": "art170",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "170",
+      "title": "Artículo 170",
+      "content": "Art. 170. La pena pecuniaria aplicada a favor de los jueces en los recursos en que se confirman sus sentencias, será toda del fondo público."
+    },
+    {
+      "provision_ref": "art171",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "171",
+      "title": "Artículo 171",
+      "content": "Art. 171. Quedan enteramente abolidos los recursos de gracia y de justicia, acabándose todos los juicios con la sentencia de este Tribunal."
+    },
+    {
+      "provision_ref": "art172",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "172",
+      "title": "Artículo 172",
+      "content": "Art. 172. Ningún empleado en él tendrá por las actuaciones otros emolumentos, a más del sueldo que se les señale."
+    },
+    {
+      "provision_ref": "art173",
+      "chapter": "CAPITULO I De los Tribunales de Justicia",
+      "section": "173",
+      "title": "Artículo 173",
+      "content": "Art. 173. Las causas de los Ministros de este Supremo Tribunal serán juzgadas en la misma forma que las de los individuos de la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art174",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "174",
+      "title": "Artículo 174",
+      "content": "Art. 174. Habrá una Cámara de Apelaciones con jurisdicción en todo el Estado, compuesta de cinco Ministros, de los cuales uno será Regente. Tendrá en cuerpo el tratamiento de Excelencia, y sus individuos el de Señoría."
+    },
+    {
+      "provision_ref": "art175",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "175",
+      "title": "Artículo 175",
+      "content": "Art. 175. Habrá también dos fiscales, uno de lo civil y criminal y otro de hacienda, iguales en tratamiento y sueldo a los camaristas."
+    },
+    {
+      "provision_ref": "art176",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "176",
+      "title": "Artículo 176",
+      "content": "Art. 176. Las atribuciones de la Cámara son conocer en las alzadas de las causas de los juzgados inferiores y de los negocios gubernativos, siempre que se hagan contenciosos."
+    },
+    {
+      "provision_ref": "art177",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "177",
+      "title": "Artículo 177",
+      "content": "Art. 177. La junta Superior contenciosa de Hacienda residirá también en la Cámara de Apelaciones, y ésta podrá oír a la Gubernativa y Económica de Hacienda en los casos que sea necesario, para informarse mejor del hecho, prefiriendo en el despacho los asuntos de esta naturaleza, y asistiendo el Fiscal de Hacienda, que alegará en público, sin mezclarse en los acuerdos."
+    },
+    {
+      "provision_ref": "art178",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "178",
+      "title": "Artículo 178",
+      "content": "Art. 178. Habrá un agente fiscal, que despache con los Tribunales inferiores."
+    },
+    {
+      "provision_ref": "art179",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "179",
+      "title": "Artículo 179",
+      "content": "Art. 179. Tendrá la Cámara dos relatores y dos escribanos, cuyos destinos se proveerán por la misma Cámara, dotados del tesoro público y sin más emolumentos que sus sueldos."
+    },
+    {
+      "provision_ref": "art180",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "180",
+      "title": "Artículo 180",
+      "content": "Art. 180. En los pleitos que no pasen de quinientos pesos, la sentencia de vista será ejecutoriada. En los que sólo lleguen a mil, dos sentencias conformes de grado en grado harán ejecutoria. En estos dos casos se admitirá la súplica, si se presentan nuevos documentos con juramento de no haberlos tenido o sabido antes."
+    },
+    {
+      "provision_ref": "art181",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "181",
+      "title": "Artículo 181",
+      "content": "Art. 181. En las apelaciones de los departamentos de fuera de la capital, sólo se dejará testimonio de las sentencias, y cuando alguna de las partes lo pida de todo el proceso, ella sola lo pagará."
+    },
+    {
+      "provision_ref": "art182",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "182",
+      "title": "Artículo 182",
+      "content": "Art. 182. Los dos Ministros menos antiguos serán jueces del crimen."
+    },
+    {
+      "provision_ref": "art183",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "183",
+      "title": "Artículo 183",
+      "content": "Art. 183. Estos Ministros visitarán por turno cada seis meses los oficios de los escribanos, y darán parte a la Cámara de los defectos que adviertan. Si son de gravedad, los suspenderán, y la Cámara los separará del todo, y aplicará las penas a que hubiere lugar, si no se vindican."
+    },
+    {
+      "provision_ref": "art184",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "184",
+      "title": "Artículo 184",
+      "content": "Art. 184. La Cámara cuidará de que los jueces de los departamentos de fuera de la capital visiten semanalmente las cárceles, mandando razón mensual de las visitas, y pasándolas al Supremo Tribunal de justicia, con informe sobre los defectos y omisiones que observe."
+    },
+    {
+      "provision_ref": "art185",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "185",
+      "title": "Artículo 185",
+      "content": "Art. 185. El Ministro semanero asistirá todos los sábados a las visitas de cárcel con uno de sus escribanos, para dar cuenta de las causas del Tribunal."
+    },
+    {
+      "provision_ref": "art186",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "186",
+      "title": "Artículo 186",
+      "content": "Art. 186. Podrán ser recusados con causa, y, si no se aprobare el motivo, pagará el recusante la multa de cien pesos aplicados al fondo público."
+    },
+    {
+      "provision_ref": "art187",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "187",
+      "title": "Artículo 187",
+      "content": "Art. 187. Conocerá de la recusación el Supremo Tribunal de justicia, y determinará en el término de ocho días."
+    },
+    {
+      "provision_ref": "art188",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "188",
+      "title": "Artículo 188",
+      "content": "Art. 188. Recibirá a los abogados, escribanos, receptores y procuradores en la forma acostumbrada."
+    },
+    {
+      "provision_ref": "art189",
+      "chapter": "CAPITULO II De la Cámara de Apelaciones",
+      "section": "189",
+      "title": "Artículo 189",
+      "content": "Art. 189. Las leyes decidirán si ha de haber tribunales especiales para conocer de determinados negocios, y arreglarán la forma de sus juicios y sus alzadas."
+    },
+    {
+      "provision_ref": "art190",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "190",
+      "title": "Artículo 190",
+      "content": "Art. 190. Habrá en la capital un Tribunal de Concordia, el que, por ahora, se compondrá de uno de los Ministros del Supremo Tribunal de Justicia, uno de la Cámara y un prebendado, que se nombrarán cada año por el Poder Ejecutivo, y pueden reelegirse."
+    },
+    {
+      "provision_ref": "art191",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "191",
+      "title": "Artículo 191",
+      "content": "Art. 191. Será su instituto conciliar y componer a los litigantes, y, no pudiéndolo conseguir, procurarán se comprometan en hombres buenos: nunca decidirán definitivamente, y suscribirán con las partes el resultado de la conferencia."
+    },
+    {
+      "provision_ref": "art192",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "192",
+      "title": "Artículo 192",
+      "content": "Art. 192. El escribano del Supremo Tribunal de justicia llevará un libro en que se asienten los convenios o negativas."
+    },
+    {
+      "provision_ref": "art193",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "193",
+      "title": "Artículo 193",
+      "content": "Art. 193. No habrá recurso ni apelación del convenio."
+    },
+    {
+      "provision_ref": "art194",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "194",
+      "title": "Artículo 194",
+      "content": "Art. 194. Ninguno se presentará en juicio sin acompañar un certificado de la comparecencia y de no haberse avenido."
+    },
+    {
+      "provision_ref": "art195",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "195",
+      "title": "Artículo 195",
+      "content": "Art. 195. Se exceptúan las acciones fiscales, las criminales graves, las de menores, las de ausentes, las de retracto, y cuando se tema la fuga de un deudor."
+    },
+    {
+      "provision_ref": "art196",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "196",
+      "title": "Artículo 196",
+      "content": "Art. 196.Los jueces no se implican por haber conocido en la avenencia, aun cuando nose verifique."
+    },
+    {
+      "provision_ref": "art197",
+      "chapter": "CAPITULO III De los Jueces de Paz",
+      "section": "197",
+      "title": "Artículo 197",
+      "content": "Art. 197. En los departamentos fuera de la capital, el Poder Ejecutivo, por ahora, nombrará tres individuos que ejerzan este cargo de legislatura en legislatura, y en lo sucesivo serán nombrados por los electores de Diputados en cada departamento."
+    },
+    {
+      "provision_ref": "art198",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "198",
+      "title": "Artículo 198",
+      "content": "Art. 198. Ningún funcionario público, temporal o perpetuo, si no es en los casos exceptuados por la Constitución o la ley, podrá ser depuesto sin causa legalmente probada y sentenciada por su juez competente."
+    },
+    {
+      "provision_ref": "art199",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "199",
+      "title": "Artículo 199",
+      "content": "Art. 199. Todos serán juzgados en causas civiles y criminales por sus jueces naturales, y nunca por comisiones particulares."
+    },
+    {
+      "provision_ref": "art200",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "200",
+      "title": "Artículo 200",
+      "content": "Art. 200. Siendo Chile un Estado independiente, ninguna causa criminal, civil ni eclesiástica de los chilenos, se juzgará por otras autoridades de distinto territorio."
+    },
+    {
+      "provision_ref": "art201",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "201",
+      "title": "Artículo 201",
+      "content": "Art. 201. Todo juez puede ser recusado según las leyes, y también acusado por cualesquiera del pueblo, en los casos de soborno, cohecho y prevaricación."
+    },
+    {
+      "provision_ref": "art202",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "202",
+      "title": "Artículo 202",
+      "content": "Art. 202. A nadie se pondrá preso por delito que no merezca pena corporal o de destierro, y sin que preceda mandamiento de prisión por escrito, que se notificará en el acto de ella."
+    },
+    {
+      "provision_ref": "art203",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "203",
+      "title": "Artículo 203",
+      "content": "Art. 203. Todos deben obedecer estos mandamientos, y se hacen culpables por su resistencia."
+    },
+    {
+      "provision_ref": "art204",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "204",
+      "title": "Artículo 204",
+      "content": "Art. 204. Los jueces sólo podrán detener en arresto veinticuatro horas al que les faltare al respeto."
+    },
+    {
+      "provision_ref": "art205",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "205",
+      "title": "Artículo 205",
+      "content": "Art. 205. Todo acto ejercido contra un hombre fuera del caso, y sin las formalidades que 1a ley prescribe, es arbitrario y tiránico."
+    },
+    {
+      "provision_ref": "art206",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "206",
+      "title": "Artículo 206",
+      "content": "Art. 206. Cuando el delincuente no sea sorprendido infraganti, debe preceder a su prisión la sumaria; si es infraganti, debe estar hecha a los dos días."
+    },
+    {
+      "provision_ref": "art207",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "207",
+      "title": "Artículo 207",
+      "content": "Art. 207. En cualquier estado de la causa, en que se advierta que el delito no merece penas corporal o de destierro, se pondrá libre al preso."
+    },
+    {
+      "provision_ref": "art208",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "208",
+      "title": "Artículo 208",
+      "content": "Art. 208. A todo preso antes de cuarenta y ocho horas de su prisión, se le hará saber el motivo de ella."
+    },
+    {
+      "provision_ref": "art209",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "209",
+      "title": "Artículo 209",
+      "content": "Art. 209. El alcaide llevará un libro en que asiente el día, hora y motivo de la prisión y el nombre del juez que la decretó."
+    },
+    {
+      "provision_ref": "art210",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "210",
+      "title": "Artículo 210",
+      "content": "Art. 210. Cuando las circunstancias del delito pidan el allanamiento de alguna casa, el juez lo hará por sí mismo."
+    },
+    {
+      "provision_ref": "art211",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "211",
+      "title": "Artículo 211",
+      "content": "Art. 211. Los jueces son responsables de la dilación de los términos prevenidos por las leyes."
+    },
+    {
+      "provision_ref": "art212",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "212",
+      "title": "Artículo 212",
+      "content": "Art. 212. A ningún reo se le recibirá juramento para dar su confesión, y en ésta no se hará cargo que no resulte del sumario, evitando siempre preguntas capciosas."
+    },
+    {
+      "provision_ref": "art213",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "213",
+      "title": "Artículo 213",
+      "content": "Art. 213. Siempre que los reos o sus procuradores y parientes quieran presenciar las declaraciones y ratificaciones, podrán hacerlo, repreguntando y replicando a los testigos."
+    },
+    {
+      "provision_ref": "art214",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "214",
+      "title": "Artículo 214",
+      "content": "Art. 214. Ninguna pena será transcendental al que no tuvo parte en el delito."
+    },
+    {
+      "provision_ref": "art215",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "215",
+      "title": "Artículo 215",
+      "content": "Art. 215. A ninguno se pondrá grillos sin orden del juez, por escrito, quien sólo podrá darla cuando se tema fuga."
+    },
+    {
+      "provision_ref": "art216",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "216",
+      "title": "Artículo 216",
+      "content": "Art. 216. Queda abolida la pena de confiscación de bienes."
+    },
+    {
+      "provision_ref": "art217",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "217",
+      "title": "Artículo 217",
+      "content": "Art. 217. Nunca se decretará embargo, si no es en los casos que piden restitución, multa o pago; pero ofreciéndose fianza abonada de juzgado y sentenciado, se suspenderá el embargo, que en ningún caso podrá exceder de la cantidad necesaria al cubierto de la deuda o pena."
+    },
+    {
+      "provision_ref": "art218",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "218",
+      "title": "Artículo 218",
+      "content": "Art. 218. Las penas serán siempre evidentemente necesarias, proporcionadas al delito y útiles a la sociedad: en lo posible correccionales y preventivas de los crímenes."
+    },
+    {
+      "provision_ref": "art219",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "219",
+      "title": "Artículo 219",
+      "content": "Art. 219. Toda sentencia civil y criminal deberá ser motivada."
+    },
+    {
+      "provision_ref": "art220",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "220",
+      "title": "Artículo 220",
+      "content": "Art. 220. Como el hombre antes de los veinticinco años no tenga un libre uso perfecto de sus derechos, y mucho menos en las materias que necesitan de más premeditación y deliberación, se prohiben enteramente en ambos sexos todos los votos solemnes antes de esta edad. Serán severamente castigados los que les inciten a ellos; y mucho más los que se los admitan."
+    },
+    {
+      "provision_ref": "art221",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "221",
+      "title": "Artículo 221",
+      "content": "Art. 221. Todo ciudadano tiene la libre disposición de sus bienes, rentas, trabajo e industria; así es, que no se podrán poner impuestos sino en los casos muy urgentes, para salvar con la Patria las vidas y el resto de la fortuna de cada uno."
+    },
+    {
+      "provision_ref": "art222",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "222",
+      "title": "Artículo 222",
+      "content": "Art. 222. La industria no conocerá trabas, y se irán aboliendo los impuestos sobre sus productos."
+    },
+    {
+      "provision_ref": "art223",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "223",
+      "title": "Artículo 223",
+      "content": "Art. 223. Sobre la libre manifestación de los pensamientos no se darán leyes por ahora; pero queden prohibidas la calumnia, las injurias y las excitaciones a los crímenes."
+    },
+    {
+      "provision_ref": "art224",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "224",
+      "title": "Artículo 224",
+      "content": "Art. 224. Es sagrada la inviolabilidad de las cartas, y la libertad de las conversaciones privadas."
+    },
+    {
+      "provision_ref": "art225",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "225",
+      "title": "Artículo 225",
+      "content": "Art. 225. Es libre la circulación de impresos en cualquiera idioma; pero no podrán introducirse obras obscenas, inmorales e incendiarias."
+    },
+    {
+      "provision_ref": "art226",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "226",
+      "title": "Artículo 226",
+      "content": "Art. 226. Siempre que alguno sea reconvenido por impresos que contengan una o más proposiciones de las prohibidas en el artículo 223, se le citará y prevendrá, que en el término perentorio de doce horas nombre veinte literatos para que juzguen de la causa.\nDe éstos se sacarán siete a la suerte, y serán los jueces."
+    },
+    {
+      "provision_ref": "art227",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "227",
+      "title": "Artículo 227",
+      "content": "Art. 227. Se le permite al acusado exponer libremente sus proposiciones y llevar a la presencia de los jueces todos los patronos que crea convenientes para su defensa."
+    },
+    {
+      "provision_ref": "art228",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "228",
+      "title": "Artículo 228",
+      "content": "Art. 228. Cualquiera que sea la sentencia, si contiene alguna pena, no se ejecutará sin la aprobación del Supremo Tribunal de Justicia."
+    },
+    {
+      "provision_ref": "art229",
+      "chapter": "CAPITULO IV De la administración de justicia y de las garantías individuales",
+      "section": "229",
+      "title": "Artículo 229",
+      "content": "Art. 229. En ningún caso, ni por circunstancias sean cuales fueren, se establecerán en Chile las instituciones inquisitoriales."
+    },
+    {
+      "provision_ref": "art230",
+      "chapter": "CAPITULO UNICO De la educación pública",
+      "section": "230",
+      "title": "Artículo 230",
+      "content": "Art. 230. La educación pública será uniforme en todas las escuelas, y se le dará toda la extensión posible en los ramos del saber, según lo permitan las circunstancias."
+    },
+    {
+      "provision_ref": "art231",
+      "chapter": "CAPITULO UNICO De la educación pública",
+      "section": "231",
+      "title": "Artículo 231",
+      "content": "Art. 231. Se procurará poner escuelas públicas de primeras letras en todas las poblaciones: en las que, a más de enseñarse a la juventud los principios de la religión, leer, escribir y contar, se les instruya en los deberes del hombre en sociedad."
+    },
+    {
+      "provision_ref": "art232",
+      "chapter": "CAPITULO UNICO De la educación pública",
+      "section": "232",
+      "title": "Artículo 232",
+      "content": "Art. 232. A este fin, el Director Supremo cuidará de que en todos los conventos de religiosos dentro y fuera de la capital, se fijen escuelas bajo el plan general de educación que dará el Congreso."
+    },
+    {
+      "provision_ref": "art233",
+      "chapter": "CAPITULO UNICO De la educación pública",
+      "section": "233",
+      "title": "Artículo 233",
+      "content": "Art. 233. La misma disposición del artículo anterior se observará en los monasterios de monjas para con las jóvenes que quieran concurrir a educarse en las escuelas públicas, que deben establecer."
+    },
+    {
+      "provision_ref": "art234",
+      "chapter": "CAPITULO UNICO De la educación pública",
+      "section": "234",
+      "title": "Artículo 234",
+      "content": "Art. 234. Se procurará conservar y adelantar el Instituto Nacional, cuidando el Supremo Director de sus progresos y del mejor orden, por cuantos medios estime convenientes."
+    },
+    {
+      "provision_ref": "art235",
+      "chapter": "CAPITULO I De la tropa de línea",
+      "section": "235",
+      "title": "Artículo 235",
+      "content": "Art. 235. Los Poderes Legislativo y Ejecutivo acordarán el número de tropas que se necesite para la defensa del Estado."
+    },
+    {
+      "provision_ref": "art236",
+      "chapter": "CAPITULO I De la tropa de línea",
+      "section": "236",
+      "title": "Artículo 236",
+      "content": "Art. 236. Determinarán también cuál deba ser la fuerza permanente en las fronteras y según lo exijan las circunstancias, ampliarán o restringirán el mando, término y tiempo de sus generales."
+    },
+    {
+      "provision_ref": "art237",
+      "chapter": "CAPITULO I De la tropa de línea",
+      "section": "237",
+      "title": "Artículo 237",
+      "content": "Art. 237. Determinarán la disciplina, escuelas militares, el orden en los ascensos y los sueldos."
+    },
+    {
+      "provision_ref": "art238",
+      "chapter": "CAPITULO I De la tropa de línea",
+      "section": "238",
+      "title": "Artículo 238",
+      "content": "Art. 238. Establecerán también del mismo modo las fuerzas marítimas."
+    },
+    {
+      "provision_ref": "art239",
+      "chapter": "CAPITULO II De las Milicias",
+      "section": "239",
+      "title": "Artículo 239",
+      "content": "Art. 239. Todos los departamentos tendrán Milicias nacionales, compuestas de sus habitantes, en la forma que el Poder Ejecutivo, de acuerdo con el Legislativo, prevenga su formación."
+    },
+    {
+      "provision_ref": "art240",
+      "chapter": "CAPITULO II De las Milicias",
+      "section": "240",
+      "title": "Artículo 240",
+      "content": "Art. 240. En los casos urgentes podrá disponerse de las Milicias, contribuyéndoseles con los sueldos de reglamento."
+    },
+    {
+      "provision_ref": "art241",
+      "chapter": "CAPITULO II De las Milicias",
+      "section": "241",
+      "title": "Artículo 241",
+      "content": "Art. 241. Nunca podrán mandarse fuera del Estado, si no es en un caso de gravedad, con aprobación del Congreso."
+    },
+    {
+      "provision_ref": "art242",
+      "chapter": "CAPITULO II De las Milicias",
+      "section": "242",
+      "title": "Artículo 242",
+      "content": "Art. 242. El Poder Ejecutivo dispondrá el modo más cómodo de disciplinar las Milicias, gravando a sus individuos cuanto menos sea posible, a fin de no distraerles de sus atenciones particulares."
+    },
+    {
+      "provision_ref": "art243",
+      "chapter": "CAPITULO UNICO",
+      "section": "243",
+      "title": "Artículo 243",
+      "content": "Art. 243. Todo chileno tiene derecho a pedir la observancia de la Constitución, y a que se castigue al infractor de ella, sea cual fuere su clase o investidura."
+    },
+    {
+      "provision_ref": "art244",
+      "chapter": "CAPITULO UNICO",
+      "section": "244",
+      "title": "Artículo 244",
+      "content": "Art. 244. Los Poderes Legislativo y Ejecutivo, los Tribunales y demás autoridades mirarán este delito como uno de los de mayor gravedad."
+    },
+    {
+      "provision_ref": "art245",
+      "chapter": "CAPITULO UNICO",
+      "section": "245",
+      "title": "Artículo 245",
+      "content": "Art. 245. El infractor perderá todos los derechos de ciudadano por diez años, sin perjuicio de las demás penas que señale la ley."
+    },
+    {
+      "provision_ref": "art246",
+      "chapter": "CAPITULO UNICO",
+      "section": "246",
+      "title": "Artículo 246",
+      "content": "Art. 246. Las leyes fundamentales de esta Constitución no podrán variarse sin expresa orden de los pueblos, manifestada solemnemente a sus representantes."
+    },
+    {
+      "provision_ref": "art247",
+      "chapter": "CAPITULO UNICO",
+      "section": "247",
+      "title": "Artículo 247",
+      "content": "Art. 247. Todo empleado político, eclesiástico y militar, al recibirse de su empleo, y los ya recibidos, jurarán su observancia y desempeñar fielmente su encargo."
+    },
+    {
+      "provision_ref": "art248",
+      "chapter": "CAPITULO UNICO",
+      "section": "248",
+      "title": "Artículo 248",
+      "content": "Art. 248. El Poder Ejecutivo determinará el modo solemne con que debe prestarse por ahora este juramento en los departamentos, y cómo haya de publicarse, dando también las providencias necesarias para que circule por toda la Nación."
+    }
+  ],
+  "definitions": []
+}

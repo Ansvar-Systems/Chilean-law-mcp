@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1139720",
+  "type": "statute",
+  "title": "MODIFICA LA LEY Nº 21.131, QUE ESTABLECE PAGO A TREINTA DÍAS",
+  "short_name": "Ley 21193",
+  "status": "in_force",
+  "issued_date": "2019-12-09",
+  "in_force_date": "2019-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1139720",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.- Derógase el inciso segundo del artículo primero transitorio de la ley Nº 21.131, que establece pago a treinta días."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- El plazo máximo de pago establecido en el inciso primero del artículo 2º de la ley Nº 19.983, reemplazado según el numeral segundo del artículo primero de la ley Nº 21.131, será de sesenta días corridos contado desde la recepción de la factura, por el tiempo que medie hasta el último día del tercer mes contado desde la publicación de la presente ley en el Diario Oficial. Transcurridos los tres meses antes señalados, el plazo máximo de pago será el establecido en el referido inciso primero del artículo 2º de la ley Nº 19.983.\"."
+    }
+  ],
+  "definitions": []
+}

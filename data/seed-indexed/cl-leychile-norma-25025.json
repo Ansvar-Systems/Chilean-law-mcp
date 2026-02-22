@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-25025",
+  "type": "statute",
+  "title": "APRUEBA PRESUPUESTO DE ENTRADAS Y GASTOS ORDINARIOS PARA 1932.",
+  "short_name": "Ley 5083",
+  "status": "in_force",
+  "issued_date": "1932-03-07",
+  "in_force_date": "1932-03-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25025",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Entradas ordinarias\nGrupo \"A\" Bienes Nacionales____________ $ 72.097,575.-\nGrupo \"B\" Servicios Nacionales_________ 57.702,770.-\nGrupo \"C\" Impuestos Directos e\nIndirectos___________________________ 429.582,000.-\nGrupo \"D\" Entradas Varias______________ 38.478,300.-\n_____________\nTotal general___________________$ 597.860,645.-\nGastos ordinarios\nPresidencia de la República____________$ 571,600.-\nCongreso Nacional______________________ 7.267,500.-\nServicios Independientes_______________ 3.593,250.-\nMinisterio del Interior________________ 127.854,812.-\nMinisterio de Relaciones Exteriores____ 5.389,000.-\nMinisterio de Hacienda_________________ 167.800,436.60\nMinisterio de Educación________________ 122.252,920.-\nMinisterio de Justicia_________________ 24.796,863.-\nMinisterio de Guerra___________________ 67.358,442.-\nMinisterio de Marina___________________ 53.518,474.-\nMinisterio de Fomento__________________ 3.582,622.05\nMinisterio de Agricultura______________ 3.694,300.-\nMinisterio de Tierras y Colonización___ 3.003,709.-\nMinisterio de Bienestar Social_________ 18.761,058.-\n_____________\nTotal________________________$ 609.444,977.65\nMenos: Reducción del 15 por ciento a\nempleados solteros___________________ 12.000,000.-\n_______________\nTotal de gastos ordinarios_________$ 597.444,977.65"
+    }
+  ],
+  "definitions": []
+}

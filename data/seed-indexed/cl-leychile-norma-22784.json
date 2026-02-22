@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22784",
+  "type": "statute",
+  "title": "AUTORIZA LA INVERSION DE I00,000 PESOS EN LA;INSTALACION DE DESINFECTORIOS PÚBLICOS EN VARIAS CIUDADES",
+  "short_name": "Ley 1603",
+  "status": "in_force",
+  "issued_date": "1903-08-06",
+  "in_force_date": "1903-08-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22784",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para invertir hasta la cantidad de cien mil pesos ($ 100000) en establecer i mantener desinfectorios públicos en las ciudades de Iquique, Antofagasta, Coquimbo, Serena, Valparaiso, San Felipe, Curicó, Talca, Chillan, Concepcion, Talcahuano, Los Anjeles i Valdivia."
+    }
+  ],
+  "definitions": []
+}

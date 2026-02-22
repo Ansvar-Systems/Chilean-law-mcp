@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24403",
+  "type": "statute",
+  "title": "Lei núm. 4,011, que autoriza la venta de un terreno;en Antofagasta para destinar su producto a la;construccion de dos escuelas",
+  "short_name": "Ley 4011",
+  "status": "in_force",
+  "issued_date": "1924-05-07",
+  "in_force_date": "1924-05-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24403",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para que venda en pública subasta el siguiente terreno, ubicado en la ciudad de Antofagasta: 16,471 metros cuadrados concedido a The Union Oil Company of California, segun los reglamentos de concesiones vigentes, y que deslinda: al norte, con el antiguo límite urbano de la ciudad de Antofagasta y la calle Diaz Gana; al sur con una concesion fiscal a la Delegacion Salitrera; al naciente, con la calle Avenida Club Hípico; y al poniente, con el mar.\nEl remate de estos terrenos se hará en uno o varios lotes y previo aviso que se publicará, por cinco veces, en un plazo de dos meses de anticipacion a la fecha del remate.\nEl mínimum del precio de venta será determinado por tasacion de la Direccion de Obras Públicas.\nEl remate se verificará por la Junta de Almoneda."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° El producto del remate se destinará a la construccion de dos escuelas públicas en la ciudad de Antofagasta.\nLos fondos los distribuirá el Presidente de la República en la forma que lo estime conveniente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Esta lei comenzará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

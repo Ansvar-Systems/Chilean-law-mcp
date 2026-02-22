@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-251152",
+  "type": "statute",
+  "title": "HACE APLICABLE EL PROCEDIMIENTO SIMPLIFICADO Y LA FRANQUICIA DE ARANCEL A TODO CONTRATO EN QUE SE APLIQUE CUALQUIER TIPO DE SUBSIDIO HABITACIONAL ESTATAL A LA ADQUISICION DE UNA VIVIENDA SOCIAL",
+  "short_name": "Ley 20112",
+  "status": "in_force",
+  "issued_date": "2006-07-05",
+  "in_force_date": "2006-07-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=251152",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en el decreto ley N° 2.833, de 1979:\n1) Reemplázase, en el inciso segundo del artículo 3°, la frase \"y por los certificados y copias que entreguen, relacionados con ellas.\" por la siguiente: \"y por los certificados de dominio vigente, de hipotecas, de gravámenes, de prohibiciones y de bien familiar y las copias que se entreguen en el momento de efectuar las mencionadas inscripciones y anotaciones.\".\n2) Agrégase, en el artículo 4°, el siguiente párrafo final:\n\"Esta normativa se aplicará igualmente respecto de los contratos que se celebren con beneficiarios del subsidio habitacional del Estado y que sean destinados a la adquisición o construcción de las viviendas sociales definidas en los artículos 3° del decreto ley N° 2.552, de 1979, y 40 de la ley N° 19.537, según corresponda.\".\n3) Agrégase el siguiente artículo 5°:\n\"Artículo 5°.- La contravención de lo dispuesto en los artículos 3° y 4° será sancionada disciplinariamente con la medida de censura por escrito. En caso de reincidencia, la sanción será la suspensión de funciones por un lapso no inferior a un mes.\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- Decláranse válidas las inscripciones practicadas por los Conservadores de Bienes Raíces con anterioridad a la fecha de publicación de esta ley, conforme al decreto ley N° 2.833, de 1979, respecto de los contratos a que se refiere el número 2) del artículo único, salvo que la nulidad de dichos actos hubiere sido declarada por sentencia firme dictada con anterioridad a la fecha de su entrada en vigencia.\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136256",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2172",
+  "status": "in_force",
+  "issued_date": "1909-02-19",
+  "in_force_date": "1909-03-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136256",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Autorízase al Presidente de la República para que invierta hasta la suma de trescientos mil pesos ($ 300,000) en la construccion de un ferrocarril de trocha de un metro que úna la ciudad de San Felipe con la de Putaendo.\""
+    }
+  ],
+  "definitions": []
+}

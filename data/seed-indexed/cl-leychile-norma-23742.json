@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23742",
+  "type": "statute",
+  "title": "AUMENTA LOS DERECHOS DE MATADERO EN LA COMUNA DE CHILLAN",
+  "short_name": "Ley 3107",
+  "status": "in_force",
+  "issued_date": "1916-08-28",
+  "in_force_date": "1916-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23742",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Inclúyese la Municipalidad de Chillan entre los municipios a los cuales el artículo 1.° de la lei de 26 de Noviembre de 1873 faculta para cobrar un impuesto de mataderos hasta de cuarenta i cinco centavos por cada cien kilógramos del peso bruto de los animales que se beneficien para el consumo de la poblacion."
+    }
+  ],
+  "definitions": []
+}

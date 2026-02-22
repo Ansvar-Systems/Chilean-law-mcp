@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-26879",
+  "type": "statute",
+  "title": "MODIFICA LAS LEYES 9,976, 9,610 y 9,545",
+  "short_name": "Ley 11873",
+  "status": "in_force",
+  "issued_date": "1955-08-18",
+  "in_force_date": "1955-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26879",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Introdúcese a la ley N° 9,976, la siguiente modificación:\nReemplázase en el artículo 2°, inciso cuarto, la frase \"Al término de cinco años\" por esta otra \"Al término de diez años\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Introdúcense al artículo 3° de la ley N° 9,610, las siguientes modificaciones:\n1° Reemplázase la frase \"Durante el plazo de cinco años\" por esta obra \"Durante el plazo de diez años\".\n2° Substitúyense las palabras \"medio por ciento\" por \"uno por ciento\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Reemplázase en el artículo 1° de la ley N° 9,545, la frase \"durante cinco años\" por esta otra \"durante diez años\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°.- La Fundación \"Viviendas de Emergencia\" deberá destinar los fondos que se le otorgan por la presente y por la Ley General de Presupuestos a la construcción de viviendas en todas las provincias del país a prorrata de su población, por medio de un plan de diez años que contemplará las prioridades que se determinen con criterio técnico\"."
+    }
+  ],
+  "definitions": []
+}

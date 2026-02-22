@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-138986",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3145",
+  "status": "in_force",
+  "issued_date": "1916-12-14",
+  "in_force_date": "1916-12-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138986",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º El Presidente de la República podrá invertir provisionalmente en los meses de octubre, noviembre y diciembre de cada año, y hasta el dia en que éntre en vigor la Lei de Presupuestos, hasta la suma de cuatro millones de pesos ($ 4.000,000), en adquirir los artículos que sean necesarios para la alimentacion de las tropas y del ganado del Ejército, en el año siguiente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Las adquisiciones se harán por propuestas públicas y hasta por los precios máximos que se establezcan en las bases, en caso de ser aquéllas desechadas, por lo cual se hará en dichas bases la reserva necesaria."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Una vez promulgada la Lei de Presupuestos, el Presidente de la República dictará un decreto por el cual las sumas que se hubieren cargado a esta lei se abonarán a la misma y se imputarán a los ítem respectivos del presupuesto."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º El Ministerio de Guerra rendirá anualmente al Tribunal de Cuentas una cuenta detallada de todas las especies pertenecientes a los ramos de vestuario, equipo, forraje y rancho del Ejército.\nEl Presidente de la República dictará el reglamento necesario para el cumplimiento de esta disposicion, dentro del plazo de tres meses."
+    }
+  ],
+  "definitions": []
+}

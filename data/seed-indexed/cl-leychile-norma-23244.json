@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23244",
+  "type": "statute",
+  "title": "LEI NUM. 2,293, QUE PERMITE LA SALIDA DEL TERRITORIO DE LA REPUBLICA DE LOS INDIVIDUOS QUE COMPONEN LA ESCUELA MILITAR, A FIN DE QUE CONCURRAN A LAS FIESTAS DEL CENTENARIO DE LA INDEPENDENCIA ARJENTINA.",
+  "short_name": "Ley 2293",
+  "status": "in_force",
+  "issued_date": "1910-03-05",
+  "in_force_date": "1910-03-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23244",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Permítese que en el mes de Mayo del año actual salgan del territorio de la República los trescientos veintiseis individuos que componen la Escuela Militar, i sus hombres de servicio, para que concurran en Buenos Aires a las fiestas que se celebrarán en conmemoracion del Centenario de la Independencia de la República Arjentina.\nLos espresados individuos regresarán en el mes de Junio siguiente."
+    }
+  ],
+  "definitions": []
+}

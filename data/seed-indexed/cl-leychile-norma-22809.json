@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-22809",
+  "type": "statute",
+  "title": "CONTRIBUCION DE FAROS I VALIZAS",
+  "short_name": "Ley 1638",
+  "status": "in_force",
+  "issued_date": "1904-01-23",
+  "in_force_date": "1904-01-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22809",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero. Se grava a las naves a vapor o a la vela que naveguen en las costas de Chile con una contribucion de faros i valizas en conformidad a las prescripciones de esta lei."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Sin perjuicio de la actual contribucion de hospital que se seguirá cobrando a razon de diez centavos, oro de 18 peniques, por tonelada de rejistro en conformidad a la lei de 15 de Setiembre de 1865, la contribucion de faros i valizas se devengará sobre el tonelaje de rejistro de cada nave, una vez al año en la forma siguiente:\n1.° Pagarán sesenta centavos, oro de 18 peniques, por tonelada de rejistro, una vez al año, todas las naves a vapor, ya sean de procedencia del esterior o que naveguen en las costas de la República, cualquiera que sea su nacionalidad.\n2.° Pagarán cuarenta centavos, oro de 18 peniques, por tonelada de rejistro, una vez al año, todas las naves a vela con procedencia del esterior o que naveguen en la costa de la República, cualquiera que sea su nacionalidad.\n3.° Pagarán, una vez al año, treinta centavos, oro de 18 peniques, las naves a vapor i veinte centavos, oro de 18 peniques las naves a vela que se ocupen esclusivamente en el comercio del cabotaje."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Quedan exentos del pago de esta contribucion:\n1.° Los buques de guerra de toda nacionalidad, incluyendo entre ellos los transportes de guerra que navegan con los privilejios de una nave ordinaria de guerra.\n2.° Los buques de 25 toneladas de rejistro o ménos.\n3.° Los buques dedicados esclusivamente al servicio de cables submarinos telegráficos.\n4.° Los buques que recalen en algun puerto chileno de arribada forzosa, siempre que en él no embarquen, desembarquen ni trasborden pasajeros, ni mercaderías, ni efectúen ningun movimiento comercial i los que viajen en lastre."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Esta contribucion se pagará en el primer puerto de Chile en que hagan escala las naves procedentes del esterior i en el puerto de matrícula por las naves de la marina mercante nacional.\nLas demas naves no comprendidas en este artículo, pagarán dicha contribucion en el primer puerto donde tocaren despues de iniciado el año."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° El derecho de faros i valizas será recaudado por la aduana respectiva o por la oficina que haga sus veces, debiendo visarse el documento de pago por la autoridad marítima del puerto.\nMensualmente darán cuenta las oficinas recaudadoras a la Superintendencia de aduanas del movimiento de esta contribucion; i esta oficina pasará semestralmente al Ministerio de Marina un estado del producto de ella."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Esta lei comenzará a rejir seis meses despues que sea publicada en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22582",
+  "type": "statute",
+  "title": "SOBRE INVERSION DE FONDOS PARA LA TERMINACION DEL CONGRESO NACIONAL",
+  "short_name": "Ley 1350",
+  "status": "in_force",
+  "issued_date": "1900-08-27",
+  "in_force_date": "1900-08-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22582",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO único. Se autoriza la inversion de la suma de doscientos mil pesos en la conclusion de los trabajos de reconstruccion del edificio del Congreso Nacional."
+    }
+  ],
+  "definitions": []
+}

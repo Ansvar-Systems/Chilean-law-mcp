@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24960",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4893",
+  "status": "in_force",
+  "issued_date": "1930-09-23",
+  "in_force_date": "1930-09-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24960",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Apruébanse los siguientes traspasos de fondos del Presupuesto Extraordinario correspondiente al Ministerio de Fomento, efectuados por decretos números 1,208 y 1,209, de 24 de Abril último;\nDel rubro E. 0801, que consulta fondos para \"Contribución a la Caja de Colonización Agrícola\", ley número 4,496, al rubro E. 0804, que concede fondos para \"fomento de la producción y de la industria\", la suma de un millón quinientos mil pesos ($ 1.500,000); y Del rubro E. 0802, que consulta fondos para \"iniciación del Plan de Bodegas Cooperativas Vitivinícolas\", al rubro E. 0804, que concede fondos para el \"fomento de la producción y de la industria\", la suma de quinientos mil pesos ($ 500,000)."
+    }
+  ],
+  "definitions": []
+}

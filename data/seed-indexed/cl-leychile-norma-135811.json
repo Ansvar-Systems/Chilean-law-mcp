@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135811",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2020",
+  "status": "in_force",
+  "issued_date": "1907-09-02",
+  "in_force_date": "1907-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135811",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza a la Empresa de los Ferrocarriles del Estado para abonar, por una sola vez, a doña Irene Zelada, viuda de Estivil, una cantidad igual al sueldo anual de que disfrutaba su esposo, don Miguel Estivil."
+    }
+  ],
+  "definitions": []
+}

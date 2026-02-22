@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-29586",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 16.640 Y FACULTA AL TESORERO\nGENERAL DE LA REPUBLICA PARA CAUCIONAR OBLIGACIONES QUE\nINDICA",
+  "short_name": "Ley 18163",
+  "status": "in_force",
+  "issued_date": "1982-09-06",
+  "in_force_date": "1982-09-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29586",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Introdúcense las siguientes enmiendas a la Ley N° 16.640:\n1.- Modifícase su artículo 132 en los términos que a continuación se indican:\na) Reemplázase, en su inciso primero, la palabra \"nominativos\" por la expresión \"a la orden\".\nb) Sustitúyense, en su inciso quinto, las palabras \"a quien pertenezcan\" por las siguientes: \"a cuyo favor se hubieren extendido\".\nc) Suprímese, en su inciso decimosegundo, la siguiente oración final: \"Determinará, asimismo, la forma de aplicar el inciso séptimo de este artículo en lo relativo a las acciones que puedan adquirirse y al porcentaje a que dicho inciso se refiere, señalando normas que podrán ser diferentes para cada clase y serie de bonos.\".\nd) Deróganse sus incisos sexto, séptimo, octavo, noveno, décimo, decimoprimero, decimotercero y decimocuarto.\ne) Agrégase, como inciso final, el siguiente: \"Los bonos podrán ser transferidos libremente mediante endoso en el mismo título, suscrito por el cedente y el cesionario. También podrán ser entregados en garantía de créditos de cualquier naturaleza.\".\n2.- Derógase el artículo 134."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Las modificaciones introducidas por el artículo 1° de esta ley regirán también para todos los bonos que se hayan emitido, en cumplimiento de las disposiciones de la Ley N° 16.640, con anterioridad a la vigencia de la presente ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Facúltase al Tesorero General de la República para que, en representación del Fisco, renueve las garantías otorgadas por la ex Corporación de la Reforma Agraria y la ex Oficina de Normalización Agraria en favor del Banco del Estado de Chile para caucionar los créditos concedidos por éste al sector reformado, y que se constituyeron en obligaciones fiscales en virtud de lo dispuesto en el artículo 4° del decreto ley N° 2.405, de 1978; aun cuando se modifiquen las modalidades originalmente pactadas al contratar tales créditos."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- Se entenderá que los bonos de la reforma agraria a que se refiere el artículo 132 de la Ley N° 16.640 ya emitidos tienen el carácter de bonos a la orden por el solo ministerio de la ley y para todos los efectos legales."
+    }
+  ],
+  "definitions": []
+}

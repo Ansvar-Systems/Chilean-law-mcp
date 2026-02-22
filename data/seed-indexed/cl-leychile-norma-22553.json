@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-22553",
+  "type": "statute",
+  "title": "LEI N.° 1,318;Concede fondos para obras de defensa en el Zanjon de;la Aguada",
+  "short_name": "Ley 1318",
+  "status": "in_force",
+  "issued_date": "1900-01-03",
+  "in_force_date": "1900-01-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22553",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Santiago, a 29 de Diciembre de 1899.- ARTICULO PRIMERO, Autorízase al Presidente de la República para invertir la cantidad de veintiun mil cuatrocientos setenta pesos reinta i seis centavos en los trabajos que deben ejecutarse en el Zanjon de la Aguada, para impedir inundaciones de los terrenos colindantes de la Fábrica de Cartuchos, indemnizar los perjuicios sufridos por los mismos en el año actual, adquirir el terreno necesario para dicho trabajo i volver a habilitar la turbina de la espresada Fábrica."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Autorízase, igualmente, al Presidente de la República para invertir hasta la cantidad de quince mil pesos en el restablecimiento del cauce i en el ensanche del Zanjon de la Aguada, desde su crijen hasta Santa Rosa."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22568",
+  "type": "statute",
+  "title": "Espropiacion de Vertientes i Terrenos",
+  "short_name": "Ley 1334",
+  "status": "in_force",
+  "issued_date": "1900-01-11",
+  "in_force_date": "1900-01-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22568",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Se declara de utilidad pública las vertientes de agua que existen en el fundo \"Los Guindos\", de propiedad de los padres franciscanos de Chillan, con los terrenos indispensables para hacer la captacion y el terreno que se necesita para construir los estanques en el fundo \"La Victoria\", perteneciente a la sucesion de doña Isidora Mieres.\nLa espropiacion se verificará con arreglo a los planos que apruebe el Presidente de la República i en conformidad a la lei de 18 de Junio de 1857."
+    }
+  ],
+  "definitions": []
+}

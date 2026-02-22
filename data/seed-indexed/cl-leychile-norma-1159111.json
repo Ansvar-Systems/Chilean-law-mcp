@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-1159111",
+  "type": "statute",
+  "title": "PREMIO MILITAR",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1829-01-02",
+  "in_force_date": "1829-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1159111",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Los oficiales que se excluyeren del servicio activo en virtud de la reforma, obtendrán de una vez, en fondos públicos del seis p%, el valor total del sueldo de su empleo, multiplicando por los dos tercios de los años que hayan servido, contándose estos desde el 18 de setiembre de 1810."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° La época desde la accion de Rancagua hasta la gloriosa batalla de Chacabuco, no se considera como tiempo interrumpido en la continuacion del de sus servicios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° Tendrán tambien opcion a la reforma los inhábiles y retirados con sueldo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° Se nombrará por el Gobierno una junta que califique el tiempo de servicio de los militares que se reformen, y con las justificaciones producidas ante ella después de pasadas al Gobierno, dispondrá este se les expida el correspondiente libramiento."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "5.° Lo dispuesto anteriormente para la reforma de los oficiales del ejército de tierra, se observará igualmente en los de la marina nacional."
+    },
+    {
+      "provision_ref": "artadicional",
+      "section": "ADICIONAL",
+      "title": "Artículo ADICIONAL",
+      "content": "ART. ADICIONAL. No son comprendidos en la reforma los que durante la guerra de la independencia hubiesen estado en servicio de la Nacion, y en cualquier tiempo, o por cualquiera causa hayan servido a los enemigos, aunque despues hayan abjurado sus bandera y se hallen en el ejército de la República."
+    }
+  ],
+  "definitions": []
+}

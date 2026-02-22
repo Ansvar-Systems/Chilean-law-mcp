@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-24478",
+  "type": "statute",
+  "title": "MODIFICA CODIGO MINAS, FIJA NORMAS PERTENENCIAS Y CONCESIONES PETROLERAS",
+  "short_name": "Ley 4109",
+  "status": "in_force",
+  "issued_date": "1926-12-28",
+  "in_force_date": "1926-12-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24478",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Intercálanse en el inciso 5.o del artículo 2.o del Código de Minería, después de la palabra \"guaneras\", las siguientes: \"y del petróleo\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Caducarán las concesiones y pertenencias petroleras que no se pongan en explotación dentro del año siguiente a la promulgación de la presente ley.\nEn todo caso, el que desee explotarlas deberá, además, remensurarlas dentro del mismo plazo, con citación del Fisco.\nLa omisión de este trámite hará caducar el derecho del interesado por el solo ministerio de la ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Serán competentes para conoceder de los juicios que se promuevan con motivo de esta ley, exclusivamente los Jueces Letrados de Mayor Cuantía en lo Civil de Santiago."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El Presidente de la República dictará un Reglamento para la aplicación de la presente ley."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1117050",
+  "type": "statute",
+  "title": "Lei sobre corta de bosques.",
+  "short_name": "Ley S/N",
+  "status": "amended",
+  "issued_date": "1872-07-13",
+  "in_force_date": "1872-07-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1117050",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1°",
+      "content": "ART. 1.°\nLos denuncios de bosques hechos con anterioridad a la presente lei, facultan a los denunciantes que tengan hornos en labor para continuar ejercitando sus derechos, con arreglo a ordenanza, por el término de tres años contados desde la promulgacion de esta lei, pudiendo solo cortar los árboles que se consuman durante ese término.\nQuedan escentos de toda espropiacion forzada los montes anteriormente cortados i aquellos en que no se hubiesen planteado aun los establecimientos para que se solicitaron."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2°",
+      "content": "ART. 2.°\nSe prohibe el corte de los árboles o arbustos en los lugares en que existen o aparecieren vertientes.\nEsta prohibicion rejirá con todos los árboles i arbustos silvestres situados a ménos de cuatrocientos metros arriba i a ménos de doscientos metros a cada lado de los manantiales; pero no rejirá con los árboles i arbustos situados cerca de los manantiales que nacen en terrenos planos regados."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3°",
+      "content": "ART. 3.°\nEl Presidente de la República dictará un reglamento que determine las reglas a que ha de someterse la esplotacion de los bosques en cada departamento, pudiendo prohibir el corte de árboles en los cerros hasta una altura que evite la destruccion del terreno vejetal."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4°",
+      "content": "ART. 4.°\nEsta lei comenzará a rejir desde el dia de su promulgacion."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135333",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1742",
+  "status": "in_force",
+  "issued_date": "1905-08-10",
+  "in_force_date": "1905-08-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135333",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- En atencion a los servicios prestados al pais por el ministro de la Corte de Apelaciones de Santiago, don José Manuel Infante, concédese, por gracia, a su viuda, una pension anual de mil quinientos pesos ($ 1,500), de la cual disfrutará con arreglo a las prescripciones de la lei de montepío militar\"."
+    }
+  ],
+  "definitions": []
+}

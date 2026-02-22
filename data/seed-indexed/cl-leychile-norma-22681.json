@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22681",
+  "type": "statute",
+  "title": "QUE FIJA LOS DIAS FERIADOS PARA LA CAJA DE CREDITO HIPOTECARIO I PARA LOS BANCOS",
+  "short_name": "Ley 1479",
+  "status": "in_force",
+  "issued_date": "1901-09-16",
+  "in_force_date": "1901-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22681",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. La Caja de Crédito Hipotecario i los Bancos podrán cerrar sus oficinas:\na) El Lunes, Mártes i Miércoles de Ceniza;\nb) El Jueves, Viérnes i Sábado de la Semana Santa;\nc) Los dias 18, 19 i 20 de Setiembre; i\nd) El dia 1.° de Julio de cada año."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Las obligaciones que vencieren en tales dias se rejirán, para su pago, por lo dispuesto en el artículo 111 del Código de Comercio."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Los establecimientos indicados en el artículo 1.°, podrán cerrar sus oficinas a las dos de la tarde, los dias Sábados de cada semana."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24793",
+  "type": "statute",
+  "title": "DESTINA LA SUMA DE $ 521.318, PARA ATENDER, POR EL PRESENTE AÑO, AL FUNCIONAMIENTO DE LOS ORGANISMOS CREADOS POR LA LEY DE PROTECCIÓN DE MENORES",
+  "short_name": "Ley 4636",
+  "status": "in_force",
+  "issued_date": "1929-08-13",
+  "in_force_date": "1929-08-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24793",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Destínase la suma de quinientos veintiún mil trescientos dieciocho pesos ($ 521,318), para atender hasta el 31 de Diciembre del presente año al funcionamiento de los servicios creados por ley 4,447, de 18 de Octubre de 1928, sobre Protección de Menores."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El gasto se cargará al mayor rendimiento que produzca la ley 4,536, de 17 de Enero último."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

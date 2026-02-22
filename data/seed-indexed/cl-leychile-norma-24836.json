@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-24836",
+  "type": "statute",
+  "title": "DISPONE QUE EN LOS CONTRATOS MUTUO DE DINERO O DE DEPOSITO EL INTERES NO PODRA EXCEDER EN MAS DE UNA MITAD AL TERMINO MEDIO DEL INTERES CORRIENTE BANCARIO EN EL SEMESTRE ANTERIOR.",
+  "short_name": "Ley 4694",
+  "status": "repealed",
+  "issued_date": "1929-11-22",
+  "in_force_date": "1974-05-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24836",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o En los contratos de mutuos de dinero o de depósito del mismo en que haya derecho a emplearlo, con arreglo al artículo 2221 del Código Civil, el interés convencional no podrá exceder en más de una mitad al término medio del interés corriente bancario en el semestre anterior.\nLa Superintendencia de Bancos dará a conocer ese término medio, por publicaciones que deberá hacer en el Diario Oficial en la primera quincena de Enero y Julio de cada año."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o En caso de contravención a lo dispuesto en el artículo anterior, se reducirá el interés convenido al interés legal. Este derecho es irrenunciable y será nula toda estipulación en contrario."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Para los efectos de los artículos precedentes, se considerarán intereses los que en forma directa se estipulen como tales y cualesquiera comisión, honorarios, costas, y en general toda otra prestación estipulada que tienda a aumentar la cantidad que debe pagar el deudor, sin perjuicio del derecho del acreedor para exigir el pago de las costas procesales y personales que fijare el Juez de la causa en la forma ordinaria."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Declarada la nulidad de la estipulación de intereses, en conformidad a las reglas precedentes, el acreedor sólo podrá exigir la devolución del capital entragado realmente, con más el interés legal. Si hubiere recibido por intereses más de lo que correponde, estará obligado a restituir el exceso."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o La presente ley no se aplicará a las instituciones y contratos que en cuanto a los intereses que se permita estipular, se rijan por disposiciones o leyes especiales."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Esta ley empezará a regir sesenta días después de su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio La Superintendencia de Bancos cumplirá por primera vez la obligación que le impone el inciso segundo del artículo 1.o dentro de los treinta días siguientes a la publicación de esta ley en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

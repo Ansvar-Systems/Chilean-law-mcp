@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24169",
+  "type": "statute",
+  "title": "LEI NUM. 3,680, QUE ORDENA DESCONTAR DIFERENCIAS DE SUELDOS A FAVOR DE LA CAJA DE RETIRO I MONTEPIO DEL EJERCITO I ARMADA.",
+  "short_name": "Ley 3680",
+  "status": "in_force",
+  "issued_date": "1920-11-11",
+  "in_force_date": "1921-03-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24169",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- La primera diferencia mensual entre los sueldos de que gozaba el personal del Ejército i Armada i los que han sido fijados por la lei núm. 3,636, de 26 de Julio último, se descontará a favor de la Caja de Retiro i Montepio del Ejército i Armada.\nDicho descuento deberá efectuarse siempre que en virtud de una lei de carácter permanente se aumenten los sueldos de ese mismo personal."
+    }
+  ],
+  "definitions": []
+}

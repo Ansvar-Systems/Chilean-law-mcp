@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24045",
+  "type": "statute",
+  "title": "LEI NUM. 3,532, QUE CONCEDE FONDOS PARA CANCELAR A LA IMPRENTA I LITOGRAFIA UNIVERSO LOS REJISTROS ELECTORALES DE LAS INSCRIPCIONES EFECTUADAS EN 1917.",
+  "short_name": "Ley 3532",
+  "status": "in_force",
+  "issued_date": "1919-08-21",
+  "in_force_date": "1919-09-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24045",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para pagar a la \"Imprenta i Litografía Universo\" la cantidad de catorce mil ochocientos cincuenta pesos ($ 14,850) que se le adeudan por la impresion de dos mil setecientos cuadernos de rejistros electorales destinados a las inscripciones efectuadas el año 1917."
+    }
+  ],
+  "definitions": []
+}

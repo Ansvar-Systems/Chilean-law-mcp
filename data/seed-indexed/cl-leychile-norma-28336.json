@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28336",
+  "type": "statute",
+  "title": "AUTORIZA OTORGAR EL PRESTAMO QUE INDICA A LOS\nEMPLEADOS Y OBREROS MUNICIPALES",
+  "short_name": "Ley 16104",
+  "status": "in_force",
+  "issued_date": "1965-01-08",
+  "in_force_date": "1965-01-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28336",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Autorízase al Presidente de la República para poner a disposición de las Municipalidades del país, las sumas necesarias para que éstas otorguen y paguen a sus personales de empleados y obreros y de los servicios dependientes creados por ellas, un anticipo individual de E° 75 con cargo a futuros reajustes sin sujeción a las limitaciones que establecen las leyes N°s 11.469 y 11.860.\nEste anticipo se deducirá en nueve cuotas iguales a partir del 1° de Mayo de 1965, de los sueldos y salarios correspondientes.\nEn ningún caso podrá persona alguna por efecto de la aplicación de la presente ley, percibir más de E° 75."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El mayor gasto que se produzca como consecuencia de la aplicación de la presente ley, se financiará haciendo uso de la facultad que concede el artículo 35° del decreto de Hacienda N° 5, de 15 de Febrero de 1963.\nSin embargo, las sumas que se entreguen a las Municipalidades, por aplicación de la presente ley, se imputarán a los pagos que por concepto de participación del 7% del Impuesto a la Renta, artículo 8° de la ley N° 15.564, efectúe el Fisco a las Municipalidades durante el año 1965."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Autorízase a las Municipalidades para modificar sus presupuestos vigentes, a fin de dar cumplimiento a lo dispuesto en la presente ley.\""
+    }
+  ],
+  "definitions": []
+}

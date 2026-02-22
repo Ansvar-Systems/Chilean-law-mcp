@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24099",
+  "type": "statute",
+  "title": "LEI NÚM. 3,596, QUE MODIFICA ALGUNAS PARTIDAS DEL ARANCEL ADUANERO.",
+  "short_name": "Ley 3596",
+  "status": "in_force",
+  "issued_date": "1920-01-16",
+  "in_force_date": "1920-02-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24099",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Modifícanse las partidas 687, 688 i 689 del Arancel Aduanero (lei número 3,066, de fecha 1.° de Marzo de 1916) en los siguientes términos:\n687 hasta el 31 de Diciembre de 1930, Libres 688 desde el 1.° de Enero de 1931, K.L.O. 12. 689 desde el 1.° de Enero de 1933, K.L.O. 24."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° La presente lei rejirá desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

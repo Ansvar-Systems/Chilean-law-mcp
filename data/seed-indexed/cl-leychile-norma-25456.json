@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25456",
+  "type": "statute",
+  "title": "AUTORIZA A LA UNIVERSIDAD DE CONCEPCION PARA\nINVERTIR EN EL DESARROLLO DE SUS ACTIVIDADES LOS\nINTERESES DEL CAPITAL DE RESERVA A QUE SE REFIERE LA LEY\nNUMERO 4,885.",
+  "short_name": "Ley 7185",
+  "status": "in_force",
+  "issued_date": "1942-06-25",
+  "in_force_date": "1942-07-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25456",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Autorízase a la Universidad de Concepción para invertir en el desarrollo de sus actividades los intereses del capital de reserva a que se refiere la letra b) del artículo 3.o de la Ley N.o 4,885, de 6 de Septiembre de 1930."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. Lo dispuesto en el artículo 1.o de esta ley será aplicable también a los intereses del capital de reserva acumulados con posterioridad al 1.o de Enero de 1941.\""
+    }
+  ],
+  "definitions": []
+}

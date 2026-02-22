@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24181",
+  "type": "statute",
+  "title": "LEI NÚM. 3,698, QUE AUMENTA LOS SUELDOS A LOS EMPLEADOS DE LA EMPRESA DE AGUA POTABLE DE VALPARAISO.",
+  "short_name": "Ley 3698",
+  "status": "in_force",
+  "issued_date": "1920-12-17",
+  "in_force_date": "1920-12-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24181",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para aumentar en un veinte por ciento (20%) los sueldos del personal de la Empresa de Agua Potable de Valparaiso i en uno por ciento la comision que se paga a los recaudadores de la misma.\nEl mayor gasto que importa este aumento se deducirá de las entradas jenerales de la Empresa.\nEl aumento rejirá desde el 1.° de Julio del presente año."
+    }
+  ],
+  "definitions": []
+}

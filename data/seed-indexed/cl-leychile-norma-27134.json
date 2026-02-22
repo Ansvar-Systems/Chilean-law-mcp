@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27134",
+  "type": "statute",
+  "title": "DECLARA QUE LOS EMPLEADOS A QUE SE REFIERE EL\nARTICULO 2.o DE LA LEY NUMERO 9,005 SON LOS QUE SEÑALA",
+  "short_name": "Ley 12476",
+  "status": "in_force",
+  "issued_date": "1957-08-01",
+  "in_force_date": "1957-08-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27134",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Se declara que los empleados a que se refiere el artículo 2.o de la ley N.o 9,005, de 10 de Septiembre de 1948, eran los que estaban en servicio activo al 30 de Mayo de 1947."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2.o Agrégase al final del inciso cuarto del artículo 5.o de la ley número 12,434, después de la frase \"de la ley N.o 10,336\", cambiando el punto (.) por punto y coma (;) lo siguiente: \"y Jefes de Departamento (1), Sub-Departamentos (4) y Secretario General del mismo Servicio.\"\n\"La modificación del inciso cuarto del artículo 5.o de la ley N.o 12,434 regirá a contar del 1.o de Febrero de 1957, fecha de publicación de la citada ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Las disposiciones del decreto con fuerza de ley N.o 401, de fecha 29 de Julio de 1953, les serán aplicables, desde su vigencia, al personal de la Corporación de Fomento de la Producción que hubiere jubilado con anterioridad a la dictación del decreto con fuerza de ley número 256, de fecha 24 de Julio de 1953.\""
+    }
+  ],
+  "definitions": []
+}

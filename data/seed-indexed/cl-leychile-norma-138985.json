@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-138985",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3149",
+  "status": "in_force",
+  "issued_date": "1916-12-22",
+  "in_force_date": "1916-12-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138985",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Autorízase a la Municipalidad de Santiago para contratar un empréstito que no exceda de seis millones de pesos, emitiendo bonos, con un interes anual hasta de ocho por ciento y con una amortizacion de dos por ciento, tambien anual."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Los bonos se colocarán a la par y su producto se destinará, esclusivamente, a solucionar las obligaciones pendientes de la Municipalidad, cuyo monto aproximado es el siguiente:\nCuenta en cartera $ 594,298 05\nEspropiaciones 2.815,000\nEspropiaciones pendientes 700,000\nCréditos pendientes 200,000\nCuenta del Banco de\nChile 1.000,000\nEstas obligaciones podrán ser pagadas con los bonos del empréstito que se autoriza, estimados a la par.\nLos pagos se harán sobre la base del estudio presentado a la Municipalidad por la Comision que examinó dichas cuentas, y previo informe de una junta compuesta de uno de los alcaldes, elejido por la Junta de Alcaldes; de un inspector de cuentas municipales, designado por el presidente del Tribunal de Cuentas y de uno de los miembros de la Comision referida, elejido por el Presidente de la República."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º El servicio del empréstito, que podrá ser semestral, se hará por la Tesorería Fiscal de Santiago. Se afecta a este servicio la contribucion territorial y sobre los inmuebles, establecida en los títulos I y II de la lei número 3,091, de 13 de abril de 1916, que corresponde al territorio municipal de Santiago, la que se pagará en dicha Tesorería."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Los tenedores de dichos bonos podrán cancelar en la Tesorería Municipal toda clase de contribuciones municipales con los cupones vencidos de ellos."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23005",
+  "type": "statute",
+  "title": "LEI NÚM. 1.913, QUE CONCEDE UNA GRATIFICACIÓN A LOS EMPLEADOS DEL CONGRESO",
+  "short_name": "Ley 1913",
+  "status": "in_force",
+  "issued_date": "1907-01-24",
+  "in_force_date": "1907-01-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23005",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Concédese, por una sola vez, una gratificacion de treinta por ciento sobre los sueldos percibidos durante el año de 1906, a los empleados de Secretaría i Redaccion de Sesiones del Senado i de la Cámara de Diputados i a los de la Biblioteca del Congreso."
+    }
+  ],
+  "definitions": []
+}

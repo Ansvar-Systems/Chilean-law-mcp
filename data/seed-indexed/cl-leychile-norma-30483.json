@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30483",
+  "type": "statute",
+  "title": "DECLARA FERIADO LEGAL EL DIA 22 DE ABRIL DE 1992",
+  "short_name": "Ley 19116",
+  "status": "in_force",
+  "issued_date": "1992-01-20",
+  "in_force_date": "1992-01-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30483",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Se declara feriado legal el 22 de abril de 1992, en atención a que dicho día se levantará el XVI Censo Nacional de Población y V de Vivienda."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Quedan prohibidas, desde las 6 hasta las 18 horas del día señalado, las actividades, espectáculos y reuniones públicas al aire libre o en recintos cubiertos, funciones teatrales, exhibiciones cinematográficas, competencias deportivas y eventos similares a los indicados.\nLa misma prohibición se extiende al funcionamiento de los restaurantes, supermercados, rotiserías, panaderías, bares, clubes, y, en general, a todo comercio de venta de artículos alimenticios y de bebidas, todos los cuales deberán permanecer cerrados hasta la hora indicada."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Todos los funcionarios y personal de los servicios y organismos fiscales, semifiscales, empresas del Estado, Municipalidades, Fuerzas Armadas y de Orden y Seguridad, que directa o indirectamente tengan alguna participación en el levantamiento censal, están obligados a cumplir con las funciones que les sean encomendadas para tal efecto.\"."
+    }
+  ],
+  "definitions": []
+}

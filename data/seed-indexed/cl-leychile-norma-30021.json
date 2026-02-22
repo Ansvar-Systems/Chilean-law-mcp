@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30021",
+  "type": "statute",
+  "title": "REEMPLAZA LOS INCISOS QUINTO Y SEXTO DEL ARTICULO 2°\nDE LA LEY N° 18.225, SOBRE DESAFILIACION DE LAS\nINSTITUCIONES DEL NUEVO SISTEMA DE PENSIONES",
+  "short_name": "Ley 18631",
+  "status": "in_force",
+  "issued_date": "1987-07-07",
+  "in_force_date": "1987-07-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30021",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Sustitúyense los incisos quinto y sexto del artículo 2° de la ley N° 18.225, por los siguientes, pasando el actual inciso séptimo a ser inciso final:\n\"Si el saldo neto acumulado en la cuenta individual no fuere suficiente, la diferencia que resultare entre dichas cotizaciones y el monto traspasado por la administradora de fondos de pensiones podrá ser pagada por el interesado total o parcialmente al contado.\nLos trabajadores dependientes podrán efectuar el pago del total o del saldo no cubierto al contado, mediante facilidades de pago de hasta sesenta mensualidades que les concederán las instituciones de previsión, en cuyo caso las cuotas sólo se reajustarán en los términos del inciso segundo y su pago deberá garantizarse de acuerdo con las instrucciones que imparta la Superintendencia de Seguridad Social. Las cuotas serán descontadas por planilla, por el empleador, y les serán aplicables las normas de la ley N° 17.322.\nSi se concedieren beneficios previsionales, el pago de las cuotas pendientes a que se refiere el inciso anterior, podrá descontarse o continuar descontándose de esos beneficios, a solicitud del interesado. Sin embargo, a petición del mismo, dichas cuotas también podrán descontarse de los beneficios establecidos en el inciso noveno de este artículo y con las modalidades allí señaladas.\nEn caso de incumplimiento en el pago de las cuotas, la respectiva institución de previsión podrá cobrar lo adeudado mediante el sistema de descuentos a que se refiere el inciso siguiente.\nSi el interesado no optare por el pago al contado o no hiciere uso de la alternativa de pago con facilidades, en su caso, la diferencia entre las cotizaciones y el monto traspasado será cubierto con cargo a las sumas que le correspondiere recibir con ocasión de los beneficios de desahucio o indemnización por años de servicios de carácter previsional. Si no tuviere derecho a tales beneficios o éstos fueren insuficientes, la diferencia le será descontada mensualmente de la pensión que pudiere corresponderle, en cuotas que no excedan el veinte por ciento de la misma.\nLos imponentes independientes y voluntarios gozarán de los mismos beneficios y estarán sujetos, en lo pertinente, a las mismas obligaciones consignadas en este artículo.\nPara los efectos del otorgamiento de beneficios previsionales, se entenderá que las imposiciones correspondientes al período por el cual se cotizó en administradoras de fondos de pensiones han sido completamente enteradas en la respectiva institución de previsión del régimen antiguo.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Las personas que sin tener la calidad de pensionadas, se encontraren desafiliadas del nuevo sistema de pensiones, podrán invocar los derechos contemplados en esta ley en lo que les fuere aplicable."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Los actuales pensionados que se hubieren acogido a la ley N° 18.225 podrán optar por la modalidad de pago establecida en el artículo 1° de esta ley. Si se acogieren al pago en cuotas, éstas serán descontadas de las pensiones."
+    }
+  ],
+  "definitions": []
+}

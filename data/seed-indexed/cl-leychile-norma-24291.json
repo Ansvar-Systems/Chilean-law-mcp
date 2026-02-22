@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24291",
+  "type": "statute",
+  "title": "LEI NUM. 3,847, QUE AUTORIZA A LA JUNTA DE BENEFICENCIA DE IQUIQUE PARA INVERTIR UNA CANTIDAD DEPOSITADA EN LA CAJA DE AHORROS EN LA CONSTRUCCION DE UN PABELLON DE MATERNIDAD.",
+  "short_name": "Ley 3847",
+  "status": "in_force",
+  "issued_date": "1922-02-11",
+  "in_force_date": "1923-08-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24291",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase a la Junta de Beneficencia de Iquique para invertir la suma de setenta i ocho mil seiscientos cuarenta i tres pesos noventa centavos ($ 78,643.90) que se encuentra depositada en la Caja Nacional de Ahorros de esa ciudad, en continuar la construccion del pabellon de maternidad, anexo al Hospital de Iquique."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135317",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1708",
+  "status": "repealed",
+  "issued_date": "1904-11-10",
+  "in_force_date": "1928-11-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135317",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- El producto de las patentes de minas establecidas por el título XII del Código de Minería de 20 de diciembre de 1888 continuará percibiéndose, desde el presente año, por las respectivas municipalidades y se aplicará anualmente en cada comuna al mantenimiento y conservacion de caminos: íntegramente si su monto fuere inferior al cincuenta por ciento de las entradas del Municipio y hasta concurrencia de ese cincuenta por ciento si fuere superior.\nSu recaudacion se hará en la forma que prescribe el decreto de 29 de setiembre de 1891."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-24623",
+  "type": "statute",
+  "title": "CREA UN SEGUNDO JUZGADO DE LETRAS DE MAYOR CUANTIA EN EL DEPARTAMENTO DE VALDIVIA.",
+  "short_name": "Ley 4276",
+  "status": "in_force",
+  "issued_date": "1928-02-01",
+  "in_force_date": "1928-02-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24623",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Créase en el departamento de Valdivia un segundo Juzgado de Letras de Mayor Cuantía. Este Juzgado tendrá un secretario y el demás personal necesario para el servicio, con los sueldos asignados a sus respectivos empleos en los otros Juzgados de igual categoría."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o En la misma forma establecida por la ley número 892, de 13 de Enero de 1897, modificada por la ley número 1,072, de 14 de Septiembre de 1898, se distribuirán los juicios criminales que se inicien por querellas en los lugares de asiento de Corte de Apelaciones en que hubiere más de un Juzgado en lo Criminal.\nEl ejercicio de la jurisdicción para los demás asuntos criminales, se dividirá conforme al artículo 39 de la Ley de Organización y Atribuciones de los Tribunales, de 15 de Octubre de 1875, por turno semanal que comenzará a las 24 horas del día Sábado de cada semana."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Mientras se instale el Juzgado que se crea por esta ley, continuará el actual Juzgado conociendo de todos los negocios pendientes hasta esa fecha."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Autorízase al Presidente de la República para invertir hasta la suma de $ 20,000 en la instalación del nuevo Juzgado. Esta suma se deducirá de la mayor entrada que produzca, durante el año 1928, la Ley de Impuesto sobre Timbres y Estampillas."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- La distribución de las causas civiles y criminales de que estuviere conociendo el actual Juzgado de Valdivia a la fecha en que se instale el Segundo Juzgado creado por esta ley, se hará por sorteo, una vez que éste comience a funcionar, por el Presidente de la Corte de Apelaciones respectiva."
+    }
+  ],
+  "definitions": []
+}

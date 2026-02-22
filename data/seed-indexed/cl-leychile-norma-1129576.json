@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-1129576",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1892-09-01",
+  "in_force_date": "1892-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1129576",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1°",
+      "content": "Art. 1.° Se establece en Santiago un Consejo Superior de Higiene Pública y un Instituto de Higiene, dependientes ambos del Ministerio del Interior."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2°",
+      "content": "Art. 2.° El Consejo Superior se compondrá de trece miembros: siete de ellos serán nombrados directamente por el Presidente de la República, tres elegirá la Municipalidad de Santiago y tres el mismo Consejo Superior de Higiene.\nSon también miembros permanentes los tres jefes de sección del Instituto de Higiene, pero no tendrán voto.\nLas funciones de los otros miembros del Consejo durarán tres años, pudiendo ser reelegidos indefinidamente.\nEntre las personas que nombrará el Presidente de la República habrá un ingeniero, un arquitecto y un jefe superior del Ejército ó de la Marina Nacional."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3°",
+      "content": "Art. 3.° Compete a los miembros del Consejo la designación de su Presidente y la elección de un secretario, que percibirá un sueldo anual de tres mil seiscientos pesos.\nEste último empleado deberá elegirse cada tres años, pudiendo ser removido siempre que la mayoría del Consejo así lo determine.\nLa secretaría del Consejo tendrá un escribiente con el sueldo anual de novecientos pesos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4°",
+      "content": "Art. 4.° Incumbe al Consejo de Higiene:\n1.° Estudiar é indicar a la autoridad respectiva todas las medidas de higiene que exijan las condiciones de salubridad de las poblaciones ó de los establecimientos públicos y particulares, como escuelas, cárceles, fábricas, talleres y otros relacionados con la higiene.\n2.° Servir de cuerpo consultivo en todos los casos en que las autoridades respectivas requieran su dictamen sobre medidas de higiene y salubridad.\n3.° Estudiar las medidas que deban adoptarse en orden a la calidad de los alimentos, bebidas, alcoholes y condimentos que se expendan en el comercio, y a las condiciones higiénicas del agua de las diversas poblaciones de la República y proponer a la autoridad respectiva las medidas que estimare conveniente sobre estos puntos.\n4.° Velar por el cumplimiento de los reglamentos que se dicten sobre higiene y salubridad pública.\n5.° Presentar al Presidente de la República una memoria anual de sus trabajos.\nEl Consejo, á fin de desempeñar las funciones que le están encomendadas, podrá pedir los datos e informaciones que estime necesarios a las autoridades nacionales y municipales y especialmente a los médicos de ciudad é ingenieros de provincia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5°",
+      "content": "Art. 5.° El Instituto de Higiene se encargará de los siguientes servicios:\n1.° Hacer los estudios científicos de higiene pública y privada que se le encomienden por el Consejo Superior y las que el director del Instituto estime de importancia.\n2.° Practicar los análisis químicos, bacteriológicos ó microscópicos de aquellas sustancias cuya composición pueda influir sobre la salubridad pública. Estos análisis serán aplicados á las materias enviadas por las autoridades administrativas, á las determinadas por la oficina y á las presentadas por los particulares.\nLos servicios que preste el Instituto á solicitud de particulares y en beneficio de éstos exclusivamente, serán remunerados.\nEl producto de estas remuneraciones deberá aplicarse a gastos del mismo Instituto.\n3.° Coordinar los datos que deben enviar las autoridades provinciales para la formación de la estadística médica y demográfica de toda la República."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6°",
+      "content": "Art. 6.° El Instituto de Higiene tendrá tres secciones: una de higiene y estadística, una de química y otra de microscopía y bacteriología.\nEstará servido por un director, jefe de la sección de higiene y estadística, y por dos jefes de las secciones de química y de microscopía y bacteriología. Cada sección tendrá dos ayudantes.\nEstos empleados serán nombrados por el Presidente de la República, á propuesta en terna del Consejo Superior de Higiene."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7°",
+      "content": "Art. 7.° El director del Instituto gozará del sueldo anual de cuatro mil pesos y los jefes de sección del sueldo anual de tres mil pesos cada uno.\nEl sueldo de los ayudantes será de mil doscientos pesos anuales cada uno.\nCada sección tendrá un portero encargado de ayudar en los laboratorios, con el sueldo de seiscientos pesos anuales cada uno.\nLos jefes de las secciones de química y de microscopía y bacteriología estarán obligados, cuando el Gobierno lo exija, á abrir cursos especiales para la enseñanza de los ramos de sus respectivas secciones."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "TRANSITORIO",
+      "title": "Artículo TRANSITORIO",
+      "content": "Artículo transitorio.- Autorízase al Presidente de la República para que pueda invertir hasta la cantidad de treinta mil pesos en la instalación del Instituto de Higiene."
+    }
+  ],
+  "definitions": []
+}

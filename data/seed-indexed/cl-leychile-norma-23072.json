@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23072",
+  "type": "statute",
+  "title": "LEI NUM. 2,024 QUE SUPRIME LA COMUNA DE CURACO I ANEXA SU TERRITORIO A LA DE COLLIPULLI.",
+  "short_name": "Ley 2024",
+  "status": "in_force",
+  "issued_date": "1907-09-09",
+  "in_force_date": "1907-09-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23072",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTÍCULO ÚNICO. Suprímese la comuna de Curaco i anéxase su territorio a la de Collipulli."
+    }
+  ],
+  "definitions": []
+}

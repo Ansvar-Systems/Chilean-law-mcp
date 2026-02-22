@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1161637",
+  "type": "statute",
+  "title": "GANADOS",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1832-10-18",
+  "in_force_date": "1832-10-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1161637",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Toda cabeza de ganado vacuno, que se interne por cordillera, pagará cuatro pesos de derechos; cada mula o caballo dos pesos; un peso cada burro, y cuatro reales las ovejas o carneros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° Este derecho principiará a cobrarse treinta días después de la promulgación de la presente lei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° El Gobierno queda encargado de hacer efectiva su recaudación, dictando las providencias convenientes."
+    }
+  ],
+  "definitions": []
+}

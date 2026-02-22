@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24250",
+  "type": "statute",
+  "title": "LEI NUM. 3,792, QUE EXIME DEL PAGO DE ALGUNAS CONTRIBUCIONES A LOS INDIJENAS RADICADOS EN COMUNIDAD.",
+  "short_name": "Ley 3792",
+  "status": "in_force",
+  "issued_date": "1921-09-05",
+  "in_force_date": "1921-09-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Los indíjenas radicados en comunidad con otros indíjenas, en conformidad a las leyes respectivas, están exentos del pago de la contribucion sobre bienes muebles e inmuebles establecida en la lei número 3,091, de 13 de Abril de 1916, i de la contribucion de caminos que prescribe la lei número 3,611, de 24 de Abril de 1920."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Condónanse a los mismos indíjenas, las sumas que actualmente estén adeudando en razon de contribuciones establecidas por las leyes citadas en el artículo 1°."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Esta lei comenzará a rejir desde el dia de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

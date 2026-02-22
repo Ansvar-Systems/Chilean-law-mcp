@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1198216",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4190",
+  "status": "in_force",
+  "issued_date": "1927-09-16",
+  "in_force_date": "1927-10-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1198216",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para comprar en la suma de doscientos cuatro mil quinientos pesos ($ 204,500), los terrenos que posee la Junta de Beneficencia de Santiago, con frente a la Plaza de la Avenida Pedro de Valdivia de esta ciudad, cuya superficie aproximada es de ocho mil ciento ochenta metros cuadrados (8,180 m. 2), y que deslindan: al Norte, con la calle nueva (Bilbao); al Sur, con propiedad de don Luis Vial O.; al Oriente, con la Plaza de la Avenida Pedro de Valdivia; y al Poniente, con propiedad del Estado Mayor del Ejército."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Autorízase a la Junta de Beneficencia para vender los expresados terrenos al Gobierno, sin remate público, en el precio expresado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La Junta de Beneficencia de Santiago fundará un censo a favor de la Casa de Huérfanos de Santiago, que redimirá en arcas fiscales, de trescientos cincuenta y siete mil ochocientos setenta y cinco pesos ($ 347,875), invirtiendo en su redención el capital de doscientos cuatro mil quinientos pesos 204,500), que le pagará el Fisco."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El gasto de catorce mil trescientos quince pesos ($ 14,315) que la compra importa por el presente año de 1927, se deducirá de los fondos provenientes de la venta de la casa de la Legación de Chile en Londres.\nPara el pago de las cuotas correspondientes de los años venideros, se consultarán las partidas respectivas en la Ley anual de Presupuestos."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

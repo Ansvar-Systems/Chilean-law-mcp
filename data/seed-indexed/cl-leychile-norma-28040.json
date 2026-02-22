@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28040",
+  "type": "statute",
+  "title": "SUSPENDE O CONDONA, EN SU CASO, LAS CONTRIBUCIONES A\nLOS BIENES RAICES A LOS CONTRIBUYENTES DE TODA LA ZONA\nAFECTADA POR LOS SISMOS DE MAYO DE 1960.",
+  "short_name": "Ley 15116",
+  "status": "in_force",
+  "issued_date": "1962-12-20",
+  "in_force_date": "1963-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28040",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Suspéndese la aplicación del artículo 51° de la ley 4.174, de 1927, respecto de toda la zona afectada por los sismos del 21 y 22 de mayo de 1960, y que se señala en ambos incisos del artículo 6° de la ley 14.171, de 1960, y en cuanto se refiere o afecte a todos los concesionarios u ocupantes por cualquier título, de terrenos fiscales, municipales o nacionales de uso público, que se encuentren destinados a la habitación popular, sea por intermedio de la Corporación de la Vivienda, en sus distintas denominaciones administrativas, o por otras instituciones de finalidades similares."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Condónanse las contribuciones a los bienes raíces como asimismo, los intereses, sanciones y multas, que adeuden hasta la fecha de publicación de esta ley las personas a que se refiere el artículo anterior\"."
+    }
+  ],
+  "definitions": []
+}

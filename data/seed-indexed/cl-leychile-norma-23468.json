@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-23468",
+  "type": "statute",
+  "title": "DISPONE QUE EL NOMBRAMIENTO DE MIEMBROS DE LAS JUNTAS RECEPTORAS PARA LA ELECCION ESTRAORDINARIA DE MUNICIPALES DE SANTIAGO SE HARA SIN SUJECION A LA LISTA DE MAYORES CONTRIBUYENTES I AUTORIZA LA ACUMULACION DE REJISTROS PARA UNA SOLA JUNTA  SUSPENDE LOS EFECTOS DE LA LEI DE MUNICIPALIDADES EN LA PARTE QUE DIVIDE EN CIRCUNSCRIPCIONES LA CIUDAD DE SANTIAGO PARA LA ELECCION DE REJIDORES I PARA LA ATENCION DE LOS SERVICIOS  DE LA CIUDAD I AUTORIZA A LA JUNTA ELECTORAL PARA DESIGNAR LOCALES A LAS JUNTAS RECEPTORAS SIN SUJECION A LA LEI DE ELECCIONES.",
+  "short_name": "Ley 2752",
+  "status": "in_force",
+  "issued_date": "1913-01-28",
+  "in_force_date": "1913-01-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23468",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero.- El nombramiento de miembros de las Juntas Receptoras que han de funcionar en la próxima eleccion de Municipalidades de Santiago se hará entre los electores del territorio municipal sin sujecion a los requisitos exijidos por los artículos 48, 49, 50 i 51 de la lei de Elecciones."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- La autoridad encargada de los nombramientos podrá acumular hasta cuatro rejistros para una sola Junta Receptora."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Se suspende los efectos de los incisos tercero i cuarto del artículo 2.° de la lei de 22 de Diciembre de 1891 para la próxima eleccion de los treinta municipales que deben componer la Municipalidad de Santiago."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- La Junta Electoral designará los locales donde deberán funcionar las Juntas Receptoras, sin sujecion a lo dispuesto en la Lei de Elecciones."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°- Esta lei rejirá desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

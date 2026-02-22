@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-270004",
+  "type": "statute",
+  "title": "MODIFICA LA LEY DE ORGANIZACION Y ATRIBUCIONES DE LOS TRIBUNALES DE 15 DE OCTUBRE DE 1875",
+  "short_name": "Ley 5245",
+  "status": "in_force",
+  "issued_date": "1933-09-13",
+  "in_force_date": "1933-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=270004",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Suprímese en el número 3.o del artículo 51 de la Ley de Organización y Atribuciones de los Tribunales, de 15 de Octubre de 1875, las expresiones: \"civiles y otra de las\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Agrégase al final del artículo 51 de la misma ley, el siguiente inciso:\n\"4.o Cada mes, una lista de las causas civiles y criminales falladas en el mismo mes, y de todas las que se encuentren en estado de sentencia, con indicación de las fechas respectivas\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley empezará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

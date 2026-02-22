@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24394",
+  "type": "statute",
+  "title": "LEI NÚM. 4,002, QUE INTERPRETA EL ARTÍCULO 45 (54);DE LA CONSTITUCION, QUE TRATA DEL QUORUM QUE SE REQUIERE PARA QUE PUEDAN SESIONAR EL SENADO Y LA CÁMARA DE DIPUTADOS.",
+  "short_name": "Ley 4002",
+  "status": "in_force",
+  "issued_date": "1924-02-26",
+  "in_force_date": "1924-02-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24394",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Se entenderá cumplida la condicion que requiere el artículo 45 (54) de la Constitucion para que el Senado o la Cámara de Diputados puedan continuar en sesion, siempre que en el recinto dentro del cual la respectiva Cámara funcione, se encuentre presente la tercera parte de los miembros del Senado o la cuarta parte de los miembros de la Cámara de Diputados; pero, para entrar en sesion y tomar acuerdos o votaciones, es necesario que esos miembros estén presentes en la sala.\nLa presente disposicion no tendrá efecto cuando las leyes o reglamentos de las Cámaras requieran la permanencia de un número determinado dentro de la sala."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Esta lei comenzará a rejir desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

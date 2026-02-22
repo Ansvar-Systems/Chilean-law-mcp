@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1204223",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 17.288, SOBRE MONUMENTOS NACIONALES, CON EL OBJETO DE FORTALECER LA PUBLICIDAD DE LAS SESIONES DEL CONSEJO DE MONUMENTOS NACIONALES",
+  "short_name": "Ley 21677",
+  "status": "in_force",
+  "issued_date": "2024-06-10",
+  "in_force_date": "2024-06-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1204223",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "primero",
+      "title": "Artículo primero",
+      "content": "\"Artículo primero.- Modifícase la ley N° 17.288, que legisla sobre Monumentos Nacionales, modifica las leyes N° 16.617 y N° 16.719, y deroga el decreto ley N° 651, de 17 de octubre de 1925, de la siguiente forma:\n1. Agrégase, en el artículo 3°, el siguiente inciso segundo:\n\"El Secretario deberá publicar las actas de las sesiones plenarias y de las comisiones técnicas en la plataforma o sitio web del Consejo de Monumentos Nacionales en el plazo de cinco días hábiles desde su aprobación en la sesión más próxima a la de su celebración.\".\n2. Intercálanse, en el artículo 5°, los siguientes incisos segundo y tercero, nuevos, pasando el actual inciso segundo a ser inciso cuarto:\n\"Las sesiones plenarias del Consejo deberán ser grabadas y transmitidas en directo por el medio más idóneo y, además, publicadas íntegramente en un plazo máximo de tres días hábiles desde su celebración, en la plataforma que se disponga para dicho efecto en el sitio oficial del Consejo de Monumentos Nacionales. El Consejo deberá sesionar, al menos, dos veces al mes.\nCon todo, podrá declararse la reserva o el secreto de la sesión, cuando las temáticas a tratar correspondan a alguna de las causales establecidas en el artículo 21 del artículo primero de la ley N° 20.285, sobre acceso a la información pública, lo que deberá ser acordado de manera fundada por los dos tercios de los miembros presentes en la sesión.\"."
+    },
+    {
+      "provision_ref": "artsegundo",
+      "section": "segundo",
+      "title": "Artículo segundo",
+      "content": "Artículo segundo.- Intercálase, en el numeral 2 del artículo 4° de la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, entre las frases \"del Consejo de Alta Dirección Pública,\" y \"del Instituto Nacional de Derechos Humanos\", lo siguiente: \"del Consejo de Monumentos Nacionales,\"."
+    },
+    {
+      "provision_ref": "arttercero",
+      "section": "tercero",
+      "title": "Artículo tercero",
+      "content": "Artículo tercero.- Intercálase, en el numeral 7) del inciso primero del artículo 4° de la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, entre las frases \"del Consejo Nacional de Televisión,\" y \"del Instituto Nacional de Derechos Humanos\", lo siguiente: \"del Consejo de Monumentos Nacionales,\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- El mayor gasto fiscal que represente esta ley durante su primer año de vigencia se financiará con cargo a la partida presupuestaria del Ministerio de las Culturas, las Artes y el Patrimonio y, en lo que faltare, con cargo a la partida presupuestaria del Tesoro Público. En los años siguientes, se financiará con cargo a los recursos que se establezcan en las respectivas leyes de Presupuestos del Sector Público.\"."
+    }
+  ],
+  "definitions": []
+}

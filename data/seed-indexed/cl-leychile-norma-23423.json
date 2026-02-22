@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23423",
+  "type": "statute",
+  "title": "FACULTA A LA COMISION MISTA DE PRESUPUESTOS PARA QUE DISTRIBUYA EL CALCULO DE LAS ENTRADAS PROBABLES DE LA NACION ENTRE LOS DIVERSOS MINISTERIOS I DISPONE QUE LAS INDICACIONES MODIFICATORIAS DEL PRESUPUESTO SE HAGAN ANTE LA COMISION MISTA, I QUE LOS AUMENTOS PROPUESTOS EN LAS CAMARAS SE TRAMITEN COMO PRYECTOS DE LEI.",
+  "short_name": "Ley 2672",
+  "status": "in_force",
+  "issued_date": "1912-08-16",
+  "in_force_date": "1912-08-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23423",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- La Comision Mista de Senadores i Diputados, que debe informar sobre el proyecto de lei de presupuesto, aprobará previamente el cálculo de las entradas probables i fijará la suma total de dichas entradas i su distribucion entre los diversos Departamentos de Estado, de manera que queda determinado el máximum de los gastos de cada Departamento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Dentro de la suma máxima asignada a cada Departamento de Estado podrán los Ministros, Senadores i Diputados hacer oportunamente las indicaciones de aumento, disminucion o variacion que estimen convenientes. Esas indicaciones se haran ante la Comision Mista en el momento de la discusion de cada presupuesto i podrán formularse por todos los Senadores i Diputados, aunque no pertenezcan a la Comision Mista."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- La Comision Mista se pronuciará sobre todas las indicaciones formuladas, aceptándolas, modificandolas o rechazándolas, pero en ningun caso podrá excederse la suma máxima asignada a cada Ministerio."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- En la discusion del presupuesto en las Cámaras no podrán hacerse indicaciones de aumento de ninguna especie. Las indicaciones de este órden que en la discusion de los presupuestos se presentaren, se tramitarán como proyectos de lei."
+    }
+  ],
+  "definitions": []
+}

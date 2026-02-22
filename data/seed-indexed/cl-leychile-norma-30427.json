@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30427",
+  "type": "statute",
+  "title": "REAJUSTA INGRESO MINIMO MENSUAL",
+  "short_name": "Ley 19060",
+  "status": "in_force",
+  "issued_date": "1991-05-22",
+  "in_force_date": "1991-05-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30427",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Elévase, a contar del 1° de junio de\n1991, de $26.000.- a $ 33.000.- el monto del ingreso\nmínimo mensual a que se refiere el inciso primero del\nartículo 4° de la ley N° 18.806.\nReajústanse, a contar de la misma fecha, en un 26,9%, el ingreso mínimo mensual que perciben los trabajadores menores de 18 años de edad, a que se refiere el inciso primero del artículo 3° de la ley N° 18.774 y el que se emplea para fines no remuneracionales a que se refiere el inciso primero del artículo 5° de la ley N° 18.647, modificada por la ley N° 18.870."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Lo dispuesto en el artículo anterior no se aplicará para el cálculo de las remuneraciones de los profesionales funcionarios a que se refiere el artículo 7° de la ley N° 15.076, modificado por el artículo 8° de la ley N° 18.018."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- El mayor gasto fiscal que represente, durante el año 1991, la aplicación de esta ley, se financiará con transferencias del ítem 50-01-03-25-\n33.004 de la partida Tesoro Público del Presupuesto vigente.\"."
+    }
+  ],
+  "definitions": []
+}

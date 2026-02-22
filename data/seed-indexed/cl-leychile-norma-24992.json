@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24992",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5008",
+  "status": "in_force",
+  "issued_date": "1931-12-11",
+  "in_force_date": "1931-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24992",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o- Redúcese en la suma de cuatro millones quinientos mil pesos ($ 4.500,000) el ítem E-06-01-h del Presupuesto Extraordinario para el año en curso."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Traspásase la suma de cuatro millones quinientos mil pesos ($ 4.500,000) indicada en el artículo precedente, al ítem, E-14-03-k del mismo Presupuesto, que consulta fondos para el camino de Concepción a Bulnes, pudiendo invertirse los recuros de este ítem en el pago de las obras realizadas y en la prosecución de los trabajos según lo convenido en conformidad al decreto supremo número 1,351, de 31 de Agosto de 1931."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

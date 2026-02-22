@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23208",
+  "type": "statute",
+  "title": "LEI NÚM. 2.223, QUE AGREGA UN ÍTEM AL PRESUPUESTO DE INSTRUCCIÓN PÚBLICA A FAVOR DEL DEUTSCHE SCHULE",
+  "short_name": "Ley 2223",
+  "status": "in_force",
+  "issued_date": "1909-11-15",
+  "in_force_date": "1909-11-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23208",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Agrégase a la lei de Presupuestos del Ministerio de Instruccion Pública, a continuacion del ítem 3,421, el siguiente:\nItem... Al Deutsche Schule, seis mil pesos ($ 6,000)"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23876",
+  "type": "statute",
+  "title": "LEI NÚM. 3.297, QUE PROHIBE LA ESPORTACIÓN DE LOS METALES VIEJOS O USADOS, QUE SE INDICAN",
+  "short_name": "Ley 3297",
+  "status": "in_force",
+  "issued_date": "1917-09-21",
+  "in_force_date": "1917-09-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23876",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República por exijirlo así el interes nacional, para que pueda prohibir la esportacion de los siguientes metales viejos o usados: hierro, cobre, plomo i zinc o sus aleaciones."
+    }
+  ],
+  "definitions": []
+}

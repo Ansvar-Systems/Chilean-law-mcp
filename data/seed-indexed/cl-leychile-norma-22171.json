@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22171",
+  "type": "statute",
+  "title": "PABLO WILKINSON",
+  "short_name": "Ley 320",
+  "status": "in_force",
+  "issued_date": "1895-12-13",
+  "in_force_date": "1895-12-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22171",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se declara, por gracia, que el ex-teniente del Ejército constitucional, don Pablo Wilkinson, tiene opcion a los beneficios que acuerda el artículo 3.° de la lei de 2 de Febrero de 1892."
+    }
+  ],
+  "definitions": []
+}

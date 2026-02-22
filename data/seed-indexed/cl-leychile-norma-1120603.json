@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1120603",
+  "type": "statute",
+  "title": "Municipalidad de Valparaíso",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1862-10-08",
+  "in_force_date": "1862-10-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1120603",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "ARTÍCULO ÚNICO.\nApruébese la estipulacion contenida en el art. 5.° de las propuestas presentadas por don Josué Waddington a la Municipalidad de Valparaiso i aprobadas por ésta en sesion de 7 de febrero de 1855, en virtud de la cual dicha Municipalidad cede a favor de la empresa iniciada por Waddington el derecho a percibir de los particulares el impuesto creado por la lei de 28 de agosto de 1849, siempre que este impuesto llegase a establecerse en la ciudad de Valparaiso."
+    }
+  ],
+  "definitions": []
+}

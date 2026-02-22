@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23720",
+  "type": "statute",
+  "title": "APRUEBA LOS PRESUPUESTOS DE GASTOS DE LA NACION PARA EL AÑO DE 1916",
+  "short_name": "Ley 3080",
+  "status": "in_force",
+  "issued_date": "1916-04-05",
+  "in_force_date": "1916-04-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23720",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Moneda corriente Oro\n________________ _____\nMinisterio del Interior___$ 54.713,446.06 464,240.00\nMinisterio de Relaciones\nEsteriores, Culto i\nColonizacion: Seccion de\nRelaciones Esteriores_____ 300,449.84 1.007,315.35\nSeccion de Culto__________ 1.474,581.00\nSeccion de Colonizacion___ 1.238,715.00\nMinisterio de Justicia____ 10.734,402.88\nMinisterio de Instruccion\nPública___________________ 32.875,213.52 258,615.92\nMinisterio de Hacienda____ 16.262,783.74 52.072,899.96\nMinisterio de Guerra______ 44.135,940.27 365,437.00\nMinisterio de Marina______ 17.810,998.89 20.190,514.19\nMinisterio de Industria i\nObras Públicas____________$ 19.763,898.11 359,311.62\nMinisterio de Ferrocarriles 8.711,400.00 1,833.33\n______________________________\nTotal___________$ 108.021,829.31$74.720,167.37\nLo que dá un total de doscientos ocho millones veintiun mil ochocientos veintinueve pesos treinta i un centavos en billete i de setenta i cuatro millones setecientos veinte mil ciento sesenta i siete pesos treinta i siete centavos oro de dieciocho peniques."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-136874",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2192",
+  "status": "in_force",
+  "issued_date": "1909-08-30",
+  "in_force_date": "1909-09-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136874",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.º.- Se posterga el plazo fijado por la lei de 29 de diciembre de 1904 para la conversion del papel-moneda de curso forzoso hasta el 1º de enero de 1915; pero si ántes de esa fecha el término medio del cambio internacional hubiere sido durante seis meses de diecisiete peniques, el Presidente de la República dispondrá que la conversion se lleve a efecto dentro de los seis meses siguientes.\nSe postergan, igualmente, por el término de cinco años los demas plazos consultados en la citada lei de 29 de diciembre de 1904."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Los fondos de conversion que, a virtud de las leyes vijentes, están afectos esclusivamente al pago de los billetes fiscales se incrementarán:\na) Con quinientos mil pesos, oro de dieciocho peniques, que la Dirección del Tesoro entregará mensualmente a la Casa de Moneda, tomándolos de las rentas de Aduana, a contar desde el 1.º de enero de 1910.\nEl Presidente de la República podrá depositar estos fondos en Europa o en Estados Unidos en la forma i condiciones establecidas en el artículo 6.º de la lei de 29 de diciembre de 1904.\nb) Con el producto de la venta de terrenos salitrales i de terrenos magallánicos que se enajenaren con arreglo a las leyes, ántes del dia 1.º de enero de 1913."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º En el primer semestre de 1914, o ántes si se decreta la conversion del papel fiscal en conformidad a esta lei, el Presidente de la República hará trasladar a Chile los fondos destinados a la acuñacion."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Derógase el artículo 15 de la lei número 1,992, de 27 de agosto de 1907, que autoriza la contratacion de un empréstito hasta de cuatro millones quinientas mil libras esterlinas (L 4.500,000), destinado a completar el fondo de conversion."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º Se derogan las leyes anteriores en lo que fueren contrarias a la presente\"."
+    }
+  ],
+  "definitions": []
+}

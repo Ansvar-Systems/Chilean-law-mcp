@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25123",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N.o 5,494, DE 25 DE SEPTIEMBRE DE\n1934",
+  "short_name": "Ley 5514",
+  "status": "in_force",
+  "issued_date": "1934-12-05",
+  "in_force_date": "1935-01-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25123",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Reemplázase el artículo 3.o de la ley N.o 5,494, de 25 de Septiembre de 1934, por el siguiente:\n\"Art. 3.o Restablécese para el departamento de Concepción, el Segundo Juzgado de Letras de Mayor Cuantía, suprimido por el decreto con fuerza de ley N.o 253, de 20 de Mayo de 1931.\n\"La planta y los sueldos anuales del personal de este Juzgado serán los siguientes:\nUn juez letrado de Mayor Cuantía_ $ 33,750\nUn secretario del Juzgado________ 30,000\nUn oficial 1.o___________________ 12,750\nUn oficial 2.o___________________ 9,750\nUn oficial 3.o___________________ 8,060\nUn oficial 4.o___________________ 5,940\nUn oficial de sala_______________ 5,265\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La Corte de Apelaciones de Concepción distribuirá los expedientes civiles, criminales y de jurisdicción voluntaria, en tramitación en los dos Juzgados de Mayor Cuantía de dicho departamento, de manera que el trabajo quede repartido equitativamente en los tres Juzgados."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde el 1.o de Enero de 1935."
+    }
+  ],
+  "definitions": []
+}

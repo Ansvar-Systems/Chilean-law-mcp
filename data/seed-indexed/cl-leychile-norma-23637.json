@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23637",
+  "type": "statute",
+  "title": "INDICA EL PROCEDIMIENTO QUE SE SEGUIRÁ PARA LOS EFECTOS DE LOS PAGOS QUE DEBEN HACER LOS VECINOS DE CONCEPCION POR LOS TRABAJOS DE PAVIMENTACION; Y AUTORIZA A LA JUNTA RESPECTIVA PARA FIJAR LA CLSE DE MATERIAL QUE SE EMPLEARÁ EN ESTAS OBRAS",
+  "short_name": "Ley 2973",
+  "status": "in_force",
+  "issued_date": "1915-01-15",
+  "in_force_date": "1915-01-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23637",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Para los efectos de los pagos que deben hacer los vecinos en conformidad al artículo 16 de la lei número 2,658, de 7 de Junio de 1912, la Junta encargada de los trabajos de pavimentacion de la ciudad de Concepcion, una vez aceptada la propuesta de pavimentacion de la calle o acera, publicará durante cinco dias en un periódico del departamento la lista de los propietarios i las sumas con que proporcionalmente deben contribuir, a fin de que entablen los reclamos del caso a que hubiere lugar. Los reclamos deberán formularse dentro de los diez dias siguientes, a contar del último dia de la publicacion i la Junta resolverá sobre ellos en la primera sesion que celebre despues de espirado dicho plazo. La lista rectificada se publicará nuevamente durante dos dias en un periódico del departamento i, verificada esta publicacion, los propietarios deberán enterar en la Tesorería Fiscal las sumas que les corresponde pagar, en el plazo de quince dias despues de terminada la pavimentacion, bajo apercibimiento de serles cobradas ejecutivamente en la forma prescrita para el cobro de la contribucion de haberes.\nEl ejercicio judicial de estas acciones corresponde a la Municipalidad de Concepcion en la forma ordinaria."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- El propietario de un solo predio cuyo valor de tasacion no exeda de $ 5,000 no estará obligado a pagar sino la mitad del valor de la pavimentacion de la acera que da frente a su propiedad."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- El valor de la cuarta parte de la pavimentacion de las calles que corresponde pagar a los propietarios ingresará a la Tesorería Fiscal a incrementar los fondos de la pavimentacion."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°- La Junta de Pavimentacion fijará la clase de material que debe emplearse en la pavimentacion de las calzadas i aceras."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22360",
+  "type": "statute",
+  "title": "FERROCARRIL ENTRE SANTIAGO I VALPARAISO. SE AUTORIZA LA INVERSION DE 20,000 PESOS PARA FORMAR PLANOS I PRESUPUESTOS DE UNO NUEVO  .",
+  "short_name": "Ley 1032",
+  "status": "in_force",
+  "issued_date": "1898-01-28",
+  "in_force_date": "1898-01-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22360",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la cantidad de veinte mil pesos en las planos i presupuestos de un nuevo ferrocarril que una las ciudades de Santiago i Valparaiso."
+    }
+  ],
+  "definitions": []
+}

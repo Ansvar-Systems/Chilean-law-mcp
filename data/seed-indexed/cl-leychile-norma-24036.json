@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24036",
+  "type": "statute",
+  "title": "LEI NUM. 3,523, QUE CONCEDE FONDOS PARA LA BENEFICENCIA DE CONCEPCION",
+  "short_name": "Ley 3523",
+  "status": "in_force",
+  "issued_date": "1919-08-04",
+  "in_force_date": "1919-08-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24036",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de cincuenta mil pesos ($ 50,000) en pagar a la Junta de Beneficencia de Concepcion los gastos que le ha ocasionado la epidemia del tifus exantemático.\nCon este objeto el Supremo Gobierno dispondrá de los fondos que le fueron entregados a la Municipalidad de Concepcion para el establecimiento de almacenes.\nEsta lei comenzará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

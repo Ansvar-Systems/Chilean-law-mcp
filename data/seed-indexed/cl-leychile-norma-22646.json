@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22646",
+  "type": "statute",
+  "title": "FERROCARRIL DE SERENA A RIVADAVIA  800,000 PESOS",
+  "short_name": "Ley 1436",
+  "status": "in_force",
+  "issued_date": "1901-01-19",
+  "in_force_date": "1901-01-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22646",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para invertir hasta la suma de ochocientos mil pesos en pagar los trabajos hechos en la construccion del ferrocarril de Serena a Rivadavia."
+    }
+  ],
+  "definitions": []
+}

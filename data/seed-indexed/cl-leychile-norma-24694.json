@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24694",
+  "type": "statute",
+  "title": "DECLARA QUE LA LEY SOBRE PAVIMENTACION NUMERO 1,463, SE APLICARA A LA POBLACION DE VIÑA DEL MAR, PARA TODAS AQUELLAS CALLES QUE LA JUNTA PRO-BALNEARIO DE ESA CIUDAD ACUERDE PAVIMENTAR CON FONDOS DEL EMPRESTITO AUTORIZADO POR LEY 4,283, EN CUANTO SE OBLIGA A LOS DUEÑOS DE PROPIEDADES A PAGAR LA MITAD DEL VALOR DEL PAVIMENTO DE LAS CALLES Y ACERAS FRENTES A SUS PREDIOS.",
+  "short_name": "Ley 4377",
+  "status": "in_force",
+  "issued_date": "1928-07-31",
+  "in_force_date": "1928-08-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24694",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o La ley sobre pavimentación número 1,463, de 11 de Julio de 1901, se aplicará a la población de Viña del Mar, para todas aquellas calles de la ciudad que la Junta Pro-Balneario de Viña del Mar acuerde pavimentar con los fondos del empréstituto autorizado por ley número 4,283, de 16 de Febrero de 1928, en cuanto se obliga a los dueños de propiedades a pagar la mitad del valor de los pavimentos de las calles y aceras frente a sus predios.\nEl procedimiento para el cobro de esos valores, será el señalado por el artículo 7.o de la ley número 2,712, de 25 de Noviembre de 1912, otorgándose a la Junta Pro-Balneario de Viña del Mar, todas las facultades concedidas a la Municipalidad en la citada disposición legal."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La presente ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

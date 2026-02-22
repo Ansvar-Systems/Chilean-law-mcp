@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-219209",
+  "type": "statute",
+  "title": "MODIFICA EL CODIGO DEL TRABAJO Y EL ESTATUTO ADMINISTRATIVO, CON EL FIN DE PERMITIR ACUERDOS EN MATERIA DE DESCANSO SEMANAL",
+  "short_name": "Ley 19920",
+  "status": "in_force",
+  "issued_date": "2003-12-12",
+  "in_force_date": "2003-12-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=219209",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º.- Introdúcense las siguientes modificaciones al Código del Trabajo:\na) Agrégase, a continuación del artículo 35, el siguiente artículo 35 bis, nuevo:\n\"Artículo 35 bis.- Las partes podrán pactar que la jornada de trabajo correspondiente a un día hábil entre dos días feriados, o entre un día feriado y un día sábado o domingo, según el caso, sea de descanso, con goce de remuneraciones, acordando la compensación de las horas no trabajadas mediante la prestación de servicios con anterioridad o posterioridad a dicha fecha. No serán horas extraordinarias las trabajadas en compensación del descanso pactado.\nDicho pacto deberá constar por escrito. Tratándose de empresas o faenas no exceptuadas del descanso dominical, en ningún caso podrá acordarse que la compensación se realice en día domingo.\", y\nb) Sustitúyese, en el artículo 36, la frase \"en el artículo anterior\" por \"en los dos artículos anteriores\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- Agrégase al artículo 104 de la ley Nº 18.834, que contiene el Estatuto Administrativo, el siguiente inciso segundo, nuevo:\n\"Podrán, asimismo, solicitar que los días hábiles insertos entre dos feriados, o un feriado y un día sábado o domingo, según el caso, puedan ser de descanso, con goce de remuneraciones, en tanto se recuperen con otra jornada u horas de trabajo, realizadas con anterioridad o posterioridad al feriado respectivo.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3º.- Agrégase el siguiente inciso segundo al artículo 108 de la ley Nº 18.883, Estatuto Administrativo de los Funcionarios Municipales:\n\"Los funcionarios municipales podrán solicitar que los días hábiles insertos entre dos feriados, o un feriado y un día sábado o domingo, según el caso, puedan ser de descanso, con goce de remuneraciones, en tanto se recuperen con otra jornada u horas de trabajo, realizadas con anterioridad o posterioridad al feriado respectivo.\".\"."
+    }
+  ],
+  "definitions": []
+}

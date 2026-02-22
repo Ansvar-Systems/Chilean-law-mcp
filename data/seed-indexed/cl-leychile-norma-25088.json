@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25088",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5339",
+  "status": "in_force",
+  "issued_date": "1933-12-29",
+  "in_force_date": "1934-01-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25088",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para proponer al Congreso Nacional, antes del 31 de Enero de 1934 un proyecto de ley que consulte la creación de ítem nuevos en el Presupuesto del año próximo y el suplemento de otros ítem que estime insuficientes para la atención de los servicios de cesantía, beneficencia y obras públicas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Para los efectos que contempla el artículo anterior, suspéndense las disposiciones de los artículos 30 y 33 de la ley N.o 4,520, de 3 de Enero de 1929."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La discusión en el Congreso Nacional del referido proyecto de ley se hará de acuerdo con las siguientes normas:\nTendrá su origen en la Cámara de Diputados, será informado por la Comisión Mixta que estudió el Presupuesto para 1934, dentro del plazo de diez días, contados desde que se dé cuenta de él en la Cámara.\nPasado este plazo, quedará en tabla y la Cámara lo discutirá en general y particular a la vez.\nRegirán especialmente, en la discusión de este proyecto, las restricciones establecidas en el N.o 4 del artículo 44 de la Constitución Política y el inciso 3.o del artículo 146 del Reglamento de la Cámara.\nEl Senado, como Cámara revisora, procederá en igual forma y en las mismas condiciones que se establecen para la Cámara de Diputados en el inciso anterior.\nEn caso de que proceda tercero, cuarto o quinto trámite constitucionales, cada uno de ellos no podrá ocupar más de una sesión."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-145789",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4390",
+  "status": "in_force",
+  "issued_date": "1928-08-16",
+  "in_force_date": "1928-09-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=145789",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Declárase de utilidad pública el terreno de propiedad de la Liga Chilena de Higiene Social, ubicado en la calle del Cerro N.o 199, de esta ciudad, arrendado actualmente por el Fisco para la Dirección General de Carabineros de Chile, repartición ésta a la cual se destinará dicho terreno para la habilitación de sus dependencias.\nLa expropiación se verificará de acuerdo con la ley de 18 de Junio de 1857, y el gasto que importe el cumplimiento de la presente ley, se deducirá de la economía que produzcan, durante el año 1928, las plazas vacantes de la planta de Carabineros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Esta ley empezará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

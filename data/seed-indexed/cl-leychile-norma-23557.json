@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23557",
+  "type": "statute",
+  "title": "AUTORIZA LA INVERSION DEL SALDO DE LA SUMA CONCEDIDA POR LEI NUM. 2,270 EN PAGAR GASTOS DE LA ESCUELA MILITAR DE AERONAUTICA I CONSTRUCCIONES EN EL CUARTEL DE ARTILLERIA DE COSTA I EN LOS ALMACENES DE SUBSISTENCIAS DEL EJERCITO.",
+  "short_name": "Ley 2871",
+  "status": "in_force",
+  "issued_date": "1914-02-09",
+  "in_force_date": "1914-02-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23557",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para que, de la suma de $ 500,000, concedida por lei núm. 2,770 de 11 de Febrero de 1913, pueda invertir el saldo de $ 120,655.21, en los siguientes servicios:\n1.°- Para pagar los gastos hechos en el\nsostenimiento de la Escuela Militar de\nAeronáutica durante el año 1913___________$49,946\n2.°- Para pagar el saldo que se debe por las\nconstrucciones hechas en el cuartel de\nArtillería Chorrillos de guarnicion en\nTalca_____________________________________ 27,821\n3.°- Para la continuacion de los Almacenes de\nSubsistencias del Ejército________________ 42,888.21"
+    }
+  ],
+  "definitions": []
+}

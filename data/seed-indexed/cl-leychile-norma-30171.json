@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-30171",
+  "type": "statute",
+  "title": "EXIME DEL PAGO DE DERECHOS CONSULARES LA\nLEGALIZACION DE DOCUMENTOS EMITIDOS EN EL EXTRANJERO\nPARA LOS EFECTOS DE LA LEY N° 18.787",
+  "short_name": "Ley 18793",
+  "status": "in_force",
+  "issued_date": "1989-04-28",
+  "in_force_date": "1989-05-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30171",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- La legalización de los documentos emitidos en el extranjero que sean necesarios para acogerse a los beneficios de la ley N° 18.787, estará exenta del pago de los derechos consulares establecidos en la ley N° 18.340.\nLos Cónsules de Chile que intervengan en el proceso de legalización de dichos documentos deberán estampar en ellos la leyenda \"Exento del pago de derechos consulares\"."
+    }
+  ],
+  "definitions": []
+}

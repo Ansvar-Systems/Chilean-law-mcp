@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28447",
+  "type": "statute",
+  "title": "AUTORIZA A LA UNIVERSIDAD DE CHILE IMPORTAR LOS\nEQUIPOS, MATERIALES Y ELEMENTOS QUE SEÑALA Y MODIFICA LA\nLEY N° 11.519",
+  "short_name": "Ley 16412",
+  "status": "in_force",
+  "issued_date": "1966-01-06",
+  "in_force_date": "1966-01-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28447",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Autorízase a la Universidad de Chile para que, dentro del plazo de 18 meses contados desde la fecha de publicación de la presente ley, importe al país, con las liberaciones y de acuerdo a las demás normas contenidas en la ley número 11.519, los equipos, materiales y elementos que requiere para renovar, mantener y ampliar sus servicios audiovisuales, hasta por un valor equivalente a US$ 450.000 de precio F.O.B. Estos equipos, materiales y elementos podrán adquirirse en el extranjero, al contado o con créditos que contrate para estos efectos, pagaderos hasta un plazo de cinco años."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Agréganse en el inciso primero del artículo único de la ley N° 11.519, de 29 de Abril de 1954, a continuación de \"Universidad Técnica del Estado\", precedidas de una coma (,), las siguientes palabras: \"Universidad del Norte, Universidad Austral\"."
+    }
+  ],
+  "definitions": []
+}

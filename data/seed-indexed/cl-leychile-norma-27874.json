@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-27874",
+  "type": "statute",
+  "title": "MODIFICA LAS LEYES N°S. 10,475 Y 10,383",
+  "short_name": "Ley 14687",
+  "status": "amended",
+  "issued_date": "1961-10-20",
+  "in_force_date": "1963-12-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27874",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°. Introdúcense las siguientes modificaciones a la ley N° 10,475, de 8 de Septiembre de 1952:\na) Agrégase como inciso segundo del artículo 11°, el siguiente:\n\"Las imponentes mujeres tendrán derecho a percibir la pensión de jubilación por antigüedad con 30 años efectivamente trabajados o con 20 años efectivamente trabajados si cuentan con 55 o más años de edad\";\nb) Agrégase como inciso segundo del artículo 12°, el siguiente:\n\"Las pensiones de antigüedad y vejez de las imponentes mujeres, siempre que tengan a lo menos 20 años de servicios efectivos se otorgarán con un aumento de 1/35 avo del sueldo base por cada hijo y de 2/35 avos más si son viudas. Estos aumentos se concederán en la medida que el monto de la pensión no exceda del sueldo base.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°. Reemplázase la letra a) del artículo 37° de la ley N° 10,383, por la siguiente:\n\"a) Hayan cumplido 65 años de edad los hombres y 55 años de edad las mujeres.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°. Consúltase como artículo 39 bis de la ley N° 10,383, el siguiente:\n\"Artículo 39 bis.- Para los efectos del inciso segundo del artículo 37, se abonará a las beneficiarias de pensión de vejez 52 semanas de imposiciones por cada hijo y 104 semanas más si son viudas. Estos aumentos se concederán en la medida que el monto de las pensiones no exceda de la pensión máxima de vejez.\""
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°. Las imposiciones al Servicio de Seguro Social se harán a lo menos sobre un salario diario presunto de un escudo (E° 1)."
+    }
+  ],
+  "definitions": []
+}

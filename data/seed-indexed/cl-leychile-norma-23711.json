@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23711",
+  "type": "statute",
+  "title": "FACULTA AL PRESIDENTE DE LA REPUBLICA PARA AUTORIZAR A LAS INSTITUCIONES DE CREDITO I AL COMERCIO EN LAS CIUDADES QUE SE INDICAN A FIN DE QUE PUEDAN CERRAR SUS PUERTAS LOS DIAS SABADOS A LAS 12 M.",
+  "short_name": "Ley 3070",
+  "status": "in_force",
+  "issued_date": "1916-03-17",
+  "in_force_date": "1916-03-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23711",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARLICULO UNICO.- Sin perjuicio de lo dispuesto en el\nartículo 2.° de la lei número 2,977, de 1.° de Febrero de 1915, el Presidente de la República podrá autorizar a las instituciones de crédito i al comercio para que, en las ciudades de Santiago, Valparaiso e Iquique puedan cerrar sus puertas los dias sábados a las doce del dia, abriéndolas a las nueve de la mañana."
+    }
+  ],
+  "definitions": []
+}

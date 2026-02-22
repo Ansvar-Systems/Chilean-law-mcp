@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23944",
+  "type": "statute",
+  "title": "LEI NÚM. 3.389, QUE CONCEDE FONDOS PARA ATENDER A LA EMBAJADA ESPECIAL DE SU MAJESTAD BRITANICA",
+  "short_name": "Ley 3389",
+  "status": "in_force",
+  "issued_date": "1918-07-13",
+  "in_force_date": "1918-07-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23944",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir al suma de cien mil pesos ($ 100,000) en los gastos que demande la atencion oficial de la Embajada Especial de Su Majestad Británica que visitará próximamente el pais."
+    }
+  ],
+  "definitions": []
+}

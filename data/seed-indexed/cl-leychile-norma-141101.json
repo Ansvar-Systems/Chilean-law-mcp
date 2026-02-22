@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-141101",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3370",
+  "status": "in_force",
+  "issued_date": "1918-05-10",
+  "in_force_date": "1918-05-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=141101",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Los sub - Secretarios de Estado gozarán de un sueldo anual de veinte mil pesos ($ 20,000).\nLos Jefes de Seccion de los Ministerios gozarán de un sueldo anual de doce mil pesos ($ 12,000)\"."
+    }
+  ],
+  "definitions": []
+}

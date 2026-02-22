@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24345",
+  "type": "statute",
+  "title": "LEI NUM. 3,914, QUE AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA COBRAR EL IMPUESTO ADICIONAL DEL 2 POR MIL SOBRE LA CONTRIBUCION DE HABERES",
+  "short_name": "Ley 3914",
+  "status": "in_force",
+  "issued_date": "1923-01-26",
+  "in_force_date": "1923-01-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24345",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para cobrar durante el año 1923, el impuesto adicional de dos por mil que puede exijirse en conformidad a lo dispuesto en el artículo 29 de la lei núm. 3,091, de 5 de Abril de 1916, que establece la Contribucion de Haberes; i el impuesto adicional de uno por mil sobre los valores mobiliarios a que se refieren los artículos 41, 42 i 45 de la citada lei."
+    }
+  ],
+  "definitions": []
+}

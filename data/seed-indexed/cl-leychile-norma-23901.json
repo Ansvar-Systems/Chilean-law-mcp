@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23901",
+  "type": "statute",
+  "title": "LEI NUM. 3,333, QUE CONCEDE FONDOS PARA TRABAJOS PREPARATORIOS DEL ARRENDAMIENTO DE TERRENOS MAGALLANICOS.",
+  "short_name": "Ley 3333",
+  "status": "in_force",
+  "issued_date": "1918-02-02",
+  "in_force_date": "1918-04-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23901",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la cantidad de cincuenta mil pesos ($ 50,000) para atender a los trabajos preparatorios del arrendamiento en pública subasta de terrenos magallánicos."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cl-leychile-norma-29744",
+  "type": "statute",
+  "title": "REBAJA AVALUO DE BIENES RAICES AGRICOLAS Y DICTA\nOTRAS NORMAS DE CARACTER TRIBUTARIO",
+  "short_name": "Ley 18327",
+  "status": "in_force",
+  "issued_date": "1984-07-24",
+  "in_force_date": "1984-08-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29744",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Rebájanse, a contar del 1° de enero de 1984, los avalúos de los Bienes Raíces agrícolas a que se refiere la ley N° 17.235, en la suma que resulte de aplicar la tabla siguiente al valor de los terrenos que componen el predio:\nREGION CLASIFICACION DE LOS TERRENOS\n_______________________________________________________\nRegados De Secano Arables De secano no\nArables,\nClases I al IV Clases I al IV Clases V al VIII\n_______________________________________________________\nI 10% 16% 28%\nII 10% 0.- 30%\nIII 6% 16% 28%\nIV 8% 16% 28%\nV 4% 16% 28%\n_______________________________________________________\nMetrop. 10% 16% 28%\nVI 4% 16% 28%\nVII 12% 16% 28%\nVIII 10% 18% 28%\nIX 10% 18% 32%\nX 0% 18% 30%\nXI 8% 22% 32%\nXII:\nComunas\nPorvenir 0 0 20%\nPrimavera 0 0 20%\nTimaukel 0 0 20%\nTorres\nde Paine 0 0 10%\nSan Gregorio 0 0 10%\nLaguna Blanca 0 0 10%\nNavarino 0 0 10%\nPara la aplicación de la tabla anterior se considerará la clasificación de los suelos agrícolas contenida en el decreto supremo de Hacienda N° 208, de 1965."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Sustitúyese en el inciso primero del artículo 43 bis del decreto ley N° 825, de 1974, las palabras \"vehículos señalados\" por \"vehículos motorizados terrestres\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Sustitúyese el inciso segundo de la letra d), del N° 1 del artículo 20 de la Ley sobre Impuesto a la Renta, contenida en el decreto ley N° 824, de 1974, por el siguiente:\n\"No se aplicará presunción alguna respecto de aquellos bienes raíces no agrícolas destinados al uso de su propietario y de su familia, ni respecto de los inmuebles destinados a casa habitación que se encuentren acogidos a las disposiciones de la ley N° 9.135, del de creto con fuerza de ley N° 2, de 1959, o que hayan sido adquiridos por intermedio de cajas de previsión, siempre que, en este último caso, los saldos de precio adeudados sean reajustables y que el avalúo fiscal no exceda de 30 unidades tributarias anuales\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo 1°.- Los impuestos a la renta que se hayan pagado en exceso, por haberse calculado sin considerar la rebaja de avalúos contemplada en el artículo 1° de esta ley, tendrán el carácter de los pagos provisionales voluntarios a que se refiere el artículo 88 de la Ley sobre Impuesto a la Renta."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2°.- El exceso del impuesto territorial correspondiente al año 1984 que resulte por efecto de la rebaja de avalúos establecida en el artículo 1°, se descontará de las dos últimas cuotas que corresponde pagar en el año 1984."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24386",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3993",
+  "status": "in_force",
+  "issued_date": "1923-12-31",
+  "in_force_date": "1923-12-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24386",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Modifícanse en la siguiente forma los incisos del ítem 864 del Presupuesto de Instruccion Pública, que se indican a continuacion:\na) Sueldo de ciento un profesores inspectores de preparatorias de los Liceos, a razon de tres mil seiscientos pesos cada uno, y de catorce profesores inspectores de preparatorias de los liceos de Valparaíso y Viña del Mar, a razon de cuatro mil ochocientos pesos cada uno, $ 430,800.\nb) Sueldo de diecinueve profesores inspectores de preparatorias de los Liceos de Santiago, a razon de cinco mil cuatrocientos pesos cada uno, $ 102,600.\nd) Sueldo de veintun profesores inspectores de preparatorias del Instituto Nacional y del Liceo de Aplicacion, a razon de seis mil pesos cada uno $ 126,000.\""
+    }
+  ],
+  "definitions": []
+}

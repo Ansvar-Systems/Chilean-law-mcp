@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29624",
+  "type": "statute",
+  "title": "INTRODUCE MODIFICACIONES A LA LEY GENERAL DE BANCOS,\nCONTENIDA EN EL DECRETO CON FUERZA DE LEY N° 252, DE\n1960",
+  "short_name": "Ley 18204",
+  "status": "in_force",
+  "issued_date": "1983-01-17",
+  "in_force_date": "1983-01-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29624",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Introdúcense las siguientes modificaciones a la Ley General de Bancos, contenida en el decreto con fuerza de ley N° 252, de 1960:\na) Deróganse los incisos cuarto, quinto, sexto, séptimo y octavo del artículo 83.\nb) Sustitúyese el N° 8) del artículo 84 por el siguiente:\n\"No podrá, directa o indirectamente, adquirir predios agrícolas, mercaderías, productos, ganados ni acciones o derechos en sociedades.\nLas limitaciones o prohibiciones sobre adquisición de bienes contenidas en esta ley, no se aplicarán cuando éstos le hubieren sido adjudicados en remate judicial o transferidos, en pago de deudas previamente contraídas en su favor, por deudores que hubieren caído en insolvencia; ni en el caso de acciones de sociedades anónimas, cuando su adquisición corresponda a una operación regida por el artículo 83, N° 11 bis). En estos casos, el banco deberá enajenar los bienes dentro del plazo de un año contado desde la fecha de la adquisición.\"\nc) Derógase el inciso tercero del N° 1) del artículo 84."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo 1° transitorio.- Facúltase al Superintendente de Bancos e Instituciones Financieras para prorrogar, en casos justificados, el plazo señalado en el inciso segundo del artículo 2° transitorio de la Ley N° 18.022, hasta el 31 de Diciembre de 1985 con el objeto que los bancos enajenen las acciones o derechos en sociedades que actualmente posean.\nSi la institución financiera no enajenare los bienes indicados en el inciso anterior en el plazo señalado, será sancionada por la Superintendencia de Bancos e Instituciones Financieras con una multa igual al valor de las inversiones mantenidas en exceso."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2° transitorio.- El plazo de enajenación de los bienes que las instituciones financieras hayan recibido o reciban en pago, se les hayan adjudicado o adjudiquen al 31 de Diciembre de 1984, podrá prorrogarse hasta por dos años, por resolución del Superintendente de Bancos e Instituciones Financieras."
+    }
+  ],
+  "definitions": []
+}

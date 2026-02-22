@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23680",
+  "type": "statute",
+  "title": "CONCEDE FONDOS PARA PAGAR SUELDOS DEVENGADOS POR PARTE DEL PERSONAL DEL CUERPO DE CARABINEROS",
+  "short_name": "Ley 3034",
+  "status": "in_force",
+  "issued_date": "1915-11-06",
+  "in_force_date": "1915-11-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23680",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para pagar a los Jefes, Oficiales, Sub-Oficiales i Clases del Cuerpo de Carabineros, no consultados en la lei de Presupuestos de 1914, la suma de cuarenta i seis mil doscientos ochenta i un pesos setenta centavos ($ 46,281.70), importe de los sueldos que devengaron durante los meses de Enero, Febrero, Marzo i parte de Abril de aquel año. Estos pagos se harán con cargo al saldo de los fondos que el Ministerio de Industria i Obras Públicas puso a disposicion del Ministerio del Interior por decreto número 702, de 29 de Abril de 1914, con el fin de ayudar al sostenimiento de las fuerzas de carabineros destinadas a guarnecer las líneas férreas en construccion, saldo que se encuentra en la cuenta de sueldos i gastos por pagar."
+    }
+  ],
+  "definitions": []
+}

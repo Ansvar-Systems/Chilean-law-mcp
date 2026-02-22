@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22146",
+  "type": "statute",
+  "title": "PENSION",
+  "short_name": "Ley 295",
+  "status": "in_force",
+  "issued_date": "1895-09-04",
+  "in_force_date": "1895-09-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22146",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese, por gracia, a doña Mercedes Henríquez, hija del teniente de Ejército don Manuel Henríquez, el derecho de percibir la pension de montepío militar de que disfrutó su señora madre doña María García."
+    }
+  ],
+  "definitions": []
+}

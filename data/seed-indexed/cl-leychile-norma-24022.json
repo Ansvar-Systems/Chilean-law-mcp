@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24022",
+  "type": "statute",
+  "title": "LEI NÚM. 3,504, QUE CONCEDE FONDOS PARA INSTALACIONES COMPLEMENTARIAS DEL ESTABLECIMIENTO FISCAL DE ESPECIES VALORADAS",
+  "short_name": "Ley 3504",
+  "status": "in_force",
+  "issued_date": "1919-02-20",
+  "in_force_date": "1919-02-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24022",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para que invierta hasta la suma de veinte mil libras esterlinas ($20,000) en la adquisision de las instalaciones complementarias del Establecimiento Fiscal de Especies Valoradas."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": "cl-leychile-norma-1067185",
+  "type": "statute",
+  "title": "FORMA SEGUN LA CUAL HAN DE PROPONERSE Y SANCIONARSE LOS PROYECTOS DE LEI",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1824-03-18",
+  "in_force_date": "1824-03-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1067185",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1° Todo proyecto formal de de lei al ponerse al Consejo de Estado se imprime préviamente para su discusion."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Suscrita la iniciativa de la lei por el Consejo de Estado, el Supremo Director la pasa a sancion del Senado por la siguiente fórmula: Pase al Senado para su sancion."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° El Senado sanciona la iniciativa propuesta, y la devuelve al Director Supremo por la siguiente fórmula: Procédase a la promulgacion de la lei de....relativa a...,"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Si el Senado juzga conveniente hacer observaciones con arreglo al art. 44 de la Constitucion, la devuelve al Director Supremo por la siguiente fórmula; El Senado expondrá al Director Supremo las observaciones que le ocurren sobre la iniciativa de lei de .... relativa a..,"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° Si el Director Supremo Juzga oportuno retirar la iniciativa lo hará así por la siguiente fórmula: Archívese en mi Consejo de Estado."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art 6.° Si por el contrario cré el Director Supremo conveniente la lei propuesta, le remito segunda vez al Senado por la formula siguiente: vuelva al Senado con la contestacion acordada."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.° Si el Senado juzgare aun inconveniente la lei, pondrá el veto por la fórmula siguiente: El Senado oirá la resolucion de la Cámara Nacional,"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8.° Si la lei propuesta perteneciere a guerra, contribuciones o empréstitos, el Senado la pasará a la Cámara Nacional por la fórmula siguiente: Consúltese a la Cámara Nacional."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "Art. 9.° La Cámara Nacional aprueba la lei por la fórmula siguiente: La Cámara Nacional decreta: que debe sancionarse la lei de ....relativa a ......."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "Art. 10. La Cámara Nacional reprueba la lei por la fórmula siguiente: La Cámara Nacional decreta que no debe sancionarse la lei de....i dativa a...."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "Art. 11. En las épocas en que tiene la iniciativa el Senado, usa el Director Supremo de las fórmulas que aquí se designan al Senado; y el Senado de las que aquí se señalan al Suprema Director."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "Art. 12. La promulgacion de la lei se hace en todo tiempo por el Supremo Director, usando en todo tiempo de la fórmula siguiente; El Director Supremo de Chile. Oido mi Consejo de Estado, he propuesto, y el Senado Conservador y Legislador ha sancionado lo siguiente (aquí el testo de la lei). En la época constitucional en que tiene la iniciativa el Senado, dirá: El Senado Conservador y Lejislador ha propuesto, y oido mi Consejo de Estado he sancionado lo siguiente."
+    }
+  ],
+  "definitions": []
+}

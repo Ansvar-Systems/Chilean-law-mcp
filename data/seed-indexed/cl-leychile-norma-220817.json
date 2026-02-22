@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-220817",
+  "type": "statute",
+  "title": "MODIFICA LA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES, EN MATERIA DE CONTRATO DE PROMESA DE COMPRAVENTA DE DETERMINADOS BIENES RAICES Y CRIMINALIZA CONDUCTA CONSTITUTIVA DE ESTAFA EN EL ARTICULO 470 DEL CODIGO PENAL",
+  "short_name": "Ley 19932",
+  "status": "in_force",
+  "issued_date": "2004-01-26",
+  "in_force_date": "2004-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=220817",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º.- Agrégase el siguiente artículo 138 bis en la Ley General de Urbanismo y Construcciones:\n\"Artículo 138 bis.- Las personas naturales o jurídicas que tengan por giro la actividad inmobiliaria o aquellas que construyan o encarguen construir bienes raíces destinados a viviendas, locales comerciales u oficinas, y que celebren contratos de promesa de compraventa, deberán otorgarlos mediante instrumentos privados autorizados ante notario y caucionarlos mediante póliza de seguro o boleta bancaria, aceptada por el promitente comprador. Esta garantía, debidamente identificada, se incorporará al contrato a favor del promitente comprador, en un valor igual a la parte del precio del bien raíz entregado por éste y establecido en el contrato de promesa respectivo, para el evento de que éste no se cumpla dentro del plazo o al cumplimiento de la condición establecidos por el promitente vendedor. La garantía permanecerá vigente mientras el inmueble se encuentre sujeto a cualquier gravamen o prohibición emanado directamente de obligaciones pendientes e imputables al promitente vendedor y hasta la inscripción del dominio en el registro de propiedad del respectivo conservador de bienes raíces, a favor del promitente comprador.\nLos notarios públicos no autorizarán los contratos de promesa de compraventa a que se refiere el inciso anterior si no se ha constituido la garantía a favor del promitente comprador.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Agrégase, en el artículo 470 del Código Penal, el siguiente número 9º:\n\"9° Al que, con ánimo de defraudar, con o sin representación de persona natural o jurídica dedicada al rubro inmobiliario o de la construcción, suscribiere o hiciere suscribir contrato de promesa de compraventa de inmueble dedicado a la vivienda, local comercial u oficina, sin cumplir con las exigencias establecidas por el artículo 138 bis de la Ley General de Urbanismo y Construcciones, siempre que se produzca un perjuicio patrimonial para el promitente comprador.\".\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24695",
+  "type": "statute",
+  "title": "REEMPLAZA EL INCISO 1.o DEL ARTICULO 32, DE LA LEY 4,144, DE 25 DE JULIO DE 1927.",
+  "short_name": "Ley 4378",
+  "status": "in_force",
+  "issued_date": "1928-07-31",
+  "in_force_date": "1928-10-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24695",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Reemplázase el inciso 1.o del artículo 32 de la ley número 4,144, de 25 de Julio de 1927, por el siguiente:\n\"1.o Con los mayores derechos de exportación de salitre que se perciban en cada año calendario sobre la suma de doscientos veinte millones de pesos ($ 220.000,000). Con est efin se consultará en el Presupuesto anual de entradas y gastos de la nación, un ítem de gastos que represente la cantidad correspondiente a los mayores derechos de salitre que se calculen, ítem que variará en su monto según las entradas que se perciban durante cada año."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La disposición del artículo anterior se aplicará desde el 1.o de Enero de 1929"
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. Durante el año de 1928 y los siguientes, el Presidente de la República podrá anticipar a la Caja de Fomento Salitrero hasta el cincuenta por ciento ( 50%) de las entradas que se calcule corresponderán a dicha Caja en el año siguiente."
+    }
+  ],
+  "definitions": []
+}

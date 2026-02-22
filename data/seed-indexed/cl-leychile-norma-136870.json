@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-136870",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 269",
+  "status": "in_force",
+  "issued_date": "1895-02-09",
+  "in_force_date": "1895-02-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136870",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.º Concédese a los señores Horacio Zañartu i Abraham König, o a quien sus derechos represente, permiso para construir i esplotar una línea de ferrocarril a vapor entre el puerto de Huanillos i las salinas que los concesionarios poseen al interior de la provincia de Tarapacá."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Concédese igualmente el uso de los terrenos fiscales necesarios para la construccion de la línea, sus estaciones i anexos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Se declaran de utilidad pública los terrenos particulares i municipales necesarios para la construccion de la línea i sus estaciones."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Los planos de la obra serán sometidos a la aprobacion del Presidente de la República en el término de seis meses, contados desde la promulgacion de la presente lei; los trabajos de construccion de la línea se comenzarán en el término de noventa dias i la línea estará concluida i entregada al tráfico público en el término de dos años, contados ámbos plazos desde la aprobacion de los planos.\nA igual aprobacion se someterán, cada tres años, las tarifas de fletes i pasajes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º Si el concesionario no iniciare los trabajos o no entregare concluida la línea dentro de los plazos indicados, pagará a beneficio fiscal una multa de diez mil pesos.\nPara responder a este pago constituirá en el término de dos meses, fianza solidaria por diez mil pesos a satisfaccion del Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

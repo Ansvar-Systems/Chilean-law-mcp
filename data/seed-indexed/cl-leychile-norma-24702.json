@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24702",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4385",
+  "status": "in_force",
+  "issued_date": "1928-08-09",
+  "in_force_date": "1928-08-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24702",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Dentro del plazo de un año, contado desde la fecha de la publicación de la presente ley, el Banco Central enterará en Arcas Fiscales, en billetes del Banco, un valor igual al saldo no canjeado de los billetes fiscales y vales de Tesorería"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La obligación del canje de billetes fiscales y vales de Tesorería por billetes del Banco Central, corresponderá, después del plazo estipulado en el artículo primero, a las Tesorerías Provinciales y Comunales de la República. Para este objeto. el Presupuesto Ordinario Nacional consultará, en la parte destinada a la deuda pública, un ítem destinado al canje de billetes fiscales y vales de Tesorería, por billetes del Banco Central."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

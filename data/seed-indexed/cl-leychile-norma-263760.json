@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-263760",
+  "type": "statute",
+  "title": "INCLUYE EL PRODUCTO CALF-MANNA ENTRE LAS MERCADERIAS SEÑALADAS EN EL ARTICULO 2.o DEL DECRETO N.o 2,772, DE 1943, QUE FIJO EL TEXTO REFUNDIDO DE LAS LEYES SOBRE IMPUESTO A LA INTERNACION, PRODUCCION Y CIFRAS DE NEGOCIOS",
+  "short_name": "Ley 8593",
+  "status": "in_force",
+  "issued_date": "1946-10-01",
+  "in_force_date": "1946-10-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=263760",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o. Inclúyese al producto \"Calf-Manna\", destinado a la alimentación de ganado vacuno, entre las mercaderías señaladas en el artículo 2.o del decreto de Hacienda N.o 2,772, del año 1943, que fijó el texto refundido de las leyes sobre impuesto a la internación, producción y cifra de negocios, a las cuales afecta un impuesto de 2,5% sobre su valor, elevado a 2,875% por la ley N.o 8,040."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o. Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

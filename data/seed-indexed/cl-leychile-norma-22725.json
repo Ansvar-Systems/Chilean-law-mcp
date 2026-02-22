@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22725",
+  "type": "statute",
+  "title": "QUE DECLARA DE UTILIDAD PUBLICA LOS TERRENOS NECESARIOS PARA ESTABLECER UN CAMINO PUBLICO QUE UNA LA POBLACION DE SAN GREGORIO CON LA ESTACION ÑIQUEN.",
+  "short_name": "Ley 1534",
+  "status": "in_force",
+  "issued_date": "1902-06-18",
+  "in_force_date": "1902-06-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22725",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Declárase de utilidad pública los terrenos de propiedad particular o municipal necesarios para establecer un camino público que una la poblacion de San Gregorio con la estacion de Ñiquen, ya sea partiendo del mismo San Gregorio, ya sea de algun punto del camino público entre San Gregorio i San Cárlos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° La Direccion de Obras Públicas determinará la ubicacion de dicho camino i las espropiaciones aludidas se reglarán por la lei respectiva."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Autorízase al Presidente de la República para invertir la suma de cinco mil pesos en la apertura i habilitacion de dicho camino."
+    }
+  ],
+  "definitions": []
+}

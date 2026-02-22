@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28898",
+  "type": "statute",
+  "title": "FACULTA A LAS INSTITUCIONES QUE INDICA PARA CELEBRAR\nLOS CONVENIOS QUE SEÑALA",
+  "short_name": "Ley 17294",
+  "status": "in_force",
+  "issued_date": "1970-02-13",
+  "in_force_date": "1970-02-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28898",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.°- Facúltase a las Municipalidades del país, al Servicio Nacional de Salud y a la Caja de Previsión Social de los Obreros Municipales de la República, para celebrar convenios para el pago del subsidio a que se refiere el artículo 38 del decreto supremo N° 68, de 12 de Febrero de 1965, del Ministerio del Trabajo y Previsión Social.\nEl contenido de dichos convenios será fijado de común acuerdo por las partes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.°- Reemplázase el artículo 44 de la ley N° 15.076 por el siguiente:\n\"Artículo 44.- Los profesionales funcionarios que durante más de 20 años, hayan prestado, de acuerdo con las obligaciones de sus cargos, servicios de guardia nocturna y en días festivos, quedarán exentos al término de este plazo de la obligación de prestar dichos servicios y conservarán los derechos que esas funciones les conferían, cualquiera que fuere el cargo que actualmente desempeñan o pasen a desempeñar en el futuro estos profesionales funcionarios.\nPara los efectos del cómputo del tiempo se considerará todo lapso servido, sea en calidad de reemplazante, suplente, a contrata o interino\"."
+    }
+  ],
+  "definitions": []
+}

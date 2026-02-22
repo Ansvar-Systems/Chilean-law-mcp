@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-185661",
+  "type": "statute",
+  "title": "SUSTITUYE LA DENOMINACION DE LA COMUNA DE NAVARINO POR COMUNA DE CABO DE HORNOS Y ESTABLECE UNA AGRUPACION DE COMUNAS",
+  "short_name": "Ley 19726",
+  "status": "in_force",
+  "issued_date": "2001-04-19",
+  "in_force_date": "2001-05-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=185661",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º.- Modifícanse el artículo 1º del\ndecreto con fuerza de ley Nº 8583, de 1927, y el\nartículo 46 del decreto ley Nº 2868, de 1979, ambos del Ministerio del Interior, en el sentido de sustituir la denominación de la comuna de \"Navarino\", perteneciente a la provincia Antártica Chilena, de la XII Región de Magallanes y de la Antártica Chilena, por la de \"Cabo de Hornos\".\nTodas las referencias a la comuna de Navarino contenidas en disposiciones legales vigentes, se entenderán efectuadas a la comuna de Cabo de Hornos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- Establécese, en virtud de lo dispuesto en el artículo 107 inciso primero de la Constitución Política, la agrupación de las comunas de Cabo de Hornos y Antártica, cuya administración corresponderá a la municipalidad con asiento en la comuna de Cabo de Hornos."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo Transitorio.- La agrupación de comunas establecida en el artículo 2º de esta ley, así como todos los efectos legales, administrativos y presupuestarios que se deriven de la administración conjunta, entrarán en vigencia el 1 de enero del año siguiente al de publicación de la presente ley.\"."
+    }
+  ],
+  "definitions": []
+}

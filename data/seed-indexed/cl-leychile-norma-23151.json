@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23151",
+  "type": "statute",
+  "title": "LEI NUM. 2,146, QUE CONCEDE UN SUPLEMENTO AL PRESUPUESTO DE GUERRA",
+  "short_name": "Ley 2146",
+  "status": "in_force",
+  "issued_date": "1908-11-23",
+  "in_force_date": "1908-12-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23151",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de veintiocho mil pesos al ítem 141 de la partida 6.a del Presupuesto vijente de Guerra destinado a la compra de materiales, aseo de armamento, pago de jornales i gastos jenerales de la Direccion de Material de Guerra."
+    }
+  ],
+  "definitions": []
+}

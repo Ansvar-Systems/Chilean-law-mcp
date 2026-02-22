@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22542",
+  "type": "statute",
+  "title": "AUXILIO A LAS JUNTAS DE BENEFICENCIA",
+  "short_name": "Ley 1301",
+  "status": "in_force",
+  "issued_date": "1899-12-26",
+  "in_force_date": "1899-12-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22542",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para invertir hasta la suma de veinte mil pesos ($ 20,000) en conceder auxilios estraordinarios, i por una sola vez, a las Juntas de Beneficencia que tuvieren necesidad de atender a la cancelacion de deudas contraídas en gastos orijinados en los establecimientos que están a su cargo; i hasta diez mil pesos en la atencion de la epidemia de la difteria."
+    }
+  ],
+  "definitions": []
+}

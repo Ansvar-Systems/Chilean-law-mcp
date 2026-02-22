@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24498",
+  "type": "statute",
+  "title": "Concede autorización para arrendar casas para la;Embajada de Chile en Brasil y la Legación en el;Paraguay.",
+  "short_name": "Ley 4133",
+  "status": "in_force",
+  "issued_date": "1927-07-06",
+  "in_force_date": "1927-07-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24498",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se aprueba el contrato de arrendamiento celebrado por el ex-Embajador de Chile en el Brasil, don Miguel Cruchaga Tocornal para una casa destinada al uso de la Embajada de Chile en el referido país."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Se autoriza al Presidente de la República para invertir en el pago del arrendamiento, por el presente año, de la casa que ocupa la Embajada de Chile en el Brasil y en el pago del arrendamiento, por un año, de un inmueble para la Legación de Chile en el Paraguay, la suma de cincuenta y cuatro mil pesos ($ 54,000), que se deducirán del precio de compra de la casa que el Estado posee en Londres, Grosvenor Square 22, que habrá de serle devuelto."
+    }
+  ],
+  "definitions": []
+}

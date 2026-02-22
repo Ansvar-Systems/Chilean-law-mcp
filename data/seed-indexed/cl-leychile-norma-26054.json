@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26054",
+  "type": "statute",
+  "title": "AUTORIZA AL FISCO PARA TRANSIGIR EN EL JUICIO QUE\nINDICA",
+  "short_name": "Ley 9374",
+  "status": "in_force",
+  "issued_date": "1949-08-30",
+  "in_force_date": "1949-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26054",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Autorízase al Fisco para transigir el juicio deducido en su contra por la Compañía Minera de Taltal S.A., (hoy Caja de Crédito Minero), ante el Juzgado de Letras de La Serena, según el rol N° 23,823."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

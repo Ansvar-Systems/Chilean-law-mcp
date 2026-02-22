@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23808",
+  "type": "statute",
+  "title": "DISPONE QUE LOS TESOREROS FISCALES DE LA REPÚBLICA ABRIRÁN EL 31 DE DICIEMBRE DE CADA AÑO UNA CUENTA ESPECIAL DE DEPÓSITOS QUE SE DENOMINARÁ CUENTA DE SUELDOS I GASTOS POR PAGAR",
+  "short_name": "Ley 3202",
+  "status": "in_force",
+  "issued_date": "1917-01-22",
+  "in_force_date": "1917-01-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23808",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Los Tesoreros Fiscales de la República abrirán en 31 de Diciembre de cada año una cuenta especial de depósitos que se denominará \"Cuenta de sueldos i gastos por pagar\", en la que figurarán las siguientes partidas:\na) Las que provengan de gastos fijos devengados durante el año i no percibidos por los interesados;\nb) Las que corresponden a sumas de dinero mandadas pagar dentro del año por gastos causados en el mismo, i que tampoco hubieren sido retiradas por los acreedores o personas a cuyo favor hubieren sido jiradas.\nEn la cuenta de inversion se hará el detalle de las partidas que correspondan a las letras anteriores."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- El Presidente de la República podrá disponer que se incluyan tambien en la referida cuenta las cantidades destinadas a satisfacer las obligaciones derivadas de contratos aceptados por decretos supremos, con imputacion al presupuesto vijente o a las leyes especiales i que se refieran a provisiones de artículos o especies de cualquiera naturaleza o a ejecucion de obras públicas.\nPodrá hacer uso el Presidente de la República de esta autorizacion sólo en los casos en que, de acuerdo con las estipulaciones de los respectivos contratos, no hayan podido recibirse las especies o quedar terminadas las obras ántes del 31 de Diciembre."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- La cuenta especial de depósitos de \"Sueldos i Gastos por pagar\" se cerrará el 31 de Marzo de cada año."
+    }
+  ],
+  "definitions": []
+}

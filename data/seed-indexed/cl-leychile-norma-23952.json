@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23952",
+  "type": "statute",
+  "title": "LEI NUM. 3,410, QUE CONCEDE FONDOS PARA GASTOS DEL CONGRESO NACIONAL",
+  "short_name": "Ley 3410",
+  "status": "in_force",
+  "issued_date": "1918-08-28",
+  "in_force_date": "1918-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23952",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase la inversion de la suma de ochenta mil seiscientos noventa y tres pesos, sesenta i cinco centavos ($ 80,693.65), en gastos jenerales de Secretaría de la Cámara de Diputados, servicio de la guardia, pago de servidumbre i adquisicion de uniformes de los Oficiales de Sala i de los guardianes i calzado de estos últimos i en conservacion del jardín del Congreso.\nAutorízase, asimismo, la inversion de la suma de quince mil pesos ($ 15,000) en la publicacion en la prensa diaria de las sesiones de la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Autorízase la inversion de noventa i ocho mil novecientos cinco pesos, noventa centavos ($ 98,905.90) en el pago de la cantidad adeudada por la Secretaría del Senado en fecha 31 de Diciembre de 1917, por gastos provenientes de la publicación de sesiones en la prensa i otros servicios de la misma Secretaría.\nConcédese un suplemento de sesenta mil pesos ($ 60,000) al ítem 3,858 i uno de cuarenta mil pesos ($40,000) al ítem 3,862 del Presupuesto del Interior."
+    }
+  ],
+  "definitions": []
+}

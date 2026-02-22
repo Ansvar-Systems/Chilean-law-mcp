@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23053",
+  "type": "statute",
+  "title": "LEI NÚM. 1.991 QUE AUTORIZA LA INVERSIÓN DE $ 15.429,40 EN CUADROS PARA EL MUSEO DE BELLAS ARTES",
+  "short_name": "Ley 1991",
+  "status": "in_force",
+  "issued_date": "1907-08-17",
+  "in_force_date": "1907-09-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23053",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para que invierta hasta la suma de quince mil cuatrocientos veintinueve pesos cuarenta centavos en atender al pago de los cuadros adquiridos para el Museo de Bellas Artes que pertenecieron a la sucesion de don Ramon Cruz."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138422",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2866",
+  "status": "in_force",
+  "issued_date": "1914-02-05",
+  "in_force_date": "1914-02-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138422",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para invertir hasta la suma de ocho mil cuatrocientos pesos ($ 8,400) para que atienda al pago de una gratificacion equivalente a seis meses del sueldo de que disfrutaban los empleados que quedaron cesantes con la reorganizacion de la Escuela de Artes i Oficios, llevada a cabo a fines del año último."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134188",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1115",
+  "status": "in_force",
+  "issued_date": "1898-10-28",
+  "in_force_date": "1898-11-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134188",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese, por gracia, a don M. Enrique Reynolds, el abono de diez años de servicios para los efectos de su retiro."
+    }
+  ],
+  "definitions": []
+}

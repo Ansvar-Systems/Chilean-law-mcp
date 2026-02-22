@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-286319",
+  "type": "statute",
+  "title": "AUTORIZA AL BANCO DEL ESTADO DE CHILE PARA QUE, SIN LAS\nLIMITACIONES ESTABLECIDAS EN SU LEY ORGANICA Y EN SUS\nREGLAMENTOS, CONCEDA A LOS EMPLEADOS QUE INDICA LOS\nPRESTAMOS QUE SEÑALA",
+  "short_name": "Ley 11602",
+  "status": "in_force",
+  "issued_date": "1954-09-04",
+  "in_force_date": "1954-09-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=286319",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Banco del Estado de Chile para que, sin las limitaciones establecidas en su ley orgánica y en sus reglamentos, conceda a los empleados de empresas que otorgan servicios de utilidad pública y que tengan derecho a percibir la gratificación anual de seis sueldos vitales que señala el artículo 146 del Código del Trabajo, préstamos hasta por la suma de cuarenta sueldos vitales mensuales del departamento de Santiago, siempre que estén destinados a construir viviendas o a dar término a construcciones iniciadas con anterioridad al préstamo, en terrenos de propiedad del empleado o que le hayan sido otorgados en arrendamientos por el Fisco dentro de un régimen de adquisición posterior de dominio.\nLos empleados deberán destinar, de la gratificación a que tengan derecho, la parte o suma que corresponda para amortizar anualmente el préstamo, en forma que éste se pague en el plazo máximo de siete años. La empresa que deba pagar la gratificación retendrá dicha suma y la entregará directamente al acreedor.\nEl interés será de un 6% anual y se pagará a razón de 1/2 % mensual, que será descontado del sueldo del empleado y entregado mensualmente al mismo Banco."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El deudor garantizará el préstamo con primera hipoteca. En caso que fuera arrendatario del Fisco, dentro del régimen establecido en el artículo 1.o, podrá convenir la hipoteca, la que surtirá efectos y deberá ser inscrita una vez que se conceda al deudor el título definitivo de dominio.\nEl Fisco concederá este título, sin más trámite, cuando el empleado acredite el comienza de los trabajos de construcción de la vivienda."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La construcción se hará de acuerdo con las especificaciones mínimas que señalará para este objeto la Corporación de la Vivienda, consultando las características de la zona donde se realizará la edificación, y será supervigilada por el arquitecto de esa Corporación o en su defecto, por el arquitecto de la Caja de Previsión de Empleados Particulares, sin perjuicio de la fiscalización y control que realice el Banco del Estado.\nEl monto del préstamo se entregará a medida que el interesado vaya ejecutando la construcción de acuerdo con las partidas señaladas en el presupuesto aprobado por la Corporación de la Vivienda.\nEl Banco del Estado podrá señalar las demás modalidades a que deberán sujetarse los préstamos establecidos en esta ley."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o La Caja de Previsión de Empleados Particulares descontará de la pensión mensual que corresponda al empleado deudor que se acoja a la jubilación, una suma que permita el servicio de la deuda y el pago de los intereses en la forma señalada en el artículo 1.o, y la entregará a la institución acreedora.\nSi no pudiera aplicarse lo dispuesto en el inciso anterior y en todos los demás casos en que el empleado deje de prestar servicios en empresas que otorguen obligatoriamente la gratificación de seis sueldos vitales; la Caja de Previsión de Empleados Particulares se hará cargo de la deuda en los términos indicados en el artículo 1.o."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o No podrán acogerse a los beneficios de la presente ley las persona que sean propietarios de un bien raíz edificado."
+    }
+  ],
+  "definitions": []
+}

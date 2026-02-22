@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29423",
+  "type": "statute",
+  "title": "DEROGA NORMAS SOBRE EXPROPIACION DE INMUEBLES Y;SOBRE PROPIEDAD HORIZONTAL",
+  "short_name": "Ley 17993",
+  "status": "in_force",
+  "issued_date": "1981-04-30",
+  "in_force_date": "1981-05-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29423",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"ARTICULO 1° Deróganse las siguientes normas legales:\na) La ley 16.323.\nb) Los artículos 4° y 7° de la ley 17.370;\nc) Los artículos 4° y 5° de la ley 17.904;\nd) El artículo 103° de la ley 15.575, y e) El decreto supremo 2.042, de Obras Públicas, publicado en el Diario Oficial de 7 de septiembre de 1964."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTICULO 2° Los titulares de las cuentas de ahorro abiertas de acuerdo a lo establecido en el artículo 103° de la ley 15.575 y su reglamento, podrán disponer libremente de los fondos que a la fecha de publicación de la presente ley existieren en dichas cuentas.\nA contar de la vigencia de la presente ley se declaran alzadas las prohibiciones de gravar o enajenar establecidas por el artículo 9°, inciso final, del decreto supremo 2.042, de Obras Públicas, de 1964, y los Conservadores de Bienes Raíces deberán proceder a la cancelación, a solo requerimiento de parte interesada, de las inscripciones respectivas."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "ARTICULO TRANSITORIO Los propietarios que hayan obtenido autorización para enejenar edificios por pisos y departamentos de acuerdo a lo establecido en el artículo 103° de la ley 15.575 y su reglamento, tendrán el plazo de dos años a contar de la publicación de la presente ley, para realizar las enajenaciones o ventas autorizadas. No será aplicable, a su respecto, la obligación de constituir prohibición de gravar o enajenar sin autorización del correspondiente Servicio de Vivienda y Urbanización, como sucesor de la Corporación de la Vivienda, ni de destinar el precio de la venta a la construcción de viviendas económicas."
+    }
+  ],
+  "definitions": []
+}

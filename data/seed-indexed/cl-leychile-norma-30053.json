@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30053",
+  "type": "statute",
+  "title": "MODIFICA EL CODIGO DE JUSTICIA MILITAR Y EL CODIGO\nDE PROCEDIMIENTO PENAL",
+  "short_name": "Ley 18667",
+  "status": "in_force",
+  "issued_date": "1987-11-17",
+  "in_force_date": "1987-11-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30053",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Introdúcense las siguientes modificaciones al Código de Justicia Militar:\na) Agréganse los siguientes artículos 144 y 144 bis nuevos:\n\"Artículo 144.- Cuando el Fiscal de la causa estime necesario agregar al proceso documentos secretos pertenecientes a las Fuerzas Armadas o a Carabineros de Chile, los requerirá al respectivo Comandante en Jefe Institucional o al General Director de Carabineros, según corresponda, previa dictación de una resolución fundada que transcribirá junto a la solicitud.\nSin embargo, si la autoridad requerida considera que su remisión puede afectar la seguridad del Estado, la Defensa Nacional, el orden público interior o la seguridad de las personas, podrá rehusarse a ella. Si el Fiscal estimare indispensable la medida, procederá a elevar los antecedentes a la Corte Suprema para su resolución, Tribunal que en este caso se integrará en la forma prevista en el artículo 70-A de este Código.\nArtículo 144 bis.- El Fiscal dispondrá la formación de un cuaderno separado para agregar los documentos secretos que le sean remitidos.\nAl mismo cuaderno se incorporarán las declaraciones de testigos que se requiera mantener en reserva para preservar secretos que interesen a la seguridad del Estado, la Defensa Nacional, el orden público interior o la seguridad de las personas.\nDe los antecedentes que obren en dicho cuaderno se dará conocimiento a los abogados de las partes sólo en cuanto sirvan de fundamento de la acusación, del sobreseimiento o de la sentencia definitiva. Si se quisiere hacerlos valer ante los Tribunales Superiores, ello se comunicará previamente al Presidente del Tribunal respectivo, quien dispondrá, en tal caso, que la audiencia pertinente no sea pública.\nTodos los que hubieren tomado conocimiento de tales antecedentes estarán obligados a mantener el secreto de su existencia y contenido.\nLas disposiciones de este artículo serán aplicables aun cuando se hubiere cerrado el sumario o se hubiere dictado sentencia firme o ejecutoriada en el proceso.\";\nb) Agrégase el siguiente artículo 196 bis:\n\"Artículo 196 bis.- Serán aplicables al procedimiento penal en tiempo de guerra las disposiciones de los artículos 144 y 144 bis, en cuanto sean compatibles.\", y\nc) Agrégase el siguiente artículo 436, antes del artículo final:\n\"Artículo 436.- Se entiende por documentos secretos aquellos cuyo contenido se relaciona directamente con la seguridad del Estado, la Defensa Nacional, el orden público interior o la seguridad de las personas y entre otros:\n1.- Los relativos a las Plantas o dotaciones y a la seguridad de las instituciones de las Fuerzas Armadas o de Carabineros de Chile y de su personal;\n2.- Los atinentes a planos o instalaciones de recintos militares o policiales y los planes de operación o de servicio de dichas instituciones con sus respectivos antecedentes de cualquier naturaleza, relativos a esta materia;\n3.- Los concernientes a armas de fuego, partes y piezas de las mismas, municiones, explosivos, sustancias químicas y demás efectos a que se refiere la ley N° 17.798 usados por las Fuerzas Armadas o Carabineros de Chile, y\n4.- Los que se refieran a equipos y pertrechos militares o policiales.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Introdúcense las siguientes modificaciones al Código de Procedimiento Penal:\na) Agrégase, a continuación del artículo 53, el siguiente artículo 53 bis:\n\"Artículo 53 bis.- Cuando el Juez de la causa estime necesario agregar al proceso documentos que tengan el carácter de secretos de acuerdo a las disposiciones del Código de Justicia Militar, procederá en conformidad a lo preceptuado en los artículos 144 y 144 bis de dicho Código.\", y\nb) Agréganse los siguientes incisos tercero y cuarto al artículo 171:\n\"Tratándose de documentos que tengan el carácter de secretos de acuerdo a las disposiciones del Código de Justicia Militar, se aplicará lo dispuesto en el artículo 53 bis de este Código.\nNo serán aplicables respecto de los documentos a que se refiere este artículo, los N°s. 3° y 4° del artículo 455 del Código Orgánico de Tribunales.\"."
+    }
+  ],
+  "definitions": []
+}

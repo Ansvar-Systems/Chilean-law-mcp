@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23947",
+  "type": "statute",
+  "title": "LEI NUM. 3,393, QUE AUTORIZA EL PAGO A DON PEDRO BRAUKMANN POR TRABAJOS EJECUTADOS EN EL FARO DE PUNTA CORONA.",
+  "short_name": "Ley 3393",
+  "status": "in_force",
+  "issued_date": "1918-07-26",
+  "in_force_date": "1918-08-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23947",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir la cantidad de doscientos noventa i ocho pesos, sesenta centavos ($ 298.60) en pagar a don F. Pedro Braukmann el valor de los trabajos que, fuera de su contrato, ejecutó en la construccion del edificio para empleados en el Faro de Punta Corona."
+    }
+  ],
+  "definitions": []
+}

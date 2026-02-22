@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-203444",
+  "type": "statute",
+  "title": "LEY NUM. 4,794",
+  "short_name": "Ley 4794",
+  "status": "repealed",
+  "issued_date": "1930-01-23",
+  "in_force_date": "1931-05-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=203444",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º Las Empresas de Gas de la República estarán bajo el control y superior vigilancia de la Dirección General de los Servicios Eléctricos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2º Estas Empresas pagarán una contribución anual de un tres por mil sobre su capital."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3º El control y supervigilancia a que quedarán sometidas las Empresas de Gas, se hará especialmente sobre los medidores particulares, la calidad del gas expendido y, en general, sobre todo asunto que relacione al público consumidor con la respectiva Empresa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4º Las cuentas formuladas por consumo de gas y que hayan sido visadas por la Dirección General de Servicios Eléctricos, tendrán mérito ejecutivo sólo contra el consumidor moroso."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5º Las Empresas de gas que contravinieren las obligaciones que les impone esta ley y sus Reglamentos, pagarán una multa a beneficio fiscal de cien a cinco mil pesos ($ 100 a $ 5,000) por cada infracción, la que será regulada y cobrada administrativamente por la Dirección General de Servicios Eléctricos."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6º Autorízase al Presidente de la República para designar el número de Inspectores y demás personal que sea necesario para atender estos servicios."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7º Derógase la ley de 15 de Octubre de 1875, en la parte que se relaciona con los Inspectores de gas."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8º Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23084",
+  "type": "statute",
+  "title": "LEI NÚM. 2,036 QUE DECLARA VIJENTE LA LEI NÚM. 1,992, DE 27 DE AGOSTO DE 1907, DESDE SU PROMULGACION EN EL DIARIO OFICIAL",
+  "short_name": "Ley 2036",
+  "status": "in_force",
+  "issued_date": "1907-09-09",
+  "in_force_date": "1907-09-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23084",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se declara que la lei núm. 1,992, de 27 de agosto de 1907, rije desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

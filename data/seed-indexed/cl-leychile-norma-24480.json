@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24480",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4111",
+  "status": "amended",
+  "issued_date": "1926-12-31",
+  "in_force_date": "1932-07-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24480",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Substitúyese el artículo 10 del decreto-ley número 606, de 14 de Octubre de 1925, por el siguiente:\n\"Artículo 10. Habrá tres tipos de moneda de plata:\n1.o Una moneda de cinco pesos, con 22.5 gramos de plata y 2.5 gramos de cobre;\n2.o Una moneda de dos pesos, con 9 gramos de plata y 9 gramos de cobre;\n3.o Una moneda de un peso, con 4.5 gramos de plata y 4.5 gramos de cobre.\nLas monedas de cinco pesos tendrán un diámetro de 37 milímetros; las monedas de dos pesos, un diámetro de 33 milímetros, y las monedas de un peso, un diámetro de 29 milímetros\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Suprímese, en el artículo 12 del citado decreto-ley, la frase \"...el diámetro, el espesor y...\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley comenzará a regir desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

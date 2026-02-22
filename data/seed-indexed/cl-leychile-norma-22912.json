@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-22912",
+  "type": "statute",
+  "title": "FIJA LOS SUELDOS DE LOS SUB-OFICIALES, TROPA I EMPLEADOS ESPECIALES DEL EJERCITO.",
+  "short_name": "Ley 1783",
+  "status": "in_force",
+  "issued_date": "1905-12-23",
+  "in_force_date": "1905-12-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22912",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Los sub-oficiales, los soldados, los músicos i los empleados especiales de los cuerpos gozarán de los sueldos anuales siguientes:\nSUB-OFICIALES\nSarjento primero______________________________ $ 840\nVice-sarjento primero_________________________ 660\nSarjento segundo______________________________ 540\nCabo primero__________________________________ 384\nCabo segundo__________________________________ 348\nAspirante a sub-oficial_______________________ 300\nSoldado_______________________________________ 300\nCorneta_______________________________________ 300\nSoldados ordenanzas caballerizos______________ 240\nJefe de banda_________________________________ 800\nTambor mayor__________________________________ 420\nMúsico primero________________________________ 480\nMúsico segundo________________________________ 420\nMúsico tercero________________________________ 324\nVeterinario mayor_____________________________ 1200\nVeterinario primero___________________________ 840\nVeterinario segundo___________________________ 600\nMariscal primero______________________________ 600\nMariscal segundo______________________________ 480\nCarpintero primero____________________________ 600\nCarpintero segundo____________________________ 420\nMecánico______________________________________ 600\nJefes de talleres (sastres, zapateros i\ntalabarteros__________________________________ 540\nArmero________________________________________ 800\nEcónomo_______________________________________ 840\nPracticaute___________________________________ 720\nObreros (sastres, zapateros, talabarteros)____ 360"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Al ser licenciados, con buena licencia, los sarjentos primeros recibirán, por una sola vez, una gratificacion de mil doscientos pesos, los vice-sarjentos primeros de un mil pesos, i los sarjentos segundos de ochocientos pesos, siempre que el agraciado reuna las siguientes condiciones:\n1.a Haber cumplido diez años de servicios como sub-oficial, contados desde la fecha de su nombramiento de cabo segundo;\n2.a Haber servido estos diez años sin interrupcion, en un mismo cuerpo i sin haber sido depuesto, i 3.a Encontrarse en posesion del empleo por lo menos dos años ántes de cumplir dichos diez años.\nLa gratificacion de que habla este artículo, prescribirá si no se reclamare por el interesado dentro del término de seis meses, contados desde la fecha del licenciamiento."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Si los sub-oficiales a quienes se refiere la presente lei no alcanzaren a cumplir los dos años que se exijen en la posesion del empleo, podrán ser licenciados con la gratificacion correspondiente al grado inmediatamente inferior."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° No perderá el derecho a la gratificacion el sub-oficial que, por órden de la autoridad correspondiente, fuese destinado a continuar sus servicios en otro cuerpo."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Para los efectos de esta gratificacion, los servicios prestados en la Escuela Militar i en las Escuelas de Aplicacion de Armas se considerarán como prestados en cuerpos."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Quedan derogados el título XIV de la Ordenanza Jeneral del Ejército, la lei de 1.° de Octubre de 1859 sobre premios de constancia i primas de enganche i los artículos 12 i 13 de la lei número 21, de 1.° de Febrero de 1893."
+    }
+  ],
+  "definitions": []
+}

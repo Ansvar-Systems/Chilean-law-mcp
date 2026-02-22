@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23213",
+  "type": "statute",
+  "title": "LEI NUM. 2,230, QUE CONCEDE UN SUPLEMENTO AL PRESUPUESTO DEL INTERIOR, PARA PAGAR GASTOS HECHOS EN EL CONGRESO NACIONAL.",
+  "short_name": "Ley 2230",
+  "status": "in_force",
+  "issued_date": "1909-12-06",
+  "in_force_date": "1909-12-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23213",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se concede un suplemento de veintiun mil ciento veintidos pesos veinte centavos al ítem 51 de la partida 1.a del Presupuesto del Ministerio del Interior, para pagar los siguientes gastos, de carácter estraordinario, que se han hecho con los fondos destinados a gastos ordinarios de Secretaría: Gratificacion a la servidumbre i guardia especial.-\nAcuerdo de la Cámara de fecha 20 de\nFebrero de 1909____________________________ $ 5,224.50\nLámpara del comedor y sus conexiones\neléctricas e instalacion___________________ 3,565.80\nDiversas instalaciones hechas en el edificio\npor la Casa Lumsden________________________ 891.90\nBalaustradas de mármol para el vestíbulo___ 3,000.00\nLámpara de bronce para los halls___________ 7,000.00\nSillas para la Tribuna Diplomática i para\nla Reservada_______________________________ 1,440.00\n___________\nTotal $ 21,122.20"
+    }
+  ],
+  "definitions": []
+}

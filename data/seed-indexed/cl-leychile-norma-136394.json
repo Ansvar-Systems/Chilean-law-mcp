@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136394",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 108",
+  "status": "in_force",
+  "issued_date": "1893-09-12",
+  "in_force_date": "1893-09-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136394",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese un suplemento de veinte mil pesos ($ 20,000) al ítem 5 de la partida 20 del presupuesto del Ministerio de Industria y Obras Públicas á fin de atender á los gastos que demande la instalación definitiva de la Escuela de Artes y Oficios en su nuevo local."
+    }
+  ],
+  "definitions": []
+}

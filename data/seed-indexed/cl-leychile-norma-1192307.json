@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-1192307",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1882-08-31",
+  "in_force_date": "1882-09-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1192307",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º\nConcédese a la sociedad anónima denominada Ferrocarril de Elqui privilejio esclusivo para construir i esplotar un ferrocarril a vapor entre la ciudad de la Serena i la subdelegación de Rivadavia, en el departamento de Elqui.\nEste privilejio durará treinta años, contados desde la fecha que se designa mas adelante para la conclusion del ferrocarril."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º\nLa sociedad espresada empezará los trabajos dentro del término de seis meses i los concluirá en dos años, contados ambos plazos desde la promulgación de la presente lei; i caducará el privilejio en caso de no cumplirse esta obligación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.°\nSe concede a la empresa el uso de los terrenos fiscales que sean necesarios para la construcción del camino i sus estaciones, i la parte de las vías públicas que pueda atravesar el ferrocarril, con tal que esta ocupación no perjudique el servicio a que están destinadas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.°\nSe declaran de utilidad pública los terrenos de propiedad particular i municipales que necesite la empresa para el camino, desvíos, estaciones i edificios i las compras que hiciere serán libres del derecho de alcabala."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.°\nLos rieles, coches, carros, máquinas i demas materiales destinados a la formación del camino, edificios i a su equipo, no estarán sujetos en su importación al pago de derechos fiscales, i las pastas i metales que se remitan al estranjero para la compra de los indicados objetos serán libres de derechos fiscales de esportacion, con tal que su valor no exceda de doscientos veinte mil pesos, justificándose ante el Supremo Gobierno que las sumas procedentes de esa esportacion se han invertido en aquellos objetos."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.°\nDurante cinco años, contados desde el dia en que ha de estar concluido el camino i habilitado para el servicio público, según lo dispuesto en el art. 2.°, la compañía formará a su arbitrio la tarifa de fletes i pasajes.\nTrascurrido este término, las tarifas se formarán de acuerdo con el Supremo Gobierno, calculando a la empresa una renta líquida que no baje del doce por ciento anual sobre los capitales en ella invertidos."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.°\nLa sociedad del ferrocarril de Elqui depositará en arcas fiscales la suma de diez mil pesos, la que perderá i se adjudicará al Fisco en caso de no construirse el ferrocarril dentro de los plazos indicados en esta lei.\nEn lugar del depósito podrá la compañía dar una garantía por igual cantidad i para los mismos fines, a satisfacción del Supremo Gobierno, i constituyéndose esta obligación por escritura pública."
+    }
+  ],
+  "definitions": []
+}

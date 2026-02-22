@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23894",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3324",
+  "status": "in_force",
+  "issued_date": "1917-11-30",
+  "in_force_date": "1917-12-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23894",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1º",
+      "content": "Artículo 1.o Los recibos que otorguen los tesoreros municipales para el cobro de las contribuciones de cualquier órden que les corresponda percibir y por los ingresos de caja, deberán estenderse en libretos talonarios numerados, que les proporcionará el Tribunal de Cuentas, con el sello de esta oficina.\nNingun recibo tendrá valor si no llena las condiciones fijadas en el inciso anterior.\nLos empleados municipales que otorguen recibos en contravencion a estas disposiciones, se considerarán reos de tentativa de falsificacion y sufrirán las penas que fija el Código Penal para este delito."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2º",
+      "content": "Art. 2.o Las municipalidades entregarán en el mes de enero de cada año, a la Tesorería Fiscal del departamento a que pertenezcan, el medio por ciento del total de entradas que hayan tenido en el año anterior, a fin de atender a los diversos gastos de fiscalizacion de sus cuentas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3º",
+      "content": "Art. 3.o La presente lei rejirá desde el 1.o de enero de 1918."
+    }
+  ],
+  "definitions": []
+}

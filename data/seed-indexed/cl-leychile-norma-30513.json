@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-30513",
+  "type": "statute",
+  "title": "MODIFICA LEY N° 18.593, SOBRE TRIBUNALES ELECTORALES\nREGIONALES",
+  "short_name": "Ley 19146",
+  "status": "in_force",
+  "issued_date": "1992-06-15",
+  "in_force_date": "1992-06-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30513",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Introdúcense a la Ley N° 18.593, de los Tribunales Electorales Regionales, las siguientes modificaciones:\n1°.- Agrégase en el inciso tercero del artículo 3°, sustitúyendose el punto (.) por una coma (,), una oración final del siguiente tenor:\n\"o de treinta unidades tributarias mensuales sólo cuando se trate del escrutinio general y la calificación de las elecciones municipales.\".\n2°.- Agrégase, en el artículo 12, el siguiente inciso segundo:\n\"No obstante, para los efectos del escrutinio general y la calificación de las elecciones municipales, su competencia se distribuirá de acuerdo con las circunscripciones senatoriales establecidas en el artículo 181 de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios, correspondiéndole al primer tribunal el conocimiento de las eleccciones que se desarrollen en las comunas comprendidas en la séptima circunscripción y al segundo tribunal las comprendidas en la octava circunscripción.\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- El gasto que demande, durante 1992, la aplicación de esta ley, se financiará con cargo al ítem 50-01-0325-33.112, del presupuesto vigente de la Partida Tesoro Público.\"."
+    }
+  ],
+  "definitions": []
+}

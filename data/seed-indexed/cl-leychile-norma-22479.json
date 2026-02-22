@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-22479",
+  "type": "statute",
+  "title": "FERROCARRIL DE CIRCUNVALACION DE SANTIAGO",
+  "short_name": "Ley 1212",
+  "status": "in_force",
+  "issued_date": "1899-02-04",
+  "in_force_date": "1899-02-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22479",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Se autoriza al Presidente de la Republica para que invierta hasta la cantidad de novecientos cincuenta mil pesos en terminar el ferrocarril de circunvalacion de Santiago, en conformidad a los planos hechos por la Direccion Jeneral de los Ferrocarriles.\nLa presente autorizacion durará por el término de dos años."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se declaran de utilidad pública los terrenos de propiedad municipal o particular que fueren necesarios para la construccion de la doble via de la línea, de sus estaciones i dependencias.\nLa espropiacion se hará con arreglo a la lei de 18 de Junio de 1857."
+    }
+  ],
+  "definitions": []
+}

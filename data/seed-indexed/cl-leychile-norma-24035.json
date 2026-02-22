@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24035",
+  "type": "statute",
+  "title": "LEI NUM. 3,522, QUE AUTORIZA LA VENTA DE UNOS TERRENOS ARRENDADOS A LA SOCIEDAD NACIONAL DE TEJIDOS, SANTIAGO",
+  "short_name": "Ley 3522",
+  "status": "in_force",
+  "issued_date": "1919-07-23",
+  "in_force_date": "1919-07-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24035",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para que venda a la \"Sociedad Nacional de Tejidos, Santiago\", por el precio de ciento cincuenta mil pesos ($ 150,000), pagaderos al contado, los terrenos i edificios que fueron concedidos en arrendamiento a la \"Sociedad Nacional de Tejidos, Santiago\" con arreglo al contrato de 22 de Marzo de 1871, i que se encuentran ubicados en el departamento de Santiago, entre el Cerro San Cristobal i el camino de El Salto o Avenida Valdivieso."
+    }
+  ],
+  "definitions": []
+}

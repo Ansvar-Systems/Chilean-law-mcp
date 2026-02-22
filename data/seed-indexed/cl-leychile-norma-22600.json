@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22600",
+  "type": "statute",
+  "title": "AUTORIZA LA INVERSION DE $ 200,000 EN LOS GASTOS QUE ORIGINE LA DESCARGA, MOVILIZACION I DESPACHO DE MERCADERIAS POR LOS PUERTOS DE LA REPUBLICA.",
+  "short_name": "Ley 1378",
+  "status": "in_force",
+  "issued_date": "1900-10-31",
+  "in_force_date": "1900-11-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22600",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir, en lo que resta del presente año, hasta la suma de doscientos mil pesos con los que pagará los gastos que orijinen los servicios de descarga, movilizacion i despacho de las mercaderías que se internen por los puertos de la República."
+    }
+  ],
+  "definitions": []
+}

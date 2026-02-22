@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-209101",
+  "type": "statute",
+  "title": "LEY NUM. 4860",
+  "short_name": "Ley 4860",
+  "status": "in_force",
+  "issued_date": "1930-06-26",
+  "in_force_date": "1930-07-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=209101",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º Declárase de utilidad pública el predio número 137 a 161 de la Avenida Matucana de esta ciudad, de propiedad de la Sociedad Predial Sudamericana y autorízase al Presidente de la República para que proceda a expropiarlo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2º La expropiación se hará de acuerdo con la ley de 18 de Julio de 1857 y los gastos que demande se imputarán al Presupuesto Extraordinario del año 1930-Ministerio del Interior-Edificación-E-0104, a Partida 4- que consulta la suma de un millón ciento cincuenta mil pesos ($ 1.150,000) para almacenes de la Dirección de Aprovisionamiento y adquisición del terreno contiguo."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3º Esta ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

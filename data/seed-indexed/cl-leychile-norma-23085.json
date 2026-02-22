@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23085",
+  "type": "statute",
+  "title": "LEI NÚM. 2.037 QUE DECLARA VIJENTE LALEI QUE LIBERA DE DERECHOS DE INTERNACION LA DINAMITA, DESDE EL DIA DE SU PROMULGACION EN EL DIARIO OFICIAL",
+  "short_name": "Ley 2037",
+  "status": "in_force",
+  "issued_date": "1907-09-09",
+  "in_force_date": "1907-09-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23085",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se declara que la lei núm. 1,466, de 27 de julio de 1901, que libera de derechos de internacion la dinamita, debe considerarse vijente en todo el pais desde el dia de su promulgacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24089",
+  "type": "statute",
+  "title": "LEI NUM. 3.583, QUE SUPLEMENTA EL PRESUPUESTO DE GUERRA",
+  "short_name": "Ley 3583",
+  "status": "in_force",
+  "issued_date": "1919-12-31",
+  "in_force_date": "1919-12-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24089",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese un suplemento de setecientos sesenta i tres mil ciento diez i seis pesos, setenta i dos centavos ($763,116.72) al ítem 73 de la partida 3.a del Presupuesto de Guerra vijente.\nEl gasto se deducirá del aumento del recargo para aplicar los derechos de internacion."
+    }
+  ],
+  "definitions": []
+}

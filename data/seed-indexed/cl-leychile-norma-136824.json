@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-136824",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 169",
+  "status": "in_force",
+  "issued_date": "1894-01-22",
+  "in_force_date": "1894-01-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136824",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.º Concédese á la sociedad Ferrocarril de Tongoy permiso para prolongar su actual vía férrea desde la estación de Cerrillos hasta el lugar denominado Trapiche."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Se declara de utilidad pública los terrenos de propiedad municipal ó particular que se necesiten para el trazado de la vía, sus estaciones y edificios anexos. Concédese igualmente el uso de los caminos públicos, en condiciones de que no se embarase el tráfico."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Los planos de la obra serán sometidos á la aprobación del Presidente de la República."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Los concesionarios deberán iniciar los trabajos en el término de seis meses contados desde la promulgación de la presente ley, y entregar la línea concluída al tráfico público un año después de iniciados los trabajos.\nLa Dirección General de Obras Públicas dictará declaración de haberse iniciado los trabajos, á satisfacción de ella, previa justificación que de esto deben hacerle los concesionarios."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º Si los concesionarios no iniciaren los trabajos ó no entregaren concluída la línea dentro de los plazos indicados, caducará la concesión y pagarán á beneficio fiscal una multa de cinco mil pesos.\nPara responder á este pago constituirán en el término de dos meses una garantía á satisfacción del Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

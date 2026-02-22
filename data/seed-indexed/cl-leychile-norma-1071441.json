@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1071441",
+  "type": "statute",
+  "title": "MODIFICA EL ARTÍCULO 42 DE LA LEY DE TRÁNSITO EN LA FORMA QUE INDICA",
+  "short_name": "Ley 20795",
+  "status": "in_force",
+  "issued_date": "2014-11-13",
+  "in_force_date": "2014-12-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1071441",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º.- Introdúcense las siguientes modificaciones en el artículo 42 de la ley Nº 18.290, de Tránsito, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1, de 2009, de los Ministerios de Transportes y Telecomunicaciones y de Justicia:\n1) Reemplázase el inciso quinto por el siguiente:\n\"En los casos en que el título traslaticio de dominio sea autorizado por un notario u otro ministro de fe, éste deberá requerir del vendedor un certificado del Registro de Multas del Tránsito no pagadas, al momento de la celebración del contrato, y solicitar la inscripción a costa del adquirente, en el plazo señalado en el inciso anterior.\".\n2) Agrégase el siguiente inciso sexto nuevo, pasando los actuales incisos sexto, séptimo y octavo a ser incisos séptimo, octavo y noveno, respectivamente:\n\"El comprador responderá sólo por las multas empadronadas que figuren en el certificado emitido por el Servicio de Registro Civil e Identificación al momento de la compra. Dicho Servicio se abstendrá de anotar la multa impaga en el Registro de Multas de Tránsito no Pagadas, si el propietario del vehículo que figura en el Registro de Vehículos Motorizados es distinto de quien lo era a la fecha de la infracción. Lo anterior no obsta a la responsabilidad de la persona condenada al pago de la multa.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- Intercálase, en el artículo 24 de la ley Nº 18.287, que establece procedimiento ante los Juzgados de Policía Local, el siguiente inciso segundo, nuevo, pasando los actuales incisos segundo, tercero, cuarto y quinto, a ser incisos tercero, cuarto, quinto y sexto, respectivamente:\n\"Sin perjuicio de lo anterior, si el propietario del vehículo informado por el tribunal no corresponde al dueño actual según el Registro de Vehículos Motorizados, el Servicio deberá abstenerse de inscribir la anotación y comunicará dicha situación al juzgado respectivo. Lo anterior no obsta a la responsabilidad de la persona condenada al pago de la multa. En este caso, el plazo de prescripción de la acción de cumplimiento será de tres años contado desde la comunicación que el Servicio de Registro Civil e Identificación efectúe al juzgado de policía local correspondiente, informando la imposibilidad de practicar la anotación.\".\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-29851",
+  "type": "statute",
+  "title": "DEROGA LOS ARTICULOS 1° y 2° DE LA LEY N° 13.704",
+  "short_name": "Ley 18444",
+  "status": "in_force",
+  "issued_date": "1985-10-07",
+  "in_force_date": "1985-10-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29851",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Deróganse los artículos 1° y 2° de la Ley N# 13.704."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138412",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2841",
+  "status": "in_force",
+  "issued_date": "1914-01-17",
+  "in_force_date": "1914-01-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138412",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para invertir hasta la suma de veinte mil pesos ($ 20,000), oro, en el mejoramiento de los servicios instalados en la Quinta Normal de Agricultura."
+    }
+  ],
+  "definitions": []
+}

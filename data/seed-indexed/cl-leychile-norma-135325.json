@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-135325",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1725",
+  "status": "in_force",
+  "issued_date": "1905-01-31",
+  "in_force_date": "1905-02-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135325",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Los rematantes de terrenos fiscales, o sus sucesores, en las provincias de Arauco, Malleco, Cautin, Valdivia i Llanquihue, quedarán libres de la accion que el Fisco pudiera deducir en su contra por la mora en el pago de la parte insoluta del precio.\nLa cantidad que adeudaren por dicha parte insoluta la pagarán por semestres vencidos en diez dividendos iguales, a contar desde la publicacion de esta lei en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Si no se pagare a su vencimiento cualquiera de los dividendos semestrales, se hará exijible el total de la obligacion, i el juez de letras de la capital de la provincia respectiva dispondrá, a peticion del representante del Fisco, que el predio hipotecado se venda en pública subasta. El mínimum para las posturas será la suma a que asciendan todos los dividendos insolutos.\nEl remate se verificará sin mas notificacion ni otro trámite que la publicacion de los avisos i fijacion de carteles indicados en el artículo 510 del Código de Procedimiento Civil, debiendo fijarse estos últimos durante treinta dias.\nSi no hubiere postores, el juez rebajará el mínimum cuantas veces sea necesario i anunciará el nuevo remate con quince dias de anticipacion, a lo ménos.\nLo dispuesto en este artículo se observará aun en el caso en que el deudor pudiera hacer el pago en conformidad al contrato i nó en la forma que establece el artículo 1.º"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Para los efectos espresados en el artículo 2428 del Código Civil, no será necesaria la citacion personal de los demas acreedores que tengan constituidas hipotecas sobre la misma finca.\nDespues que se pague al Fisco de la cantidad que se le adeude, el juez de letras hará consignar el saldo, para que con él sean cubiertos dichos acreedores en el órden que corresponda."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º Se hará un descuento de veinte por ciento a los que paguen el capital adeudado dentro del año siguiente a la publicacion de esta lei."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º Las hipotecas constituidas a favor del Fisco para caucionar el pago del precio, permanecerán vijentes hasta que éste sea cancelado en su totalidad."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.º Esta lei no se aplicará a los remates de tierras fiscales hechos con posterioridad al 1.º de enero de 1900."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7.º Lo dispuesto en los artículos 1.º, 4.º y 5.º se estiende a los colonos estranjeros establecidos por cuenta del Fisco hasta el 1.º de enero de 1900, en las provincias enumeradas en el artículo 1.º i, ademas, en la de Chiloé."
+    }
+  ],
+  "definitions": []
+}

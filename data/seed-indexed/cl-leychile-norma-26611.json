@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26611",
+  "type": "statute",
+  "title": "MODIFICA, EN LA FORMA QUE SEÑALA, LA LEY GENERAL DE BANCOS",
+  "short_name": "Ley 11234",
+  "status": "in_force",
+  "issued_date": "1953-09-07",
+  "in_force_date": "1953-09-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26611",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Substitúyese en el inciso primero del artículo 56 de la Ley General de Bancos, cuyo texto se contiene en el decreto N.o 3.154, de 23 de Julio de 1947, modificado por las leyes N.os 9.633 y 9.686, el guarismo \"14%\" por \"10%\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Introdúcense en la ley N.o 4.694, de 22 de Noviembre de 1929, las siguientes modificaciones:\nI. Substitúyese en el inciso primero del artículo 1.o las palabras \"una mitad\" por \"un 20 por ciento\".\nII. Agréganse como incisos tercero y cuarto del mismo artículo los que a continuación se indican:\n\"La misma limitación se aplicará a las demás operaciones de crédito que efectúen las empresas bancarias, sea por medio de avances en cuenta corriente, en virtud de contrato o simples sobregiros temporales, avances contra aceptación, pagarés, descuentos de otros instrumentos de crédito, o en cualquiera otra forma.\n\"Igualmente estarán sujetas al límite señalado en el inciso anterior las operaciones de crédito que puedan ejecutar las personas naturales o jurídicas\".\nIII. Substitúyese el artículo transitorio por el siguiente:\n\"Las disposiciones de la presente ley no se aplicarán a las operaciones vigentes el día de su promulgación, sino a partir del primer vencimiento posterior a esa fecha\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Facúltase al Presidente de la República para refundir en un solo texto las leyes que se modifican por la presente\"."
+    }
+  ],
+  "definitions": []
+}

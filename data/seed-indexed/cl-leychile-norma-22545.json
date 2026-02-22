@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22545",
+  "type": "statute",
+  "title": "Cuentas pendientes del Ministerio de Justicia",
+  "short_name": "Ley 1305",
+  "status": "in_force",
+  "issued_date": "1899-12-20",
+  "in_force_date": "1899-12-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22545",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. El Presidente de la República invertirá la suma de 163 mil 778 pesos 34 centavos en pagar las cuentas pendientes del departamento de Justicia que se detallan en el mensaje de fecha 6 de Setiembre de 1899, sometido a la consideracion del Congreso Nacional en 14 de Octubre del mismo año; i la de 611 pesos 98 centavos en pagar a la sucesion de don Federico Novoa los sueldos devengados por este último, como Ministro de la Corte de Apelaciones de Concepcion, desde el 1.° de Agosto al 4 de Setiembre de 1891."
+    }
+  ],
+  "definitions": []
+}

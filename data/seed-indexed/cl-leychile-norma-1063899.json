@@ -1,0 +1,133 @@
+{
+  "id": "cl-leychile-norma-1063899",
+  "type": "statute",
+  "title": "CONSTITUCION DE LA REPUBLICA",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1831-10-01",
+  "in_force_date": "1831-10-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1063899",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° La Constitucion política de la nacion chilena, promulgada en 8 de agosto de 1828, necesita reformarse y adicionarse."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° Al efecto, y siguiendo el modelo señalado por la misma Constitucion en el art. 133 se reunirá a la mayor brevedad una Convencion, con el único y esclusivo objeto de reformar o adicionar la expresada Constitucion."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° A esta Convencion se convocarán 16 de los Diputados elejidos por el pueblo para la presente Cámara de Diputados, y veinte ciudadanos de conocida propiedad e ilustracion."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° No podrán ser convocadas a la Convencion en clase de ciudadanos los que no posean las cualidades que exije el art. 28 de la Constitucion, para ser electo diputado."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "5.° El Congreso nacional, reunidas ambas Cámaras en no menor número que las dos terceras partes de los miembros de cada una, elejira los individuos que conforme al número y designacion hecha en el art. 3.° deben convocarse y formar la Convencion."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "6.° No embaraza ser miembro del Congreso nacional para ser llamado a la Convencion en clase de ciudadano."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "7.° La eleccion se verificará a pluralidad absoluta de sufragios, procediendo a elejir primeramente los 16 Diputados, y luego los 20 ciudadanos."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "8.° Si del primer escrutinio resultaren unas personas con pluralidad absoluta y otras sin ella, teniéndose por debidamente electas las que hayan obtenido dicha pluralidad, se procederá para completar el número a segunda votacion, excluyéndose todas aquellas personas que no hayan obtenido diez votos, y si tampoco en este segundo escrutinio resultare mayoría absoluta, se pasará a hacer una votacion particular para cada uno de los huecos que falten hasta completar el número designado; y si en esta votacion particular tampoco resultare mayoría absoluta, se procederá a segunda votacion entrando en el escrutinio solo las dos personas que hayan obtenido mas votos, y en caso que tuvieren iguales dos o mas personas, se votará por el mismo orden, cual de ellos deberá entrar en votacion con la que hubiere obtenido mas."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "9.° Verificada y publicada en el acto la eleccion, se comunicará al Supremo Gobierno a fin de que convoque a los electos para el dia en que el Congreso fije la instalacion de la Convencion."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "10.° No puede admitirse renuncia del cargo de vocal de esta Convencion."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "11.° El dia de la instalacion de la Convencion prestará cada vocal, en manos del Presidente de la República, el siguiente juramento.\nJuro por Dios nuestro Señor examinar la Constitucion política de Chile promulgada en 8 de agosto de 828, y si hallare conveniente su reforma o modificacion concurriré a hacerla segun el dictámen de mi conciencia, en los términos mas oportunos para asegurar la paz y tranquilidad del pueblo chileno. Si así no lo hiciere, Dios y la Patria me lo demanden."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "12. Despues de haber prestado este juramento, la Convencion quedara instalada y procederá a nombrar un Presidente y un Vice-Presidente de entre sus vocales, y un secretario de dentro o fuera de su seno."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "13. La Convencion se rejira en sus debates y órden interior por el reglamento que ella adopte."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "14. La Convencion no podrá ocuparse en otro objeto que en la revision, reforma, modificacion o adicion de la Constitucion."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "15. El Poder Ejecutivo y la Comision permanente podrán nombrar los oradores que tengan a bien para que asistan sin voto a las sesiones de la Convencion a representar y discutir sobre las reformas o modificaciones que hallaren por conveniente proponer. Todos los cuerpos públicos y ciudadanos particulares podrán dirijir a la Convencion peticiones por escrito relativas al mismo objeto."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "16. Durante las sesiones de la convencion podrán reunirse las Cámaras extraordinariamente en los casos que previene la Constitucion."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "17 Luego que la Convencion haya concluido sus trabajos, dará cuenta al Poder Ejecutivo para que haga reunir el Congreso y le pase el código, presentado por la Convencion."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "18. Reunidas las dos Cámaras del Congreso, sin que obste a ninguno de sus miembros el haberlo sido de la Convencion, y formando una sola sala, jurarán uno por uno, el código reformado a nombre de la Nacion en los términos siguientes: Juro por Dios y estos Santos evangelios observar como lei fundamental de la República de Chile el código reformado por la Convencion. Si así no lo hiciere, Dios y la Patria me lo demanden."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "19. Jurado el código por el Congreso, llamará al Poder Ejecutivo para que preste ante él el siguiente juramento.\nJuro por Dios y estos Santos evanjelios observar y hacer cumplir como lei fundamental de la República de Chile el código reformado por la Convencion, Si así no lo hiciere, Dios y la Patria me lo demanden."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "20. El Poder Ejecutivo hará publicar como Constitucion del Estado el código reformado por la Convencion.-JOSE VICENTE IZQUIERDO, Presidente.- Juan Francisco Meneses, Senador Secretario.-JOAQUIN TOCORNAL, Presidente.-Manuel Camilo Vial, Diputado Secretario."
+    }
+  ],
+  "definitions": []
+}

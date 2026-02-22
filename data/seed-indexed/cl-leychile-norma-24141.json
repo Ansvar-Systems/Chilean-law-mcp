@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24141",
+  "type": "statute",
+  "title": "LEI NÚM. 3,647, QUE AUTORIZA LA ERECCION DE UN MONUMENTO EN PUNTA ARENAS A HERNANDO DE MAGALLANES.",
+  "short_name": "Ley 3647",
+  "status": "in_force",
+  "issued_date": "1920-08-04",
+  "in_force_date": "1920-08-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24141",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Se autoriza a la Comision de Alcaldes de Magallánes para erijir en la ciudad de Punta Arenas un monumento a la memoria de Hernando de Magallánes, monumento que será costeado con la cantidad de ciento cincuenta mil pesos ($ 150,000.00), que don José Menéndez dejó en su testamento con tal objeto."
+    }
+  ],
+  "definitions": []
+}

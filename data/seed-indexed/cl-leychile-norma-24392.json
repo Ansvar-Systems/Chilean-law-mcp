@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24392",
+  "type": "statute",
+  "title": "LEI NUM. 4,000, QUE MODIFICA LA LEI SOBRE CONSTRUCCION DE UNA POBLACION OBRERA EN EL APOSTADERO NAVAL DE TALCAHUANO",
+  "short_name": "Ley 4000",
+  "status": "in_force",
+  "issued_date": "1924-01-22",
+  "in_force_date": "1924-01-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24392",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° La suma de tres millones quinientos mil pesos que por la lei número 3,966, de 25 de julio de 1923, se destina a la poblacion obrera del Apostadero Naval de Talcahuano, se invertirá prescindiéndose del detalle de distribucion de la suma total y dándose preferencia a los grupos de obras en el órden que se indican:\nLas habitaciones para obreros que comprenden 226 casas, alcantarillado, servicio de agua potable, plan y cerro, edificio para cooperativa, caminos, aceras y alumbrados, traslacion y transformacion de galpones, demolicion y reparacion de edificios existentes, una escuela, ocha casas para empleados civiles, una escuela, cuatro casas para empleados civiles, teatro y ascensor."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Se autoriza la inversion hasta de un tres por ciento en los gastos de inspeccion de las obras."
+    }
+  ],
+  "definitions": []
+}

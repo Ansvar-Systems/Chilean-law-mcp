@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23113",
+  "type": "statute",
+  "title": "LEI NUM. 2,083, QUE AUMENTA LOS SUELDOS DEL SECRETARIO, OFICIAL DEL CONSEJO DE ESTADO I DEL OFICIAL DEL DESPACHO DEL PRESIDENTE DE LA REPUBLICA.",
+  "short_name": "Ley 2083",
+  "status": "in_force",
+  "issued_date": "1908-02-11",
+  "in_force_date": "1908-02-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23113",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- El Secretario del Consejo de Estado i el Oficial del Despacho del Presidente de la República, tendrán el sueldo de que gozan los jefes de Seccion de los Ministerios; i el Oficial de la Secretaría del Consejo de Estado el sueldo que gozan los oficiales primeros de dichos Ministerios."
+    }
+  ],
+  "definitions": []
+}

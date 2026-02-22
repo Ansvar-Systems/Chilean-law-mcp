@@ -1,0 +1,55 @@
+{
+  "id": "cl-leychile-norma-23040",
+  "type": "statute",
+  "title": "LEI NUM. 1,969 QUE AUTORIZA AL CONSEJO SUPERIOR DE HABITACIONES PARA CONTRATAR UN EMPRESTITO",
+  "short_name": "Ley 1969",
+  "status": "in_force",
+  "issued_date": "1907-07-16",
+  "in_force_date": "1907-07-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23040",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Autorízase al Consejo Superior de Habitaciones, creado por lei número 1,838, de 20 de febrero de 1906, para contratar un empréstito hasta de seis millones de pesos, por medio de bonos de seis por ciento de interes i dos por ciento anual de amortizacion acumulativa.\nEstos bonos tendrán la garantía del Estado, se emitirán con la intervencion del Director del Tesoro i se venderán en licitacion pública a medida que lo requiera el objeto a que está destinado su producto."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° El Consejo Superior de Habitaciones invertirá los fondos que produzca este empréstito, esclusivamente en la adquisicion de terrenos i en la construccion de habitaciones destinadas a obreros en las ciudades de la República, cuya poblacion exceda de ocho mil habitantes.\nLa adquisicion de los terrenos i los prespuestos de las construcciones, necesitarán la aprobacion del Presidente de la República."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Las habitaciones construidas por el Consejo Superior serán vendidas o arrendadas a obreros imponentes de las Cajas Nacionales de Ahorro por mas de un año.\nDeducidos el servicio de interes i amortizacion de los bonos, los gastos de conservacion, administracion i demas análogos, el producto de la venta o arrendamiento será destinado a nuevas construcciones."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Las mujeres casadas i los menores de edad que tengan mas de catorce años, se considerarán libres administradores de sus bienes en lo referente a sus imposiciones en las Cajas de Ahorros i a la adquisicion i goce de casas construidas por el Consejo Superior."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Para ejecutar los acuerdos del Consejo Superior de habitaciones relacionados con esta lei, corresponderá su representacion al Presidente de dicho Consejo, escepto en los asuntos judiciales en los que será representado por el secretario, sin perjuicio de los poderes o comisiones especiales que pueda conferir el Consejo mismo."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ART. 6.° Un reglamento especial, dictado por el Presidente de la República, establecerá la forma en que deba hacerse la emision de los bonos, la administracion e inversion de los fondos, i el arrendamiento i venta de las habitaciones construidas por el Consejo Superior."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ART. 7.° Esta lei comenzará a rejir desde la fecha de su publicacion en el \"Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

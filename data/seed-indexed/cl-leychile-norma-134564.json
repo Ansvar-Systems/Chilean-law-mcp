@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-134564",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1229",
+  "status": "in_force",
+  "issued_date": "1899-07-05",
+  "in_force_date": "1899-07-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134564",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.º Se declara que los jefes i oficiales que hicieron la campaña contra el Perú i Bolivia, tienen derecho a ser retirados con el sueldo de actividad acordado por la lei de 1.º de febrero de 1893 i con arreglo a los años de servicios que justifique cada uno."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Las clases i demas individuos de tropa del Ejército i de la Armada que tomaron parte en la campaña contra el Perú i Bolivia que hayan obtenido cédulas por cuartos premios de constancia, ántes de la lei de sueldos de 1.º de febrero de 1893, gozarán en lo sucesivo de dichos premios en conformidad a los sueldos que fija la lei citada, sea que estén o no en servicio activo."
+    }
+  ],
+  "definitions": []
+}

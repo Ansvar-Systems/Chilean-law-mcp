@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22552",
+  "type": "statute",
+  "title": "ARANCELES ADUANEROS",
+  "short_name": "Ley 1316",
+  "status": "in_force",
+  "issued_date": "1899-12-30",
+  "in_force_date": "1900-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22552",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. El Presidente de la república dictará anualmente los arnaceles que han de rejir en las aduanas para el pago de los servicios de descarga, movilizacion i despacho de las mercaderías que se internen por los puertos de la República."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° En la Lei de Presupuestos se consultarán los fondos necesarios para el pago de los servicios indicados en el artículo anterior."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULO TRANSITORIO. Autorízase al Presidente de la República para invertir en estos pagos hasta la suma de quinientos mil pesos durante el año 1900."
+    }
+  ],
+  "definitions": []
+}

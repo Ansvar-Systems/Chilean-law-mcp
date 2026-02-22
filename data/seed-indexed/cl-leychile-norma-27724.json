@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-27724",
+  "type": "statute",
+  "title": "REAJUSTA EN 10% LAS PENSIONES CONCEDIDAS EN VIRTUD\nDE LAS LEYES N°s. 10.383, Y 10,662.",
+  "short_name": "Ley 14260",
+  "status": "in_force",
+  "issued_date": "1960-11-07",
+  "in_force_date": "1960-11-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27724",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Reajústase en 10% y a contar del 1° de Enero de 1960, las pensiones concedidas en virtud de las leyes 10.383 y 10,662."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Agrégase el siguiente inciso al artículo 29° de la ley 10,383:\n\"Se considerará al día al asegurado cuya falta de imposiciones se deba al hecho de encontrarse en huelga legalmente declarada. En este caso, el monto del subsidio se calculará sobre el promedio sobre el cual se haya impuesto en los seis meses calendarios anteriores a la huelga.\"\nLo dispuesto en el inciso que por este artículo se agrega al artículo 29° de la ley N° 10,383, regirá desde el 15 de Marzo de 1960."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° Redúcese al 2% la imposición al Fondo de Asignación Familiar, que grava las pensiones concedidas en virtud de las leyes N°s. 10,383 y 10,662.\""
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. Las cantidades correspondientes a las diferencias por los meses calendarios anteriores al de publicación de la presente ley en el \"Diario Oficial\", se pagarán en cuatro cuotas mensuales iguales.\""
+    }
+  ],
+  "definitions": []
+}

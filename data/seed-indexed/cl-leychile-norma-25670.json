@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25670",
+  "type": "statute",
+  "title": "CONCEDE EL DERECHO QUE SE INDICA AL PERSONAL DE LA\nFUERZA AEREA DE CHILE QUE HAYA EFECTUADO CURSOS DE\nASPIRANTES A CONTADORES EN DICHA INSTITUCION",
+  "short_name": "Ley 7854",
+  "status": "in_force",
+  "issued_date": "1944-08-06",
+  "in_force_date": "1944-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25670",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.° El personal de la Fuerza Aérea de Chile que haya efectuado cursos de aspirantes a contadores en esta Institución, tendrá derecho a que se le considere como servido de exceso para los efectos de las leyes vigentes, todo el tiempo sobre diez meses que haya permanecido en el empleo de aspirante a contador."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.° El reconocimiento a que se refiere el artículo anterior no dará derecho a cambios de colocación en el Escalafón ni a cobros de diferencias de sueldos o gratificaciones."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.° Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

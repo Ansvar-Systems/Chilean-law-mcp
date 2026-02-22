@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1161635",
+  "type": "statute",
+  "title": "CERTIFICADOS.",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1832-10-18",
+  "in_force_date": "1832-10-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1161635",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Todo acreedor de la Hacienda por empréstitos y contribuciones impuestas desde el año de 1810 hasta el de 1826 inclusive, que careciese de los documentos fehacientes de su crédito, ocurrirá a las oficinas respectivas a sacar el duplicado de dichos documentos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° Para pedir estos nuevos certificados, se señala el término de tres meses a los acreedores residentes en las provincias de Aconcagua, Santiago y Colchagua; de cuatro meses a los de las provincias de Coquimbo, Maule, Concepción, Valdivia y Chiloé; de ocho meses a los que existan en la América meridional; de un año a los que se hallen en la América seteptrional, incluyendo las Antilas; y de un año y medio a los acreedores que residan en cualquier punto del antiguo Continente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° Los plazos señalados en el artículo anterior son improrrogables, y principiarán a contarse desde la promulgación de la presente lei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° Después de vencidos dichos términos queda la Hacienda nacional desobligada, respecto de los acreedores que no se hubiesen presentado a comprobar su crédito, y perderán éstos el derecho de reclamar en lo sucesivo."
+    }
+  ],
+  "definitions": []
+}

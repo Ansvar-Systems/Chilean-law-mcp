@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25423",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N.o 6,020, QUE MEJORA LA SITUACION\nECONOMICA DE LOS EMPLEADOS PARTICULARES",
+  "short_name": "Ley 6968",
+  "status": "in_force",
+  "issued_date": "1941-06-20",
+  "in_force_date": "1941-07-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25423",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Introdúcense en la ley número 6,020, de 8 de Febrero de 1937, las siguientes modificaciones:\na) Suprímese en el inciso primero del artículo 15, la frase: \"con excepción del Intendente\" y reemplázase:\n\"50 pesos\" y \"300 pesos\", por \"100 pesos\" y \"500 pesos\", respectivamente.\nReemplázase en el inciso segundo del mismo artículo, las expresiones: \"50 pesos\" y \"600 pesos\", por \"100 pesos\" y \"1,000 pesos\", respectivamente; y\nb) Reemplázase, en el inciso primero del artículo 16, las expresiones: \"2 pesos\", \"5 pesos\" y \"10 pesos\" por las siguientes: \"4 pesos\", \"10 pesos\" y \"20 pesos\", respectivamente."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o La presente Ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

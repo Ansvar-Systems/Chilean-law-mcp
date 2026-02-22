@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-27249",
+  "type": "statute",
+  "title": "FIJA EL MINIMO DE LAS PENSIONES QUE PAGA EL SERVICIO\nDE SEGURO SOCIAL Y MODIFICA LA LEY N.o 10,383",
+  "short_name": "Ley 12873",
+  "status": "in_force",
+  "issued_date": "1958-02-22",
+  "in_force_date": "1958-03-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27249",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Las pensiones mínimas de vejez e invalidez que pague el Servicio de Seguro Social no podrán ser inferiores a la cantidad de $ 15.000 mensuales. A su vez, las pensiones de viudez que pague la misma Institución tendrán un mínimo de $ 7.500 mensuales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Las pensiones de orfandad y las asignaciones por hijos que define la ley N.o 10,383 no podrán ser inferiores al 15% de las pensiones de invalidez y vejez."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Modifícanse los artículos 11.o y 13.o de la ley N.o 10,383, agregándoles la siguiente letra nueva: \"Un representante de los obreros pensionados designado directamente por las instituciones de jubilados del Servicio de Seguro Social, con personalidad jurídica, en la forma que determine el reglamento respectivo.\""
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Elévase en un medio por ciento la imposición establecida en la letra a) del artículo 53.o y en un dos por ciento la consultada en la letra b) del mismo artículo de la ley N.o 10,383. El producto de estas imposiciones adicionales no estará afecto a la distribución establecida por el artículo 59.o de la citada ley y se destinará íntegramente por el Servicio de Seguro Social al pago de pensiones.\""
+    }
+  ],
+  "definitions": []
+}

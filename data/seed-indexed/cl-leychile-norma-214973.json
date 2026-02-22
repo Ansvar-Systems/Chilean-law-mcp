@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-214973",
+  "type": "statute",
+  "title": "LEY NUM. 5,002",
+  "short_name": "Ley 5002",
+  "status": "in_force",
+  "issued_date": "1931-11-19",
+  "in_force_date": "1931-11-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=214973",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Derógase la letra c) del artículo 2.o del decreto con fuerza de ley número 119, de 30 de Abril de 1931."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Substitúyese la letra b) del artículo 42 del decreto supremo número 225, de 17 de Febrero de 1927, por la siguiente:\n\"b) Sobre la renta imponible total de toda persona natural, residente en Chile o que tenga un domicilio o residencia en el país, en razón de las siguientes tasas:\nLas rentas hasta de veinte mil pesos, estarán exentas de este impuesto complementario;\nSobre la parte de la renta que exceda de veinte mil pesos y que no pase de cincuenta mil, impuesto de dos por ciento;\nSeiscientos pesos sobre las rentas de cincuenta mil pesos y por las que excedan de esta suma y que no pasen de cien mil pesos, tres por ciento, además, sobre este exceso.\nDos mil cien pesos sobre las rentas de cien mil pesos y por las rentas que pasen de esta suma y que no excedan de ciento cincuenta mil pesos, cuatro por ciento, además, sobre este exceso;\nCuatro mil cien pesos sobre las rentas de ciento cincuenta mil pesos y por las rentas que excedan de esta suma y que no pasen de doscientos mil pesos, cinco por ciento, además, sobre este exceso;\nSeis mil seiscientos pesos sobre las rentas de doscientos mil pesos y por las rentas que excedan de esta suma y no pasen de doscientos cincuenta mil pesos, seis por ciento, además, sobre este exceso;\nNueve mil seiscientos pesos sobre las rentas de doscientos cincuenta mil pesos y por las rentas que excedan de esta suma y que no pasen de trescientos mil pesos, siete por ciento, además, sobre este exceso.\nTrece mil cien pesos sobre las rentas de trescientos mil pesos y por las rentas que excedan de esta suma y no pasen de quinientos mil pesos, ocho por ciento, además, sobre este exceso;\nVeintinueve mil cien pesos sobre las rentas de quinientos mil pesos y por las rentas que excedan de esta suma, diez por ciento, además, sobre este exceso\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Substitúyese, en el inciso 2.o del artículo 49 del decreto supremo número 225, de 17 de Febrero de 1927, las palabras \"diez mil pesos o más\", por \"veinte mil pesos o más\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El impuesto global complementario se cancelará de acuerdo con las modificaciones introducidas por los artículos 2.o y 3.o, a contar desde el año 1932.\nEl impuesto global complementario correspondiente al segundo semestre del presente año 1931, será igual al correspondiente al primer semestre del mismo año, sin aumento alguno."
+    }
+  ],
+  "definitions": []
+}

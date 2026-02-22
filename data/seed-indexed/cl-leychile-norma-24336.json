@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24336",
+  "type": "statute",
+  "title": "LEI NUM. 3,905, QUE PERMITE LA RESIDENCIA DE LAS FUERZAS DEL EJERCITO, DURANTE EL AÑO 1923, EN LUGAR DE LAS SESIONES DEL CONGRESO",
+  "short_name": "Ley 3905",
+  "status": "in_force",
+  "issued_date": "1922-12-30",
+  "in_force_date": "1922-12-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24336",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Permítese, por el término de un año, la residencia de los cuerpos del Ejército permanente en el lugar de las sesiones del Congreso Nacional i diez leguas a su circunferencia."
+    }
+  ],
+  "definitions": []
+}

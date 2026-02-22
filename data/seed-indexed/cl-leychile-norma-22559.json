@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22559",
+  "type": "statute",
+  "title": "SUSTITUYE POR OTROEL INCISO I.° DEL ARTICULO 3.° DE LA LEI DE I.° DE DICIEMBRE DE 1893, SOBRE AUMENTO DE SUELDOS A LOS PRECEPTORES",
+  "short_name": "Ley 1325",
+  "status": "in_force",
+  "issued_date": "1900-01-10",
+  "in_force_date": "1900-01-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22559",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Sustitúyese el inciso 1.° del artículo 3.° de la lei de 1.° de Diciembre de 1893 por el siguiente:\nLos preceptores que tengan a su cargo una escuela de primera clase tendrán un sueldo anual de 1,800 pesos; los de segunda, uno de 1,200 pesos; los de tercera de 1,080 pesos; i los de cuarta de 960 pesos.\nPara los efectos de esta lei, los preceptores de las escuelas de Punta Arenas i Juan Fernández serán considerados de primera clase."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Los empleados de instruccion primaria que hayan servido en la instruccion pública durante mas de treinta años, podrán jubilarse con una pension equivalente al sueldo íntegro asignado al empleo sin necesidad de acreditar otro requisito que el de haber servido durante el referido tiempo.\nSerán de abono para los efectos de la jubilacion los servicios prestados en escuelas municipales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Los empleados de la instruccion primaria a que se refiere esta lei gozarán de los beneficios que ella concede sino despues de diez años de servicios en las escuelas primarias."
+    }
+  ],
+  "definitions": []
+}

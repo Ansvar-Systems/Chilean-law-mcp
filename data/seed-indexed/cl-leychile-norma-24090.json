@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24090",
+  "type": "statute",
+  "title": "LEI NÚM. 3,584, QUE CONCEDE FONDOS PARA LA ALIMENTACION DE REOS",
+  "short_name": "Ley 3584",
+  "status": "in_force",
+  "issued_date": "1919-12-31",
+  "in_force_date": "1920-01-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24090",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para que invierta hasta la suma de trescientos sesenta mil pesos ($360,000) en atender al mayor gasto que se ocasione durante el presente año en el servicio de alimentacion de reos."
+    }
+  ],
+  "definitions": []
+}

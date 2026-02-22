@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1063892",
+  "type": "statute",
+  "title": "DISOLUCION DEL CONGRESO.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1829-01-30",
+  "in_force_date": "1829-01-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1063892",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° A las 6 de la tarde del día de mañana las Cámaras reunidas en la Sala del Senado con el Vice-Presidente de la República y demas autoridades nacionales, asistirán a la iglesia Catedral, donde se cantará un solemne Te Deum. colocándose el Vice-Presidente de la República entre los dos Presidentes, los Diputados en los asientos colaterales mas inmediatos, y las demas autoridades en seguida por su órden."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° Concluido el acto anterior, las Cámaras volverán a la Sala del Senado acompañadas del Vice Presidente de la República, quien tomando el lugar que designa el artículo precedente, cerrará las sesiones, previa la aprobacion del acta que se redactará sobre tabla."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° Inmediatamente el Poder Ejecutivo se retirará de la Sala con las corporaciones que le acompañen."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° El Gobierno determinará lo conveniente a la mayor solemnidad de este acto."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "5.° Comuníquese a quienes corresponda."
+    }
+  ],
+  "definitions": []
+}

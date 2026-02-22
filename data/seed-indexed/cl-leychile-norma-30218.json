@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-30218",
+  "type": "statute",
+  "title": "AGREGA ARTICULO FINAL A LA LEY N° 18.834",
+  "short_name": "Ley 18842",
+  "status": "in_force",
+  "issued_date": "1989-10-18",
+  "in_force_date": "1989-10-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30218",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Agrégase el siguiente artículo final a la ley N° 18.834, que aprobó el Estatuto Administrativo:\n\"Artículo final.- El cambio de régimen jurídico que signifique la aplicación de este Estatuto, respecto de los trabajadores de órganos y servicios del Estado, regidos a la fecha de su vigencia por las normas del Código del Trabajo u otros estatutos especiales, no importará supresión de cargo o término de relación laboral, para ningún efecto legal, ni dará derecho al pago inmediato de beneficio alguno, incluidas las indemnizaciones por años de servicios que pudieren corresponder a tal fecha.\nEl pago de beneficios indemnizatorios que correspondieren al personal referido, se entenderá postergado hasta el cese de los servicios en la respectiva entidad empleadora, por causa que otorgue derecho a percibirlo. En tal caso, la indemnización respectiva se determinará computando sólo el tiempo servido hasta la fecha del cambio de régimen a que se refiere el inciso primero de este artículo y las remuneraciones que estuviere percibiendo el trabajador a la fecha del cese.\"."
+    }
+  ],
+  "definitions": []
+}

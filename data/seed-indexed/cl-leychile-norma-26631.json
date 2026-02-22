@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-26631",
+  "type": "statute",
+  "title": "AGREGA INCISO AL ARTICULO 18 DE LA LEY N.o 4,808, DE\nFECHA 10 DE AGOSTO DE 1930",
+  "short_name": "Ley 11269",
+  "status": "in_force",
+  "issued_date": "1953-09-26",
+  "in_force_date": "1953-10-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26631",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Agrégase el siguiente inciso al artículo 18 de la ley N.o 4,808, de 10 de Agosto de 1930:\nNo obstante, el juez omitirá dicho trámite cuando la solicitud de rectificación de partidas se funde en legitimaciones o reconocimientos de hijos o cuando se trate de corregir errores u omisiones que revistan los caracteres de manifiestos, en los términos del artículo anterior. En este caso el juez deberá dejar testimonio de este hecho en la sentencia, expresando la causa de la omisión."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. La Dirección General del Registro Civil e Identificación procederá a devolver inmediatamente a los respectivos juzgados los expedientes que se encuentren en la situación prevista en el artículo anterior."
+    }
+  ],
+  "definitions": []
+}

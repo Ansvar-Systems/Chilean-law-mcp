@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22942",
+  "type": "statute",
+  "title": "SUELDOS DE LOS SUB-OFICIALES, SOLDADOS I ASIMILADOS DEL EJERCITO.",
+  "short_name": "Ley 1824",
+  "status": "in_force",
+  "issued_date": "1906-02-09",
+  "in_force_date": "1906-02-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22942",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Sustitúyese el artículo 1.° de la lei número 1783, de 23 de diciembre de 1905, por el siguiente:\nLos sub-oficiales, los soldados i los asimilados del Ejército gozarán de los siguientes sueldos anuales:\nSub-oficiales.\nSarjento primero_____________________________ $ 840\nVice-sarjento primero________________________ 660\nSarjento segundo_____________________________ 540\nCabo primero_________________________________ 444\nCabo segundo_________________________________ 408\nAspirantes a sub-oficiales___________________ 360\nSoldados_____________________________________ 360\nVeterinario mayor____________________________ 1 500\nVeterinario primero__________________________ 1 200\nVeterinario segundo__________________________ 840\nMariscal primero_____________________________ 600\nMariscal segundo_____________________________ 480\nCarpintero primero___________________________ 600\nCarpintero segundo___________________________ 420\nArmero_______________________________________ 804\nJefes de taller (sastre, zapatero, talabartero) 660\nEcónomos_____________________________________ 840\nPracticantes_________________________________ 840\nSoldados, sastres, zapateros, talabarteros___ 360"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se declaran tambien incluidos en los beneficios del artículo 2.° de la misma lei a los cabos primeros i a los cabos segundos de los cuerpos i secciones del Ejército, cuya gratificacion será de seiscientos pesos para los primeros i de quinientos pesos para los segundos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Los demas individuos de tropa i asimilados a ella no comprendidos en el artículo anterior, tendrán derecho a una gratificacion equivalente a un año del sueldo del que gozan, siempre que hubieren servido diez años no interrumpidos, sin incurrir en nota de fealdad."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULO TRANSITORIO.- No obstante lo dispuesto en el artículo 6.° de la lei citada, de 23 de Diciembre de 1905, los individuos que a la fecha se encuentren en posesion del primer premio de constancia, podrán optar entre los beneficios de la presente lei o los referidos premios.\nLos que estén en posesion de segundo, tercero o cuarto premio quedarán sujetos a las disposiciones vijentes sobre la materia."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24884",
+  "type": "statute",
+  "title": "Prorroga hasta el 31 de Diciembre de 1930 el uso;obligatorio del carnet de identidad",
+  "short_name": "Ley 4751",
+  "status": "in_force",
+  "issued_date": "1929-12-31",
+  "in_force_date": "1930-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24884",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Prorrógase hasta el 31 de Diciembre de 1930 el plazo fijado por el artículo 1.o de la ley número 4,237, de 10 de Enero de 1928, sobre uso obligatorio del carnet de Identidad."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La presente ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-27192",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA Y A LA MUNICIPALIDAD DE SAN VICENTE DE TAGUA-TAGUA PARA PERMUTAR LOS PREDIOS QUE INDICA Y CUYOS DESLINDES SEÑALA.",
+  "short_name": "Ley 12610",
+  "status": "in_force",
+  "issued_date": "1957-10-08",
+  "in_force_date": "1957-11-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27192",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1° Autorízase al Presidente de la República y a la Municipalidad de San Vicente de Tagua-Tagua para permutar los predios que se individualizan a continuación de que son dueños, respectivamente, el Fisco y la indicada Municipalidad:\nPredio fiscal: terreno de 5.110 metros cuadrados de superficie, inscrito en el Registro de Propiedad de 1938 del Conservador de Bienes Raíces de Rengo y signado con el N° 91 en el Rol de Avalúos de la Comuna de san Vicente y con los siguiente deslindes: al norte, en 118 metros, con Avenida España; al sur, en cien metros, con calle Arturo Prat; al oriente, en 58 metros 60 centímetros, con calle Hospital, y al poniente, en 43 metros 60 centímetros, con calle Jenaro Lisboa. El predio tiene un avalúo fiscal de $ 565.000.\nPredio municipal; inmueble inscrito a fojas 399 vuelta, N° 535, del Registro de Propiedad de 1914 del Conservador de Bienes Raíces de Rengo, con los siguientes deslindes: al norte, calle pública; al sur, don Nicanor Correa; al oriente, el mismo don Nicanor Correa, y al poniente, Municipalidad de San Vicente de Tagua-Tagua. El inmueble tiene un avalúo fiscal de $ 435.000."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° El Presidente de la República destinará el inmueble que se transfiere al Fisco en Virtud de la presente ley a la instalación del Juzgado, Cárcel Pública, Servicio de Correos y Telégrafos, además de otros Servicios Públicos."
+    }
+  ],
+  "definitions": []
+}

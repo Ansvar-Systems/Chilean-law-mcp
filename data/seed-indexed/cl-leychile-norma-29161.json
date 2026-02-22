@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29161",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 17.329",
+  "short_name": "Ley 17625",
+  "status": "in_force",
+  "issued_date": "1972-02-15",
+  "in_force_date": "1972-02-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29161",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Introdúcese a la ley N° 17.329, de 22 de Agosto de 1970, sobre contribución de Faros y Balizas, la siguiente modificación:\nAgrégase como artículo 12, el siguiente:\n\"Artículo 12.- Libérase del pago de la contribución de Faros y Balizas y de todo derecho por servicios portuarios a las naves que arriben a puertos chilenos exclusivamente para descargar ayuda con ocasión de una catástrofe nacional, previa calificación del Ministerio de Defensa Nacional.\nEsta liberación podrá ser hasta de un 50%, de acuerdo con la calificación que haga el mismo Ministerio, cuando dichas naves efectúen, además, transporte de carácter comercial hacia y/o desde Chile.\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "\"Artículo transitorio.- Libérase del 50% de la contribución de Faros y Balizas y de todo derecho por servicios portuarios a la nave \"Li Ming\", de propiedad de China Ocean Shipping Co., que arribó al puerto de Valparaíso el 27 de Agosto de 1971, transportando ayuda para los damnificados por el sismo ocurrido en el mes de Julio de 1971.\"."
+    }
+  ],
+  "definitions": []
+}

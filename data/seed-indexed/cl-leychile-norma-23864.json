@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-23864",
+  "type": "statute",
+  "title": "LEI NUM. 3,285, QUE CONCEDE SUPLEMENTOS PARA LA CAMARA DE DIPUTADOS.",
+  "short_name": "Ley 3285",
+  "status": "in_force",
+  "issued_date": "1917-09-21",
+  "in_force_date": "1917-10-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23864",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Concédense los siguientes suplementos a los ítem que se indican del Presupuesto del Ministerio del Interior:\nSesenta mil pesos ($ 60,000) al ítem 3,320 para gastos jenerales de secretaría i servicio de la guardia de la Cámara de Diputados, pago de servidumbre, etc.\nVeinticinco mil pesos ($ 25,000) al ítem 3,322, para la publicacion en la prensa diaria de las sesiones de la Cámara de Diputados en los períodos ordinarios i estraordinarios de 1917."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Apruébase la inversion hecha en gastos jenerales de Secretaría de la Cámara de Diputados de la suma de diez mil ciento noventa i seis pesos, setenta i cinco centavos ($ 10,196.75) que quedó sobrante de las cantidades de cincuenta mil pesos ($ 50,000), consultada en el ítem 3,318 de la partida 14 del Presupuesto del Ministerio del Interior para 1916 i de la de veinticinco mil pesos ($ 25,000) que figura en la lei número 3,191, de fecha 22 de Enero de 1917, para la publicacion en la prensa diaria de las sesiones de la Cámara de Diputados en los períodos ordinarios i estraordinarios de 1916."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Se autoriza al Presidente de la República para invertir la suma de seis mil setecientos siete pesos, cincuenta centavos ($ 6,707.50) en pagar a la Sociedad Imprenta i Litografía Barcelona el valor de la factura a que se refiere el decreto número 1,729 del Ministerio del Interior, de fecha 8 de Mayo de 1917, por diversas impresiones hechas en 1916 para la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° Las cantidades consultadas en los artículos 1.° i 3.° de esta lei, se deducirán del producto de las rentas de arrendamiento de los terrenos Magallánicos."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138498",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3097",
+  "status": "in_force",
+  "issued_date": "1916-05-10",
+  "in_force_date": "1916-05-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138498",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En atencion a los servicios prestados por el teniente don Alfredo Valdes, muerto en la batalla de Chorrillos, se concede a su hermana doña Delia Valdes v. de García el derecho de gozar de una pension de trescientos sesenta pesos ($ 360), de la cual disfrutará con arreglo a la lei de montepío militar."
+    }
+  ],
+  "definitions": []
+}

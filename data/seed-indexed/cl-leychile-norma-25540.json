@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25540",
+  "type": "statute",
+  "title": "AUTORIZA AL BANCO CENTRAL DE CHILE PARA OTORGAR\nPRESTAMOS A LAS COOPERATIVAS DE CONSUMO QUE TENGAN\nPERSONALIDAD JURIDICA, SIEMPRE QUE REUNAN LOS REQUISITOS\nQUE SE EXPRESAN",
+  "short_name": "Ley 7397",
+  "status": "repealed",
+  "issued_date": "1942-12-29",
+  "in_force_date": "1975-06-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25540",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Se autoriza al Banco Central de Chile para que pueda otorgar préstamos a las cooperativas de consumo que tengan personalidad jurídica, siempre que reúnan los siguientes requisitos:\n1° Tener un capital pagado y reservas no inferior a tres millones de pesos ($ 3.000,000).\n2° Contar con 5,000 asociados, por lo menos.\n3° Haber funcionado tres o más años consecutivos, contados desde la dictación del decreto del Presidente de la República que las autoriza y aprueba sus estatutos.\n4° Haber repartido entre sus asociados, en los dos últimos años, saldos a favor o excedentes que equivalgan a un interés no menor del cinco por ciento (5%) anual sobre los aportes de aquéllos, y\n5° Tener autorización del Presidente de la República para realizar estas operaciones."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Los préstamos se otorgarán mediante pagarés, y sus plazos no podrán exceder de ciento ochenta días (180). El total de los préstamos que el Banco Central conceda a cada cooperativa no podrá ser superior al monto del capital pagado y reservas de la misma."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- El Banco Central de Chile aplicará a estos préstamos la misma tasa de interés que fije para las operaciones de redescuento con los bancos comerciales."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo final.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

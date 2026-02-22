@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23256",
+  "type": "statute",
+  "title": "AUTORIZA LA INVERSIÓN DE $ 80.000 EN EL SOSTENIMIENTO DEL PRESIDIO DE SANTIAGO",
+  "short_name": "Ley 2325",
+  "status": "in_force",
+  "issued_date": "1910-07-18",
+  "in_force_date": "1910-07-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23256",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para que invierta hasta ochenta mil pesos en el sostenimiento del Presidio de Santiago durante el presente año."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24186",
+  "type": "statute",
+  "title": "LEI NUM. 3,703, QUE AUTORIZA LA RESIDENCIA DE LOS CUERPOS DEL EJERCITO PERMANENTE.",
+  "short_name": "Ley 3703",
+  "status": "in_force",
+  "issued_date": "1920-12-20",
+  "in_force_date": "1920-12-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24186",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Permítese, por el término de un año, la residencia de los cuerpos del Ejército permanente en el lugar de las sesiones del Congreso Nacional i diez leguas a su circunferencia."
+    }
+  ],
+  "definitions": []
+}

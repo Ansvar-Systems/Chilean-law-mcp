@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-142632",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3814",
+  "status": "in_force",
+  "issued_date": "1921-11-29",
+  "in_force_date": "1921-11-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=142632",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se autoriza al Presidente de la República para invertir hasta cinco millones ochocientos mil pesos ($ 5.800,000) en la prolongacion de la canalizacion del Mapocho entre el puente \"Pio IX\", y cuarenta y cinco metros al oriente de la calle Roman Díaz, emitiendo para su pago bonos del Estado que ganen el 8 por ciento de interes y que sean amortizables en cinco años, por la suma necesaria para producir la espresada cantidad.\nEstos bonos quedarán exentos de las contribuciones fiscales y municipales y sus cupones semestrales servirán para efectuar el pago de las contribuciones fiscales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Las obras se ejecutarán en conformidad al proyecto definitivo elaborado por la Direccion de Obras Públicas y que apruebe el Presidente de la República.\nSe declaran de utilidad pública los terrenos que sean necesarios para la ejecucion de las obras."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Los terrenos que se ganen al rio y los terrenos nacionales de uso público que, segun el proyecto, se destinan a la venta, serán enajenados en subasta pública.\nLa division en lotes de los terrenos, las condiciones del remate, la estension de terrenos que deberá rematarse cada vez y el valor mínimo y fecha que se fije para la subasta pública, serán fijados por el Presidente de la República oyendo a la Direccion de Obras Públicas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o El producido del remate de los terrenos se destinará inmediata y esclusivamente a la amortizacion de los bonos emitidos con arreglo a esta lei; y en caso que no alcanzare para su pago total, se atenderá a éste y al servicio de intereses de los bonos con los fondos que al efecto se consultarán en la lei anual de presupuestos."
+    }
+  ],
+  "definitions": []
+}

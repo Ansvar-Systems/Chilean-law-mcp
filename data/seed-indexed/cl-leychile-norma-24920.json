@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24920",
+  "type": "statute",
+  "title": "MODIFICA EL LIMITE NORTE DEL DEPARTAMENTO DE ANTOFAGASTA",
+  "short_name": "Ley 4798",
+  "status": "in_force",
+  "issued_date": "1930-01-24",
+  "in_force_date": "1930-01-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24920",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Modifícase el límite Norte del departamento de Antofagasta, señalado en el artículo 1.o del decreto supremo número 2,335 del Ministerio del Interior, en la forma siguiente: \"El departamento de Antofagasta limitará por el Norte con una línea trazada desde el mar, frente a la quebrada Tames, hasta los cerros de Colupoy; desde éstos hasta el vértice de la Dirección de Catastro, ubicado en los cerros de Cuacate; y desde este punto hasta empalmar con el antiguo límite\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El límite Sur del departamento de Tocopilla será la línea indicada en el artículo precedente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La Municipalidad de Antofagasta no podrá cobrar la contribución adicional de dos por mil (2 o/oo) establecida en la ley número 2,881, de 3 de Febrero de 1913, sobre la porción de territorio que la presente ley anexa al departamento de Antofagasta.\nEsta ley principiará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

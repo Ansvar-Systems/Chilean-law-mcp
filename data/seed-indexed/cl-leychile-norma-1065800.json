@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1065800",
+  "type": "statute",
+  "title": "Uso y enajenación de depósitos metálicos y amonedación de un millón de pesos en moneda de plata",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1891-05-05",
+  "in_force_date": "1891-05-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1065800",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1.°\nSe autoriza al Presidente de la República para usar y enajenar el depósito metálico constituido en virtud de lo dispuesto en el art. 3.° de la ley de 14 de Marzo de 1887."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°\nAutorízase igualmente al Presidente de la República para sellar hasta un millón de pesos en moneda divisionaria de plata, con ley de quince peniques, tomando esta cantidad del referido depósito."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°\nSe derogan los artículos 3.° y 4.° de la ley de 14 de Marzo de 1887."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24276",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3826",
+  "status": "in_force",
+  "issued_date": "1921-12-30",
+  "in_force_date": "1921-12-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24276",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Concédese un suplemento de treinta y cinco mil ochocientos cuarenta y ocho pesos ($ 35,848) al ítem 1247, partida 11, del Presupuesto de Justicia, que se destina al pago del saldo del valor de la propuesta aceptada al taller fiscal de imprenta de la Penitenciaría de Santiago, para la fabricacion e impresion de los libros y formularios que se utilizarán en el servicio del Registro Civil durante el año 1922 y a conceder un aumento de trece mil trescientos cuarenta y ocho pesos sobre el precio total de dicha propuesta.\nEl gasto se deducirá del ítem 1756, del Presupuesto de Justicia, hasta la concurrencia de su monto total y el resto del ítem 1733 del mismo prespuesto.\""
+    }
+  ],
+  "definitions": []
+}

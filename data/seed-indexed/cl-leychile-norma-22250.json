@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22250",
+  "type": "statute",
+  "title": "PAGO DE OBRAS CONTRATADAS I ADQUISICION DE MATERIALES DE FERROCARRILES.- SE AUTORIZA LA INVERSION DE UN 1.500,000 PESOS.",
+  "short_name": "Ley 902",
+  "status": "in_force",
+  "issued_date": "1897-01-22",
+  "in_force_date": "1897-01-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.º Se autoriza al Presidente de la República para que invierta hasta la cantidad de un millon quinientos mil pesos en la cancelacion de los estados de pago de obras contratadas i en el pago de jornales i adquisicion de materiales de carácter impostergable de los ferrocarriles en construccion i en esplotacion.\nLa presente concesion caducará en la fecha en que se promulgue la lei de presupuestos para 1897."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Los gastos que se efectúen con imputacion a esta lei, disminuirán en igual suma la partida correspondiente de la lei de presupuestos para 1897."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Dentro de los ocho dias siguientes a la promulgacion de la lei de presupuestos, la Direccion de Contabilidad solicitará de los respectivos Ministerios la imputacion al presupuesto que corresponda de los gastos que se hubieren hecho con cargo a esta lei."
+    }
+  ],
+  "definitions": []
+}

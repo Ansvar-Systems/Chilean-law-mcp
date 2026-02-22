@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1160018",
+  "type": "statute",
+  "title": "VOTOS DE LOS MIEMBROS DE LOS TRIBUNALES COLEJIADOS EN LAS SENTENCIAS QUE EMITAN",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1873-11-20",
+  "in_force_date": "1873-11-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1160018",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1.°\nEn las sentencias definitivas o interlocutorias que pronunciaren los tribunales colejiados, se espresará nominalmente qué miembros han concurrido con su voto a formar sentencia i qué miembros han sostenido opinion contraria."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°\nHabrá en cada tribunal colejiado un libro denominado de acuerdos, en el cual los miembros que no pinaren como la mayoría, deberán esponer i fundar su voto particular en los asuntos en que hubiere conocido el tribunal.\nPodrán también consignar las razones especiales que algun miembro de la mayoría haya tenido para formar sentencia, i que no se hubieren insertado en ella.\nEste libro quedará en la secretaría i podrá ser consultado por cualquiera que muestre interes en ello."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°\nEl voto i fundamentos de que se trata en el art. 2.° de esta lei se publicarán en la Gaceta de los Tribunales a continuación de la sentencia a que se refieren."
+    }
+  ],
+  "definitions": []
+}

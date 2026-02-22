@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28573",
+  "type": "statute",
+  "title": "ACLARA LAS DISPOSICIONES QUE CONCEDEN EL GOCE DE\nASIGNACION CUANDO EL CAUSANTE ES MADRE DEL IMPONENTE",
+  "short_name": "Ley 16610",
+  "status": "in_force",
+  "issued_date": "1967-01-11",
+  "in_force_date": "1967-02-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28573",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°- Tendrán derecho a impetrar el beneficio de la asignación familiar, los hijos legítimos, naturales, ilegítimos, adoptivos o legitimados adoptivamente, cuyas madres vivan a sus expensas.\nSe presumirá que la madre no vive a expensas de su hijo cuando perciba una renta superior a un sueldo vital mensual."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°- Condónanse a los obreros municipales las sumas percibidas en exceso por asignación familiar durante el año 1965."
+    }
+  ],
+  "definitions": []
+}

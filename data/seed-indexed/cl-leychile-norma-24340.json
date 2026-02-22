@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-24340",
+  "type": "statute",
+  "title": "LEI NUM. 3,909, QUE REFORMA VARIOS ARTICULOS DE LA LEI QUE REGLAMENTA LOS CONTRATOS DE CUENTA BANCARIA I LOS CHEQUES",
+  "short_name": "Ley 3909",
+  "status": "in_force",
+  "issued_date": "1923-01-08",
+  "in_force_date": "1923-01-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24340",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTICULO 1.° Sustitúyese el artículo 7.° de la lei núm. 3,845, de 21 de Febrero de 1922, por el siguiente:\n\"Sea que la cuenta corriente concluya en la forma ordinaria, o en la que previene el artículo anterior, no podrán capitalizarse los intereses del saldo definitivo.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° El primer inciso del artículo 13, se modifica como sigue:\n\"Ya se jire a la órden, al portador o como nominativo, el cheque deberá espresar, ademas, etc.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Sustitúyese por \"librado\" la palabra \"librador\" que se espresa en el inciso final del artículo 16."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° El artículo 40 queda modificado como sigue:\n\"Dentro de los meses de Enero i Julio de cada año, los Bancos avisarán a los respectivos acreedores la existencia de los créditos que aparezcan a nombre de ellos en la Institucion, siempre que pueda creerse que los ignoran u olvidan, lo cual se presumirá de los que, siendo líquidos i exijibles, no devengan intereses ni han sido cobrados en los dos años siguientes a su vencimiento.\n\"Se aplicará la misma regla a los créditos no comprendidos en el inciso anterior, despues de cinco años contados desde la última percepcion o liquidacion de intereses.\n\"Por cada infraccion a lo dispuesto en los incisos precedentes, el Banco incurrirá en una multa de cincuenta a cien pesos, a beneficio fiscal.\n\"El Inspector Fiscal de Bancos vijilará el cumplimiento de lo ordenado en este artículo.\""
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.° Esta lei comenzará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

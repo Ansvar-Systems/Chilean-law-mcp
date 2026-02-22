@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1172583",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 18.290, DE TRÁNSITO, CON EL OBJETO DE FORTALECER LA REGULACIÓN DE TRANSPORTE, CARGA Y DESCARGA DE MINERALES Y DE CONCENTRADOS DE MINERALES",
+  "short_name": "Ley 21425",
+  "status": "in_force",
+  "issued_date": "2022-02-03",
+  "in_force_date": "2022-08-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1172583",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Modifícase la Ley de Tránsito, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2007, del Ministerio de Transportes y Telecomunicaciones y de Justicia, de la siguiente forma:\n1. Intercálase en el Título V el siguiente párrafo 3, pasando los actuales párrafos 3 y 4 a ser 4 y 5, respectivamente:\n\"§3. DEL TRANSPORTE DE CONCENTRADOS MINERALES\nArtículo 67 bis.- El transporte de concentrados minerales deberá realizarse siempre por medios herméticos y con los grados de humedad necesarios para evitar su volatilidad.\nSe entenderá que el transporte se realiza de la manera antes indicada, cuando se haga por medios estancos a pulverulentos, que impidan el paso de líquidos y sólidos, desde y hacia la carga que se transporta, a fin de evitar cualquier derrame eventual o accidental durante el traslado.\nArtículo 67 ter.- Un reglamento expedido por los ministerios de Transportes y Telecomunicaciones, de Minería y del Medio Ambiente determinará la forma en que se realizará la carga, transporte y descarga de minerales y de concentrados de minerales como también las obligaciones del generador de la carga en tal procedimiento. Lo anterior, con el objetivo de impedir la emisión de partículas al aire libre en el transporte de dichos elementos.\nEl referido reglamento se deberá dictar dentro del plazo de ciento veinte días desde la fecha de publicación de la presente ley.\".\n2. Incorpórase en el artículo 200 el siguiente número 44, nuevo:\n\"44. Infringir lo dispuesto en los artículos 67 bis y 67 ter, en lo referente al transporte, carga y descarga de minerales y de concentrado de minerales.\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- La presente ley entrará en vigencia ciento ochenta días después de su publicación en el Diario Oficial.\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-24170",
+  "type": "statute",
+  "title": "LEI NUM. 3,684, QUE AUTORIZA LA EMISION DE $;30.000,000 EN VALES DE TESORERIA I LA CONTRATACION DE CREDITOS BANCARIOS HASTA POR $ 20.000,000; I DISPONE QUE EL 15% DE LOS DERECHOS DE INTERNACION SE DESTINARA A LA AMORTIZACION DE LOS VALES I A LA CANCELACION DE LOS CREDITOS.",
+  "short_name": "Ley 3684",
+  "status": "in_force",
+  "issued_date": "1920-11-12",
+  "in_force_date": "1920-11-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24170",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para emitir en el presente año, hasta por una cantidad que produzca treinta millones de pesos ($ 30.000,000) vales de tesorería de corte no inferior a un mil pesos ($ 1,000), a un plazo máximo de cinco años, con interes no superior a ocho por ciento anual (8%) amortizables por terceras partes en los últimos tres años de su plazo.\nEl producto de estos vales se destinará con preferencia al retiro inmediato de la circulacion de los vales emitidos en los préstamos a los salitreros i que correspondan a sumas ya pagadas por los deudores.\nEl Presidente de la República podrá efectuar amortizaciones estraordinarias de los indicados vales de tesorería, debiendo consignarse esta circunstancia en el testo de dichos vales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Los Bancos de emision podrán retirar vales de tesorería, con arreglo a lo dispuesto en la lei núm.\n2,912 de 3 de Agosto de 1914 i con garantía de los vales que autoriza la presente lei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Autorízase igualmente al Presidente de la República, por el término de un año, para contratar créditos bancarios hasta por la suma de veinte millones de pesos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° El producto correspondiente al quince por ciento (15%) de los derechos de internacion a que se refiere el artículo 1.° de los transitorios de la lei núm. 3,066, de 1.° de Marzo de 1916, se destinará desde el 1.° de Julio de 1921 a la amortizacion de los mencionados vales i a la cancelacion de los créditos a que se refiere el artículo precedente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° La presente lei comenzará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

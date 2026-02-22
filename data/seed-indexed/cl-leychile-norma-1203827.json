@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-1203827",
+  "type": "statute",
+  "title": "MODIFICA LA LEY Nº 20.584 CON EL OBJETO DE ESTABLECER LA INTEROPERABILIDAD DE LAS FICHAS CLÍNICAS",
+  "short_name": "Ley 21668",
+  "status": "in_force",
+  "issued_date": "2024-05-23",
+  "in_force_date": "2024-05-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1203827",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "único",
+      "title": "Artículo único",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en la ley Nº 20.584, que regula los derechos y deberes que tienen las personas en relación con acciones vinculadas a su atención en salud:\n1.- En el artículo 12:\na) Sustitúyese el inciso primero, por el siguiente:\n\"Artículo 12.- La ficha clínica es el instrumento obligatorio en el que se registra el conjunto de antecedentes relativos a las diferentes áreas relacionadas con la salud de las personas, custodiada por uno o más prestadores de salud, en la medida que realizaron las atenciones registradas, que tiene como finalidad integrar la información necesaria en el proceso asistencial de cada persona, y permitir una atención continua, coordinada y centrada en las personas y sus necesidades clínicas.\".\nb) Intercálase el siguiente inciso segundo, pasando el actual inciso segundo a ser inciso tercero:\n\"La ficha clínica podrá configurarse de manera electrónica, en papel o en cualquier otro soporte, siempre que los registros sean completos y se asegure el oportuno acceso, conservación y confidencialidad de los datos, así como la autenticidad de su contenido y de los cambios efectuados en ella. En el caso de las fichas clínicas en soporte de papel se deberá considerar el registro y disponibilidad de un conjunto mínimo de datos en la forma, procedimiento y plazo definidos por el Ministerio de Salud en una resolución.\".\n2.- En el artículo 13:\na) Sustitúyese el inciso primero, por el siguiente:\n\"Artículo 13.- Los prestadores deberán conservar la ficha clínica por un período de al menos quince años. Asimismo, serán responsables del cumplimiento de lo dispuesto en la ley N° 19.628, sobre protección de la vida privada, de adoptar las medidas que permitan su interoperabilidad con otros prestadores de salud, y del acceso oportuno a la información contenida en la ficha que sea necesaria para garantizar la continuidad del cuidado del paciente, cuando ésta sea requerida por un profesional de la salud que participe directamente en la atención del titular de los datos contenidos en ella. Un reglamento expedido a través del Ministerio de Salud establecerá la forma y las condiciones bajo las cuales los prestadores almacenarán las fichas, así como las normas necesarias para su administración, adecuada protección, eliminación e interoperabilidad.\".\nb) Modifícase el inciso quinto, de la siguiente manera:\ni. Añádese, en la letra e), a continuación de las palabras \"Salud Pública\", la frase \"y al Ministerio de Salud\".\nii. Agréganse las siguientes letras f) y g):\n\"f) A la Superintendencia de Salud, para dar cumplimiento a las facultades fiscalizadoras y sancionatorias que las leyes le otorgan respecto de los prestadores de salud.\ng) Al prestador individual y a los profesionales de la salud que participen directamente en la atención de salud del paciente, para proporcionarles los datos que sean esenciales para garantizar la continuidad de su cuidado.\".\n3.- Agrégase el siguiente artículo tercero transitorio:\n\"Artículo tercero.- El Ministerio de Salud deberá actualizar el reglamento contemplado en el artículo 13, en el plazo de dieciocho meses contado desde la entrada en vigencia de la modificación a dicho artículo, la que establece el deber de adoptar medidas tendientes a la interoperabilidad de las fichas clínicas.\".\"."
+    }
+  ],
+  "definitions": []
+}

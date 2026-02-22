@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-30307",
+  "type": "statute",
+  "title": "MODIFICA LEY N° 18.314, QUE DETERMINA CONDUCTAS\nTERRORISTAS Y FIJA SU PENALIDAD",
+  "short_name": "Ley 18937",
+  "status": "in_force",
+  "issued_date": "1990-02-12",
+  "in_force_date": "1990-02-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=30307",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Introdúcense las siguientes modificaciones a la ley N° 18.314:\n1.- Deróganse los números 3, 7, 8, 12, 13, 14 y 16 del artículo 1°;\n2.- Reemplázase el artículo 2° por el siguiente:\n\"Artículo 2°.- Los autores de los delitos contemplados en el artículo 1° serán castigados con presidio mayor en su grado mínimo a presidio mayor en su grado máximo.\nSi a consecuencia de dichos delitos se causaren lesiones de aquellas a que se refiere el número 1° del artículo 397 del Código Penal, la pena será presidio mayor en su grado máximo. Si se causare la muerte de alguna persona, la pena será de presidio mayor en su grado máximo a muerte.\nSi con motivo u ocasión del secuestro se cometieren, además, algunas de las lesiones comprendidas en los artículos 395, 396 y 397, número 1° del Código Penal o la muerte del ofendido, la pena será de presidio perpetuo a muerte. Si el hechor liberare voluntariamente a la víctima antes de causarle cualquier mal grave distinto de la mera privación de libertad, el juez podrá rebajar la pena en uno o dos grados.\nPara la determinación de las penas establecidas en el presente artículo, tendrán aplicación las disposiciones de los artículos 74 y 75 del Código Penal y 509 del Código de Procedimiento Penal, según el caso.\", y\n3.- Deróganse los artículos 3°, 6°, 8° y 9°."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo 1° transitorio.- Los procesos que se encontraren pendientes por delitos contemplados en las disposiciones derogadas por esta ley, continuarán siendo conocidos por el tribunal que fuere competente, con arreglo al procedimiento que corresponda, si los hechos investigados pudieren constituir delitos contemplados en otras leyes."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2° transitorio.- Si en virtud de lo dispuesto en el artículo anterior fuere aplicable un procedimiento que exigiere requerimiento, éste se entenderá efectuado por el solo ministerio de la ley."
+    }
+  ],
+  "definitions": []
+}

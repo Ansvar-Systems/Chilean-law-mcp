@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25412",
+  "type": "statute",
+  "title": "COMPLEMENTA LA LEY N.o 6,667, QUE FIJO LOS SUELDOS\nDEL PERSONAL DEL CONGRESO NACIONAL.",
+  "short_name": "Ley 6914",
+  "status": "in_force",
+  "issued_date": "1941-04-29",
+  "in_force_date": "1941-06-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25412",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Agrégase en el artículo 1.o de la ley N.o 6,667, de 2 de Octubre de 1940, a continuación del rubro \"Planta y Sueldos de los Empleados de la Biblioteca del Congreso\", el siguiente nuevo rubro:\n\"Oficina de informaciones de la Cámara de Diputados:\nUn jefe del Servicio __ ___ __ $ 48,750"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Agrégase en el rubro \"Planta y Sueldos de los empleados de la Cámara de Diputados\" de la ley anteriormente citada, en la parte que se refiere a los oficiales de Sala, guardianes, ayudante de Tesorero y telefonista 2.o, lo siguiente:\nAyudante de la Secretaría de Comisiones y Ayudante de la Oficina de Informaciones de la Cámara de Diputados, suprimiéndose la conjunción \"y\" entre las palabras \"Ayudante del Tesorero\" y \"Telefonista 2\", substituyéndose por una coma."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o El mayor gasto que demande esta ley durante el presente año se cubrirá con fondos de la Secretaría de la Cámara de Diputados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

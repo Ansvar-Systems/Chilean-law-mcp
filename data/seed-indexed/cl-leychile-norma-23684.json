@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23684",
+  "type": "statute",
+  "title": "Declara que en la Comuna de Antofagasta corresponde;pagar durante el año 1915 el 2 por mil como impuesto;adicional de haberes",
+  "short_name": "Ley 3038",
+  "status": "in_force",
+  "issued_date": "1915-11-20",
+  "in_force_date": "1915-12-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23684",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Declárase que la Comuna de Antofagasta está comprendida en la clasificacion hecha en el inciso 2.° del artículo único de la lei número 2,988, de 1.° de Marzo último i, en consecuencia, el impuesto adicional fiscal será de dos por mil."
+    }
+  ],
+  "definitions": []
+}

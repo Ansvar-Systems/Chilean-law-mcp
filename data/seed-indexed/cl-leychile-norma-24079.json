@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24079",
+  "type": "statute",
+  "title": "LEI NUM. 3,570, QUE AUTORIZA A LA MUNICIPALIDAD DE SANTIAGO PARA CAMBIAR EL NOMBRE DE UNA AVENIDA.",
+  "short_name": "Ley 3570",
+  "status": "in_force",
+  "issued_date": "1919-12-10",
+  "in_force_date": "1919-12-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24079",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase a la Municipalidad de Santiago para cambiar el nombre de la \"Avenida de las Quintas\", de esta ciudad, por el de \"Jeneral Bustamante\"."
+    }
+  ],
+  "definitions": []
+}

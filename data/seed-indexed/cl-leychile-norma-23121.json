@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23121",
+  "type": "statute",
+  "title": "LEI NUM. 2,096, QUE APRUEBA LOS GASTOS DE LA ADMINISTRACION PUBLICA PARA EL AÑO 1908",
+  "short_name": "Ley 2096",
+  "status": "in_force",
+  "issued_date": "1908-02-11",
+  "in_force_date": "1908-02-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23121",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Ministerios Moneda corriente Oro\nInterior____________ $ 33.221,082.80 $ 5.794,999.99\nRelaciones Esteriores 184,892.50 974,798.33\nCulto_______________ 2.300,725 __________\nColonizacion________ 3.285,720 80,333.33\nJusticia____________ 8.019,060.18 6,665\nInstruccion Pública 21.487,715.64 140,333.32\nHacienda____________ 14.332,236.97 18.656,145.96\nGuerra______________ 20.952,477.03 1.682,020\nMarina______________ 11.620.796.70 9.324,269.03\nIndustria i Obras\nPúblicas____________ 42.310,959.59 28.571,327.14\n_______________________________\nTOTALES___________ $ 157.715,666.41 $ 65.230,892.10\nLos totales ascienden a ciento cincuenta i siete millones setecientos quince mil seiscientos sesenta i seis pesos cuarenta i un centavos en moneda corriente, i a sesenta i cinco millones doscientos treinta mil ochocientos noventa i dos pesos diez centavos en oro."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23312",
+  "type": "statute",
+  "title": "AGREGA VARIOS ITEMS AL PRESUPUESTO DEL MINISTERIO DE INSTRUCCIÓN PUBLICA DESTINADOS A SUBVENCIONAR ESTABLECIMIENTOS DE INSTRUCCION.",
+  "short_name": "Ley 2447",
+  "status": "in_force",
+  "issued_date": "1911-01-13",
+  "in_force_date": "1911-01-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23312",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Agréganse en la Lei de Presupuestos del Ministerio de Instruccion Pública de 1910, los siguientes ítems:\nA continuacion del 3,611:\nItem_____Al Deutsche Schule, seis mil pesos____ $ 6,000\nA continuacion del 3,624:\nItem_____Al Colejio de Niñas \"La Ilustracion\",\nde Quillota, cuatro mil pesos__________________ 4,000\nA continuacion del 3,644:\nItem_____Al Colejio Maria Auxiliadora, de la\nAvenida Matta, tres mil seiscientos pesos______ 3,600"
+    }
+  ],
+  "definitions": []
+}

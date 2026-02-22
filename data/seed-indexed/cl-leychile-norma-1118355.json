@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1118355",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA CONTRATAR UN EMPRESTITO PARA LA LINEA AEREA NACIONAL HASTA POR LA SUMA DE $ 25.000,000",
+  "short_name": "Ley 6332",
+  "status": "in_force",
+  "issued_date": "1939-04-20",
+  "in_force_date": "1939-05-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1118355",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Autorízase al Presidente de la República para contratar directamente o por intermedio de la Caja Autónoma de Amortización de la Deuda Pública, un empréstito para la Línea Aérea Nacional, hasta por la cantidad de $ 25.000,000, en bonos, con un interés de 7% y con una amortización acumulativa del uno por ciento anuales.\nLos bonos que se emitan en conformidad a la autorización del inciso precedente no podrán ser colocados a menos de un ochenta y cinco por ciento de su valor nominal.\nLa Línea Aérea Nacional podrá contratar anticipos bancarios a cuenta del empréstito, que deberán cancelarse con el producto de la emisión de los bonos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El producto del empréstito se destinará exclusivamente a satisfacer las siguientes necesidades de la Línea Aérea Nacional.\na) A la cancelación de deudas o cuentas pendientes y anticipos o sobregiros bancarios que se hayan contraído.\nb) A la cancelación de las pérdidas producidas antes de la dictación de esta ley.\nc) A la compra de material de vuelo: estaciones de radiocomunicaciones; servicio meteorológico, canchas de aterrizaje y demás necesidades del servicio."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Los aviones que se compren deberán ser sin uso y adquiridos por medio de propuestas públicas.\nLas adquisiciones a que se refiere el inciso precedente, serán autorizadas por el Presidente de la República previo informe de la Dirección de Aeronáutica."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Derógase la ley N.o 6.141, de 4 de Noviembre de 1937.\nLa emisión de bonos autorizados por la presente, ley, se hará previa devolución de los bonos que se hayan alcanzado a emitir con arreglo a la ley N.o 6,141, de 4 de Noviembre de 1937."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

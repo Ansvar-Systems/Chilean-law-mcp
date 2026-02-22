@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22181",
+  "type": "statute",
+  "title": "PENSION",
+  "short_name": "Ley 330",
+  "status": "in_force",
+  "issued_date": "1896-01-15",
+  "in_force_date": "1896-01-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22181",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese, por gracia, a doña Carolina i doña Virjinia Teresa Vivar, hermanas del teniente coronel don Bartolomé i del capitan don Pedro Antonio Vivar, muertos en servicio del pais, el goce de la pension que se concedió por lei de 30 de Setiembre de 1890 a su hermana doña María Vivar, de la que disfrutarán con arreglo a la lei de montepío militar."
+    }
+  ],
+  "definitions": []
+}

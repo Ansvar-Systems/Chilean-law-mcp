@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-149129",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4519",
+  "status": "in_force",
+  "issued_date": "1929-01-03",
+  "in_force_date": "1929-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149129",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- La Empresa de los Ferrocarriles del Estado podrá invertir con cargo a los fondos consultados en la letra c) del artículo 3.o del decreto-ley número 334, de 12 de Marzo de 1925, hasta la suma de cuatrocientos sesenta mil pesos ($ 460,000), en la construcción de una casa de hospedaje y de una sala de espectáculos para el personal ferroviario de San Rosendo."
+    }
+  ],
+  "definitions": []
+}

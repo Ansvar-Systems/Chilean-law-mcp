@@ -1,0 +1,58 @@
+{
+  "id": "cl-leychile-norma-1116027",
+  "type": "statute",
+  "title": "DISPONE QUE EL DEPARTAMENTO DE SAN BERNARDO COMPRENDERA EL TERRITORIO DE LAS COMUNAS SUBDELEGACIONES DE SAN BERNARDO Y CALERA DE TANGO Y CREA EL DEPARTAMENTO DE MAIPO, EN LA PROVINCIA DE SANTIAGO.",
+  "short_name": "Ley 5987",
+  "status": "in_force",
+  "issued_date": "1937-01-11",
+  "in_force_date": "1937-01-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1116027",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o El departamento de San Bernardo, de la provincia de Santiago, comprenderá el territorio de las comunas subdelegaciones de San Bernardo y Calera de Tango, que se crea por la presente Ley.\nSu cabecera será la ciudad de San Bernardo.\nLa comuna subdelegación de San Bernardo comprenderá los actuales distritos, 1.o O'Higgins; 2.o Nogales; 3.o Cerro Negro; 4.o Observatorio; 5.o Chena; 6.o Nos y 7.o Lo Herrera, de la actual comuna subdelegación de San Bernardo.\nLos límites de la comuna subdelegación de Calera de Tango serán los siguientes:\nAl Norte, el lindero norte del fundo San Ignacio, desde el lindero poniente de dicho fundo hasta el lindero poniente del fundo El Trébol; el lindero poniente del fundo El Trébol, desde el lindero norte del fundo San Ignacio hasta el lindero sur del fundo Santa Ana de Chena; el lindero sur del fundo Santa Ana de Chena, desde el lindero poniente del fundo El Trébol hasta el camino de Lonquén; el camino de Lonquén, desde el lindero sur del fundo Santa Ana de Chena hasta la puntilla de Cortés, sobre dicho camino.\nAl Este, la línea de cumbres de los cerros de Chena, desde la puntilla de Cortés sobre el canino de Lonquén hasta la puntilla de Cucara, sobre el camino de San Agustín; el camino de San Agustín desde la puntilla de Cucara hasta el canal de Santa Cruz; el canal de Santa Cruz, desde el camino de San Agustín hasta Tres Acequias y el camino antiguo de Buin, desde Tres Acequian hasta el lindero norte del fundo Lo Herrera.\nAl Sur, el lindero norte del fundo Lo Herrera, desde el antiguo camino de Buin hasta la puntilla del Corte, y la línea de cumbres de los cerros de Tango, desde la puntilla de Corte hasta la puntilla que limita por el norte el fundo La Cé; el camino de Lonquén, desde la puntilla que limita por el norte el fundo La Cé hasta el lindero norte del fundo Los Olmos; y el lindero norte del fundo Los Olmos, desde el camino de Lonquén hasta el lindero poniente del fundo Santo Domingo; y\nAl Oeste, el lindero poniente de los fundos Santo Domingo, El Recuerdo, San Remigio, Primavera, San Luis, Porvenir y San Ignacio, desde el lindero sur del fundo Santo Domingo hasta el lindero norte del fundo San Ignacio."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Créase el departamento de Maipo, en la provincia de Santiago. Su capital será la ciudad de Buin.\nEl Departamento de Maipo comprenderá el territorio de las actuales comunas subdelegaciones de Buin y Paine, cuyos límites fueron fijados por el decreto N.o 116, de 20 de Enero de 1930."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Para los efectos de la Ley de Elecciones, la representación que ésta atribuye a los departamentos que se mencionan, se modificará en la forma siguiente: \"8.a Melipilla, San Antonio y Maipo\", por \"8.a Melipilla. San Antonio, San Bernardo y Maipo\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Modifícanse, igualmente, los incisos correspondientes a la representación de los departamentos en el Congreso Nacional: \"Melipilla, San Antonio y Maipo, 4 (cuatro)\", por \"Melipilla, San Antonio, San Bernardo y Maipo 5 (cinco)\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "chapter": "Artículos transitorios",
+      "section": "1 transitorio",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o La Municipalidad de la comuna de Calera de Tango no podrá cobrar ninguna suma de dinero a las municipalidades de las cuales depende actualmente su territorio, ni tampoco podrá pagar deudas contraídas por aquéllas."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "chapter": "Artículos transitorios",
+      "section": "2 transitorio",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Autorízase al Presidente de la República para que, dentro de los 30 días siguientes a la vigencia de esta Ley, dicte las providencias necesarias para organizar en la nueva comuna de Calera de Tango, los servicios de Tesorería, Registro Civil, Carabineros y demás que sean necesarios para las inscripciones electorales correspondientes.\nAutorízasele, asimismo, para que, una vez organizados los servicios a que se refiere el inciso anterior y cumplidos los demás requisitos exigidos por la Ley de Elecciones convoque a inscripciones extraordinarias en la nueva comuna por un plazo de 20 días y para que dentro de los 90 días siguientes a la expiración de las inscripciones, convoque a elecciones extraordinarias de municipales.\nLa nueva Municipalidad expirará en sus funciones el mismo día que las elegidas el 7 de Abril de 1935."
+    },
+    {
+      "provision_ref": "artfinal-transitorio",
+      "chapter": "Artículos transitorios",
+      "section": "FINAL transitorio",
+      "title": "Artículo FINAL",
+      "content": "Artículo final. Esta Ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

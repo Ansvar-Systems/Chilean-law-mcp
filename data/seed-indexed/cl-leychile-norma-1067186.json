@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1067186",
+  "type": "statute",
+  "title": "ESCLAVOS",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1824-05-01",
+  "in_force_date": "1824-05-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1067186",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° No pisa legalmente de territorio de Chile el esclavo fugado de los Estados vecinos con solo el objeto de gozar de la libertad que la lei concede en Chile a los de su clase."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° No se repulan por consiguiente libres los esclavos de que habla el artículo anterior, y serán devueltos a sus dueños si se reclamaren."
+    }
+  ],
+  "definitions": []
+}

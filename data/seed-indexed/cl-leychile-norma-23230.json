@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23230",
+  "type": "statute",
+  "title": "Lei núm. 2,264, que agrega un inciso al artículo;final de la lei sobre transformacion de la ciudad de;Talca.",
+  "short_name": "Ley 2264",
+  "status": "in_force",
+  "issued_date": "1910-02-15",
+  "in_force_date": "1910-02-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23230",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Agrégase al artículo 9 de la lei núm. 2,196, de 7 de Setiembre de 1909, ántes del inciso final, el siguiente:\n\"Todas las demas calles comprendidas en el radio urbano fijado por el art. 1 i que no tengan determinada una anchura especial en este artículo, tendrán un ancho de quince metros\"."
+    }
+  ],
+  "definitions": []
+}

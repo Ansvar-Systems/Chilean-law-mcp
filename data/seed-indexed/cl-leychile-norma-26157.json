@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-26157",
+  "type": "statute",
+  "title": "CONCEDE AMNISTIA EN FAVOR DE LAS PERSONAS QUE\nHUBIEREN TOMADO PARTE EN HUELGAS ILEGALES, PAROS, ETC.",
+  "short_name": "Ley 9580",
+  "status": "in_force",
+  "issued_date": "1950-03-01",
+  "in_force_date": "1950-03-08",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26157",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Se concede amnistía en favor de todas las personas que hubieren intervenido directa o indirectamente en huelgas ilegales, paros o suspensiones de labores, con respecto de los delitos cometidos por ellas con su participación en aquellos actos.\nLo dispuesto en el inciso precedente favorecerá tanto a las personas que estuvieren actualmente condenadas o procesadas, como a las que pudieran estarlo en el futuro en razón de los delitos perpetrados por ellas hasta la fecha de la promulgación de esta ley."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- No será necesario el trámite de la consulta en los sobreseimientos que se dicten a virtud de esta ley, quedando ejecutoriados los fallos desde su notificación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Los Tribunales de Justicia deberán dictar de oficio las resoluciones que procedan en los procesos actualmente incoados o en aquellos que pudieran incoarse en el futuro."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24171",
+  "type": "statute",
+  "title": "LEI NÚM. 3,685, QUE SUPLEMENTA EL PRESUPUESTO DEL INTERIOR",
+  "short_name": "Ley 3685",
+  "status": "in_force",
+  "issued_date": "1920-11-12",
+  "in_force_date": "1920-11-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24171",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para suplementar los ítem que se indican del Presupuesto del Interior en las cantidades que se espresan:\nAl ítem 4,242__________________________$ 5,000\nAl ítem 4,243__________________________$ 50,000\nAl ítem 4,244__________________________$ 30,000\nAl ítem 4,245__________________________$ 6,000\nAl ítem 4,246__________________________$ 12,000\nAl ítem 4,247__________________________$ 3,000"
+    }
+  ],
+  "definitions": []
+}

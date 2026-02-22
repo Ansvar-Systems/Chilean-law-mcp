@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-27692",
+  "type": "statute",
+  "title": "AMNISTIA A LOS INFRACTORES DE LA LEY N° 11,170 SOBRE\nRECLUTAMIENTO PARA LAS FUERZAS ARMADAS",
+  "short_name": "Ley 14120",
+  "status": "in_force",
+  "issued_date": "1960-10-03",
+  "in_force_date": "1960-10-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27692",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único. Concédese amnistía en favor de los infractore de la Ley N° 11,170, sobre Reclutamiento para las Fuerzas Armadas.\nA esta amnistía podrán acogerse los nacidos hastas el 31 de diciembre de 1941, que se presenten a las Oficinas de Reclutamiento y paguen una multa de E° 1 (un escudo) en estampillas de reclutamiento.\""
+    }
+  ],
+  "definitions": []
+}

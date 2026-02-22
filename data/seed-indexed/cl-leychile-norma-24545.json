@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24545",
+  "type": "statute",
+  "title": "PERMITE, POR QUINCE DIAS, ESTADA EN TERRITORIO A COLEGIO MILITAR ARGENTINO Y AUTORIZA PRESIDENTE REPUBLICA PARA QUE INVIERTA HASTA $ 300,000 EN SU ATENCION.",
+  "short_name": "Ley 4184",
+  "status": "in_force",
+  "issued_date": "1927-09-14",
+  "in_force_date": "1927-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24545",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Permítese, por el período de quince días, la estada en el territorio de la República, al Colegio Militar Argentino, a fin de que tome parte en las fiestas del aniversario de nuestra independencia nacional."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Autorízase al Presidente de la República para invertir hasta la cantidad de trescientos mil pesos ($ 300,000), en los gastos que demanden la atención y festejos que se harán al Colegio Militar y delegaciones argentinas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Los fondos que demande el cumplimiento de esta ley, se imputarán al saldo del ítem 1517 del Presupuesto de Hacienda, que no se invertirá."
+    }
+  ],
+  "definitions": []
+}

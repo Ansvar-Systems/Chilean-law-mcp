@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134783",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1306",
+  "status": "in_force",
+  "issued_date": "1899-12-30",
+  "in_force_date": "1900-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134783",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese a la viuda del jeneral de división don Luis Arteaga, doña Elvira García, i a su hija soltera, doña Herminia Arteaga, el goce de una pensión anual de dos mil pesos.\nEsta pensión será incompatible con el goce de cualquiera otra pensión fiscal."
+    }
+  ],
+  "definitions": []
+}

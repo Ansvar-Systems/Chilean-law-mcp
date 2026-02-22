@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134789",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1352",
+  "status": "in_force",
+  "issued_date": "1900-08-30",
+  "in_force_date": "1900-08-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134789",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Concédese al Asilo de Indíjenas de las Monjas de la Providencia, de Temuco, un ausilio estraordinario de treinta mil pesos para terminar la construccion del edificio que posee en dicha ciudad.\nLa obra se llevará a efecto con arreglo a los planos existentes, i de la inversión de la suma antedicha se rendirá cuenta en la forma ordinaria.\""
+    }
+  ],
+  "definitions": []
+}

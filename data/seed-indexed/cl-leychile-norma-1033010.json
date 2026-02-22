@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-1033010",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4956",
+  "status": "repealed",
+  "issued_date": "1931-02-14",
+  "in_force_date": "1931-05-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1033010",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Las farmacias, boticas y droguerías sólo podrán permanecer abiertas, atender al público y expender artículos de su giro los días de trabajo y dentro del tiempo comprendido entre las ocho y las veinte horas. Los días de trabajo, fuera de las horas indicadas y los días feriados, deberán permanecer cerradas y les será prohibido atender al público.\nSe exceptúan de esta disposición las farmacias de turno, la farmacia única de la ciudad o localidad y la de la Asistencia Pública de cada pueblo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La Dirección General de Sanidad distribuirá el turno de las farmacias, boticas y droguerías en cada localidad, en relación con las necesidades de la población."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Las infracciones a esta ley se penarán con multa de cien a doscientos pesos, a beneficio fiscal, y cada reincidencia, con el doble de la multa anteriormente impuesta.\nEl inspector que sorprenda la infracción exigirá el cierre del establecimiento y si fuere resistido, podrá imponerlo con el auxilio de la fuerza pública, que lo prestará con el sólo requerimiento del funcionario competente."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Corresponde denunciar las infracciones a esta ley a los inspectores del trabajo, a los inspectores sanitarios y a los inspectores municipales, quienes deberán además, comprobar los reclamos que al respecto les haga el público.\nLas denuncias se presentarán ante el Juez del Trabajo respectivo, y en su tramitación y fallo se aplicará el procedimiento especial sobre faltas consignado en el Código de Procedimiento Penal.\nLa ratificación de la denuncia, hecha por el denunciante obligará al Tribunal a seguir de oficio la tramitación hasta dictar sentencia y hacer enterar el valor de la multa en arcas fiscales.\nLa denuncia y el testimonio de los funcionarios mencionados en el inciso 1.o, tendrán el valor de una presunción que admite prueba en contrario.\nSi el infractor no pagare la multa dentro del tercero día, después de ser requerido judicialmente, se clausurará su negocio y no se permitirá abrirlo hasta que la multa no haya sido satisfecha."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Lo dispuesto en el inciso 1.o del artículo 1.o, se entiende sin perjuicio de las leyes de descanso dominical y de empleados particulares, en lo referente a las horas de trabajo de los empleados."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6.o Esta ley empezará a regir sesenta días después de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

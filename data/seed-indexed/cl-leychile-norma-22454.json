@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22454",
+  "type": "statute",
+  "title": "ESCUELA PUBLICA DE QUIRIHUE",
+  "short_name": "Ley 1186",
+  "status": "in_force",
+  "issued_date": "1899-01-26",
+  "in_force_date": "1899-01-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22454",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir hasta la suma de diezisiete mil cuatrocientos ochenta i tres pesos noventa i siete centavos en la terminacion de una escuela pública en Quirihue."
+    }
+  ],
+  "definitions": []
+}

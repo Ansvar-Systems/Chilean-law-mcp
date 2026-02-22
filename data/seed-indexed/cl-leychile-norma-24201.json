@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24201",
+  "type": "statute",
+  "title": "LEI NUM. 3,721, QUE CONCEDE FONDOS PARA PAGAR DEUDAS PENDIENTES DEL CUERPO DE CARABINEROS, DEL AÑO 1919.",
+  "short_name": "Ley 3721",
+  "status": "in_force",
+  "issued_date": "1921-02-07",
+  "in_force_date": "1921-02-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24201",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la cantidad de ciento ochenta i cinco mil seiscientos ochenta i cuatro pesos ($ 185,684) en cancelar las deudas pendientes por suministro de especies de vestuario i equipo para el Cuerpo de Carabineros en el año 1919.\nLa indicada suma se deducirá de la mayor entrada proveniente del recargo en el pago de los derechos de internacion."
+    }
+  ],
+  "definitions": []
+}

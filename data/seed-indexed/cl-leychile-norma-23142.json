@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23142",
+  "type": "statute",
+  "title": "LEI NUM. 2,134, QUE CONCEDE AL CORONEL DON JOSE MARIA SOTO EL GOCE DEL RANGO, PRERROGATIVAS I SUELDO CORRESPONDIENTES AL EMPLEO DE JENERAL DE BRIGADA.",
+  "short_name": "Ley 2134",
+  "status": "in_force",
+  "issued_date": "1908-09-05",
+  "in_force_date": "1908-09-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23142",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. El Coronel de Ejército e inválido absoluto de la Campaña del Pacífico, don José María Soto, gozará del rango, prerrogativas i sueldo correspondientes al empleo de Jeneral de Brigada en servicio activo."
+    }
+  ],
+  "definitions": []
+}

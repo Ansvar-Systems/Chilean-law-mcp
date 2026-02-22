@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23173",
+  "type": "statute",
+  "title": "Lei núm. 2,173, que autoriza la acuñacion de la;moneda creada por lei núm. 2,057",
+  "short_name": "Ley 2173",
+  "status": "in_force",
+  "issued_date": "1909-02-19",
+  "in_force_date": "1909-02-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23173",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se autoriza al Presidente de la República para que continue haciendo acuñar la moneda creada por la lei núm. 2,057 de 9 de Diciembre de 1907, hasta completar la cantidad de diez millones de pesos, fijada en la misma lei.\nNo se acuñará moneda de cuarenta centavos."
+    }
+  ],
+  "definitions": []
+}

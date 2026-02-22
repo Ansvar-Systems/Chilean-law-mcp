@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22805",
+  "type": "statute",
+  "title": "RENUEVA LA AUTORIZACION CONCEDIDA AL PRESIDENTE DE LA REPUBLICA PARA VENDER CIERTOS TERRENOS FISCALES EN VALPARAISO.",
+  "short_name": "Ley 1630",
+  "status": "in_force",
+  "issued_date": "1903-12-23",
+  "in_force_date": "1904-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22805",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero. Renuévase por dos años la autorizacion concedida al Presidente de la República por la lei de 1.° de Febrero de 1888, para que proceda a vender, en pública subasta, los terrenos fiscales formados por el malecon de Valparaiso."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Autorízasele, ademas, para enajenar, en la misma forma, los terrenos fiscales del puerto de Valparaiso que figuran en la tasacion practicada en 28 de Octubre de 1903 por el injeniero don Enrique Gimpert."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El valor de los terrenos que se enajenan en virtud de esta lei, se pagará con un cincuenta por ciento al contado i el cincuenta por ciento restante a un año plazo, con mas el interes del seis por ciento.\nLa mora será penada con un interes suplementario equivalente a otro tanto del estipulado.\nLa propiedad quedará hipotecada en garantía de la parte insoluta de precio i sus intereses.\nLos intereses penales que se establecen por esta lei, tendrán la misma aplicacion que los intereses legales estipulados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° El Presidente de la República determinará la estension de cada lote, la fecha de cada venta i las demas condiciones accesorias de los contratos."
+    }
+  ],
+  "definitions": []
+}

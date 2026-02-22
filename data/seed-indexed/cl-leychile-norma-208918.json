@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-208918",
+  "type": "statute",
+  "title": "LEY NUM. 4.878",
+  "short_name": "Ley 4878",
+  "status": "in_force",
+  "issued_date": "1930-08-21",
+  "in_force_date": "1930-08-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=208918",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º Declárase de utilidad pública para los efectos de la expropiación y para destinarlo a campo de aterrizaje el fundo \"San Ramón\", de propiedad de don Leonidas Parada, ubicado en el departamento de Chillán, con una cabida de ciento cuarenta y nueve hectáreas siete áreas, y cuyos deslindes actuales son los siguientes: Norte y Oriente propiedad de don Andrés Gazmuri; Sur, camino público y Poniente, propiedad de don Felidoro Tapia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º La expropiación se hará de acuerdo con la Ley General de 18 de Junio de 1857 y los gastos que demande el cumplimiento y ejecución de la presente ley, se imputarán a la ley N° 4,824, de 11 de Febrero de 1930."
+    }
+  ],
+  "definitions": []
+}

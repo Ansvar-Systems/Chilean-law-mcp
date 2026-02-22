@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1120061",
+  "type": "statute",
+  "title": "PROVINCIA DEL ÑUBLE.",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1848-02-02",
+  "in_force_date": "1848-02-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1120061",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ART. 1. ° Se formará una nueva provincia, compuesta de los dos Departamentos de Chillan i San Cárlos, con la denominacion de provincia del Ñuble."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° Sus límites serán: al sur el rio de Itata hasta unirse con el de Cholguan, i en seguida este mismo hasta la cordillera de los Andes: al norte el rio Perquilauquen i la línea que actualmente sirve de término a los Departamentos de San Cárlos i Cauquenes, hasta tocar con el camino público de Santiago a Concepcion: al oriente la cordillera de los Andes, i al poniente el Itata i el enunciado camino de Santiago al sur, que sirve de límite a los depertamentos de Itata i San Cárlos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° La capital de la provincia será la ciudad nueva de Chillan."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° Para el gobierno de dicha provincia habrá un Intendente con el sueldo anual de tres mil pesos: un Secretario con el de ochocientos, el cual será obligado a servir la Ajencia Fiscal: un oficial de pluma con un peso diario; i cien pesos anuales para gastos de escritorio. Habrá ademas un Juez de Letras con la dotacion de dos mil cuatrocientos pesos al año."
+    }
+  ],
+  "definitions": []
+}

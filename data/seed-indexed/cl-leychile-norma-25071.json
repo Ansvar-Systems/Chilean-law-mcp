@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25071",
+  "type": "statute",
+  "title": "CREA EL DEPARTAMENTO DE COQUIMBO EN LA PROVINCIA DE\nESTE NOMBRE",
+  "short_name": "Ley 5262",
+  "status": "in_force",
+  "issued_date": "1933-09-27",
+  "in_force_date": "1934-01-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25071",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Créase el departamento de Coquimbo, en la provincia de este mismo nombre.\nSus límites serán los siguientes:\nAl Norte, la Quebrada de Peñuelas, desde su desembocadura en el Océano Pacífico, hasta su corigen en el portezuelo de Guachalalume, y la línea de cumbres que limita por el Sur la hoya del río Elqui, desde el portezuelo de Guachalalume, hasta el origen de la quebrada de Talca.\nAl Este, la línea de cumbres desde el origen de la Quebrada de Talca, hasta la punta de Piedras Moradas, sobre la Quebrada de Los Arrayanes, pasando por los cerros de La Grana, El Fraile, Chupalla, Dadín y Barriales, el portezuelo Hondo, y los cerros Alto de Las Cruces, Alto de la Chépica y Divisadero, y la línea de cumbres, desde la Punta de Piedras Moradas, sobre la Quebrada de Los Arrayanes, hasta el cerro del Toro, pasando los cerros Altito del Puntudo y Negro, el Portezuelo de la Mina de Plata, el cerro Blanco, el Portezuelo del Cabrito y el cerro Alto de Runeo.\nAl Sur, la línea de cumbres, desde el cerro del Toro hasta el portezuelo del Sauce, pasando por el cordón de la Caldera, el portezuelo de Quebrada Mala, el Morro del Infiernillo, el portezuelo del Zapallo, los cerros Morro y Represa, el portezuelo de Las Cardas, el cordón del Soldado y los cerros Repartición, Pleito y Mostaza, y la Quebrada de Tongoicillo, desde su origen en el portezuelo del Sauce, hasta su desembocadura en el Océano Pacífico.\nAl Oeste, el Océano Pacífico, desde la desembocadura de la Quebrada de Tongoicillo, hasta la desembocadura de la Quebrada de Peñuelas.\nLa cabecera del departamento de Coquimbo será la ciudad de este nombre."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La Ley de Presupuestos del año 1934, contemplará las creaciones y supresiones de servicios necesarias para dar cumplimiento a lo dispuesto por esta ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley comenzará a regir desde el 1.o de Enero de 1934."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28292",
+  "type": "statute",
+  "title": "CONCEDE AL PERSONAL DE RAYOS X Y RADIOTERAPIA QUE\nEJERZA SUS ACTIVIDADES EN LOS SERVICIOS QUE INDICA EL\nGOCE DE LOS BENEFICIOS QUE SEÑALA",
+  "short_name": "Ley 15737",
+  "status": "in_force",
+  "issued_date": "1964-10-15",
+  "in_force_date": "1964-10-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28292",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Concédese al personal de Rayos X y Radioterapia que ejerce sus actividades en servicios fiscales, semifiscales, de administración autónoma, en institutos de radiología o en instituciones particulares, cualquiera que fuere la naturaleza jurídica o la forma de organización de las instituciones, un abono de un año por cada cinco por servicios continuados, para todos los efectos legales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° La jornada de trabajo para los funcionarios enunciados en el artículo anterior, será de seis horas como máximo, con prohibición de asignárseles otras labores ajenas a su especialidad. Aquel personal que sea afectado por la acción de radiación y que sea destinado a otro trabajo para su recuperación, conservará en su nueva destinación, la misma jornada de trabajo antes mencionada."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° La Sociedad Chilena de Radiología otorgará certificado de competencia a toda aquella persona que compruebe haber trabajado más de cinco años continuados en la especialidad de rayos X y radioterapia\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22574",
+  "type": "statute",
+  "title": "CLUB ALEMAN DE OSORNO",
+  "short_name": "Ley 1342",
+  "status": "in_force",
+  "issued_date": "1900-07-19",
+  "in_force_date": "1900-07-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22574",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Concédese al Club Aleman de Osorno el permiso especial, requerido por el artículo 556 del Código Civil, para que pueda conservar durante treinta años la propiedad de los terrenos i edificios que posee en la calle Figueroa, en la ciudad de Osorno."
+    }
+  ],
+  "definitions": []
+}

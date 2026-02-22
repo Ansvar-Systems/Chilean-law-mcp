@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-262466",
+  "type": "statute",
+  "title": "INTERPRETA EL INCISO TERCERO DEL ARTICULO 162 DEL CODIGO DEL TRABAJO, PRECISANDO SU SENTIDO Y ALCANCE EN LA SITUACION QUE INDICA",
+  "short_name": "Ley 20194",
+  "status": "in_force",
+  "issued_date": "2007-06-20",
+  "in_force_date": "2007-07-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=262466",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º.- Declárese interpretado el inciso séptimo del artículo 162 del Código del Trabajo en el siguiente sentido:\nEl inciso séptimo del artículo 162 del Código del Trabajo en cuanto señala que \"Sin perjuicio de lo anterior, el empleador deberá pagar al trabajador las remuneraciones y demás prestaciones consignadas en el contrato de trabajo durante el período comprendido entre la fecha del despido y la fecha de envío o entrega de la referida comunicación al trabajador.\", debe interpretarse y aplicarse de forma tal que el pago al cual está obligado el empleador moroso en el pago de las cotizaciones previsionales comprende la totalidad del período de tiempo que media entre la fecha del despido y la fecha de envío o entrega de la comunicación mediante la cual el empleador le comunica al trabajador que ha pagado las cotizaciones morosas, con las formalidades indicadas en el inciso sexto de dicha disposición legal, sin perjuicio del plazo de prescripción señalado en el inciso tercero del artículo 480, del mismo Código, el que sólo se considerará para los efectos de la interposición de la respectiva demanda."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- Incorpórase en el inciso séptimo del artículo 162, a continuación del punto aparte, que pasa a ser seguido, la siguiente frase:\n\"No será exigible esta obligación del empleador cuando el monto adeudado por concepto de imposiciones morosas no exceda de la cantidad menor entre el 10% del total de la deuda previsional o 2 unidades tributarias mensuales, y siempre que dicho monto sea pagado por el empleador dentro del plazo de 15 días hábiles contado desde la notificación de la respectiva demanda.\".\"."
+    }
+  ],
+  "definitions": []
+}

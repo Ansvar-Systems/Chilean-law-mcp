@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136999",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2300",
+  "status": "in_force",
+  "issued_date": "1910-03-07",
+  "in_force_date": "1910-03-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136999",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En atencion a los servicios prestados al pais por don Cesáreo Echegóyen, concédese a su viuda e hijos una pension de gracia ascendente a un mil ochocientos pesos anuales."
+    }
+  ],
+  "definitions": []
+}

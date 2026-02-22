@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28571",
+  "type": "statute",
+  "title": "AUTORIZA LA INSCRIPCION DE DOMINIO DE TERRENOS EN LA\nCOMUNA DE OVALLE PREVIO ESTABLECERSE EXIGENCIAS MINIMAS\nDE URBANIZACION Y AGREGA INCISO FINAL AL ARTICULO 80°\nDEL D.F.L. N° 2, DE 1959",
+  "short_name": "Ley 16607",
+  "status": "in_force",
+  "issued_date": "1967-01-07",
+  "in_force_date": "1967-01-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28571",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°- Facúltase al notario público y al Conservador de Bienes Raíces de Ovalle para autorizar o inscribir las escrituras de transferencia de dominio o de adjudicación de terrenos ubicados dentro del radio urbano en las poblaciones y barrios que existían en las laderas de los cerros de Ovalle antes de la vigencia de esta ley, previa autorización por decreto supremo del Ministerio de la Vivienda y Urbanismo, quien establecerá las exigencias mínimas de urbanización que deben reunir las poblaciones."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Articulo 2°- En ningún caso la inscripción de escrituras de transferencia de dominio o de adjudicación de terrenos puede hacerse sobre sitios o partes de ellos en que el Plano Regulador Detallado de ese sector indique que corresponde a calles, pasajes, escalas o, en general, a paso de servicios públicos.\nAsimismo, sólo podrá autorizarse la inscripción de un sitio por peticionario y para ello debe demostrar que ha levantado allí su vivienda para vivir con su familia. En ningún caso se autorizará inscripción sobre terrenos dados en arrendamiento."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°- Agrégase al artículo 80° del DFL. N° 2 de 1959, el siguiente inciso final:\n\"Con todo, las Instituciones de Previsión referidas podrán, con fondos propios que no sean excedentes y que hayan consultado en sus presupuestos con autorización del Ministerio de la Vivienda y Urbanismo, financiar la adquisición de terrenos y la construcción de edificios en ellos destinados a sus servicios u oficinas, entregando dichos fondos para estos fines a la Corporación de Mejoramiento Urbano o a la Corporación de la Vivienda, según fuere el caso. Dichos edificios podrán estar ubicados en conjuntos habitacionales destinados a sus imponentes.\""
+    }
+  ],
+  "definitions": []
+}

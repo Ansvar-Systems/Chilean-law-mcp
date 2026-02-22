@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29622",
+  "type": "statute",
+  "title": "AUTORIZA AL SUPERINTENDENTE DE BANCOS E\nINSTITUCIONES FINANCIERAS PARA SUSPENDER EL\nFUNCIONAMIENTO DE LAS ENTIDADES FINANCIERAS",
+  "short_name": "Ley 18202",
+  "status": "in_force",
+  "issued_date": "1983-01-13",
+  "in_force_date": "1983-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29622",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- El Superintendente de Bancos e Instituciones Financieras, cuando en uso de sus atribuciones haya designado administrador provisional o tomado a su cargo la administración de dos o más empresas bancarias o sociedades financieras, podrá ordenar, por una sola vez, el cierre temporal de las operaciones de todas las empresas bancarias y sociedades financieras, por un período que no podrá exceder de tres días hábiles.\nLa antecitada facultad quedará extinguida después de un año contado desde la publicación de esta ley."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- La resolución que ordene el cierre temporal de operaciones de empresas bancarias y sociedades financieras deberá ser publicada en el Diario Oficial, y producirá sus efectos desde la fecha de tal publicación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Para los efectos del pago y protesto de letras de cambio, serán considerados como festivos o feriados los días durante los cuales se ordene el cierre temporal de las operaciones de las empresas bancarias y sociedades financieras."
+    }
+  ],
+  "definitions": []
+}

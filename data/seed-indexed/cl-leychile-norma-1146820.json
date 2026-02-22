@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1146820",
+  "type": "statute",
+  "title": "FACULTA AL PRESIDENTE DE LA REPUBLICA PARA INVERTIR HASTA LA SUMA DE $ 1.000,000 EN COMBATIR EL TIFUS EXANTEMATICO",
+  "short_name": "Ley 5210",
+  "status": "in_force",
+  "issued_date": "1933-07-27",
+  "in_force_date": "1933-08-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1146820",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para invertir hasta la suma de un millón de pesos ($ 1.000,000), en combatir la epidemia del tifus exantemático."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El gasto que signifique esta ley se atenderá con la mayor entrada que se produzca en la cuenta B-20-b, del Cálculo de Entradas, por concepto de acuñación de moneda divisionaria."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

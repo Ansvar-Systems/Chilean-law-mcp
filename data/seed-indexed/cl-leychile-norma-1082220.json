@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1082220",
+  "type": "statute",
+  "title": "DISPONE QUE LOS BANCOS COMERCIALES, EL BANCO CENTRAL DE CHILE, LA CAJA NACIONAL DE AHORROS Y LAS INSTITUCIONES HIPOTECARIAS REGIDAS POR EL D. F. L. N.o 94, DE 11 ABRIL DE 1931, PODRAN CERRAR SUS PUERTAS EL DIA 31 DE DICIEMBRE EN CURSO",
+  "short_name": "Ley 5547",
+  "status": "in_force",
+  "issued_date": "1934-12-28",
+  "in_force_date": "1934-12-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1082220",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Los Bancos Comerciales, el Banco Central de Chile, la Caja Nacional de Ahorros y las instituciones hipotecarias regidas por el D. F. L. N.o 94, de 11 de Abril de 1931, podrán cerrar sus puertas el día 31 de Diciembre del presente año, sin que por esta circunstancia deba considerarse ese día como festivo o feriado para los efectos legales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

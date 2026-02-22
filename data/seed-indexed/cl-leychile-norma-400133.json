@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-400133",
+  "type": "statute",
+  "title": "Tratado de Comercio i Navegacion entre Chile i Dinamarca i Artículo Adicional",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1907-11-14",
+  "in_force_date": "1907-11-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=400133",
+  "provisions": [
+    {
+      "provision_ref": "arti",
+      "section": "I",
+      "title": "Artículo I",
+      "content": "ARTÍCULO I\nLas Altas Partes Contratantes se garantizan recíprocamente al tratamiento de la Nacion mas favorecida en todo lo que concierne a sus respectivos nacionales i en materia de comercio i navegacion. En consecuencia, los ciudadanos i los productos chilenos en Dinamarca i los súbditos i productos dinamarqueses en Chile, serán admitidos al goce de cualquier favor, privilejio o inmunidad que en Chile o en Dinamarca se acordaren a los ciudadanos i productos de cualquiera otra nacion."
+    },
+    {
+      "provision_ref": "artii",
+      "section": "II",
+      "title": "Artículo II",
+      "content": "ART. II\nEn el caso en que el Gobierno de Chile acordare tarifas especiales de Aduana a los productos de cualquier otro Estado de la América Central o Meridional, queda entendido que esas tarifas especiales no podrán ser reclamadas por Dinamarca, con motivo del derecho de la Nacion mas favorecida, miéntras no sean estendidos a otros terceros Estados que no forman parte del Continente Centro i Sud-Americano."
+    },
+    {
+      "provision_ref": "artiii",
+      "section": "III",
+      "title": "Artículo III",
+      "content": "ART. III\nEl presente Tratado será ratificado i las ratificaciones serán canjeadas en Berlin lo mas pronto posible, i obligará, a las Partes Contratantes hasta que le ponga fin un desahucio de doce meses que podrá ser notificado en cualquier tiempo por una u otra de las Partes.\nEn fé de lo cual, los Plenipotenciarios de Chile i Dinamarca, han firmado el presente Tratado, en doble ejemplar, en Berlin a 4 de Febrero de 1899.- L. S. (Firmado) Ramón Subercaseaux-. L. S. (Firmado) E. Vind."
+    }
+  ],
+  "definitions": []
+}

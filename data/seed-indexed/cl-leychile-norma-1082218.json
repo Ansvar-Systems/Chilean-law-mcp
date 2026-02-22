@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1082218",
+  "type": "statute",
+  "title": "DECLARA FERIADOS PARA LAS INSTITUCIONES BANCARIAS Y LA CAJA NACIONAL DE AHORROS, LOS DÍAS 27, 28, 29 Y 30 DE JULIO",
+  "short_name": "Ley 4968",
+  "status": "in_force",
+  "issued_date": "1931-07-27",
+  "in_force_date": "1931-07-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1082218",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Decláranse feriados para todas las empresas bancarias y la Caja Nacional de Ahorros, establecidas en el país, los días 27, 28, 29 y 30 de Julio en curso."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Los plazos de las obligaciones que venzan en cualquiera de los días expresados en el artículo anterior se entenderán prorrogados por cuatro días."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Los protestos de las letras y demás documentos a la orden, que vencieron el 25 del presente mes, deberán hacerse el 31 de este mismo mes.\nLa presente ley comenzará a regir desde esta fecha."
+    }
+  ],
+  "definitions": []
+}

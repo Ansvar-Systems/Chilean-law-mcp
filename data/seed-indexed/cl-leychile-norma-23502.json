@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23502",
+  "type": "statute",
+  "title": "AUTORIZA EL PAGO DEL 6% DE INTERES SOBRE LAS CANTIDADES QUE SE DEVUELVAN A DON AURELIANO BURR SANCHEZ, COMO SUCESOR DE LOS DERECHOS DE DON ALEJO GUMPERTZ A LA HIJUELA N.° 107 DEL PLANO DE CANCURA REMATADA ANTE LA JUNTA DE ALMONEDA DE VALDIVIA.",
+  "short_name": "Ley 2794",
+  "status": "in_force",
+  "issued_date": "1913-08-06",
+  "in_force_date": "1913-10-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23502",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para pagar el interes legal determinado por el artículo 2.207 del Código Civil sobre las cantidades que se devuelvan a don Aureliano Burr Sánchez, como sucesor de los derechos de don Alejo Gumpertz sobre la hijuela N.° 107 del plano de Cancura, rematada ante la Junta de Almoneda de Valdivia el 28 de Diciembre de 1894, en conformidad a las disposiciones del decreto de 16 de Noviembre del mismo año.\nLos intereses se computarán desde la fecha del pago de las cantidades respectivas en arcas fiscales."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-29007",
+  "type": "statute",
+  "title": "CONCEDE BONIFICACION, LIBERA DE RESPONSABILIDAD Y DE\nLA OBLIGACION QUE INDICA AL PERSONAL QUE SEÑALA",
+  "short_name": "Ley 17426",
+  "status": "in_force",
+  "issued_date": "1971-04-16",
+  "in_force_date": "1971-04-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29007",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°- Concédese al personal a que se refiere el artículo 4° de la ley N° 17.272, salvo el exceptuado en ese mismo precepto legal, una bonificación no imponible de un sueldo vital mensual escala A) del departamento de Santiago, que no será considerada sueldo para ningún efecto legal, que se pagará en el mes de Diciembre del presente año 1970.\nEl mayor gasto que signifique esta bonificación será de cargo del Presupuesto del Servicio Nacional de Salud."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°- Libérase de responsabilidad administrativa al personal del Servicio Nacional de Salud que fue sometido a sumario instruido por funcionarios de la Contraloría General de la República, como consecuencia de la huelga del mes de Agosto del año 1970. Por consiguiente, la autoridad correspondiente procederá a ordenar el archivo de dichos sumarios administrativos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°- Libérase de la obligación de restituir la remuneración correspondiente a los días no trabajados, al personal del Servicio Nacional de Salud que paralizó sus labores como consecuencia de la huelga del mes de Agosto de 1970.\"."
+    }
+  ],
+  "definitions": []
+}

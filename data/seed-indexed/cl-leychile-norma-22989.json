@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22989",
+  "type": "statute",
+  "title": "LEI NUM 1,896 QUE AUTORIZA EL PAGO DE LOS BILLETES FISCALES",
+  "short_name": "Ley 1896",
+  "status": "in_force",
+  "issued_date": "1906-12-15",
+  "in_force_date": "1906-12-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22989",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único . Autorízase al Presidente de la República para que invierta en lo que resta del presente año hasta la suma quince mil libras esterlinas (L 15,000) en el pago del valor de los billetes fiscales contratados con el ajente de la Compañía Americana de Billetes de Banco."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23103",
+  "type": "statute",
+  "title": "LEI NUM. 2,066 QUE CONCEDE UN SUPLEMENTO AL PRESUPUESTO DE GUERRA",
+  "short_name": "Ley 2066",
+  "status": "in_force",
+  "issued_date": "1907-12-23",
+  "in_force_date": "1907-12-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23103",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de sesenta mil pesos ($ 60,000) al ítem 240 de la partida 8.a del Presupuesto de Guerra vijente."
+    }
+  ],
+  "definitions": []
+}

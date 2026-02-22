@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-209781",
+  "type": "statute",
+  "title": "LEY NUM. 4673",
+  "short_name": "Ley 4673",
+  "status": "in_force",
+  "issued_date": "1929-10-06",
+  "in_force_date": "1929-11-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=209781",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Para los efectos de lo dispuesto en el artículo 10 del reglamento de la ley número 2,953, de 9 de Diciembre de 1914, aprobado por decreto del Ministerio de Industrias y Obras Públicas (hoy Fomento), N.o 342, de 31 de Marzo de 1915, se establece que el costo del canal del Mauco y sus derivados ascienden a la suma de dos millones ciento cuarenta mil pesos ($ 2.140,000)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta cantidad gravará en forma de contribución a las propiedades de los canalistas afectados; tendrá todos los caracteres y privilegios de las contribuciones fiscales y será servida por la Asociación de Canalistas durante ochenta semestres, a razón de setenta y dos mil pesos ($ 72,000) por semestre, a partir desde el 1.o de Enero de 1930."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Para acogerse a los beneficios de la presente ley, los propietarios deberán renunciar a todo juicio o reclamo en contra del Fisco por la construcción del canal del Mauco o por pagos hechos con anterioridad a la presente ley."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Regirán respecto del canal del Mauco, en cuanto fueran aplicables, las disposiciones de los artículos 15, 16 y 17 de la ley N.o 4,445, de 10 de Octubre de 1928."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta ley regirá desde el 1.o de Enero de 1930."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23007",
+  "type": "statute",
+  "title": "LEI NÚM. 1.915 QUE PRORROGA EL PLAZO CONCEDIDO PARA PROPORCIONAR LUZ I FUERZA MOTRIS A LA POBLACIÓN SAN GREGORIO DE LA COMUNA DE ÑUÑOA",
+  "short_name": "Ley 1915",
+  "status": "in_force",
+  "issued_date": "1907-01-25",
+  "in_force_date": "1907-01-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23007",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Se prorroga por treinta años mas la concesion otorgada por decreto núm. 1,298, de 21 de marzo de 1906, para desarrollar la corriente eléctrica necesaria con el objeto de proporcionar luz i fuerza motriz a la poblacion formada en el fundo San Gregorio de la Comuna de Ñuñoa, i el uso de los bienes nacionales de uso público necesarios para las instalaciones.\nEsta prórroga se entenderá hecha en las condiciones establecidas en el referido decreto de 21 de marzo de 1906."
+    }
+  ],
+  "definitions": []
+}

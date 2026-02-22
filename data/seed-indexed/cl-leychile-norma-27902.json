@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-27902",
+  "type": "statute",
+  "title": "AUTORIZA EL TRASPASO DE FONDOS QUE INDICA, DENTRO DE\nLA LEY DE PRESUPUESTOS VIGENTE",
+  "short_name": "Ley 14823",
+  "status": "in_force",
+  "issued_date": "1962-01-12",
+  "in_force_date": "1962-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27902",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Autorízase el siguiente traspaso de fondos, dentro de la Ley de Presupuestos vigente: Del ítem: 07|05|125.1\nAporte para inversión a la\nEmpresa de los Ferrocarriles\ndel Estado _ _ _ _ _ _ _ _ _ E° 1.350.000\nAl ítem: 07|05|28.3\nTransferencias a la Empresa\nde Transportes\nColectivos del Estado _ __ 1.000.000\n07|05|28.4\nTransferencias a la Empresa\nMarítima del Estado 350.000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2.o Autorízase el siguiente traspaso de fondos:\nDel ítem: 08|01|119.2\nAmortizaciones varias _ _ _ E° 200.000\nSecretaría y Administración General Ministerio de\nHacienda\nAl ítem 05|07|102\nMaquinarias y Equipos\nDirección de Servicios\nEléctricos y de Gas,\nMinisterio del Interior _ E° 200.000\""
+    }
+  ],
+  "definitions": []
+}

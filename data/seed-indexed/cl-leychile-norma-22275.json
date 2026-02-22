@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22275",
+  "type": "statute",
+  "title": "Leyes que aprueban varios protocolos sobre reclamaciones extranjeras",
+  "short_name": "Ley 927",
+  "status": "in_force",
+  "issued_date": "1897-03-14",
+  "in_force_date": "1897-03-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22275",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Apruébanse los arreglos concluidos por el Gobierno de Chile con los gobiernos de España, Portugal, Rusia, Austria-Hungría, Suiza i Gran Bretaña, i la transaccion ajustada con el apoderado del señor Emilio Lhoste, por razon de perjuicios procedentes de la guerra civil de 1891, quedando por estos arreglos concluida la presentacion de todo nuevo reclamo de igual oríjen.\nAutorízase a S.E. el Presidente de la República para invertir, de acuerdo con esos convenios, las sumas que se espresan en seguida:\nEn pago de todas las reclamaciones españolas, ciento cincuenta mil pesos ($ 150,000);\nEn pago de las reclamaciones portuguesas, treinta i cuatro mil sesenta i cinco pesos sesenta i un centavos ($ 34,065.61);\nEn pago de la reclamacion rusa, seis mil pesos ($600);\nEn pago de las reclamaciones austro-húngaras, tres mil libras esterlinas (L3,000);\nEn pago de las reclamaciones suizas, mil quinientas libras esterlinas (L 1,500);\nEn pago de las reclamaciones británicas, cinco mil quinientas libras esterlinas (L 5,500); i\nEn pago de la transaccion de la reclamacion de don Emilio Lhoste, mil libras esterlinas (L 1,000)."
+    }
+  ],
+  "definitions": []
+}

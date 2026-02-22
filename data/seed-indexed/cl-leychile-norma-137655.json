@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-137655",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2669",
+  "status": "in_force",
+  "issued_date": "1912-08-10",
+  "in_force_date": "1912-08-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=137655",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º El aumento de cincuenta por ciento ordenado por el segundo artículo transitorio de la lei número 2,406, de 9 de setiembre de 1910, para las pensiones concedidas con arreglo a la lei de 22 de diciembre de 1890, se hace estensivo a las pensiones concedidas o que se concedan con arreglo a la lei de 22 de diciembre de 1881.\nSe declaran tambien comprendidos en el aumento otorgado por la citada lei, a las viudas e hijos lejítimos de los servidores de la Independencia i de los que tomaron parte en la campaña del Perú de 1838 i 1839, que hubieren sido agraciados por la lei número 1,366, de 14 de setiembre de 1900.\nEste aumento se pagará desde el 10 de setiembre de 1910, fecha de la promulgación en el Diario Oficial de la lei número 2,406, de 9 de setiembre de 1910."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Agrégase al artículo 2.º de la citada lei número 2,406, de 9 de setiembre de 1910, el siguiente inciso:\n\"Se computará como de servicio efectivo el tiempo empleado como alumno en los establecimientos de instrucción militar o naval i en la Escuela de Artes i Oficios\"."
+    }
+  ],
+  "definitions": []
+}

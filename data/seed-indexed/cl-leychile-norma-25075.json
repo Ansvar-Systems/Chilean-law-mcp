@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25075",
+  "type": "statute",
+  "title": "DIVIDE EL ACTUAL DEPARTAMENTO DE MELIPILLA, EN LOS\nDEPARTAMENTOS DE SAN ANTONIO Y MELIPILLA",
+  "short_name": "Ley 5287",
+  "status": "in_force",
+  "issued_date": "1933-10-06",
+  "in_force_date": "1934-01-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25075",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Divídese el actual departamento de Melipilla, en los departamentos de San Antonio y Melipilla, cuyas cabeceras serán las ciudades del mismo nombre."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El departamento de San Antonio, comprenderá las actuales comunas de San Antonio y Cartagena."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El departamento de Melipilla comprenderá las actuales comunas de Melipilla, El Monte, San Pedro y Alhué."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Esta ley regirá desde el 1.o de Enero de 1934."
+    }
+  ],
+  "definitions": []
+}

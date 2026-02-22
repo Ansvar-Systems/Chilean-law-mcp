@@ -1,0 +1,61 @@
+{
+  "id": "cl-leychile-norma-131726",
+  "type": "statute",
+  "title": "REFORMA CONSTITUCIONAL",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1887-12-20",
+  "in_force_date": "1887-12-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=131726",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º\nSe suprimen los artículos 1.º i 9.º de la Constitución; la palabra \"distinciones\" del número 4.º del artículo 11, el inciso 2.º del artículo 24; la palabra \"Tanto\", i la frase \"propietarios como los suplentes\" del artículo 25; la palabra \"propietario\" del inciso 1.º del artículo 26; i la frase \"aplicándose esta misma regla a los senadores suplentes\" del inciso último del mismo artículo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º\nSe reemplazará el artículo 8.º por el siguiente:\n\"Artículo ... Son ciudadanos activos con derecho de sufrajio los chilenos que hubieren cumplido veintiun años de edad, que sepan leer i escribir i estén inscritos en los rejistros electorales del departamento.\nEstos rejistros serán públicos i durarán por el tiempo que determine la lei.\nLas inscripciones serán continuas i no se suspenderán sino en el plazo que fije la lei de elecciones\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º\nSe sustituye el artículo 19 por el que sigue:\n\"Artículo ... Se elejira un Diputado por cada treinta mil habitantes i por una fracción que no baje de quince mil.\nSi un diputado muere o dejare de pertenecer a la Cámara por cualquiera causa, dentro de los dos primeros años de su mandato, se procederá a su reemplazo por nueva elección, en la forma i tiempo que la lei prescriba.\nEl Diputado que perdiere su representación por desempeñar o aceptar un empleo incompatible, no podrá ser reelejido hasta la próxima renovacion de la Cámara\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º\nReemplázase el artículo 27 por el siguiente:\n\"Artículo ... Si un Senador muere o deja de pertenecer a la Cámara por cualquier causa ántes del último año de su mandato, se procederá a su reemplazo por nueva elección, por el tiempo que le falte en la forma i plazo que la lei prescriba.\nEl Senador que perdiere su representación por desempeñar o aceptar un empleo incompatible, no podrá ser reelejido ántes del próximo trienio\"."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.º\nSe sustituye el artículo 73 por el siguiente:\n\"Artículo ... No podrá hacerse el escrutinio, ni la rectificación de estas elecciones, sin que esté presente la mayoría absoluta del total de miembros de cada una de las Cámaras\"."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULOS TRANSITORIOS\nArtículo 1.º\nLos senadores i diputados suplentes que sean elejidos con arreglo a las disposiciones constitucionales vijentes, durarán en sus funciones hasta la primera renovación de la Cámara de Diputados.\nSi en este tiempo muriere o perdiere su mandato algun Senador o Diputado propietario, será reemplazado por el respectivo suplente.\nSi el suplente estuviere ya haciendo las veces de propietario o hubiere fallecido, o perdido su mandato, se procederá al reemplazo con arreglo a las disposiciones constitucionales reformadas."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Art. 2.º\nRatificada esta reforma constitucional, una comision compuesta de dos senadores i dos diputados procederá a hacer una nueva edicion de la Constitucion, modificando el órden de los capítulos, la numeración de los artículos e incisos, i las referencias que no guarden congruencia con sus disposiciones vijentes."
+    },
+    {
+      "provision_ref": "art3-transitorio",
+      "section": "3 Transitorio",
+      "title": "Artículo 3 Transitorio",
+      "content": "Art. 3.º\nSuprímense los artículos 2.º i 3.º de las antiguas disposiciones transitorias, i 1.º i 2.º de las nuevas de la Constitucion\"."
+    }
+  ],
+  "definitions": []
+}

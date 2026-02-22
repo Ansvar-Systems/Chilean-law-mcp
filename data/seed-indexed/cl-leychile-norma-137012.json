@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-137012",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2289",
+  "status": "in_force",
+  "issued_date": "1910-03-25",
+  "in_force_date": "1910-04-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=137012",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Autorízase al Presidente de la República para enajenar en venta privada a don Herman Eberhardt i a don Augusto Kark, con arreglo a las condiciones del decreto del Ministerio de Colonizacion número 1,148, de 7 de junio de 1905, las tierras que actualmente ocupan en los lotes numeros 7, 8 i 20 del plano de Ultima Esperanza por el valor de tasacion que fijen los injenieros del Gobierno, quienes tomarán por base los precios que se obtengan en el remate de los demas terrenos de calidad análoga de la misma region\"."
+    }
+  ],
+  "definitions": []
+}

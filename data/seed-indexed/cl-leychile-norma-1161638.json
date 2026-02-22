@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-1161638",
+  "type": "statute",
+  "title": "CAÑAMOS",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1832-10-15",
+  "in_force_date": "1832-10-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1161638",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Los cáñamos y linos, cosechados en el país y sus semillas, serán exentos del pago de diezmo por el término de diez años, que principiarán a contarse desde la promulgación de esta lei."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° Las espresadas semillas, y los aceites que de ellas se extraigan, a su exportación para puertos extranjeros serán libres de los derechos de salida."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° Se señala un premio de dos mil pesos al que invente, y de mil pesos al que introduzca o construya en Chile, imitando modelos extranjeros, la primera máquina que simplifique y perfeccione el beneficio de ambas plantas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° Para conseguir este premio, será necesario, no solo que la máquina simplifique y perfeccione dicho beneficio, sino que sea de poco costo y de fácil uso para el común del pueblo, y dé, con el mismo trabajo, un producto doble del que actualmente se obtiene."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "5.° Si después de adjudicarse el primer premio se hiciesen nuevos inventos en el país, tendrá el inventor de cada máquina que consulte las condiciones pedidas, y de diez libras diarias de producto sobre la última premiada, los mismos dos mil pesos que señala la primera parte del art. 3.°"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "6.° El examen y calificación de las condiciones pedidas en los artículos 3.°, 4.° y 5.°, para obtener el premio, se hará por la junta central de beneficencia, o por las personas o autoridades que el Gobierno designare en el reglamento que deberá dictar para que esta lei tenga un exacto cumplimiento, y su calificación servirá de suficiente título para reclamarlo."
+    }
+  ],
+  "definitions": []
+}

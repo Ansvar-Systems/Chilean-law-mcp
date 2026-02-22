@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23925",
+  "type": "statute",
+  "title": "Lei núm. 3,362, que concede indulto jeneral con;motivo del Centenario de la Batalla de Maipo.",
+  "short_name": "Ley 3362",
+  "status": "in_force",
+  "issued_date": "1918-04-27",
+  "in_force_date": "1918-05-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23925",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En conmemoracion del Centenario de la Batalla de Maipo:\nConcédese indulto a todos los condenados por delitos de carácter electoral i a los que por estos mismos delitos hubieren sido procesados ántes del primero de Enero del presente año.\nRedúcese, a la mitad, el plazo de la prescripcion de la pena de los reos que se encontraren ausentes del territorio de la República, a la fecha de la promulgacion de esta lei; a la mitad, el plazo de la prescripcion de la accion penal respecto de los reos que actualmente se encontraren procesados como ausentes o prófugos.\nRedúcese en una cuarta parte, el tiempo de la pena a que están condenados todos los reos presos de la República."
+    }
+  ],
+  "definitions": []
+}

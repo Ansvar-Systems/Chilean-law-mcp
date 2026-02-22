@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22818",
+  "type": "statute",
+  "title": "QUE APRUEBA I PROMULGA EL PROYECTO DE PRESUPUESTO PARA 1904",
+  "short_name": "Ley 1650",
+  "status": "in_force",
+  "issued_date": "1904-02-05",
+  "in_force_date": "1904-02-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22818",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Moneda coriente Oro\nInterior _____________ $ 12 264 208,33 $ 93 600\nRelaciones Esteriores_ 254 143,91 763 250,37\nCulto_________________ 922 980\nColonizacion__________ 562 750\nJusticia______________ 4 586 360,76\nInstruccion Pública___ 10 486 259,99 66 000\nHacienda______________ 6 733 405,85 52 262 728,31\nGuerra________________ 10 659 698,89 54 000\nMarina________________ 7 987 174,41 3 098 528,20\nIndustria_____________ 1 399 164,50 58 133,33\nObras Públicas_______ 2 9 4 982\nFerrocarriles_________ 21 094 295,09\n--------------- ---------------\n$ 79 935 423,73 $ 56 396 240,21\n_\nCuyos totales ascienden a setenta i nueve millones novecien tos treinta i cinco mil cuatrocientos veinte i tres pesos setenta i tres centavos en moneda corriente, i a cincuenta i seis millones trescientos noventa i seis mil doscientos cuarenta pesos veintiun centavos en oro."
+    }
+  ],
+  "definitions": []
+}

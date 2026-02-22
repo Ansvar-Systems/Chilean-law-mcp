@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23060",
+  "type": "statute",
+  "title": "LEI NUM. 2,001 QUE TRASLADA A SIERRA GORDA LA CABECERA DE LA COMUNA DE CARACOLES DEL DEPARTAMENTO DE ANTOFAGASTA.",
+  "short_name": "Ley 2001",
+  "status": "in_force",
+  "issued_date": "1907-09-04",
+  "in_force_date": "1907-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23060",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. La cabecera de la comuna de Caracoles, del departamento de Antofagasta, será en lo sucesivo la poblacion de Sierra Gorda, ubicada en la subdelegacion quinta del mismo departamento.\nSe traslada al pueblo de Refresco la cabecera de la comuna de Santa Lucía."
+    }
+  ],
+  "definitions": []
+}

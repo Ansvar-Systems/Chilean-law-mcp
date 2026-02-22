@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23761",
+  "type": "statute",
+  "title": "Concede fondos para reparaciones de los buques de la;Armada",
+  "short_name": "Ley 3137",
+  "status": "in_force",
+  "issued_date": "1916-09-12",
+  "in_force_date": "1916-09-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23761",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase al Presidente de la República para invertir hasta la suma de un millon de pesos ($ 1.000,000) oro de 18 peniques, en las reparaciones de los buques de la Armada.\nEsta suma se deducirá del mayor rendimiento de los viajes comerciales de los trasportes, descontadas las cantidades que se han calculado para este ramo como entradas jenerales de la Nacion."
+    }
+  ],
+  "definitions": []
+}

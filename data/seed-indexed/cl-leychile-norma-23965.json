@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23965",
+  "type": "statute",
+  "title": "Lei núm. 3,427, que declara exentos del pago de;impuestos a los representantes diplomáticos estranjeros;acreditados en Chile.",
+  "short_name": "Ley 3427",
+  "status": "in_force",
+  "issued_date": "1918-11-18",
+  "in_force_date": "1918-11-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23965",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para declarar exentos del pago de toda clase de impuestos fiscales o municipales, en parte o totalmente, a los representantes diplomáticos extranjeros acreditados en Chile, ya sea que les afecten personalmente o recaigan sobre las residencias de las Legaciones, sus muebles o efectos personales, en las mismas condiciones que sus respectivos países observen respecto de los representantes diplomáticos chilenos."
+    }
+  ],
+  "definitions": []
+}

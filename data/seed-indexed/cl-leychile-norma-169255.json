@@ -1,0 +1,817 @@
+{
+  "id": "cl-leychile-norma-169255",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3385",
+  "status": "in_force",
+  "issued_date": "1918-05-22",
+  "in_force_date": "1918-06-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=169255",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "LIBRO PRIMERO\nDE LA ORGANIZACION Y DIRECCION DE LOS SERVICIOS\nSANITARIOS\nTITULO I\nDe la Administracion Sanitaria Central\nArtículo 1. Corresponde el cuidado de la salud pública al Gobierno y a las municipalidades, conforme a los artículos 72 y 119 de la Constitucion Política, y a las disposiciones de este Código."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2. Habrá, bajo la autoridad del Gobierno, una Direccion Jeneral de Sanidad y un Consejo Superior de Hijiene. Las funciones del Consejo serán meramente consultivas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "PARRAFO 1\nDe la Direccion Jeneral de Sanidad\nArt. 3. La Direccion Jeneral de Sanidad tendrá los siguientes empleados:\nUn jefe, que será el Director Jeneral de Sanidad, un secretario, un pro-secretario, un veterinario, un injeniero, un oficial, un archivero, un dibujante y un portero."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4. Para poder ser Director Jeneral de Sanidad, se requiere el título de médico cirujano, y haber ejercido la profesion diez años a lo ménos.\nEl cargo de Director Jeneral es incompatible con el ejercicio de la medicina."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5. Para poder ser secretario o injeniero de la Direccion Jeneral se requiere el título de médico cirujano o injeniero, respectivamente, y haber ejercido la profesion cinco años a lo ménos."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Art. 6. El Director Jeneral será nombrado por el Presidente de la República, de entre una lista de doce médicos elejidos seis por la Facultad de Medicina y Farmacia de la Universidad de Chile y seis por el Consejo Superior de Hijiene, por voto acumulativo. Estas corporaciones remitirán al Ministerio del Interior sus listas parciales en los quince primeros dias de enero de cada año.\nEl nombramiento de cada uno de los demás empleados se hará por el Presidente de la República, a propuesta unipersonal del Director Jeneral:"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Art. 7. Corresponde a la Direccion Jeneral:\n1.o Dirijir los servicios sanitarios del Estado, de que trata este Código, que no se hayan deferido a otras autoridades; y, como encargada de esta direccion le incumbe especialmente:\na) Dirijir los servicios de vacunacion;\nb) Dirijir el servicio de desinfeccion pública;\nc) Dirijir el servicio de inspeccion sanitaria;\nd) Ejercer la vijilancia técnica de los lazaretos u otros locales destinados especialmente a la profiláxis y tratamiento de las enfermedades infecciosas epidémicas;\ne) Dirijir las estaciones sanitarias y el servicio médico de puertos;\nf) Informar al Presidente de la República sobre la calificacion de los estados sanitarios de las ciudades o puertos nacionales o estranjeros;\ng) Dirijir el servicio estraordinario de profiláxis de enfermedades infecciosas a que se refiere el artículo 59 de este Código;\nh) Vijilar el ejercicio de la medicina y de las demás ramas del arte de curar;\ni) Dirijir el servicio de inspección de boticas y droguerías;\nj) Velar por la observancia de los reglamentos sobre los laboratorios públicos o particulares dedicados a la preparación de vacunas, sueros u otros ajentes biolójicos de análoga naturaleza, o a la fabricación de productos químicos o farmacéuticos;\nk) Practicar los estudios que le parezcan útiles para conocer los estados sanitarios de las poblaciones;\nl) Vijilar la observancia de las disposiciones relativas a la esplotación de las aguas minerales del país;\nm) Solicitar de las autoridades, oficinas públicas o individuos particulares, los datos que estime convenientes para el mejor ejercicio de sus atribuciones;\nn) Ordenar que se practiquen visitas sanitarias a los establecimientos públicos, y a los locales destinados al uso común o a industrias en que se empleen varias o muchas personas;\no) Indicar al Gobierno las circunstancias que exijan la adopción de medidas concernientes a la salud pública; y\np) Proponer al Ministerio del Interior los gastos del servicio sanitario.\n2.o Vijilar los servicios administrativos del Estado, que se relacionen con la hijiene, y que no dependan de la Dirección Jeneral, como los de agua potable o alcantarillado; y dirijir acerca de ellos las representaciones que juzgue oportunas el Presidente de la República;\n3.o Velar por que las municipalidades atiendan a los servicios sanitarios que les corresponden y dirijir las representaciones que juzgue oportunas al Presidente de la República o a las mismas municipalidades; y 4.o Pasar al Ministerio del Interior, en el mes de enero de cada año, una memoria sobre los trabajos del año precedente, y sobre las necesidades por satisfacer."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Art. 8. Un reglamento que dicte el Presidente de la República, con audiencia del Director Jeneral, determinará las obligaciones de los empleados de la Direccion Jeneral."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "PARRAFO 2\nDel Consejo Superior de Hijiene\nArt. 9. Compondrán el Consejo:\nEl Director Jeneral de Sanidad;\nEl jefe de la Seccion Administración Sanitaria del Ministerio del Interior;\nEl jefe del Servicio Sanitario del Ejército;\nTres miembros de la Facultad de Medicina y Farmacia de la Universidad de Chile, elejidos por la misma Facultad; y\nTres médicos, un farmacéutico, un abogado, un injeniero y un arquitecto, nombrados por el Presidente de la República.\nEl Director, los jefes de las secciones del Instituto de Hijiene, el jefe de la Oficina Central de Vacuna, el de la Inspeccion de Boticas y el de la Oficina Central de Desinfeccion, serán asimismo miembros del Consejo, pero sin voto en la formacion de la lista para el nombramiento de Director Jeneral."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "Art. 10. Los consejeros electivos durarán tres años en sus funciones, y podrán ser reelejidos indefinidamente.\nSi alguno de ellos dejare de asistir, sin causa justificada, a cinco sesiones consecutivas, se le tendrá por dimisionario, previo aviso del Consejo a la autoridad que hubiere hecho la elección."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "Art. 11. El Consejo será presidido por el Director Jeneral de Sanidad.\nCuando el Ministro del Interior asista a las sesiones, se entenderá formar parte del Consejo y ejercerá la presidencia.\nHará de secretario del Consejo el que lo sea de la Direccion Jeneral."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "Art. 12. Corresponde al Consejo:\n1.o Proponer a las autoridades las reglas o medidas jenerales o particulares que convenga dictar en materias de hijiene o salubridad, especialmente sobre las condiciones de lejitimidad, pureza, innocuidad, envase o venta de los alimentos y demas artículos de consumo, y sobre los servicios de agua potable o alcantarillado de las poblaciones;\n2.o Dar su dictámen a las autoridades ejecutivas o municipales sobre materias de hijiene o salubridad cuando sea requerido para ello; y deberá serlo siempre que se trate de adoptar medidas jenerales o de establecer nuevas reglas;\n3.o Velar por que se cumplan las leyes, ordenanzas o reglamentos sanitarios, y dirijir sobre su cumplimiento las representaciones que juzgue oportunas al Presidente de la República o a las municipalidades;\n4.o Solicitar de las autoridades, oficinas públicas o individuos particulares los datos que estime convenientes para el mejor ejercicio de sus atribuciones; y\n5.o Pasar al Ministerio del Interior, en el mes de marzo de cada año, una memoria sobre los trabajos del año precedente."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "TITULO II\nDe las Oficinas Centrales dependientes de la\nDirección Jeneral de Sanidad\nPARRAFO 1\nDel Instituto de Hijiene\nArt. 13. Habrá un Instituto de Hijiene compuesto de una Direccion, y de cuatro secciones, que serán respectivamente: de Hijiene y Demografía, de Química y Toxicolojía, de Bacteriolojía y Microscopía, y de Vacuna y Seroterapia.\nLa Dirección del Instituto tendrá un Director, que será a la vez el jefe de la sección de Hijiene y Demografía, un secretario-tesorero, un administrador, un jardinero primero, un jardinero segundo y un portero.\nLa sección de Hijiene y Demografía tendrá un ayudante primero hijienista, dos oficiales segundos y un oficial archivero.\nLa sección de Química y toxicolojía tendrá un jefe, un ayudante primero toxicólogo, dos ayudantes segundos, tres ayudantes químicos y un ausiliar.\nLa sección de Bacteriolojía y Microscopía tendrá un jefe, un ayudante primero bacteriólogo, tres ayudantes segundos y un ausiliar.\nLa sección de Vacuna y Seroterapia tendrá un jefe, un ayudante primero bacteriólogo, cinco ayudantes segundos, un ayudante entomólogo, un veterinario, cuatro ausiliares, dos caballerizos y un cuidador."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "Art. 14. Para poder ser Director del Instituto de Hijiene se requieren las mismas calidades que para poder ser Director Jeneral.\nPara poder ser jefe de cada una de las secciones del Instituto, escepto de la de Química y Toxicolojía, se requiere el título de médico cirujano, y haber ejercido la profesión cinco años a lo ménos."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "Art. 15. El Director del Instituto y los jefes de las secciones serán nombrados por el Presidente de la República, a propuesta en terna del Director Jeneral.\nEl nombramiento de cada uno de los otros empleados se hará por el Presidente de la República, a propuesta unipersonal del Director Jeneral."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "Art. 16. El Director del Instituto, cada uno de los jefes de las secciones y el primer ayudante de la sección de seroterapia, harán un curso anual para la enseñanza práctica de sus respectivos ramos.\nEl jefe de la sección de seroterapia hará, a su vez, un curso a los ayudantes sobre la preparación de las vacunas, sueros y demás ajentes biolójicos que se elaboren bajo sus órdenes."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "Art. 17. Corresponde al Instituto de Hijiene:\n1.o Hacer las investigaciones o estudios científicos sobre hijiene pública o privada que le ordene la Dirección Jeneral;\n2.o Practicar los análisis químicos, microscópicos o bacteriolójicos que le encomiende la Dirección Jeneral;\n3.o Practicar los análisis clínicos necesarios para facilitar la acción del médico en el ejercicio profesional, cuando lo ordene la misma Dirección;\n4.o Preparar las vacunas, sueros y demás ajentes biolójicos de análoga naturaleza; y\n5.o Coordinar los datos que le envien las autoridades para la formación de la estadística médica y demográfica."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "Art. 18. Los análisis a que se refiere el número 2.o del artículo anterior, serán remunerados cuando se hagan a solicitud de particulares.\nLos análisis a que se refiere el número 3.o del mismo artículo, serán gratuitos cuando se relacionen con las enfermedades infecciosas epidémicas y remunerados en los demás casos, conforme al arancel.\nLas remuneraciones serán destinadas a gastos del Instituto por la Dirección Jeneral."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "Art. 19. Un reglamento que dicte el Presidente de la República, previo informe de la Dirección Jeneral, determinará en lo demás las atribuciones del Instituto, y los deberes de los empleados."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "PARRAFO 2\nDe la Oficina Central de Vacuna\nArt. 20. El servicio de vacunacion antivariólica estará a cargo de una Oficina Central que tendrá los siguientes empleados:\nUn médico jefe, un secretario, un archivero, dos oficiales, un portero y el número de vacunadores de primera y segunda clase, respectivamente, que fije la lei de Presupuestos."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "Art. 21. El jefe de Oficina será nombrado por el Presidente de la República a propuesta en terna del Director Jeneral.\nEl nombramiento de cada uno de los demás empleados se hará por el Presidente de la República a propuesta unipersonal del Director Jeneral."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "Art. 22. Un reglamento que dicte el Presidente de la República, con audiencia de la Dirección Jeneral, determinará las atribuciones de la Oficina, la organización de los servicios en toda la República y las obligaciones de los empleados."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "PARRAFO 3\nDe la Inspección de Boticas\nArt. 23. La vijilancia de las boticas y droguerías estará a cargo de una Inspección que procederá conforme al reglamento y a las instrucciones que dicta el Director Jeneral.\nCompondrán la Inspección un médico, que será su jefe, y dos farmacéuticos.\nPara poder ser miembro de la Inspeccion se requiere el título de médico cirujano o de farmacéutico, respectivamente, y haber ejercido la profesion tres años a lo ménos.\nCada uno de los miembros de la Inspeccion será nombrado por el Presidente de la República, a propuesta en terna del Director Jeneral.\nNinguno de los miembros de la Inspeccion podrá ejercer la farmacia, ni ser propietario o socio de botica o droguería."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "PARRAFO 4\nDe la Oficina Central de Desinfeccion\nArt. 24. El servicio de desinfeccion estará a cargo de una Oficina Central."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "Art. 25. Corresponde especialmente a la Oficina:\n1.o Coordinar los datos que le envien las Oficinas departamentales;\n2.o Hacer la desinfeccion de los edificios, muebles y demas especies que le encomienden las autoridades o los particulares;\n3.o Preparar y especialmente instruir el personal necesario para el servicio de desinfeccion en toda la República; y\n4.o Tener a su cargo el servicio departamental de desinfeccion, en Santiago."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "Art. 26. Tendrá la Oficina un jefe nombrado por el Presidente de la República, a propuesta en terna del Director Jeneral.\nPara poder ser jefe se requiere el título de médico cirujano y haber ejercido la profesion tres años a lo ménos."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "Art. 27. El jefe de la Oficina hará un curso anual para la enseñanza práctica de la desinfeccion."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "Art. 28. Como encargada del servicio de desinfeccion en Santiago, tendrá asimismo la Oficina los siguientes empleados:\nUn administrador, un mecánico, dos jefes de desinfectadores, un fogonero y el número de desinfectadores, cocheros primeros y segundos, respectivamente, que fije la lei de Presupuestos.\nEl nombramiento de cada uno de estos empleados se hará por el Presidente de la República a propuesta unipersonal del Director Jeneral."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Artículo 29",
+      "content": "Art. 29. Un reglamento que dicte el Presidente de la República, con audiencia de la Direccion Jeneral, determinará en lo demas las atribuciones de la Oficina y los deberes de los empleados."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Artículo 30",
+      "content": "TITULO III\nDe los servicios sanitarios rejionales\nPARRAFO 1\nDe los Inspectores Sanitarios de Zonas\nArt. 30. Divídese en cuatro zonas el territorio de la República, para los efectos de la inspeccion sanitaria.\nConstituirán la primera, las provincias de Tacna, Taparacá, Antofagasta, Atacama y Coquimbo; la segunda, las de Aconcagua, Valparaiso, Santiago y O'Higgins; la tercera, las de Colchagua, Curicó, Talca, Linares, Maule y Ñuble, y la cuarta, las de Concepcion, Arauco, Bio-Bio, Malleco, Cautin, Valdivia, Llanquihue y Chiloé y el Territorio de Magallánes."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Artículo 31",
+      "content": "Art. 31. Habrá en cada zona un inspector sanitario, con domicilio en la cabecera de provincia que indique el Presidente de la República, previo informe de la Direccion Jeneral."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Artículo 32",
+      "content": "Art. 32. Corresponde a los inspectores en sus respectivas zonas velar por el cumplimiento de las leyes, ordenanzas o reglamentos sanitarios, vijilar los servicios a que se refiere este Código y ejecutar las instrucciones del Director Jeneral."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Artículo 33",
+      "content": "Art. 33. Los inspectores serán nombrados por el Presidente de la República, a propuesta en terna del Director Jeneral.\nPara poder ser inspector se requiere el título de médico cirujano y haber ejercido la profesion tres años, a lo ménos."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Artículo 34",
+      "content": "PARRAFO 2\nDe las Oficinas Departamentales de Desinfeccion\nArt. 34. Habrá una Oficina de desinfeccion, dependiente de la Direccion Jeneral, en las cabeceras de departamento, que fije la lei de Presupuestos.\nEl jefe de la Oficina será nombrado por el Presidente de la República, a propuesta en terna del Director Jeneral.\nPara poder ser jefe de la Oficina se requiere el título de médico cirujano y haber ejercido la profesion tres años, a lo ménos.\nEl nombramiento de los demas empleados se hará por el Presidente de la República, a propuesta unipersonal del Director Jeneral."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Artículo 35",
+      "content": "Art. 35. Un reglamento que dicte el Presidente de la República, con audiencia del Consejo Superior, determinará la organizacion y atribuciones de la Oficina y las obligaciones de los empleados."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Artículo 36",
+      "content": "PARRAFO 3\nDe las Estaciones Sanitarias y de los Médicos de\npuertos\nArt. 36. El servicio de sanidad marítima o de las fronteras, estará a cargo de las estaciones sanitarias, o de los médicos de puertos, y bajo la dependencia de la Direccion Jeneral."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Artículo 37",
+      "content": "Art. 37. La Direccion Jeneral indicará al Gobierno los lugares en que convenga establecer estaciones sanitarias o nombrar médicos de puertos, y propondrá las organizaciones y reglamentos respectivos."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Artículo 38",
+      "content": "Art. 38. Los jefes de las estaciones sanitarias, y los médicos de puertos, serán nombrados por el Presidente de la República, a propuesta en terna del Director Jeneral.\nPara poder ser jefe de estacion sanitaria o médico de puerto se requiere el título de médico cirujano, y haber ejercido la profesion tres años a lo ménos.\nEl nombramiento de cada uno de los demas empleados se hará por el Presidente de la República, a propuesta unipersonal del Director Jeneral."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Artículo 39",
+      "content": "PARRAFO 4\nDe los Consejos Departamentales de Hijiene\nArt. 39. Habrá un Consejo Departamental de Hijiene en cada cabecera de departamento y será compuesto:\nDel intendente o gobernador, a quien corresponderá la presidencia;\nDel Primer alcalde de la Municipalidad, a quien corresponderá la vice-presidencia;\nDel inspector sanitario, del jefe de estacion sanitaria o del médico de puerto, donde los hubiere, y del director del servicio sanitario de la Armada, en Valparaiso;\nDel jefe de la Oficina de Hijiene, del director de obras municipales y del jefe de la Oficina de Desinfeccion;\nDe dos personas elejidas por la Junta de Beneficencia del departamento;\nDe dos personas elejidas por el Consejo Superior; y De una persona elejida por el Consejo Departamental de Habitaciones para Obreros.\nEjercerá las funciones de secretario el jefe de la Oficina de Desinfeccion, y a falta de él, la persona que designe el Consejo.\nLos miembros electivos durarán tres años en sus funciones, y podrán ser reelejidos indefinidamente.\nEl Consejo Superior hará las veces de Consejo Departamental en el departamento de Santiago."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Artículo 40",
+      "content": "Art. 40. Son atribuciones del Consejo:\n1.a Proponer a las autoridades departamentales o municipales las reglas o medidas que convenga dictar en materia de hijiene o salubridad;\n2.a Dar su dictámen a las mismas autoridades sobre materias de hijiene o salubridad cuando sea requerido para ello; y deberá serlo siempre que se trate de adoptar medidas jenerales o de establecer nuevas reglas;\n3.a Velar por que se cumplan las leyes, ordenanzas o reglamentos sanitarios; y dirijir sobre su cumplimiento a las mismas autoridades las representaciones que juzgue oportunas;\n4.a Proponer a la Municipalidad los reglamentos a que se refieren, respectivamente, los artículos 43 y 50;\n5.a Solicitar de las autoridades, oficinas públicas o individuos particulares los datos que estime convenientes para el mejor ejercicio de sus atribuciones;\n6.a Dar cuenta a la Direccion Jeneral, diariamente en tiempo de epidemia, y mensualmente en épocas normales, del estado sanitario del departamento; y 7.a Pasar al Consejo Superior, en el mes de enero de cada año, una memoria sobre los trabajos del año precedente."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Artículo 41",
+      "content": "Art. 41. Las atribuciones del Consejo Departamental se entenderán sin perjuicio de las que corresponden al Consejo Superior y a la Direccion Jeneral."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Artículo 42",
+      "content": "TITULO IV\nDe la Administracion Sanitaria Municipal\nArt. 42. Habrá un servicio de hijiene a cargo de cada Municipalidad en la forma prescrita por la lei."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Artículo 43",
+      "content": "Art. 43. Toda Municipalidad dictará, oido el Consejo Departamental, y previo informe del Consejo Superior, un reglamento sanitario que determine las medidas de proteccion a la salud pública, correspondientes a la autoridad municipal."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Artículo 44",
+      "content": "Art. 44. Toda Municipalidad de cabecera de departamento deberá establecer una Oficina de Hijiene encargada del cumplimiento de las disposiciones o medidas sanitarias municipales."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Artículo 45",
+      "content": "Art. 45. Si después de un año contado desde la fecha en que empiece a rejir este Código, alguna Municipalidad no hubiere cumplido con lo ordenado en los dos artículos anteriores, el Presidente de la República dictará el reglamento, con audiencia del Consejo Superior o procederá a establecer la Oficina, a espensas de la Municipalidad."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Artículo 46",
+      "content": "Art. 46. Las municipalidades que no sean de cabecera de departamento podrán tambien establecer la Oficina a que se refiere el artículo 44."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Artículo 47",
+      "content": "Art. 47. Toda Municipalidad destinará anualmente en su presupuesto una suma no inferior al diez por ciento de sus entradas, a los servicios sanitarios."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Artículo 48",
+      "content": "Art. 48. Si alguna Municipalidad omitiere invertir en el servicio sanitario la suma que corresponda o una parte de ella, la Direccion Jeneral podrá requerir judicialmente el entero en arcas fiscales de la cantidad omitida y la dedicará a su objeto."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Artículo 49",
+      "content": "Art. 49. Para poder ser jefe de la Oficina de Hijiene se requiere el título de médico cirujano.\nEl jefe de la Oficina será nombrado por la Municipalidad.\nEl nombramiento de los demas empleados se hará por el alcalde, a propuesta del jefe de la Oficina."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Artículo 50",
+      "content": "Art. 50. Un reglamento que dicte la Municipalidad, con audiencia del Consejo Departamental, determinará la organizacion de la Oficina, los servicios que hayan de estar a su cargo, y las obligaciones de los empleados."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Artículo 51",
+      "content": "Art. 51. No podrán las municipalidades iniciar la ejecucion de obras públicas que se relacionen con la hijiene, como mataderos, mercados, hospitales u otras análogas, sin oir al Consejo Departamental, para lo cual le remitirán los planos, presupuestos y demas datos necesarios."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Artículo 52",
+      "content": "LIBRO SEGUNDO\nDE LA POLICIA SANITARIA\nTITULO I\nDe la profiláxis de las enfermedades infecciosas\nArt. 52. Todo médico que asista a persona enferma de viruela, escarlatina, difteria, fiebre tifoidea, tifus exantemático, fiebre amarilla, peste bubónica, cólera morbo, lepra o tracoma, declarará el hecho al jefe de la Oficina de Desinfeccion o a falta de él al gobernador del departamento, dentro de las veinticuatro horas subsiguientes al diagnóstico cierto o probable de la enfermedad.\nSi en caso de epidemia declarada por la autoridad sanitaria, careciere el enfermo de asistencia médica, corresponderá la misma obligacion al dueño de la casa, o al jefe del establecimiento público o privado en que aquél se hallare.\nLa infraccion se penará con multa de cincuenta a doscientos pesos y la reincidencia con el doble."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Artículo 53",
+      "content": "Art. 53. El Presidente de la República, con audiencia del Consejo Superior, podrá hacer estensiva a otras enfermedades infecciosas la obligacion de que trata el artículo anterior."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Artículo 54",
+      "content": "Art. 54. En los casos de las enfermedades a que se refieren los artículos anteriores, serán obligatorios el aislamiento del enfermo y la desinfeccion de los locales u objetos que, a juicio de la autoridad sanitaria, estuvieren contaminados.\nSe aislará al enfermo en su domicilio, siempre que puedan cumplirse en éste las condiciones del reglamento.\nEn el caso contrario, se le llevará a un hospital o a otro establecimiento adecuado.\nSe observará, con los mismos requisitos, a toda persona que haya tenido comunicacion con algun enfermo o venga de rejion infestada, u ofrezca peligro de contajio, a juicio de la autoridad sanitaria.\nLa persona que impida el cumplimiento por la autoridad sanitaria de las disposiciones de este artículo, será penada con multa de cincuenta a doscientos pesos."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Artículo 55",
+      "content": "Art. 55. Las personas que se ocupen en la venta de muebles, ropas, libros u otros objetos usados, deberán hacerlos desinfectar en conformidad a lo que determine el reglamento sanitario municipal.\nLa infraccion será penada con multa de cincuenta a doscientos pesos y la reincidencia con el doble."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Artículo 56",
+      "content": "Art. 56. Las desinfecciones serán pagadas conforme al arancel que determine el reglamento, y serán gratuitas para los pobres."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Artículo 57",
+      "content": "Art. 57. Recibirán la vacunacion antivariólica todos los habitantes de la República en el primer año de la vida, y la revacunacion en el décimo y en el vijésimo respectivamente.\nRecibirán, asimismo, el virus anti-variólico, dentro del primer año, a contar desde el dia en que empiece a rejir este Código todas las personas que en esa fecha no hubieren sido vacunadas o revacunadas, respectivamente.\nLos que quieran eximirse de alguna de las disposiciones de los incisos anteriores deberán declararlo por escrito a la Oficina de Vacuna correspondiente, dentro de los primeros tres meses del respectivo plazo.\nTratándose de incapaces, las incumbencias a que se refiere este artículo serán de cargo a sus representantes legales y, no habiéndolos, a las personas a quienes se haya deferido o que ejerzan de hecho el cuidado personal de los mismos.\nLas contravenciones a los dos primeros incisos de este artículo se penarán con multa de diez a cincuenta pesos, sin perjuicio de la vacunacion o revacunacion."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Artículo 58",
+      "content": "Art. 58. La vacunacion será gratuita, y se practicará a domicilio o en los locales que designe la Direccion Jeneral."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Artículo 59",
+      "content": "Art. 59. Cuando una parte del territorio se viere amagada o invadida por alguna epidemia y los servicios sanitarios municipales fueren insuficientes para detenerla o combatirla, podrá el Presidente de la República, con audiencia del Consejo Superior, designar a alguno de los funcionarios de la Direccion Jeneral para que se haga cargo de los servicios jenerales o locales de salubridad en la rejion amagada o invadida.\nEl funcionario designado adoptará las medidas que juzgue oportunas al cumplimiento de su encargo, dentro de las atribuciones que confiere este Código a las autoridades sanitarias.\nDurará en sus funciones por el tiempo que determine el Presidente de la República.\nLos gastos que demande la organizacion y desempeño de este servicio serán de cuenta del Estado."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Artículo 60",
+      "content": "Art. 60. El reglamento sanitario municipal señalará las medidas de inspeccion, aislamiento y vijilancia médica, referentes a las enfermedades contajiosas que en él se determinen."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Artículo 61",
+      "content": "Art. 61. El Presidente de la República con audiencia del Consejo Superior, dictará los reglamentos necesarios para la ejecucion de las demas disposiciones de este título."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Artículo 62",
+      "content": "TITULO II\nDel ejercicio de la medicina y de las demás ramas\ndel arte de curar y de las preparaciones de\nsustancias medicinales.\nArt. 62. No podrá ejercerse la profesion de médico cirujano, farmacéutico, dentista o matrona, sin título legal.\nProhíbese ejercer conjuntamente las profesiones de médico cirujano y de farmacéutico.\nProhíbese, asimismo, a los médicos cirujanos ser propietarios de boticas o droguerías, o celebrar cualesquiera convenciones con farmacéuticos o dueños de boticas o droguerías para participar en las utilidades.\nLa contravencion a cualquiera de las disposiciones de este artículo se penará con multa de ciento cincuenta a trescientos pesos, y la reincidencia con el doble."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Artículo 63",
+      "content": "Art. 63. Solo se permitirá despachar recetas o vender medicamentos en las boticas o droguerías.\nEs \"botica\" el establecimiento destinado habitualmente al despacho de preparaciones majistrales u oficinales, y \"droguería\" el destinado habitualmente a la venta de medicamentos simples, productos químicos, biolójicos o específicos.\nEsceptúase del inciso primero la venta de los remedios de uso doméstico o inofensivo que determine el reglamento.\nLa contravencion al predicho inciso se penará con multa de ciento cincuenta a trescientos pesos y la reincidencia con el doble."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Artículo 64",
+      "content": "Art. 64. Prohíbese abrir botica o droguería sin permiso escrito del intendente o gobernador, quien para otorgarlo procederá conforme al reglamento."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Artículo 65",
+      "content": "Art. 65.- Toda botica o droguería deberá ser rejentada por farmacéutico con título legal.\nNo será lícito a una misma persona rejentar mas de una botica o droguería.\nPodrá el Presidente de la República, con audiencia del Consejo Superior, reglamentar las condiciones de idoneidad de los demas empleados que hayan de intervenir en el despacho de las recetas."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Artículo 66",
+      "content": "Art. 66. Podrá el Presidente de la República, previo informe de la Direccion Jeneral, autorizar a una o mas personas para abrir botica o drogueria en la localidad en que no la hubiere con farmacéutico titulado, bajo las condiciones de idoneidad que determine el reglamento.\nServirá sólo esta autorizacion para la localidad que se hubiere designado al concederla; y caducará un año despues de que se establezca en la misma localidad una botica o drogueria con rejente titulado."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Artículo 67",
+      "content": "Art. 67. El rejente y el propietario de botica o droguería serán responsables de la identidad, pureza y buen estado de los medicamentos.\nEl rejente y el propietario de botica serán tambien responsables de la fidelidad y exactitud en la preparacion de las recetas.\nLa contravencion a cualquiera de estas disposiciones se castigará con la pena establecida por el artículo 494 del Código Penal.\nSi de la infraccion resultare daño a alguna persona, se aplicarán las penas establecidas por el artículo 315 del mismo Código."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Artículo 68",
+      "content": "Art. 68. Todo rejente de botica o droguería tendrá a su cargo la direccion técnica del establecimiento y vijilará personalmente el despacho de los medicamentos o recetas, conforme al reglamento.\nLa infraccion se penará con multa de ciento cincuenta a trescientos pesos y la reincidencia con el doble.\nLo dicho en este artículo no obsta a la responsabilidad de los demas empleados que hayan intervenido en el despacho de las recetas."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Artículo 69",
+      "content": "Art. 69. Sólo podrán espedir recetas las personas que tengan título para ejercer una profesion u oficio relacionado con el arte de curar, conforme al reglamento.\nSólo con órden escrita de médico cirujano podrán espenderse los medicamentos que califique de peligrosos la Farmacopea Nacional.\nLas sustancias peligrosas destinadas a usos industriales no podrán espenderse sino conforme a las disposiciones respectivas del reglamento.\nLa contravencion a cualquiera de estas disposiciones se castigará con arreglo al articulo 314 del Código Penal."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Artículo 70",
+      "content": "Art. 70. Prohíbese la venta de cualesquiera preparaciones farmacéuticas, cuyas fórmulas no estén impresas en las envolturas inmediatas que las contengan, salvo que se trate de invenciones o procedimientos orijinales, caso en el cual deberán depositarse las fórmulas en la Direccion Jeneral, conforme a un reglamento que dictará el Presidente de la República, con audiencia del Consejo Superior.\nLa infraccion se castigará con la pérdida de las especies, sin perjuicio de las penas a que se refiere el artículo 313 del Código Penal."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Artículo 71",
+      "content": "Art. 71. Si no hubiere en un lugar mas que una botica, atenderá ella permanentemente al público.\nSi hubiere mas de una, señalará el intendente o gobernador el turno semanal a que hayan de sujetarse en las noches y en los dias feriados.\nEl turno en las noches se entenderá establecido sólo respecto de las recetas o medicamentos."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Artículo 72",
+      "content": "Art. 72. Ordenará el intendente o gobernador la clausura de toda botica o droguería en que se haya infrinjido alguna de las disposiciones de los artículos 64, 65 y 71, y podrá conceder un plazo improrrogable de veinte dias para que se subsane el defecto, si hubiere lugar a ello, sin perjuicio del derecho del interesado para ocurrir al juez, quien resolverá breve y sumariamente, oyendo a las partes."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Artículo 73",
+      "content": "Art. 73. Una comision compuesta del Director Jeneral, que la presidirá, de los profesores de farmacia y química analítica de la Universidad de Chile, respectivamente, de un farmacéutico designado por el Consejo Superior, y de los miembros de la inspeccion de boticas, revisará cada cinco años la Farmacopea Nacional, y dirijirá la edicion oficial de la misma."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Artículo 74",
+      "content": "Art. 74. Para instalarse o funcionar los institutos o laboratorios particulares dedicados a preparar vacunas, sueros u otros ajentes biolójicos de análoga naturaleza y las fábricas de productos químicos o farmacéuticos, se someterán al reglamento que dicte el Presidente de la República, con audiencia del Consejo Superior.\nLa contravencion se penará con multa de seiscientos pesos, sin perjuicio de la clausura del instituto, laboratorio o fábrica."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Artículo 75",
+      "content": "Art. 75. El Presidente de la República, con informe del Consejo Superior, dictará un reglamento de boticas y droguerías.\nPodrá tambien, con informe del mismo Consejo, dictar reglas sobre los requisitos de lejitimidad, pureza, innocuidad, envase y venta de las sustancias a que se refiere el artículo precedente."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Artículo 76",
+      "content": "TITULO III\nDe la salubridad de las poblaciones\nArt. 76. No podrán ejecutarse los trabajos de agua potable, alcantarillas o desagües de las poblaciones sin que el Presidente de la República apruebe los planos y especificaciones, previo informe de la Direccion Jeneral de Obras Públicas y de la Direccion Jeneral de Sanidad."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Artículo 77",
+      "content": "Art. 77. El Presidente de la República, previo informe del Consejo Superior, y con acuerdo del Consejo de Estado, reservará en las corrientes naturales de uso público las aguas necesarias para el abastecimiento de las poblaciones.\nCon los mismos requisitos determinará los perímetros de proteccion correspondientes.\nEn estos casos se procederá, en conformidad al número 3.o del artículo 835 del Código Civil."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Artículo 78",
+      "content": "Art. 78. El Presidente de la República, previo informe del Consejo Superior, y con acuerdo del Consejo de Estado, dictará una ordenanza jeneral para mantener la pureza de las aguas destinadas al abastecimiento de las poblaciones."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Artículo 79",
+      "content": "Art. 79. Los dueños de propiedades particulares están obligados a permitir, sin indemnizacion alguna, las obras necesarias para la colocacion de las cañerías de agua potable y la construccion de las obras de alcantarillado que beneficien a sus respectivas propiedades."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Artículo 80",
+      "content": "Art. 80. Las empresas de agua potable deberán proporcionar gratuitamente el agua necesaria para los establecimientos de beneficencia y para las escuelas o colejios de instruccion gratuita."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Artículo 81",
+      "content": "Art. 81. Terminada la construccion del alcantarillado público, o de alguna seccion del mismo, los propietarios deben hacer a sus espensas las instalaciones domiciliarias, y las conexiones de ellas con las cañerías matrices, previa la aprobacion de los planos y especificaciones por la Direccion del Alcantarillado, y dentro del plazo que señala el reglamento.\nNo podrán ser usadas las instalaciones sin que la direccion del servicio haya aprobado las obras, y autorizado el desagüe.\nSi lo fueren, omitiéndose alguno de estos requisitos, ordenará la Direccion que se interrumpan las conexiones a espensas de los infractores.\nDeberán asimismo los propietarios cegar dentro de sus respectivos predios, y a sus espensas, los pozos, acequias o acueductos con que se hubiere hecho anteriormente el servicio, en el plazo y con los requisitos que señale el reglamento.\nLa propiedad en que se infrinja alguna de las disposiciones de los incisos primero y tercero de este artículo, será clausurada por el intendente o gobernador; y sin perjuicio de mantenerse entre tanto la medida podrá el interesado ocurrir al juez, quien resolverá breve y sumariamente y en única instancia, oyendo a las partes."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Artículo 82",
+      "content": "Art. 82. El reglamento sanitario municipal establecerá las demas reglas concernientes a la salubridad de las poblaciones."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Artículo 83",
+      "content": "TITULO IV\nDe la salubridad de los edificios\nArt. 83. En ninguna poblacion podrá constituirse ni reconstruirse total o parcialmente un edificio sin permiso escrito del alcalde quien no lo concederá sin haberse cerciorado de que los planos y especificaciones cumplen con los requisitos del reglamento sanitario.\nLa infraccion se penará con multa de ciento a doscientos pesos, sin perjuicio de la suspension administrativa de la obra hasta que se obtenga el permiso."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Artículo 84",
+      "content": "Art. 84. Al término de la obra, deberá cerciorarse el alcalde de si se han cumplido las disposiciones sanitarias correspondientes y en caso contrario, será penado el infractor con multa de ciento a doscientos pesos y se ordenará la clausura del edificio hasta que se cumplan."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Artículo 85",
+      "content": "Art. 85. Si denegare el alcalde alguna de las solicitudes a que se refieren, respectivamente, los dos artículos anteriores, o no las proveyere dentro de un plazo de quince dias, desde la presentacion de las mismas, podrá el interesado reclamar ante el juez de letras, quien resolverá breve y sumariamente, oyendo a las partes."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Artículo 86",
+      "content": "Art. 86. Podrá el alcalde, previo informe del jefe de la oficina de Hijiene, donde la hubiere, declarar inhabitable o insalubre un edificio, conforme al reglamento."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Artículo 87",
+      "content": "Art. 87. Calificado un edificio de inhabitable o insalubre por el alcalde, comunicará éste el hecho por escrito al dueño, remitiéndole copia del informe del jefe de la Oficina, si lo hubiere, e indicándole el costo aproximado de la demolicion o de las reparaciones, y el plazo para llevar a efecto la obra, que no podrá exceder de noventa dias."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Artículo 88",
+      "content": "Art. 88. Si no se ejecutaren dentro del plazo señalado, la demolicion o las reparaciones, lo comunicará el alcalde por escrito al juez de letras, acompañándole los antecedentes; y el juez citará, dentro del tercero dia, al dueño o a su mayordomo, y resolverá sin mas trámite.\nSi no excediere de quinientos pesos el valor de la obra, conforme a la estimacion indicada en el artículo anterior, será inapelable el fallo."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Artículo 89",
+      "content": "Art. 89. El edificio que hubiere sido judicialmente declarado inhabitable o insalubre, deberá clausurarse o demolerse dentro del término que indique la sentencia.\nSi no se diere cumplimiento a lo prescrito en el inciso anterior, procederá la Alcaldía sin más trámite a la clausura o demolición.\nSe ejecutará la demolicion con cargo al dueño; y podrá entablarse accion ejecutiva en su contra por el monto del presupuesto a que se refiere el artículo 87."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Artículo 90",
+      "content": "Art. 90. El edificio insalubre podrá ser rehabilitado por declaracion del alcalde, previo informe de la Direccion de Obras Municipales, que acredite el cumplimiento de las indicaciones hechas por la autoridad sanitaria."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Artículo 91",
+      "content": "Art. 91. Si el propietario u ocupante se opusiere a la visita sanitaria, podrá el alcalde ocurrir al juez, quien señalará inapelablemente el dia y hora de la visita."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Artículo 92",
+      "content": "Art. 92. El Presidente de la República dictará, con audiencia del Consejo Superior, un reglamento sobre las condiciones sanitarias que deben tener los edificios destinados al uso público."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Artículo 93",
+      "content": "Art. 93. El reglamento sanitario municipal determinará las condiciones hijiénicas que hayan de cumplir los demas edificios y las reglas a que deban someterse las municipalidades para llevarlas a efecto."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Artículo 94",
+      "content": "Art. 94. Quedan en vigor las disposiciones de la lei de 20 de febrero de 1906, sobre habitaciones para obreros; y en particular las concernientes a las atribuciones esclusivas de los consejos, establecidos o que se establezcan en lo futuro, conforme a la misma lei.\nEn consecuencia, las disposiciones de este título no se aplicarán respecto de las habitaciones para obreros, rejidas por la citada lei de 20 de febrero de 1906."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Artículo 95",
+      "content": "TITULO V\nDe la hijiene alimenticia\nArt. 95. Prohíbese la introduccion en el pais de sustancias alimenticias adulteradas o nocivas.\nEl Presidente de la República, con informe del Consejo Superior, determinará las sustancias que deben incluirse en cada una de las calificaciones anteriores.\nLa infraccion se castigará con la pérdida de las especies, sin perjuicio de las penas señaladas en el artículo 316 del Código Penal."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Artículo 96",
+      "content": "Art. 96. El reglamento sanitario municipal determinará las condiciones de lejitimidad, pureza, innocuidad, envase y demas requisitos hijiénicos que deban cumplir los artículos alimenticios para ser entregados al consumo.\nSe castigarán las infracciones conforme al último inciso del artículo precedente.\nSeñalará, ademas, el reglamento las circunstancias en que deban los comerciantes suministrar las muestras alimenticias, y las penas en que incurran los infractores."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Artículo 97",
+      "content": "TITULO VI\nDe la hijiene industrial\nArt. 97. No podrán instalarse dentro del recinto urbano de las poblaciones las industrias que el reglamento sanitario califique de peligrosas, insalubres, o notablemente incómodas."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Artículo 98",
+      "content": "Art. 98. Determinará el reglamento las condiciones hijiénicas a que haya de sujetarse el trabajo, y especialmente el de las mujeres o menores de dieciocho años, en los establecimientos industriales."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Artículo 99",
+      "content": "Art. 99. El alcalde, previo informe del jefe de la Oficina de Hijiene, donde la hubiere, ordenará la clausura de todo establecimiento en que se hayan infringido las disposiciones legales o reglamentarias; sin perjuicio del derecho del dueño para ocurrir al juez, quien resolverá breve y sumariamente, oyendo a las partes."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Artículo 100",
+      "content": "Art. 100. El alcalde o el jefe de la Oficina de Hijiene podrá ordenar visitas de inspeccion a todo establecimiento industrial."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Artículo 101",
+      "content": "Art. 101. El propietario o tenedor de un establecimiento que se opusiere a la visita sanitaria ordenada por autoridad competente, incurrirá en una multa de ciento cincuenta a trescientos pesos, que se doblará en caso de reincidencia."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Artículo 102",
+      "content": "TITULO VII\nDe la policía sanitaria marítima y de las fronteras\nArt. 102. Toda nave que arribe a un puerto de la República, recibirá la visita de la autoridad sanitaria, ántes de ser admitida a libre plática.\nEl capitan de la nave, o el conductor de un tren que venga del estranjero, denunciará inmediatamente a la autoridad sanitaria todo caso de enfermedad infecciosa que haya ocurrido durante el viaje.\nEl capitan denunciará tambien inmediatamente a la autoridad sanitaria todo caso de enfermedad infecciosa que ocurra en la nave durante su estadía en el puerto.\nLa contravencion será penada con multa de trescientos a seiscientos pesos, y la reincidencia con el doble."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Artículo 103",
+      "content": "Art. 103. Si la nave o el tren estuviere infestado, o fuera sospechoso de estarlo, a juicio de la autoridad sanitaria, rejirán las disposiciones respectivas del reglamento."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Artículo 104",
+      "content": "Art. 104. La nave, cuyo estado sanitario se califique de peligroso por la autoridad competente, quedará sujeta a las precauciones especiales, que determine el reglamento."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Artículo 105",
+      "content": "Art. 105. Se entenderán infestadas o sospechosas las rejiones de los paises que hayan sido declaradas tales por el Presidente de la República, previo informe del Consejo Superior, y las de los paises estranjeros que lo hayan sido por sus respectivos gobiernos."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Artículo 106",
+      "content": "Art. 106. Las medidas de profiláxis internacional en los puertos de la República consistirán en la espedicion de patentes o pasaportes de sanidad, en las visitas e inspecciones sanitarias de las naves o trenes, en el aislamiento de los enfermos, en la observacion o vijilancia médica de los pasajeros, en la desinfeccion de las naves o trenes y de las especies y en la destruccion de los animales infestados."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Artículo 107",
+      "content": "Art. 107. Las medidas de profiláxis a que se refiere el artículo anterior se sujetarán al reglamento de policía sanitaria marítima y de las fronteras."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Artículo 108",
+      "content": "Art. 108. Todo cónsul de la República que estuviere ejerciendo sus funciones en una localidad infestada de peste bubónica, cólera morbo o fiebre amarilla, comunicará telegráficamente al Gobierno la aparicion y el desarrollo de la epidemia.\nTratándose de un puerto que se halle en el caso del inciso anterior, comunicará tambien el cónsul telegráficamente al Gobierno la salida de cualquiera nave de ese puerto para Chile."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Artículo 109",
+      "content": "Art. 109. Los emolumentos por servicios de sanidad marítima y de las fronteras, o por gastos de alojamiento obligatorio de pasajeros, serán determinados por un arancel que dictará el Presidente de la República, previo informe del Consejo Superior."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Artículo 110",
+      "content": "Art. 110. El Presidente de la República, con audiencia del Consejo Superior, dictará el reglamento de policía sanitaria marítima y de las fronteras.\nPodrá tambien, con audiencia del mismo Consejo, dictar reglas para impedir la entrada en el pais de personas que padezcan enfermedades crónicas contajiosas, o vicios orgánicos incurables."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Artículo 111",
+      "content": "TITULO VIII\nDe la policía sanitaria de los animales\nArt. 111. Prohíbese internar en el pais animales atacados de enfermedades contajiosas, o que ofrezcan sospechas de estarlo.\nPodrá el Presidente de la República ordenar la clausura de los puertos marítimos o terrestres para asegurar el cumplimiento del inciso anterior.\nLos animales internados en contravencion al mismo inciso, serán devueltos al lugar de su oríjen, o sometidos al tratamiento sanitario correspondiente.\nNo siendo posible aplicar tales medidas, el juez, a solicitud del gobernador, y previa informacion sumaria, ordenará el sacrificio de los animales enfermos, a costa del propietario o tenedor, y sin derecho a indemnizacion.\nContra esta providencia no cabrá recurso alguno."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Artículo 112",
+      "content": "Art. 112. El dueño o guardador de animales atacados por enfermedades contajiosas, o que ofrezcan sospechas de estarlo, denunciará, inmediatamente el hecho al gobernador del departamento, manteniéndolos miéntras tanto encerrados y aislados.\nTodo ello bajo las sanciones que determinan los artículos 289, 290 y 291 del Código Penal."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Artículo 113",
+      "content": "Art. 113. El Presidente de la República, previo informe del Consejo Superior, dictará un reglamento que determine las enfermedades a que se refieren los artículos anteriores, y las medidas de profiláxis relativas al aislamiento, desinfeccion y sacrificio de los animales enfermos, y destruccion de las especies contaminadas."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Artículo 114",
+      "content": "TITULO IX\nDe la policía mortuoria\nArt. 114. Habrá en cada territorio municipal un cementerio, a lo ménos."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Artículo 115",
+      "content": "Art. 115. Sólo podrá establecerse un cementerio o ensancharse uno establecido, con autorizacion del Presidente de la República, previo informe del Consejo Superior; pero para denegar la autorizacion le será necesario, ademas, el acuerdo del Consejo de Estado."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Artículo 116",
+      "content": "Art. 116. Sólo se permitirán las inhumaciones en los cementerios públicos, o en los privados o parroquiales que en la actualidad existan, o que autorice el Presidente de la República, conforme al artículo anterior; pero podrán sepultarse en las catedrales los cadáveres embalsamados de los obispos."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Artículo 117",
+      "content": "Art. 117. No se permitirá ninguna inhumacion ántes de las veinticuatro horas subsiguientes a la muerte."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Artículo 118",
+      "content": "Art. 118. No podrá ser conducido a ningun templo para los oficios relijiosos el cadáver de una persona que haya muerto de viruela, cólera-morbo, peste bubónica o tifus exantemático."
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Artículo 119",
+      "content": "Art. 119. Para transladar un cadáver de un lugar a otro de la República, será necesario permiso escrito de la autoridad administrativa del primero de esos lugares, conforme al reglamento."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Artículo 120",
+      "content": "Art. 120. No se permitirá la exhumacion ántes de que el cadáver esté reducido a osamenta, y en ningun caso, ántes de los diez años subsiguientes a la inhumacion.\nNo está sujeta al inciso anterior la exhumacion que autorice el Presidente de la República, o que ordene la autoridad judicial."
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Artículo 121",
+      "content": "Art. 121. Podrá ordenar el Presidente de la República la clausura de cualquier cementerio que se establezca sin el permiso competente, o que, a su juicio, ofrezca manifiesto peligro para la salud pública.\nEn el segundo de estos casos deberá proceder con el informe del Consejo Superior y con acuerdo del Consejo de Estado."
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "Artículo 122",
+      "content": "Art. 122. No se permitirán las sepultaciones sobre el nivel del suelo en los cementerios que se establezcan en lo futuro."
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "Artículo 123",
+      "content": "Art. 123. El Presidente de la República, previo informe del Consejo Superior, dictará un reglamento para la ejecucion de las disposiciones de este título."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "Artículo 124",
+      "content": "TITULO X\nDe la estadística médica\nArt. 124. La Oficina Central de Estadística comunicará mensualmente al director del Instituto de Hijiene los datos concernientes a los nacimientos, matrimonios y defunciones inscritas en sus libros durante el mes anterior.\nLos estadísticos de los establecimientos de beneficencia pública o privados comunicarán tambien, el primero de cada mes, al director del Instituto, el resúmen de la estadística respectiva del mes anterior.\nLa contravencion será castigada con una multa de cincuenta a cien pesos, que se doblará en caso de reincidencia."
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "Artículo 125",
+      "content": "Art. 125. El director del Instituto podrá solicitar de las oficinas públicas las demas informaciones que estime útiles para completar la estadística médica.\nEl jefe de oficina que negare los datos sufrirá una multa de cincuenta a cien pesos, que se doblará en caso de reincidencia."
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Artículo 126",
+      "content": "Art. 126. Un reglamento que dicte el Presidente de la República, previo informe del Consejo Superior, determinará, en lo demás, las condiciones de este servicio."
+    },
+    {
+      "provision_ref": "art127",
+      "section": "127",
+      "title": "Artículo 127",
+      "content": "TITULO XI\nDisposiciones jenerales\nArt. 127. Toda infraccion penal de la lei sanitaria se perseguirá de oficio y conferirá accion popular."
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "Artículo 128",
+      "content": "Art. 128. Las acciones u omisiones que sólo importen infraccion de lei, ordenanza o reglamento sanitario se reputarán faltas."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Artículo 129",
+      "content": "Art. 129. Podrán las autoridades sanitarias, para dar cumplimiento a las disposiciones que adoptaren en el ejercicio de sus atribuciones, requerir de quien corresponda el ausilio de la fuerza pública.\nSe tendrán por autoridades sanitarias para este efecto, el Director Jeneral de Sanidad, el Alcalde y el Consejo Superior de Habitaciones para Obreros."
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "Artículo 130",
+      "content": "Art. 130. Las multas se cobrarán administrativamente. Las reclamaciones a que diere lugar su imposicion, se tramitarán por la justicia ordinaria en forma breve y sumaria."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "Artículo 131",
+      "content": "Art. 131. El infractor que no se allanare a pagar la multa sufrirá un dia de prision por cada veinte pesos."
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "Artículo 132",
+      "content": "TITULO XII\nDe los sueldos y viáticos\nArt. 132. Los empleados de la administracion sanitaria central gozarán de los sueldos anuales que a continuacion se espresan:\nDireccion Jeneral de Sanidad\nDirector jeneral $ 30,000\nSecretario 10,000\nPro-secretario 5,000\nInjeniero 6,000\nVeterinario 5,000\nOficial 2,400\nArchivero 2,400\nDibujante 3,600\nPortero 1,800\nInstituto de Hijiene\nDireccion y seccion de hijiene y demografia\nDirector $ 14,000\nSecretario-tesorero 6,000\nAdministrador 3,000\nAyudante primero hijienista 4,800\nAyudantes segundos, cada uno 3,600\nOficial archivero 2,000\nJardinero primero 1,800\nJardinero segundo 1,200\nPortero 1,800\nSeccion de química y toxicolojía\nJefe $ 12,000\nAyudante primero toxicólogo 7,000\nAyudantes segundos, cada uno 4,800\nAyudantes químicos, cada uno 3,600\nAusiliar 1,800\nSeccion de bacteriolojía y microscopia\nJefe $ 12,000\nAyudante primero bacteriólogo 7,000\nAyudantes segundos, cada uno 4,800\nAusiliar 1,800\nSeccion de vacuna y seroterapia\nJefe $ 14,000\nAyudante primero bacteriólogo 7,000\nAyudantes segundos, cada uno 4,800\nAyudante entomólogo 3,600\nVeterinario 8,000\nCaballerizos, cada uno 1,800\nCuidador 2,000\nAusiliares, cada uno 1,800\nOficina central de desinfeccion\nJefe $ 12,000\nAdministrador 4,800\nMecánico 4,000\nJefes de desinfectadores, cada uno 2,600\nDesinfectadores, cada uno 2,200\nFogonero 1,800\nCocheros primeros, cada uno 1,800\nCocheros segundos, cada uno 1,500\nInspectores sanitarios de zona\nInspectores, cada uno $ 8,000\nOficina central de vacuna\nJefe $ 12,000\nSecretario 6,000\nArchivero 3,000\nOficiales, cada uno 2,000\nVacunadores de primera clase, cada uno 3,000\nVacunadores de segunda clase, cada uno 2,100\nPortero 1,800\nInspeccion de boticas\nMédico jefe $ 12,000\nFarmacéuticos, cada uno 5,000"
+    },
+    {
+      "provision_ref": "art133",
+      "section": "133",
+      "title": "Artículo 133",
+      "content": "Art. 133. El Director Jeneral de Sanidad gozará de un viático de veinte pesos diarios, cuando tenga que ejercer funciones fuera de Santiago.\nEl director del Instituto de Hijiene, los jefes de secciones o de oficinas, los inspectores sanitarios, el injeniero y el veterinario gozarán de un viático de quince pesos diarios cada uno; y los miembros de la Inspeccion de boticas, y los ayudantes del Instituto, de doce pesos diarios cada uno, siempre que desempeñen comisiones fuera del lugar de su residencia.\nLos vacunadores y los desinfectadores gozarán de un viático de seis pesos diarios cada uno, siempre que en el ejercicio de sus cargos pasen la noche fuera del lugar de su residencia."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- Los funcionarios de la actual organizacion sanitaria que estén prestando sus servicios a la fecha en que empiece a rejir este Código, permanecerán en su desempeño, sin necesidad de nuevas elecciones o nombramientos.\nLos que queden cesantes por supresion de sus empleos serán preferidos, en igualdad de circunstancias, en la provision de los nuevos empleos, establecidos por la presente lei."
+    }
+  ],
+  "definitions": []
+}

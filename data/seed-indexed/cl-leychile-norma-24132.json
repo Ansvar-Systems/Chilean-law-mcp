@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24132",
+  "type": "statute",
+  "title": "LEI NUM. 3,637, QUE CONCEDE FONDOS PARA LA MOVILIZACION DEL EJERCITO.",
+  "short_name": "Ley 3637",
+  "status": "in_force",
+  "issued_date": "1920-07-27",
+  "in_force_date": "1920-07-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24132",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para que invierta hasta la suma de cinco millones de pesos ($ 5.000,000) en los gastos de movilizacion, aprovisionamiento, sueldos i demas necesidades relacionadas con el servicio del Ejército.\nEl gasto se deducirá de la mayor entrada de los derechos de esportacion del salitre."
+    }
+  ],
+  "definitions": []
+}

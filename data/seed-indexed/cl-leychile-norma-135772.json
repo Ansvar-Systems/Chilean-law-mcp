@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-135772",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1975",
+  "status": "in_force",
+  "issued_date": "1907-07-31",
+  "in_force_date": "1907-08-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135772",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Los visitadores, preceptores i ayudantes de escuelas primarias tendrán los sueldos anuales que a continuacion se espresan:\nVisitadores, tres mil seiscientos pesos;\nPreceptores de primera clase, mil doscientos pesos;\nPreceptores de tercera clase, mil ochenta pesos;\nPreceptores de cuarta clase, novecientos pesos;\nAyudantes de primera clase, mil doscientos pesos;\nAyudantes de segunda clase, mil veinte pesos;\nAyudantes de tercera clase, novecientos pesos; i Ayudante de cuarta clase, setecientos veinte pesos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Los visitadores, preceptores i ayudantes de escuelas que presten sus servicios en las provincias de Tacna, Tarapacá y Antofagasta, gozarán de una gratificacion de cuarenta por ciento sobre los sueldos que le fija el artículo anterior.\nLos preceptores de escuelas que justifiquen haber servido en la instruccion pública mas de diez años, tendrán derecho a una gratificacion de veinte por ciento sobre aquellos sueldos."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Se derogan todas las leyes preexistentes sobre sueldos i gratificaciones de los visitadores, preceptores i ayudantes de escuelas de instruccion primaria, a escepcion del artículo 5º de la lei número 120, de 25 de noviembre de 1893, i del artículo 2.o de la lei número 1,325, de 10 de enero de 1900."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Esta lei principiará a rejir desde la fecha de su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

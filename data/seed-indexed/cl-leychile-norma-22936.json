@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22936",
+  "type": "statute",
+  "title": "Fija el personal i sueldos de los empleados de las;Cortes de Justicia",
+  "short_name": "Ley 1814",
+  "status": "in_force",
+  "issued_date": "1906-02-09",
+  "in_force_date": "1906-02-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22936",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Cada una de las secretarías de la Corte de Apelaciones de Santiago tendrá los siguientes empleados, con el sueldo anual que se expresa:\nUn oficial primero, con_______________________ $ 3 000\nUn oficial segundo, con_______________________ 1 800"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° El sueldo anual de los oficiales de sala de la Corte Suprema será el siguiente:\nPrimer oficial de sala__________________ $ 1 100\nSegundo oficial de sala_________________ 1 000\nTercer oficial de sala__________________ 800"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Asígnase a los oficiales de sala de las Cortes de Apelaciones de Tacna, La Serena, Valparaiso, Santiago, Talca i Concepcion, los sueldos anuales que se espresan:\nPrimer oficial de sala__________________ $ 1 000\nSegundo oficial de sala_________________ 800"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Se fija en un mil pesos ($ 1 000) el sueldo anual del empleado ausiliar de secretaría, encargado de la estadística judicial en cada una de las Cortes de La Serena i Talca."
+    }
+  ],
+  "definitions": []
+}

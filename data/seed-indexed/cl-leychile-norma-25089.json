@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-25089",
+  "type": "statute",
+  "title": "SUPLEMENTA LOS ITEM QUE SE INDICAN DEL PRESUPUESTO\nDE GUERRA VIGENTE",
+  "short_name": "Ley 5340",
+  "status": "in_force",
+  "issued_date": "1933-12-30",
+  "in_force_date": "1933-12-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25089",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Supleméntanse los siguientes ítem del Presupuesto de Guerra vigente en las cantidades que se expresan:\n09|01|01 Sueldos fijos de tropa,\ndactilógrafos contratados,\nasistentes de los casinos\ny contingente_________________ $ 22,500.-\n09|01|02|b) Por residencia en\nciertas zonas_________________ 900.-\n09|01|04|h) Gratificaciones y\npremios (indemnización por\ncambio de guarnición)_________ 30,000.-\n09|02|04|f-2) Pasajes y fletes\npor mar y ferrocarriles\nparticulares__________________ 263,771.79\n09|02|04|g) Materiales y\nartículos de consumo__________ 36,000.-\n09|02|04í-1 Rancho o\nalimentación de hombres_______ 321,568.-\n09|02|04í-2 Forraje____________ 330,000.-\n09|02|04|k) y v) Gastos\ngenerales_____________________ 28,000.-\n09|02|04|v) Varios e\nimprevistos___________________ 20,000.-\n09|02|04|w) Adquisiciones_______ 12,000.-\n______________\n$ 1.064,739.79\n______________"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Dedúzcase la cantidad de un millón sesenta y cuatro mil setecientos treinta y nueve pesos, setenta y nueve centavos, ($ 1.064,739.79), de las mayores entradas que se producirán en la Cuenta D-4-a del Cálculo de Entradas para el año en curso."
+    }
+  ],
+  "definitions": []
+}

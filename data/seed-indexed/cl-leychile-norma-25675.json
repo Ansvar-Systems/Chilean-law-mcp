@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25675",
+  "type": "statute",
+  "title": "MODIFICA EL DECRETO N.o 4,111, DE 1931, SOBRE\nDIVISION DE COMUNIDADES INDIGENAS",
+  "short_name": "Ley 7864",
+  "status": "repealed",
+  "issued_date": "1944-09-12",
+  "in_force_date": "1961-01-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25675",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Reemplázase el Art. 58 del decreto número 4,111, de 12 de Junio de 1931, sobre división de comunidades Indígenas, por el siguiente:\n\"Artículo...- Estarán exentos del pago de contribuciones fiscales o municipales los predios de comunidades Indígenas mientras permanezcan en estado de indivisión\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Condónanse las contribuciones adeudadas por los predios a que se refiere el artículo anterior desde el año 1936 hasta la fecha de la publicación de la presente ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o La presente ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

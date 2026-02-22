@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1027697",
+  "type": "statute",
+  "title": "Caja de Ahorros de Empleados Públicos.- Derechos que le concede el Fisco.",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1858-06-19",
+  "in_force_date": "1858-06-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1027697",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- El Erario Nacional cede en beneficio de la Caja de Ahorros que debe fundarse para los empleados públicos:\n1° Las multas o condenas ya sean de pena de cámara o de aquellas que los jefes de oficinas imponen a los empleados de su dependencia por faltas en el servicio;\n2° Los derechos que perciba el Fisco por medianatas;\n3° Los intereses penales de deudores morosos;\n4° Las multas por recusaciones de jueces, derechos por habilitaciones de edad i otras gracias que se llaman al sacar:\n5° Aquella parte del sueldo que los que mueren no alcanzaren a devengar en el mes de su fallecimiento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2°.- Cuando el Fisco fuese llamado por la lei a suceder abintestato en los bienes del empleado imponente, el haber que tuviere en la caja acrecerá proporcionalmente a los suscritores que hubiese a la fecha del fallecimiento."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3°.- No serán embargables por deudas de los empleados imponentes en dicha Caja la parte que les correspondiere de las erogaciones fiscales a que se refieren los artículos precedentes, ni las imposiciones que hagan anualmente, sino en la parte que excedan al cinco por ciento del sueldo correspondiente al año de la imposición.\nMuerto el empleado, dejando viuda, ascendientes i descendientes lejítimos, no serán embargables, el capital impuesto, ni la renta que produjere, sino en cuanto las imposiciones de que procedan excediesen del cinco por ciento del sueldo en cada año, debiendo el exceso de renta considerarse como sueldo i sujetarse para el embargo a lo prescrito en el Código Civil\"."
+    }
+  ],
+  "definitions": []
+}

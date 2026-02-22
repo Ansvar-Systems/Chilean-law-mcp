@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23382",
+  "type": "statute",
+  "title": "FIJA LOS COLORES DE LA BANDERA NACIONAL I DE LA BANDA PRESIDENCIAL, LA COLOCACION DE LAS FAJAS DE QUE SE COMPONEN I EL TAMAÑO DE CADA UNA DE ESTAS CON RELACION A LAS OTRAS.",
+  "short_name": "Ley 2597",
+  "status": "in_force",
+  "issued_date": "1912-01-11",
+  "in_force_date": "1912-01-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23382",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- La Bandera de la República de Chile, se compondrá de los tres colores azul turquí, blanco i rojo combinados del modo siguiente: la bandera se dividirá en dos fajas horizontales de igual anchura; la faja inferior será roja, i la faja superior será azul en su tercera parte inmediata a la vaina, i blanca en los dos tercios de su vuelo, con una estrella blanca de cinco picos en medio del cuadro azul. El diámetro de la estrella será igual a la mitad de un costado del cuadrado azul.\nLas proporciones de la bandera son: en la vaina, dos tercios de su vuelo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- La Banda Presidencial se compondrá de tres fajas horizontales de igual anchura, de las cuales serán: azul la del borde superior, blanca la del centro i roja la faja la del borde inferior."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°- Siempre que los colores nacionales se usen verticalmente, deberán ir: el azul a la izquierda, el blanco al centro, i el rojo a la derecha; i siempre que se usen horizontal o diagonalmente, ocuparán: el azul la parte superior, el blanco el centro i el rojo la parte inferior.\nLas cucardas o escarapelas tendrán: azul el centro, blanca la segunda faja i roja esterior, con una estrella de plata en el centro azul."
+    }
+  ],
+  "definitions": []
+}

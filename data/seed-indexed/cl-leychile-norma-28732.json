@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28732",
+  "type": "statute",
+  "title": "CONCEDE AMNISTIA A LAS PERSONAS QUE SEÑALA",
+  "short_name": "Ley 16975",
+  "status": "in_force",
+  "issued_date": "1968-09-28",
+  "in_force_date": "1968-10-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28732",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o- Concédese amnistía a Intendentes o Gobernadores por la denegación o el retardo en la concesión del auxilio de la fuerza pública en que hayan incurrido con ocasión del cumplimiento de órdenes de lanzamiento decretadas en juicios especiales de arrendamiento o de comodato precario de inmuebles en juicio del trabajo, o querellas posesorias.\nConcédese, asimismo, amnistía a los periodistas responsables de delitos sancionados en la ley N.o 12.927, sobre Seguridad Interior del Estado."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o- Decláranse no imputables a voluntad o culpa de los obreros y empleados las terminaciones de los contratos de trabajo producidas, con motivo de la huelga del año 1966, en los centros de trabajo de Potrerillo, El Salvador, Barquitos y Chuquicamata.\nLos favorecidos por esta disposición podrán hacer valer sus derechos a las indemnizaciones correspondientes en las Mutualidades y Fondos de Auxilio de Cesantía, en el plazo de seis meses, contado desde la fecha de publicación de la presente ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o- Derógase el inciso segundo del artículo 621 del Código de Procedimiento Penal.\"."
+    }
+  ],
+  "definitions": []
+}

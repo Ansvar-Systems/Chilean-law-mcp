@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24904",
+  "type": "statute",
+  "title": "REDUCE A UNO Y MEDIO POR MIL LA TASA DEL IMPUESTO DE ALCANTARILLADO PARA LA CIUDAD DE SANTIAGO.",
+  "short_name": "Ley 4777",
+  "status": "in_force",
+  "issued_date": "1930-01-10",
+  "in_force_date": "1930-01-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24904",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Redúcese a uno y medio por mil la tasa de dos por mil del impuesto de alcantarillado que, para la ciudad de Santiago, ha establecido y modificado sucesivamente las leyes de 19 de Febrero de 1896; N.o 1,624, de 27 de Noviembre de 1903, y la ley general de Bienes Raíces N.o 4,174, de 5 de Septiembre de 1927 (art. 24)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Establécese a beneficio municipal una contribución adicional de medio por mil sobre los bienes raíces ubicados en el radio de la Municipalidad de Santiago. Se aplicará a este impuesto las exenciones que establece el artículo 22 de la ley N.o 4,174, de 5 de Septiembre de 1927."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley empezará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-24840",
+  "type": "statute",
+  "title": "FIJA LA PLANTA Y SUELDOS DEL PERSONAL CIVIL DE LA MAESTRANZA Y PARQUE CENTRAL DE AVIACION.",
+  "short_name": "Ley 4698",
+  "status": "in_force",
+  "issued_date": "1929-11-27",
+  "in_force_date": "1929-11-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24840",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o La planta y sueldos del personal civil de la Maestranza y Parque Central de Aviación, serán los\nsiguientes:\n5 Maestros mayores con\n$ 15,000 cada uno_____ $ 75,000\n21 Maestros 1.os con\n$ 11,400 cada uno_____ 239,400\n24 Maestros 2.os con\n$ 9,600 cada uno_____ 230,400\n33 Operarios 1.os con\n$ 7,800 cada uno_____ 257,400\n21 Operarios 2.os con\n$ 6,600 cada uno_____ 138,600\n13 Operarios 3.os con\n$ 5,400 cada uno_____ 70,200\n19 Operarios 4.os con\n$ 4,500 cada uno_____ 85,500\n21 Aprendices con $ 3,300\ncada uno______________ 69,300\n2 Guardaalmacenes 2.os con\n$ 13,200 cada uno_____ 26,400\n2 Guardaalmacenes 3.os con\n$ 9,600 cada uno_____ 19,200\n3 Guardaalmacenes ayudantes\n1.os con $ 5,400_____ 16,200\n3 Guardaalmacenes ayudantes\n2.os con $ 4,500_____ 13,500\n1 Bibliotecario____________ 7,800\n2 Dibujantes 2.os con\n$ 12,000 cada uno_____ 24,000\n1 Fotógrafo________________ 9,600\n1 Ayudante de química______ 7,800\n1 Ayudante de Gabinete\nExperimental_________ 9,600\n---------\n$ 1.299,900"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o El gasto a que se refiere el artículo anterior se deducirá de la mayor entrada de Aduanas habida durante el año en curso."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio. La planta y sueldos fijados en el artículo 1.o, regirá desde el 1.o de Enero de 1929."
+    },
+    {
+      "provision_ref": "art3-final",
+      "section": "3 FINAL",
+      "title": "Artículo 3 FINAL",
+      "content": "Art. final. La presente ley empezará a regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

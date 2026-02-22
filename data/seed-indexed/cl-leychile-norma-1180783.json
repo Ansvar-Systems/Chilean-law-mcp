@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-1180783",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 21.239, PARA PRORROGAR NUEVAMENTE EL MANDATO DE LOS DIRECTORES U ÓRGANOS DE ADMINISTRACIÓN Y DIRECCIÓN DE LAS ASOCIACIONES Y ORGANIZACIONES QUE INDICA",
+  "short_name": "Ley 21487",
+  "status": "in_force",
+  "issued_date": "2022-08-31",
+  "in_force_date": "2022-09-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1180783",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.- Incorpóranse las siguientes modificaciones en el artículo único de la ley N° 21.239, que prorroga el mandato de los directores u órganos de administración y dirección de las asociaciones y organizaciones que indica, debido a la pandemia producida por el Covid-19:\n1. Sustitúyese en el inciso tercero la palabra \"nueve\" por \"quince\".\n2. Agrégase el siguiente inciso final:\n\"Dicha prórroga no será aplicable a las directivas, organismos colegiados intermedios y administrativos regulados por la ley N° 18.603, orgánica constitucional de los Partidos Políticos cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 4, de 2017, del Ministerio Secretaría General de la Presidencia.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.- Reemplázase en el inciso primero del artículo 6 bis de la ley N° 19.418, sobre juntas de vecinos y demás organizaciones comunitarias, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto N° 58, de 1997, del Ministerio del Interior, la expresión \"vigencia de treinta días\", por la frase \"vigencia de sesenta días\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- Entiéndense como regularizados los actos de administración llevados a cabo por los directorios u órganos de administración y dirección de las asociaciones y organizaciones señaladas en el artículo único de la ley N° 21.239, que prorroga el mandato de los directores u órganos de administración y dirección de las asociaciones y organizaciones que indica, debido a la pandemia producida por el Covid-19, a contar de la publicación de la presente ley, que hayan sido ejecutados entre el 1 de julio de 2022 y la antedicha publicación.\"."
+    }
+  ],
+  "definitions": []
+}

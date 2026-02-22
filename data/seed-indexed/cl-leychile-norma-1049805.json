@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1049805",
+  "type": "statute",
+  "title": "Dispone que los edificios que se construyan y terminen entre el 1.o de agosto de 1933 y el 31 de diciembre de 1935, estarán exentos hasta el 31 de diciembre de 1945, de los impuestos que gravan la propiedad raíz, con exclusión de aquellos que correspondan a pagos de servicios, aplicándose la exención exclusivamente sobre el valor de los nuevos edificios; y dispone que los sitios eriazos existentes en el radio urbano que se determinará, en las ciudades de Concepción, Santiago, Temuco, Valdivia, Valparaíso y Viña del Mar, pagarán un impuesto adicional de 5 por mil anual, a contar desde el 1.o de enero de 1935.",
+  "short_name": "Ley 5314",
+  "status": "in_force",
+  "issued_date": "1933-12-05",
+  "in_force_date": "1933-12-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1049805",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Los nuevos edificios cuya construcción se haya iniciado después del 1.o de agosto de 1933, y quede terminada antes del 31 de diciembre de 1935, estarán exentos, hasta el 31 de diciembre de 1945, de los impuestos que gravan la propiedad raíz, con exclusión de aquellos que correspondan a pagos de servicios, como pavimentación y alcantarillado."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La exención que concede el artículo anterior se aplicará exclusivamente sobre el valor de los nuevos edificios. El terreno en que éstos se construyan y los edificios existentes quedarán gravados con las contribuciones vigentes y demás que se establezcan a base del avalúo de los inmuebles."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o El Presidente de la República, previo informe favorable de la Superintendencia de Bancos, podrá autorizar a los Bancos Comerciales, a las instituciones hipotecarias y a la Caja Nacional de Ahorros, para conservar la propiedad de determinados edificios que construyan dentro del plazo indicado en el artículo 1.o."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Los terrenos eriazos existentes en un radio urbano, que determine el Reglamento, en las ciudades de Valparaíso, Santiago, Concepción, Temuco, Valdivia y Viña del Mar, pagarán un impuesto adicional de bienes raíces de 5 por mil anual, a contar desde el 1.o de enero de 1935."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta ley comenzará a regir desde la fecha de su publicación en el \"Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

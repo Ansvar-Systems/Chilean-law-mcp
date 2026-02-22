@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-136826",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 185",
+  "status": "in_force",
+  "issued_date": "1894-07-25",
+  "in_force_date": "1894-07-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136826",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para que, además de la suma de ciento cincuenta mil pesos ($ 150,000) concedida por ley número 97, de 2 de Septiembre de 1893, para organizar una Exposición de Minería y Metalurgia, invierta en el mismo objeto la suma de doscientos veintiocho mil quinientos noventa y un pesos sesenta y nueve centavos ($ 228,591.69) y las entradas calculadas de dicha Exposición que se estiman en treinta mil pesos ($ 30,000.)"
+    }
+  ],
+  "definitions": []
+}

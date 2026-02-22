@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-24784",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA SUSPENDER EN LAS COMUNAS-SUBDELEGACIONES EN QUE LO ESTIME NECESARIO, DURANTE LAS INSCRIPCIONES ELECTORALES QUE SE VERIFIQUEN DURANTE EL PRESENTE AÑO, LA LIMITACION EN EL NUMERO DE CUADERNOS REGISTROS",
+  "short_name": "Ley 4626",
+  "status": "in_force",
+  "issued_date": "1929-07-31",
+  "in_force_date": "1929-08-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24784",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para suspender, en las comunas-subdelegaciones en que lo estime necesario, y durante las inscripciones electorales que se verifiquen en el presente año, la limitación en el número de cuadernos registros que deben ser enviados a cada circunscripción electoral, a que se refiere el artículo 18 de la ley número 4,554."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Autorízase al Presidente de la República para constituir, en el período ordinario de inscripción permanente electoral del presente año, Juntas Inscriptoras Especiales en aquellas subdelegaciones en que se haya notado extrema afluencia de ciudadanos que soliciten su inscripción ante las Juntas Inscriptoras y en aquellas que tengan grandes centros de población apartados de la cabecera del departamento.\nEstas Juntas tendrán, según el lugar donde se instalen, el personal que se indica en los artículos 67 y 68 de la ley número 4,554, de 12 de Febrero de 1929, y funcionarán en el local que designe el Presidente de la República."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

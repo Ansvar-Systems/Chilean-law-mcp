@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23540",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA QUE DESIGNE UNA JUNTA DE TRES ALCALDES A CADA UNO DE LOS TERRITORIOS MUNICIPALES DE CURACAUTIN I GALVARINO PARA QUE FIJE LA FECHA EN QUE DEBEN INICIARSE LOS PROCEDIMIENTOS RELATIVOS A LA FORMACION DE REJISTROS ELECTORALES I FACULTA A LA JUNTA DE ALCALDES DE NUEVA IMPERIAL PARA QUE HAGA LAS INSCRIPCIONES RESPECTIVAS.",
+  "short_name": "Ley 2848",
+  "status": "in_force",
+  "issued_date": "1914-01-26",
+  "in_force_date": "1914-02-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23540",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "Artículo primero - Autorízase al Presidente de la República para designar una Junta de tres Alcaldes para cada uno de los territorios municipales de Curacautin i Galvarino."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.°- Quince dias despues de nombradas las Juntas de Alcaldes a que esta lei se refiere, el Presidente de la República fijará la fecha para que se inicien los procedimientos determinados por la lei de 20 de Agosto de 1890 para la formacion de los Rejistros Electorales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.°- Se autoriza a la Junta de Alcaldes de Nueva Imperial para que en conformidad a la lei electoral vijente, proceda a hacer las inscripciones respectivas."
+    }
+  ],
+  "definitions": []
+}

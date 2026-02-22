@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23209",
+  "type": "statute",
+  "title": "LEY NÚM. 2.224, QUE APLICA A UNA PARTE DE LA POBLACIÓN DE VIÑA DEL MAR LA LEI SOBRE PAVIMENTACIÓN DE II DE JUNIO DE 1901",
+  "short_name": "Ley 2224",
+  "status": "in_force",
+  "issued_date": "1909-11-22",
+  "in_force_date": "1909-11-29",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23209",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. La lei sobre pavimentacion de 11 de Junio de 1901 se aplicará a la poblacion de Viña del Mar dentro de los siguientes límites: Norte, Avenida 8 Norte de Poblacion Vergara entre las calles 2 Poniente i Quillota; por el Sur de la calle de Alvarez entre la estacion Chorrillos i la calle Agua Santa de Miramar; por el Oriente, la estacion Chorrillos i la calle Quillota de la Poblacion Vergara, entre el estero i la Avenida 8 Norte; por el Poniente las calles Agua Santa i Cerro, hasta el estero, i la 2 Poniente de la Poblacion Vergara entre el estero i la Avenida 8 Norte de la misma poblacion.\nTodas las calles nombradas se considerarán dentro de la subdelegacion 24 del departamento de Valparaiso."
+    }
+  ],
+  "definitions": []
+}

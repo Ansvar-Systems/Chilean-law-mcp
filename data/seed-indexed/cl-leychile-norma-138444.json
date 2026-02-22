@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-138444",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2937",
+  "status": "in_force",
+  "issued_date": "1914-09-12",
+  "in_force_date": "1914-09-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138444",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Se autoriza al Presidente de la República para invertir hasta la cantidad de un millon ochocientos mil pesos ($ 1.800,000) en la construccion i reparacion de caminos, de puentes i alcantarillas que en ellos sean necesarios, dándose preferencia a los caminos de acceso a las estaciones de los Ferrocarriles del Estado i a aquellos cuyos vecinos contribuyan con el treinta i tres por ciento de su costo.\nEstas sumas se distribuirán en la forma siguiente:\nAtacama $ 60,000\nCoquimbo 90,000\nAconcagua 90,000\nUspallata 50,000\nValparaiso 120,000\nSantiago 200,000\nO'Higgins 70,000\nColchagua 100,000\nCuricó 80,000\nTalca 90,000\nLinares 65,000\nMaule 65,000\nÑuble 80,000\nConcepcion 90,000\nBio Bio 70,000\nArauco 60,000\nMalleco 70,000\nLonquimai 30,000\nCautin 90,000\nValdivia 80,000\nLlanquihue 80,000\nChiloé 70,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Se autoriza igualmente al Presidente de la República para invertir hasta la suma de doscientos mil pesos ($ 200,000) en obras de defensas de ciudades i pueblos contra inundaciones."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º Las cantidades a que ascienden las autorizaciones anteriores se deducirán de los fondos devueltos al Estado de pagos hechos para la construccion de naves de guerra, i serán reintegrados a los empréstitos de que proceden, con el recargo adicional de los derechos de aduana establecidos por las leyes números 2,641, de 12 de febrero de 1912, i 2,778, de 13 de julio de 1913, el cual se seguirá cobrando por el tiempo necesario hasta efectuar dicho reintegro."
+    }
+  ],
+  "definitions": []
+}

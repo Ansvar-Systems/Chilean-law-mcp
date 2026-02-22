@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23078",
+  "type": "statute",
+  "title": "LEI NUM. 2,030 QUE AUTORIZA LA INVERSION DE $ 25,000 PARA GASTOS IMPREVISTOS DE LAS LEGACIONES I CONSULADOS.",
+  "short_name": "Ley 2030",
+  "status": "in_force",
+  "issued_date": "1907-09-10",
+  "in_force_date": "1907-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23078",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para invertir, en lo que resta del año, hasta la cantidad de veinticinco mil pesos oro de dieciocho peniques, destinados a cubrir los gastos imprevistos que se presenten en el servicio de las Legaciones i Consulados de la República."
+    }
+  ],
+  "definitions": []
+}

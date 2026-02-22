@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24126",
+  "type": "statute",
+  "title": "LEI NUM. 3,630, QUE AUTORIZA EL PAGO DE GRATIFICACIONES DE ALOJAMIENTO DEVENGADAS POR EL PERSONAL DE INSTRUCCIÓN PRIMARIA DEL EJERCITO.",
+  "short_name": "Ley 3630",
+  "status": "in_force",
+  "issued_date": "1920-07-16",
+  "in_force_date": "1920-07-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24126",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de treinta i cuatro mil pesos ($ 34,000) en pagar al personal de Instruccion Primaria del Ejército las gratificaciones de alojamiento de que quedó insoluto en el año próximo pasado por la insuficiencia del ítem 131 del Presupuesto de Guerra del mismo año."
+    }
+  ],
+  "definitions": []
+}

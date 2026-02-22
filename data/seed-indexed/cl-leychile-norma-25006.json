@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25006",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5027",
+  "status": "in_force",
+  "issued_date": "1931-01-31",
+  "in_force_date": "1932-01-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25006",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Redúcese en la suma de cien mil pesos ($ 100,000) el ítem E-1402-b) del Presupuesto Extraordinario para 1931, que consulta fondos para la construcción de un edificio para el Ministerio de Hacienda y sus dependencias."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Destínanse los cien mil pesos ($ 100,000) a que se refiere el artículo anterior, a la ejecución de las obras de mejoramiento del Parque Forestal y su prolongación hacia el Oriente, para cuyo objeto establécese el siguiente ítem, a continuación del rubro E-1603 del citado Presupuesto:\n\"E-1604.- Para el mejoramiento del\nParque Forestal de Santiago y su\nprolongación hacia el Oriente_________ $ 100,000\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o Esta ley regirá desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24384",
+  "type": "statute",
+  "title": "Lei núm. 3,989, que destina $ 300,000 para los;gastos de la defensa de Chile en el arbitraje con el;Perú",
+  "short_name": "Ley 3989",
+  "status": "in_force",
+  "issued_date": "1923-10-19",
+  "in_force_date": "1923-10-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24384",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de trescientos mil pesos ($ 300,000) moneda nacional de oro, en gastos que demande la defensa de los derechos de Chile en el arbitraje pactado el 20 de julio de 1922 con el Gobierno del Perú, para el arreglo de las dificultades provenientes de las cláusulas no cumplidas del Tratado de Ancon."
+    }
+  ],
+  "definitions": []
+}

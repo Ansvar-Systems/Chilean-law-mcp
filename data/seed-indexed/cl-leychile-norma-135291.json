@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135291",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1645",
+  "status": "in_force",
+  "issued_date": "1904-02-19",
+  "in_force_date": "1904-02-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135291",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declaran de utilidad pública los terrenos que, segun los planos formados al efecto i aprobados por el Presidente de la República, sean necesarios para la construccion de los ferrocarriles de Melipilla a Puangue i de Alcones al túnel del Arbol, inclusive."
+    }
+  ],
+  "definitions": []
+}

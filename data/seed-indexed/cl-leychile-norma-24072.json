@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24072",
+  "type": "statute",
+  "title": "LEI NUM. 3,563, QUE CONCEDE FONDOS PARA EL TRASLADO DE CALDERA A TACNA, DEL BATALLON ZAPADORES.",
+  "short_name": "Ley 3563",
+  "status": "in_force",
+  "issued_date": "1919-11-29",
+  "in_force_date": "1919-12-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24072",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la cantidad de cuatro mil pesos ($ 4,000) en el embalaje del Batallon Zapadores N.° 1, que se traslada de Caldera a Tacna.\nEl gasto se deducirá del ítem 53 del Presupuesto de Guerra vijente, rebajándose de esta cantidad la suma consultada."
+    }
+  ],
+  "definitions": []
+}

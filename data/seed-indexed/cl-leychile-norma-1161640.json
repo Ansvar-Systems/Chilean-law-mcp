@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-1161640",
+  "type": "statute",
+  "title": "MINERALES.",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1832-10-04",
+  "in_force_date": "1832-10-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1161640",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.° Se autoriza al Ejecutivo de la República para que habilite las radas, caletas o desembarcaderos, situados en la inmediacion de los puertos de Valparaíso y Talcahuano, con el exclusivo objeto de intentar por ellos toda clase de mineral del pais."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.° Tanto en las caletas, o desembarcaderos que se habiliten, como en los puertos mayores de la República, sera permitida en buque nacional, y libre de todo derecho, la internacion de cualquiera clase de mineral procedente de las minas del pais."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.° Gozarán de la misma libertad de derechos los minerales procedentes del extranjero que se internen en buques nacionales por los puertos mayores de la República."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "4.° El Gobierno dictará las reglas que considere necesarias para evitar el contrabando segun la naturaleza de los casos."
+    }
+  ],
+  "definitions": []
+}

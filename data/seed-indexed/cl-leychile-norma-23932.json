@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23932",
+  "type": "statute",
+  "title": "LEI NUM. 3.375, QUE CONCEDE DERECHO A JUBILAR A DON RAFAEL EGAÑA.",
+  "short_name": "Ley 3375",
+  "status": "in_force",
+  "issued_date": "1918-05-10",
+  "in_force_date": "1918-05-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23932",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Concédese por gracia, al Jefe de la Redaccion de Sesiones del Senado, don Rafael Egaña, el derecho de jubilar con una pension equivalente a las veinticinco cuarentavas partes del sueldo asignado al empleo que actualmente desempeña."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-29798",
+  "type": "statute",
+  "title": "MODIFICA ARTICULOS 3°, 18, 44, N° 4 Y TRANSITORIO DE\nLA LEY N° 18.287",
+  "short_name": "Ley 18383",
+  "status": "in_force",
+  "issued_date": "1984-12-28",
+  "in_force_date": "1985-01-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29798",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Introdúcense las siguientes modificaciones a la ley N° 18.287:\na) Reemplázase en el inciso segundo del artículo 3° la expresión \"haya registrado en la Municipalidad\" por \"tenga anotado en el Registro de Vehículos Motorizados\";\nb) Sustitúyese el inciso primero del artículo 18 por el siguiente:\n\"Las resoluciones se notificarán por carta certificada, la que deberá contener copia íntegra de aquéllas, salvo las que impongan multas superiores a una y media unidad tributaria mensual, que cancelen o suspendan las licencias para conducir, o que regulen daños y perjuicios, las que deberán notificarse personalmente o por cédula\";\nc) Sustitúyese el artículo 44 N° 4, que sustituyó a su vez el artículo 55, de la ley N° 15.231 por el siguiente:\n\"Las multas que los Juzgados de Policía Local impongan serán a beneficio municipal, no estarán afectas a recargo legal alguno y un dieciocho por ciento de ellas se destinará al Servicio Nacional de Menores para la asistencia y protección del niño vago y del menor en situación irregular. Las Municipalidades deberán poner a disposición del Servicio Nacional de Menores a lo menos quincenalmente estos recursos\", d) Sustitúyese el artículo transitorio por el siguiente:\n\"Artículo transitorio.- Las inscripciones del dominio de los vehículos motorizados, las medidas precautorias, las prohibiciones y cualquier otra limitación de su dominio que estuvieren inscritas a la vigencia de esta ley, en el Registro de Vehículos Motorizados, de acuerdo con las normas del Título IV de la ley N° 15.231, no serán afectadas por la derogación de dicho Título IV, mientras no se practiquen las nuevas inscripciones en el Registro de Vehículos Motorizados a que se refiere el Título III de la ley N° 18.290.\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- Esta ley regirá a contar del 1° de enero de 1985."
+    }
+  ],
+  "definitions": []
+}

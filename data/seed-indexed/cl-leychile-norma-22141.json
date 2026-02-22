@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22141",
+  "type": "statute",
+  "title": "PENSION",
+  "short_name": "Ley 288",
+  "status": "in_force",
+  "issued_date": "1895-07-19",
+  "in_force_date": "1895-07-22",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22141",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese, por gracia, a doña Clotilde Garrido, viuda del piloto primero de la Armada don Ramon Osorio, la pension de montepío que corresponde al empleo de teniente primero de Marina."
+    }
+  ],
+  "definitions": []
+}

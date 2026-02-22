@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-23963",
+  "type": "statute",
+  "title": "LEI NÚM. 3,425, QUE MODIFICA LOS LÍMITES DE LAS COMUNAS DE ÑUÑOA I SAN MIGUEL, DEL DEPARTAMENTO DE SANTIAGO.",
+  "short_name": "Ley 3425",
+  "status": "in_force",
+  "issued_date": "1918-11-13",
+  "in_force_date": "1918-11-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23963",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° El distrito N.° 1 de la 6.a subdelegacion rural Santa Rosa, del departamento de Santiago, con escepcion de la \"Chacra Santa María\", de propiedad del señor Miguel Zañartu, formará parte de la Comuna de Ñuñoa, con la denominacion de distrito N.° 5 \"Lo Valdivieso\" de la 4.a subdelegacion rural \"Ñuñoa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Segrégase el territorio que comprende los fundos del Arzobispado i de doña Dolores Gandarillas, del distrito N.° 3 \"Macul\" de la 4.a subdelegacion de Ñuñoa, i anéxase al N.° 2 \"Chacarillas\" de la 6.a subdelegacion rural Santa Rosa, comuna de San Miguel."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículo transitorio.- Ambas Municipalidades, sin perjuicio de ejercer desde luego su jurisdiccion en los territorios anexados, seguirán percibiendo durante el presente año la contribucion de haberes de los sectores que por la presente lei se les segregan."
+    }
+  ],
+  "definitions": []
+}

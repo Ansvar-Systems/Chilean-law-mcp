@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27688",
+  "type": "statute",
+  "title": "AUTORIZA A LA MUNICIPALIDAD DE PINTO, DEPARTAMENTO\nDE CHILLAN PARA TRANSFERIR GRATUITAMENTE AL FISCO EL\nTERRENO QUE SEÑALA",
+  "short_name": "Ley 14114",
+  "status": "in_force",
+  "issued_date": "1960-09-29",
+  "in_force_date": "1960-10-11",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27688",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Autorízase a la Municipalidad de Pinto, departamento de Chillán, para transferir gratuitamente al Fisco un terreno de su propiedad, ubicado en la comuna de Pinto, calle Vicuña Mackenna s/n., de una superficie de 1.000 metros cuadrados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° La Dirección General de Carabineros destinará el predio a que se refiere el artículo anterior a la construcción de un Retén de Carabineros en la mencionada comuna."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° Si la Dirección General de Carabineros no construyere el Retén en el plazo de cinco años, el terreno volverá al dominio de la Municipalidad de Pinto.\""
+    }
+  ],
+  "definitions": []
+}

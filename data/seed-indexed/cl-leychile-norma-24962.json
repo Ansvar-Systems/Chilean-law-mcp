@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24962",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4898",
+  "status": "in_force",
+  "issued_date": "1930-09-26",
+  "in_force_date": "1930-10-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24962",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Para determinar la antigüedad a que que se refiere el artículo 6.o del decreto con fuerza de ley número 3,390, expedido por el Ministerio de Justicia con fecha 29 de Diciembre de 1927, de aquellos funcionarios que cesaron en el desempeño de sus cargos en virtud del decreto supremo número 426, dictado por el Ministerio mencionado el 28 de Febrero de 1927 y que posteriormente hubieren sido reincorporados a la Administración de Justicia, se computarán los servicios que hubieren prestado como Promotores Fiscales, siempre que estos cargos puedan equipararse a la misma categoría de los cargos judiciales en los cuales han sido reincorporados. Para esta equiparación se considerará al que fué Promotor Fiscal como Juez de Letras de Mayor Cuantía de la localidad respectiva."
+    }
+  ],
+  "definitions": []
+}

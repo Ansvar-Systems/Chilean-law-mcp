@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28250",
+  "type": "statute",
+  "title": "MODIFICA EL ARTICULO 2° DE LA LEY 15.139, DE 28 DE\nENERO DE 1963, QUE AUTORIZO AL PRESIDENTE DE LA\nREPUBLICA PARA LIBERAR DE TODO DERECHO, IMPUESTO O\nCONTRIBUCION LA INTERNACION DE LAS ESPECIES DESTINADAS A\nSERVIR LAS NECESIDADES DE LAS INSTITUCIONES\nEDUCACIONALES QUE NO PERSIGAN FINES DE LUCRO Y A LAS DE\nBENEFICENCIA CUANDO ASI LO SOLICITAREN FUNDADAMENTE AL\nMINISTERIO DE HACIENDA; AUTORIZA AL BANCO DEL ESTADO DE\nCHILE PARA CONCEDER, EN LAS CONDICIONES QUE INDICA, UN\nPRESTAMO A LA INMOBILIARIA ESTADIO COLO-COLO SOCIEDAD\nANONIMA",
+  "short_name": "Ley 15674",
+  "status": "in_force",
+  "issued_date": "1964-08-24",
+  "in_force_date": "1964-09-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1° Introdúcense las siguientes modificaciones al artículo 2° de la ley 15.139, de 28 de enero de 1963:\n1° Intercálase en su inciso 1°, entre las palabras \"instituciones\" y \"educacionales\", la siguiente frase:\n\"deportivas afiliadas al Consejo Nacional de Deportes\";\n2° Agrégase como inciso 3°, nuevo, el siguiente:\n\"Libérase del depósito previo de importación a las mercaderías que representen un valor de hasta US$ 50.000 al año, que internen, de conformidad a este artículo, las instituciones deportivas, y\n3° Sustitúyense en el penúltimo inciso, modificado por la ley 15.596, de 30 de junio de 1964, las palabras finales \"la presente ley\" por \"el respectivo decreto\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° El Presidente de la República deberá refundir, en un solo texto con numeración de ley, el artículo 2° de la ley 15.139 y las disposiciones que lo modifican contenidas en el artículo 7° de la ley 15.596, de 30 de junio de 1964, y en la presente ley.\nAsimismo deberá dictar un reglamento de esta ley, dentro de los noventa días siguientes a su publicación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° Autorízase al Banco del Estado de Chile para conceder un préstamo a la Inmobiliaria Estadio Colo-Colo Sociedad Anónima de hasta E° 1.500.000, al 12% de interés anual y con una amortización que extinga la deuda en el plazo máximo de ocho años, sin que rijan para estos efectos las disposiciones restrictivas de su ley orgánica y reglamento\"."
+    }
+  ],
+  "definitions": []
+}

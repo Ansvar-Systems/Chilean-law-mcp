@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134795",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1361",
+  "status": "in_force",
+  "issued_date": "1900-09-21",
+  "in_force_date": "1900-09-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134795",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- En atencion a los servicios prestados al pais por don Julio Bañados Espinosa se concede a su viuda e hijas una pension de dos mil cuatrocientos pesos anuales, de la que gozarán con arreglo a la lei de montepío militar."
+    }
+  ],
+  "definitions": []
+}

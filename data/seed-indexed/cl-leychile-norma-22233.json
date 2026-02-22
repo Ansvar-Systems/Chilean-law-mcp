@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22233",
+  "type": "statute",
+  "title": "Suplementos",
+  "short_name": "Ley 384",
+  "status": "in_force",
+  "issued_date": "1896-09-14",
+  "in_force_date": "1896-09-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22233",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Concédese un suplemento de cuarenta mil pesos al ítem 1.° de la partida 38, i de cincuenta mil pesos a la partida 42 del presupuesto de Guerra."
+    }
+  ],
+  "definitions": []
+}

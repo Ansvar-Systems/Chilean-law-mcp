@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22496",
+  "type": "statute",
+  "title": "Tesorero fiscal de Magallanes",
+  "short_name": "Ley 1242",
+  "status": "in_force",
+  "issued_date": "1899-08-03",
+  "in_force_date": "1899-08-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22496",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Fíjase en tres mil pesos anuales, a contar desde el 1.° de junio del presente año, el sueldo del tesorero fiscal de Magallanes, el cual tendrá a su cargo la contabilidad especial de los terrenos de colonizacion."
+    }
+  ],
+  "definitions": []
+}

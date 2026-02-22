@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24341",
+  "type": "statute",
+  "title": "LEI NÚM. 3,910, QUE CONCEDE FONDOS PARA GASTOS DEL CONGRESO NACIONAL",
+  "short_name": "Ley 3910",
+  "status": "in_force",
+  "issued_date": "1923-01-14",
+  "in_force_date": "1923-02-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24341",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Autorízase la inversion de las cantidades que en seguida se detallan en los objetos que se espresan a continuacion:\nCiento treinta i cinco mil ciento cuarenta pesos sesenta centavos ($ 135,140.60) en el pago de la cantidad adeudada por la Secretaría del Senado en fecha 31 de Diciembre de 1921.\nTreinta i cinco mil pesos ($ 35,000) en la publicacion en la prensa de las sesiones de la Cámara de Senadores i el saldo que hubiere quedado sobrante del ítem correspondiente del Presupuesto del Ministerio del Interior, en 31 de Julio de 1922.\nDoscientos diez mil pesos ($ 210,000) en gastos jenerales, servicios del comedor i demas que corren a cargo de la Secretaría de la Cámara de Diputados.\nVeintidos mil pesos ($ 22,000) en el pago de servidumbre de la misma Cámara, i veinte mil pesos ($ 20,000) en la publicacion en la prensa de las sesiones de la Cámara de Diputados i el saldo que hubiere quedado sobrante del ítem correspondiente del Presupuesto del Ministerio del Interior, en 31 de Julio de 1922."
+    }
+  ],
+  "definitions": []
+}

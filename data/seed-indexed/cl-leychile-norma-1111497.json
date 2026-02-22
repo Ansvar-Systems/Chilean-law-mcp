@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-1111497",
+  "type": "statute",
+  "title": "POSTERGA LA ENTRADA EN VIGENCIA DE LA NUEVA ESTRUCTURA CURRICULAR ESTABLECIDA EN LA LEY N° 20.370",
+  "short_name": "Ley 21049",
+  "status": "in_force",
+  "issued_date": "2017-11-21",
+  "in_force_date": "2017-11-30",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1111497",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en la ley N° 20.370, que establece la Ley General de Educación, cuyo texto refundido, coordinado y sistematizado fue fijado mediante el decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación:\n1. Intercálase en el artículo 31 el siguiente inciso segundo, nuevo, pasando los incisos que le siguen a reordenarse correlativamente:\n\"Las bases curriculares tendrán una vigencia mínima de seis años. Sus modificaciones y actualizaciones deberán incorporar, a lo menos, procesos de diagnóstico, consulta, evaluación y retroalimentación. Con todo, en casos fundados, podrán introducirse actualizaciones o ajustes a asignaturas, o a especialidades de la modalidad técnico-profesional, en un período inferior al señalado anteriormente.\".\n2. Reemplázase, en el artículo 8° transitorio, la frase \"que se inicie ocho años después de la entrada en vigencia de la ley N° 20.370\" por la expresión \"2026\".\n3. Incorpórase el siguiente artículo 11 transitorio:\n\"Artículo 11.- Lo dispuesto en el inciso segundo del artículo 31 de esta ley entrará en vigencia al inicio del año escolar 2026.\"."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "PRIMERO Transitorio",
+      "title": "Artículo PRIMERO Transitorio",
+      "content": "Artículo primero.- Corresponderá al Ministerio de Educación desarrollar acciones destinadas a facilitar la incorporación de los establecimientos educacionales en la nueva estructura curricular establecida en el artículo 25 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, incluyendo programas de formación para la especialización de profesores de educación general básica que imparten los cursos de 7° y 8° básico.\nAsimismo, entregará a los sostenedores orientaciones e información acerca de las modificaciones curriculares y las adecuaciones a la normativa educacional, que permitan la adaptación de los establecimientos educacionales al señalado régimen curricular; acciones de fomento a la formación inicial de docentes especialistas, y la incorporación de las modificaciones curriculares que se efectúen a los antecedentes considerados para la elaboración de los estándares sobre formación inicial docente, establecidos en el numeral i. del artículo 27 ter de la ley N° 20.129."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "SEGUNDO Transitorio",
+      "title": "Artículo SEGUNDO Transitorio",
+      "content": "Artículo segundo.- A partir del mes de marzo de 2018, el Ministerio de Educación informará anualmente a la Comisión de Educación de la Cámara de Diputados y a la Comisión de Educación y Cultura del Senado de las medidas implementadas para dar cumplimiento a lo dispuesto en el artículo 25 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación.\"."
+    }
+  ],
+  "definitions": []
+}

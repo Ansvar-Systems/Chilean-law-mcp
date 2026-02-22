@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24494",
+  "type": "statute",
+  "title": "Autoriza a Escuela Militar para salir del país y\nconcede fondos con este objeto",
+  "short_name": "Ley 4129",
+  "status": "in_force",
+  "issued_date": "1927-07-06",
+  "in_force_date": "1927-07-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24494",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Permítese a la Escuela Militar que salga del territorio nacional, a fin de que concurra a las fiestas que tendrán lugar el 9 de Julio próximo en Buenos Aires, con motivo de la inauguración del monumento a Bartolomé Mitre, y permanezca ausente del país hasta quince días.\nLa Escuela irá compuesta de 20 oficiales, 200 cadetes y 48 músicos e individuos de tropa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Autorízase, asimismo, al Presidente de la República para invertir hasta la cantidad de cincuenta mil pesos, en los gastos que origine el viaje de la Escuela Militar a Buenos Aires. Este gasto se financiará con los fondos reintegrados a arcas fiscales en cumplimiento de la ley número 4,122, de 9 de Junio último."
+    }
+  ],
+  "definitions": []
+}

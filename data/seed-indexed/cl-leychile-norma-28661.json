@@ -1,0 +1,30 @@
+{
+  "id": "cl-leychile-norma-28661",
+  "type": "statute",
+  "title": "AUTORIZA A LA MUNICIPALIDAD DE IQUIQUE PARA\nEXPROPIAR TERRENOS DE DIVERSAS POBLACIONES Y\nTRANSFERIRLOS A SUS ACTUALES OCUPANTES",
+  "short_name": "Ley 16775",
+  "status": "in_force",
+  "in_force_date": "1968-04-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28661",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Para los efectos previstos en esta ley, declárance de utilidad pública los terrenos en que se levantan las poblaciones José Miguel Carrera, Aeropuerto, Arturo Prat, O'Higgins y Pasaje Chorrillos, de la comuna de Iquique."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Autorízase a la Municipalidad de Iquique para expropiar los terrenos a que se refiere el artículo 1° de la presente ley, y para transferirlos posteriormente a sus actuales ocupantes\nLos terrenos indicados en el inciso anterior serán adquiridos por dichos ocupantes y el precio que se fije se pagará en sesenta mensualidades.\nPara determinar el monto de la indemnización que corresponde al expropiado, no se tomará en cuenta el mayor valor que pudiere tener el predio expropiado, con motivo de las obras de urbanización ejecutadas, o de las mejoras o construcciones que existan en el inmueble, salvo que el expropiado acredite que tales obras han sido costeadas por él."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Para que los notarios y el Conservador de Bienes Raíces de Iquique autoricen e inscriban las escrituras que transfieran el dominio de sitios a sus actuales ocupantes, en las poblaciones a que se refiere esta ley, bastará la aprobación del plano de loteo correspondiente por la Municipalidad de Iquique. La Municipalidad aprobará, a su vez, los planos de loteos respectivos previo informe favorable de la Dirección de Planificación del Desarrollo Urbano del Ministerio de la Vivienda y Urbanismo, la que determinará los requisitos mínimos de urbanización de las poblaciones a que quedarán obligados los adquirentes."
+    }
+  ],
+  "definitions": []
+}

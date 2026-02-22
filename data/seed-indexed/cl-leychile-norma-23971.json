@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23971",
+  "type": "statute",
+  "title": "LEI NUM. 3,439, QUE CONCEDE FONDOS PARA CUBRIR LOS GASTOS ORIJINADOS EN LAS ULTIMAS ELECCIONES.",
+  "short_name": "Ley 3439",
+  "status": "in_force",
+  "issued_date": "1918-11-25",
+  "in_force_date": "1918-11-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23971",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de sesenta i cinco mil trescientos sesenta i siete pesos ($ 65,367) en el pago de todos los gastos orijinados con motivo de las últimas elecciones jenerales de Senadores i Diputados i de Municipales.\nEsta suma se deducirá de la mayor entrada, en el año 1918, por derechos de internacion i almacenaje."
+    }
+  ],
+  "definitions": []
+}

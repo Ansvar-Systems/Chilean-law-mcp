@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134134",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 984",
+  "status": "in_force",
+  "issued_date": "1897-12-31",
+  "in_force_date": "1898-01-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134134",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase a la Municipalidad de Valparaiso para que crée en el Matadero de esa ciudad un Juzgado especial para conocer de todas las cuestiones que se susciten provinientes de obligaciones que nazcan en dicho establecimiento o que deban cumplirse en él, siempre que las cuantías de dichas cuestiones no excedan de trescientos pesos.\nEste Juzgado quedará en todo sometido a las prescripciones de la lei número 188, de 9 de agosto de 1894, que creó el Juzgado del Matadero de Santiago.\nSe dará cumplimiento a esta lei una vez que la Municipalidad de Valparaiso destine los fondos necesarios para ello."
+    }
+  ],
+  "definitions": []
+}

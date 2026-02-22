@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1137893",
+  "type": "statute",
+  "title": "FACULTA AL PRESIDENTE DE LA REPÚBLICA PARA DEJAR SIN EFECTO O LIMITAR UN ALZA DE TARIFAS EN EL TRANSPORTE PÚBLICO DE PASAJEROS, EN LAS CONDICIONES QUE INDICA",
+  "short_name": "Ley 21184",
+  "status": "in_force",
+  "issued_date": "2019-10-21",
+  "in_force_date": "2019-10-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1137893",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\" Artículo único.- Mientras esté vigente el subsidio a que se refiere el Artículo Tercero Transitorio de la ley Nº 20.378, el Presidente de la República estará facultado para dejar sin efecto o limitar un aumento de tarifas dispuesto por el Panel de Expertos de dicha ley, mediante decreto supremo fundado expedido por el Ministerio de Transportes y Telecomunicaciones, el que además será suscrito por el Ministro de Hacienda. Dicho decreto deberá considerar el incremento en los recursos que permitan mantener el equilibrio financiero del sistema de transporte público remunerado de pasajeros de la Provincia de Santiago y de las comunas de San Bernardo y Puente Alto, o compensar el valor real de la tarifa."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- El mayor gasto fiscal que represente la aplicación de esta ley se financiará con los recursos de la partida presupuestaria del Ministerio de Transportes y Telecomunicaciones y los recursos que faltarán serán aportados desde la Partida Presupuestaria del Tesoro Público.\"."
+    }
+  ],
+  "definitions": []
+}

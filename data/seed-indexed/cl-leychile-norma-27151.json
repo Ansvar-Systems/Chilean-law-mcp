@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-27151",
+  "type": "statute",
+  "title": "AUTORIZA AL PRESIDENTE DE LA REPUBLICA PARA EXPROPIAR EL INMUEBLE QUE INDICA, UBICADO EN LA CIUDAD DE SANTIAGO, CON EL FIN DE DESTINARLO AL DEPARTAMENTO DE DEPORTES DEL ESTADO PARA COMPLETAR LA CONSTRUCCION DEL ESTADIO CHILE.",
+  "short_name": "Ley 12516",
+  "status": "in_force",
+  "issued_date": "1957-08-29",
+  "in_force_date": "1957-09-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27151",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1° Declárase de utilidad pública el inmueble ubicado en calle Unión Americana número 53 y 55, de esta ciudad, perteneciente a la Sucesión de don José Francisco Fernández Michard, inscrito a fojas 6.591, N° 11.452, del Registro de Propiedad correspondiente al año 1936 del Conservador de Bienes Raíces de Santiago y autorízase al Presidente de la República para que proceda a su expropiación. Sus deslindes son: al norte, con propiedad de don Celedonio Pérez Espinoza; al sur, Cuerpo de Bomberos de Santiago; al oriente, calle Unión Americana, y al poniente, Estadio Chile."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Los predios cuya expropiación se autoriza en el artículo anterior se destinarán al Ministerio de Defensa Nacional, Departamento de Deportes del Estado, para completar la construcción del Estadio \"Chile\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° El gasto que demande la presente ley se imputará a los fondos que la Ley de Presupuesto de la Nación ponga a disposición del Departamento de Deportes del Estado para estos fines."
+    }
+  ],
+  "definitions": []
+}

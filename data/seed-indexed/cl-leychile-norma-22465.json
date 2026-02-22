@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-22465",
+  "type": "statute",
+  "title": "Enfermedades infecciosas",
+  "short_name": "Ley 1197",
+  "status": "in_force",
+  "issued_date": "1899-02-07",
+  "in_force_date": "1899-02-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22465",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Todo médico que asista a un enfermo atacado de enfermedad infecciosa estará obligado a dar parte de ella al Consejo de Hijiene de la localidad, i en caso de no haber Consejo de Hijiene, a la Municipalidad respectiva.\nEsta declaracion, que debe ser hecha por escrito, señalará la enfermedad, número de personas afectadas de ella i lugar de su residencia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Obligan a la declaracion las siguientes enfermedades:\na) Cólera mórbus, b) fiebre amarilla, c) peste bub\"nica, d) difteria, e) viruela, f) tífus, g) escarlatina i h) lepra."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° El Presidente de la República, a propuesta del Consejo Superior de Hijiene Pública, dictará los reglamentos que fueren menester para dar cumplimiento a esta lei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.° Toda contravencion a esta lei será penada con una multa de diez a cincuenta pesos."
+    }
+  ],
+  "definitions": []
+}

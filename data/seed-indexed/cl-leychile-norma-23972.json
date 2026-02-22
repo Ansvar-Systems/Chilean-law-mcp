@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23972",
+  "type": "statute",
+  "title": "LEI NUM. 3,441, QUE CONCEDE UNA SUBVENCION AL HOSPITAL DE DOÑIGÜE.",
+  "short_name": "Ley 3441",
+  "status": "in_force",
+  "issued_date": "1918-12-04",
+  "in_force_date": "1918-12-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23972",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para conceder una subvencion estraordinaria de cinco mil pesos ($ 5,000) al Hospital de Doñigüe.\nEl gasto se deducirá de los intereses de devengados por los depósitos fiscales hechos durante el año en curso en el Banco de Chile."
+    }
+  ],
+  "definitions": []
+}

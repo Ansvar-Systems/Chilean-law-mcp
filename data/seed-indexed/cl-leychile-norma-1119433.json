@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1119433",
+  "type": "statute",
+  "title": "",
+  "short_name": "Lei S/N",
+  "status": "in_force",
+  "issued_date": "1883-01-20",
+  "in_force_date": "1883-01-23",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1119433",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTICULO 1.°\nLa Casa de Moneda constará de siete secciones, denominadas:\nSuperintendencia\nTesorería\nEnsayes\nFundicion\nFielazgo\nGrabadores\nMaestranza"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°\nEl personal para el servicio de estas secciones i sus respectivas dotaciones anuales, serán como siguen:\nSuperintendencia.\nUn Superintendente.................... $ 5.000\nId. oficial mayor, interventor........ 3.000\nId. Id. 1.°tenedor de libros.......... 2.000\nId. Id. 2.°........................... 1.200\nId. Id. 3.° ayudante de caja.......... 960\nId. Id. 4.°........................... 720\nId. Id. 5.° auxiliar.................. 600\nId. portero........................... 300\nTesorería\nUn cajero............................. $ 2.400\nId. juez de balanza................... 1.600\nId. portero........................... 300\nEnsayes\nDos ensayadores, con 3.000 pesos cada\nuno................................... $ 6.000\nUn operario 1.°....................... 300\nId. id. 2.°............................ 240\nFundicion.\nUn fundidor mayor..................... $ 3.000\nId. 1.° guarda-vista, encargado de\nensayes preliminares.................. 1.200\nDos guarda-vistas, 2.° i 3.°, con\n1.000 pesos cada uno.................. 2.000\nFielazgo\nUn fiel de moneda.................... $ 3.200\nId. guarda-cuños..................... 1.500\nCuatro guarda-vistas con 1.000 pesos\ncada uno............................. 4.000\nGrabadores\nUn grabador 1.°, encargado de la prensa\ndu timbre de la oficina de emision..... 3.000\nId. id. 2.°............................ 1.200\nMaestranza\nUn injeniero director i\nguarda-materiales...................... $ 3.000\nId. id. para las máquinas a vapor..... 1.200\nId. herrero mecánico.................. 960\nId. torneador de cuños................ 900\nId. ajustador de prensas.............. 720"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°\nCorresponde a la Superintendencia:\n1° Comprar las pastas metálicas para la amonedacion, a los precios establecidos por las leyes:\n2.° Fijar los jornales que deben pagarse a los operarios de acuerdo con los jefes de las secciones respectivas;\n3.° Autorizar las compras de materiales, i en las que se hicieren por mayor ordenar que se efectúen por propuestas públicas;\n4.° Hacer comprobar el peso i lei de las monedas ántes que salgan a la circulacion, tomando razon del fuerte i feble que produzcan;\n5.° Practicar al principio da cada a año el inventario de los cuños entregados el año anterior para las prensas monetarias, anotando los existentes i los que se van a inutilizar, destruyendo estos últimos;\n6.° Fallar anualmente las cuentas sobre mermas de oro i plata que resulten en los talleres de la fundicion i del fielazgo. Cuando estas mermas exedan de dos por mil, se remitirán los antecedentes a la Contaduría Mayor, previo el Informe del Superintendente de la Casa de Moneda.\n7.° Pasar mensualmente a la Direccion del Tesoro i Contabilidad Jeneral un balance de las operaciones de tesorería; i\n8.° Comprobar i firmar diariamente el arqueo de la caja, de la tesorería."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°\nLos empleados a que esta lei se refiere, con escepcion de los porteros, deberán rendir una fianza equivalente a dos años de su sueldo anual.\nLos empleados que en el réjimen actual no están obligados a rendir fianza, solo deberán rendirla si fueren promovidos a otros empleos en la misma oficina."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°\nPara los efectos de la jubilacion solo se tomará en cuenta el setenta i cinco por ciento de los sueldos fijados por esta lei."
+    }
+  ],
+  "definitions": []
+}

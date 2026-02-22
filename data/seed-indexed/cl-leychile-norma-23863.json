@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23863",
+  "type": "statute",
+  "title": "LEI NUM. 3,282, QUE AUTORIZA LA TRANSACCION ENTRE EL FISCO I LA MUNICIPALIDAD DE TALCA RESPECTO A LA MANZANA EN QUE FUNCIONA EL LICEO DE HOMBRES.",
+  "short_name": "Ley 3282",
+  "status": "in_force",
+  "issued_date": "1917-09-25",
+  "in_force_date": "1917-09-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23863",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se autoriza al Presidente de la República para transijir, a nombre del Fisco, con la Municipalidad de Talca la cuestion sobre propiedad de la manzana en que funciona el Liceo de Hombres i que deslinda con las calles 1 Norte, 3 i 4 Oriente i 1 Sur. El terreno quedará de propiedad fiscal, debiendo el Estado entregar a la Municipalidad la suma de $ 150,000.\nLa Municipalidad no pagará el valor del terreno que se dé al ensanche de las calles en conformidad a la lei número 2,196, cuando se edifique en cualquiera de los lados de la manzana."
+    }
+  ],
+  "definitions": []
+}

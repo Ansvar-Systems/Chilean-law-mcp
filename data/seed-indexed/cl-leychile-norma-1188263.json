@@ -1,0 +1,33 @@
+{
+  "id": "cl-leychile-norma-1188263",
+  "type": "statute",
+  "title": "MODIFICA LA LEY N° 21.419, QUE CREA LA PENSIÓN GARANTIZADA UNIVERSAL Y MODIFICA LOS CUERPOS LEGALES QUE INDICA",
+  "short_name": "Ley 21538",
+  "status": "in_force",
+  "issued_date": "2023-01-23",
+  "in_force_date": "2023-04-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1188263",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en la ley N° 21.419, que crea la Pensión Garantizada Universal y modifica los cuerpos legales que indica:\n1. Reemplázase en la letra b) del artículo 10 la frase \"de 65 o más años de Chile, conforme a lo establecido en el artículo 11\" por la siguiente: \"de Chile, conforme a lo establecido en el artículo 25\".\n2. Elimínase en el artículo 25 la frase \"de 65 o más años de edad\"."
+    },
+    {
+      "provision_ref": "artprimero-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "PRIMERO Transitorio",
+      "title": "Artículo PRIMERO Transitorio",
+      "content": "Artículo primero.- La presente ley entrará en vigencia el primer día del tercer mes siguiente a su publicación.\nEl reglamento a que se refiere el artículo 25 de la ley N° 21.419 deberá modificarse, a más tardar, dentro del segundo mes desde la publicación de esta ley."
+    },
+    {
+      "provision_ref": "artsegundo-transitorio",
+      "chapter": "DISPOSICIONES TRANSITORIAS",
+      "section": "SEGUNDO Transitorio",
+      "title": "Artículo SEGUNDO Transitorio",
+      "content": "Artículo segundo.- El Instituto de Previsión Social verificará el cumplimiento de los requisitos establecidos en el artículo 10 de la ley N° 21.419, respecto de todas aquellas personas que, de conformidad a la letra b) del artículo segundo transitorio de dicha normativa, presentaron su solicitud para la pensión garantizada universal con anterioridad a la vigencia de la presente ley, y no hubieren accedido a ella por no cumplir con el requisito de la letra b) de la citada disposición aplicable a dicha fecha.\nPara el cumplimiento de lo señalado en el inciso anterior, el Instituto de Previsión Social no requerirá la presentación de una nueva solicitud. Respecto de quienes les sea aplicable este artículo y se determine que cumplen con los requisitos señalados en el artículo 10 de la ley N° 21.419, modificada por esta ley, su pensión garantizada universal se devengará a partir de la fecha de entrada en vigencia de la presente ley.\nEl Instituto de Previsión Social informará el número de personas que cumplen con los requisitos señalados en el artículo 10 de la ley N° 21.419, modificada por esta ley, a la Comisión de Trabajo y Seguridad Social de la Cámara de Diputados y a la Comisión de Trabajo y Previsión Social del Senado, cada seis meses a partir de la entrada en vigencia de esta ley.\"."
+    }
+  ],
+  "definitions": []
+}

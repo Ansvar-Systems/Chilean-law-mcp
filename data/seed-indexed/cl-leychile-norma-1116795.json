@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-1116795",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1879-04-03",
+  "in_force_date": "1879-04-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1116795",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTÍCULO PRIMERO.\nSe aprueba la resolucion del Tratado de seis de agosto de mil ochocientos setenta i cuatro que existía con la República de Bolivia i la consiguiente ocupacion del territorio que media entre los paralelos 23 i 24 de latitud sur."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°\nEl Congreso presta su aprobacion para que el Presidente de la República declare la guerra al Gobierno de Bolivia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.°\nSe autoriza al Presidente de la República:\n1.° Para que aumente las fuerzas de mar i tierra hasta lo que creyere necesario;\n2.° Para que de fondos nacionales invierta por ahora hasta cuatro millones de pesos en los objetos a que se refiere esta lei, debiendo rendir la correspondiente cuenta de inversion en las épocas en que deben rendirse las cuentas jenerales de la Administracion pública;\n3.° Para contratar empréstitos hasta la suma de cinco millones de pesos, pudiendo hipotecar a su pago las propiedades del Estado, o estipular otras garantías;\n4.° Para que declare puertos mayores los que juzgue necesarios i provea a su servicio miéntras no se dicte una lei que lo organice."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. 4.°\nSe aprueba la inversion de caudales públicos decretada por el Presidente de la República para el aumento, la provision i movilizacion de la Escuadra Nacional i de las fuerzas del Ejército de tierra i para el servicio administrativo i aduanero de Antofagasta i Mejillones, debiendo rendir la correspondiente cuenta."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. 5.°\nLas autorizaciones contenidas en el artículo 3.° durarán por el término de un año."
+    }
+  ],
+  "definitions": []
+}

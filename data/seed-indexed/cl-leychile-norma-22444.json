@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22444",
+  "type": "statute",
+  "title": "ESPROPIACION DE TERRENOS",
+  "short_name": "Ley 1169",
+  "status": "in_force",
+  "issued_date": "1899-02-01",
+  "in_force_date": "1899-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22444",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se declara de utilidad pública una estension de terreno de propiedad de la testamentaría de don Agustín Barbaro, de ciento cincuenta metros de largo por 15 metros de ancho, a la orilla del rio Copiapó i en la direccion del curso de sus aguas.\nEl terreno que se espropia se destinará por la Municipalidad a la construccion de un malecon.\nLa espropiacion se verificará con arreglo a lo dispuesto en la lei de 18 de Junio de 1857"
+    }
+  ],
+  "definitions": []
+}

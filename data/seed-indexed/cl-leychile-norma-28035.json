@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-28035",
+  "type": "statute",
+  "title": "ESTABLECE UN RECARGO DE UN 30% SOBRE EL MONTO DE LAS MULTAS QUE CONTEMPLA LA LEY DE ALCOHOLES Y BEBIDAS ALCOHOLICAS, EL QUE SE DESTINARA A LOS GASTOS EXTRAORDINARIOS QUE SEñALA EN QUE INCURRAN EL INSTITUTO DE NEUROCIRUGIA E INVESTIGACIONES CEREBRALES Y EL SERVICIO B DE MEDICINA DEL HOSPITAL SAN FRANCISCO DE BORJA, DE SANTIAGO.",
+  "short_name": "Ley 15109",
+  "status": "in_force",
+  "issued_date": "1962-12-18",
+  "in_force_date": "1962-12-28",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28035",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o- La Ley de Presupuesto de Entradas y Gastos de la Nación consultará anualmente las siguientes partidas: E° 60.000 para el Instituto de Neurocirugía e Investigaciones Cerebrales y E° 20.000 para el Servicio B de Medicina del Hospital San Francisco de Borja, de Santiago, las que se destinarán a gastos extraordinarios en la renovación y ampliación de equipos e instrumental para la labor asistencial, de investigación y enseñanza, fuera de los presupuestos que les son propios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o- Establécese un recargo de un 30% sobre el monto de las multas que contempla la ley N.o 11.256, que fija el texto refundido de las disposiciones sobre la Ley de Alcoholes y Bebidas Alcohólicas.\nEl monto total del recargo anterior se destinará exclusivamente a las finalidades de la presente ley.\""
+    }
+  ],
+  "definitions": []
+}

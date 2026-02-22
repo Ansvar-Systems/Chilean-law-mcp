@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25013",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5045",
+  "status": "in_force",
+  "issued_date": "1932-01-29",
+  "in_force_date": "1932-02-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25013",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase a la Dirección General de Prisiones para que, bajo la supervigilancia del Ministerio de Justicia, mantenga en la Tesorería Provincial de Santiago una cuenta especial de depósitos y giros a la cual ingresarán todos los valores que perciba por explotación de los talleres de su dependencia y contra la cual podrá girar a medida que las necesidades del servicio lo requieran y hasta concurrencia de las sumas depositadas, a fin de atender al pago de jornales, a la adquisición de materiales, artículos de elaboración y maquinarias para el funcionamiento de los talleres fiscales de prisiones y a loa gastos que demande el mantenimiento de los recursos teóricos y prácticos de artes y oficios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o La Dirección General de Prisiones deberá rendir cuenta a la Contraloría General de la República, de las entradas y gastos de los servicios a que se refiere el artículo anterior y hará ingresar en arcas fiscales la utilidad que resulte de cada ejercicio."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La presente ley regirá desde el 1.o de Enero de 1932."
+    }
+  ],
+  "definitions": []
+}

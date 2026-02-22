@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-28015",
+  "type": "statute",
+  "title": "MODIFICA LA LEY NUMERO 11.256",
+  "short_name": "Ley 15019",
+  "status": "in_force",
+  "issued_date": "1962-11-14",
+  "in_force_date": "1962-12-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=28015",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o- Modifícase la siguiente frase del\nartículo 78.o de la ley N.o 11.256, que dice:\n\"prorrogable por otros cinco años\", por la siguiente:\n\"prorrogable por 10 años a contar de su vencimiento\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o- Distribúyese el porcentaje indicado en la letra d) del artículo 78.o de la ley N.o 11.256, en la siguiente forma: 30% para los fines indicados en el citado artículo y un 10% para el fomento del deporte civil amateur. Este porcentaje será entregado al Consejo Nacional de Deportes, en forma integral, por intermedio de la Dirección de Deportes del Estado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o- Destínase al Departamento de Deportes del Estado para ser entregado al Consejo Nacional de Deportes, por una sola vez, con cargo a las mayores entradas que sobre las previstas para el presente año, arrojen las cuentas A-56-a y B-2-2, la suma de cincuenta mil escudos.\""
+    }
+  ],
+  "definitions": []
+}

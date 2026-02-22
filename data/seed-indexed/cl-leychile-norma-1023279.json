@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1023279",
+  "type": "statute",
+  "title": "MODIFICA EL ARTÍCULO ÚNICO DE LA LEY Nº 20.411, DE 2009",
+  "short_name": "Ley 20491",
+  "status": "in_force",
+  "issued_date": "2011-02-07",
+  "in_force_date": "2011-02-24",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1023279",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Modifícase el artículo único de la ley Nº 20.411, en los siguientes términos:\n1. Intercálase en el inciso segundo, entre la expresión \"20.017,\", la primera vez que aparece, y la preposición \"por\", la siguiente frase: \"por las Comunidades Agrícolas, organizadas en conformidad a lo dispuesto en el decreto con fuerza de ley Nº 5, de 1968, del Ministerio de Agricultura,\".\n2. Intercálase en el inciso tercero, entre las palabras \"a\" y \"pequeños\" lo siguiente: \"las Comunidades Agrícolas o a\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "TRANSITORIO",
+      "title": "Artículo TRANSITORIO",
+      "content": "Artículo transitorio.- Serán válidos los derechos de aprovechamiento de aguas constituidos en virtud del artículo cuarto transitorio de la ley Nº 20.017, a favor de comunidades agrícolas regidas por el decreto con fuerza de ley Nº 5, de 1968, del Ministerio de Agricultura entre el día 29 de diciembre de 2009 y la fecha de entrada en vigencia de la presente ley.\"."
+    }
+  ],
+  "definitions": []
+}

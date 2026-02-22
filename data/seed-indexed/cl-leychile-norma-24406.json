@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24406",
+  "type": "statute",
+  "title": "LEI NUM. 4,014, QUE AUTORIZA LA ACUÑACION DE $ 10.000,000 EN MONEDAS DE PLATA DE CIEN CENTAVOS",
+  "short_name": "Ley 4014",
+  "status": "repealed",
+  "issued_date": "1924-05-22",
+  "in_force_date": "1925-10-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24406",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para hacer acuñar hasta diez millones de pesos ($ 10.000,000) en monedas de plata de cien centavos, con quinientos milésimos de lei, nueve gramos de peso y veintinueve milímetros de diámetro.\nEstas monedas se sujetarán, en todo lo demas, a la lei de acuñacion de monedas de plata, número 2,947, de 18 de noviembre de 1914."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Autorízase, asimismo, al Presidente de la República para adquirir las pastas y cobre necesarios para dar cumplimiento a esta lei."
+    }
+  ],
+  "definitions": []
+}

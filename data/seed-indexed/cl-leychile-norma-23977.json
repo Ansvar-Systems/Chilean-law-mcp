@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23977",
+  "type": "statute",
+  "title": "LEI NÚM. 3,449, QUE CONCEDE FONDOS PARA COMBATIR LA EPIDEMIA DE GRIPPE.",
+  "short_name": "Ley 3449",
+  "status": "in_force",
+  "issued_date": "1918-12-12",
+  "in_force_date": "1918-12-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23977",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para conceder a la Junta de Beneficencia de Santiago un ausilio estraordinario de doscientos cincuenta mil pesos ($ 250,000), a efecto de que atienda a las necesidades hospitalarias creadas con ocasion de la epidemia de grippe reinante."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Se autoriza asimismo, al Presidente de la República para invertir hasta la suma de doscientos cincuenta mil pesos ($ 250,000) en combatir la epidemia en el resto del pais."
+    }
+  ],
+  "definitions": []
+}

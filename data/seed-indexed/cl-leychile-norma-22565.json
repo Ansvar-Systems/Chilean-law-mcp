@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22565",
+  "type": "statute",
+  "title": "Edificio del Congreso Nacional",
+  "short_name": "Ley 1331",
+  "status": "in_force",
+  "issued_date": "1900-01-11",
+  "in_force_date": "1900-01-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22565",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Se autoriza la inversion de la suma de cincuenta mil ochocientos cincuenta i dos pesos sesenta i siete centavos en la continuacion de los trabajos de reconstruccion del edificio del Congreso Nacional."
+    }
+  ],
+  "definitions": []
+}

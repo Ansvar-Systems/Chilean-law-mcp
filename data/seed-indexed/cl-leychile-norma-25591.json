@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-25591",
+  "type": "statute",
+  "title": "DEROGA EL INCISO 3.o DEL ARTICULO 114 DEL CODIGO DE MINERIA, Y ESTABLECE DISPOSICIONES RELACIONADAS CON PERTENENCIAS MINERAS",
+  "short_name": "Ley 7547",
+  "status": "in_force",
+  "issued_date": "1943-09-13",
+  "in_force_date": "1943-10-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25591",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Se deroga el inciso 3.o del artículo 114 del Código de Minería de 1932."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Las pertenencias con fracciones de hectáreas pagarán patente sólo por las hectáreas completas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Se libera de la sanción de caducidad establecida en el artículo 127 del Código de Minería a todas las pertenencias que habiendo pagado oportunamente patente minera por todas las hectáreas completas que ella comprenda, no lo hubieren hecho por las fracciones adicionales de hectárea que se incluyan en su mensura, siempre que no se haya ordenado cancelar sus inscripciones por sentencia judicial ejecutoriada, pronunciada en juicio seguido contra legítimo contradictor.\nLa liberación establecida en el inciso anterior comprenderá también a las pertenencias mineras con fracciones de hectárea, por las cuales se pagó patente en el mes de Marzo del presente año."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

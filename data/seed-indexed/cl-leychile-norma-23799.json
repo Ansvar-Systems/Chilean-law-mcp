@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23799",
+  "type": "statute",
+  "title": "AUTORIZA LA INVERSION DE $ 40.000 EN REORGANIZAR EL SERVICIO DE CORREOS DE LAS ADMINISTRACIONES LOCALES I AJENCIAS POSTALES",
+  "short_name": "Ley 3193",
+  "status": "in_force",
+  "issued_date": "1917-01-22",
+  "in_force_date": "1917-01-31",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23799",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Se autoriza al Presidente de la República para invertir durante el año 1917 la suma de cuarenta mil pesos en reorganizar el servicio de Correos de las Administraciones Locales i Ajencias Postales, debiendo restablecerse de preferencia las de cabeceras de Comunas.\nEl gasto que importa este proyecto, se deducirá de la mayor entrada que produzca durante el presente año el servicio de telégrafos."
+    }
+  ],
+  "definitions": []
+}

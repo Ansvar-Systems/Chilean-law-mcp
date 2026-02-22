@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-138951",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 3103",
+  "status": "in_force",
+  "issued_date": "1916-07-22",
+  "in_force_date": "1916-07-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=138951",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Elévase, por gracia, a la suma de cuatro mil pesos ($ 4,000), la pension que actualmente perciben la viuda e hijos del ex - juez letrado de Osorno, don Abelardo Contreras, de la cual gozarán con arreglo a la lei de montepío militar."
+    }
+  ],
+  "definitions": []
+}

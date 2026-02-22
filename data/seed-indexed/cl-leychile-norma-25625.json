@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25625",
+  "type": "statute",
+  "title": "CONCEDE UNA GRATIFICACION AL PERSONAL DE LA\nADMINISTRACION CIVIL DEL ESTADO",
+  "short_name": "Ley 7753",
+  "status": "in_force",
+  "issued_date": "1944-01-10",
+  "in_force_date": "1944-01-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25625",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.° Concédese al personal de la Administración Civil del Estado una gratificación del 10% sobres sus sueldos, que será del 12% para los funcionarios cuyos sueldos no excedan de $ 13,500 anuales. Esta gratificación será pagada de una sola vez.\nSe excluye de esta gratificación, a los servicios que hayan sido creados con posterioridad a la dictación de la ley N.° 7,200, y a los que hayan tenido, a partir de la misma fecha, aumentos de sueldos por leyes especiales, o gratificaciones."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.° Los gastos que demande la aplicación de la presente ley, se imputarán a las mayores entradas que produzcan la aplicación del artículo 40 de la ley N.° 7,747, y la aplicación de la constribución territorial."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.° La presente ley regirá desde el 1.° de Enero de 1944\"."
+    }
+  ],
+  "definitions": []
+}

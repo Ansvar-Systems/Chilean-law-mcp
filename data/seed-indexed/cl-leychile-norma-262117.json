@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-262117",
+  "type": "statute",
+  "title": "MODIFICA DIVERSAS DISPOSICIONES DEL CODIGO DE PROCEDIMIENTO CIVIL",
+  "short_name": "Ley 20192",
+  "status": "in_force",
+  "issued_date": "2007-05-26",
+  "in_force_date": "2007-06-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=262117",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en el Código de Procedimiento Civil:\na) Modifícase el artículo 320 en el siguiente sentido:\n1.- Sustitúyese en el inciso primero la frase \"Dentro de los cinco días siguientes a la última modificación de la resolución a que se refiere el artículo 318\", por la siguiente: \"Desde la primera notificación de la resolución a que se refiere el artículo 318, y hasta el quinto día de la última,\".\n2.- Agrégase el siguiente inciso tercero:\n\"Si habiéndose pedido reposición ya se hubiere presentado lista de testigos y minuta de puntos por alguna de las partes, no será necesario presentar nuevas lista ni minuta, salvo que, como consecuencia de haberse acogido el recurso, la parte que las presenta estime pertinente modificarlas.\".\nb) Sustitúyese el artículo 416 por el siguiente:\n\"Artículo 416.- Cuando el nombramiento se haga por el tribunal, lo hará de entre los peritos de la especialidad requerida que figuren en las listas a que se refiere el artículo siguiente y la designación se pondrá en conocimiento de las partes para que dentro de tercero día deduzcan oposición, si tienen alguna incapacidad legal que reclamar contra el nombrado. Vencido este plazo sin que se formule oposición, se entenderá aceptado el nombramiento.\".\nc) Agrégase el siguiente artículo 416 bis.\n\"Artículo 416 bis.- Las listas de peritos indicadas en el artículo precedente serán propuestas cada dos años por la Corte de Apelaciones respectiva, previa determinación del número de peritos que en su concepto deban figurar en cada especialidad.\nEn el mes de octubre del final del bienio correspondiente, se elevarán estas nóminas a la Corte Suprema, la cual formará las definitivas, pudiendo suprimir o agregar nombres sin expresar causa.\nPara formar las listas, cada Corte de Apelaciones convocará a concurso público, al que podrán postular quienes posean y acrediten conocimientos especiales de alguna ciencia, arte o especialidad, para lo cual tendrán especialmente en cuenta la vinculación de los candidatos con la docencia y la investigación universitarias. El procedimiento para los concursos, su publicidad y la formación de las nóminas de peritos serán regulados mediante un Auto Acordado de la Corte Suprema, que se publicará en el Diario Oficial.\".\nd) Agrégase en el inciso segundo del artículo 680, el siguiente número:\n\"10º. A los juicios en que se deduzcan las acciones civiles derivadas de un delito o cuasidelito, de conformidad con lo dispuesto en el artículo 59 del Código Procesal Penal y siempre que exista sentencia penal condenatoria ejecutoriada.\"."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- Lo dispuesto en el artículo 416 del Código de Procedimiento Civil entrará en vigencia una vez que se publiquen en el Diario Oficial los listados definitivos de peritos a que se refiere el artículo 416 bis del mismo Código. Para tales efectos, el Auto Acordado a que se refiere este último precepto deberá publicarse dentro de los tres meses siguientes a la fecha de publicación de esta ley. Las Cortes de Apelaciones enviarán las nóminas correspondientes a la Corte Suprema, dentro de los tres meses siguientes a la fecha de publicación de dicho Auto Acordado.\"."
+    }
+  ],
+  "definitions": []
+}

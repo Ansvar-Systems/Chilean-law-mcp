@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23960",
+  "type": "statute",
+  "title": "Lei núm. 3,419, que concede gratificacion a los;Sub-Oficiales i tropas del Ejército.",
+  "short_name": "Ley 3419",
+  "status": "in_force",
+  "issued_date": "1918-09-16",
+  "in_force_date": "1918-09-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23960",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Se autoriza al Presidente de la República para que invierta hasta la cantidad de ochenta i cinco mil pesos ($ 85,000), con el objeto de pagar al personal de Sub-Oficiales i tropa de Ejército, que estaban gozando de gratificacion por años de servicios ántes del 9 de Setiembre de 1915, las gratificaciones de igual carácter que hubieren devengado durante el año 1917."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° El gasto correspondiente se deducirá de la venta o arrendamiento de los terrenos fiscales de Magallánes."
+    }
+  ],
+  "definitions": []
+}

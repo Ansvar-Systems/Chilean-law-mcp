@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22182",
+  "type": "statute",
+  "title": "ELENA DISSET",
+  "short_name": "Ley 331",
+  "status": "in_force",
+  "issued_date": "1896-01-15",
+  "in_force_date": "1896-12-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22182",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Se declara, por gracia, que doña Elena Disset, viuda del subteniente don Antonio Diaz, tiene todos los derechos que le otorgarían las leyes si su marido hubiera obtenido el permiso necesario para contraer matrimonio."
+    }
+  ],
+  "definitions": []
+}

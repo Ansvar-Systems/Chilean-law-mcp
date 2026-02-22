@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22386",
+  "type": "statute",
+  "title": "CONTRIBUCIONES MUNICIPALES",
+  "short_name": "Ley 1061",
+  "status": "in_force",
+  "issued_date": "1898-09-05",
+  "in_force_date": "1898-09-05",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22386",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Los tesoreros municipales, para hacer efectivo el pago de las contribuciones municipales, se sujetarán a las prescripciones que para los tesoreros fiscales estableció en sus artículos 26 a 30 inclusive la lei de 20 de Enero de 1883, que organizó el servicio de las tesorerías en la República."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° En los cobros del impuesto de patentes los procedimientos judiciales no obstan a las medidas administrativas de apremio establecidas por la lei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ARt. 3°.- Esta lei comenzará a rejir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

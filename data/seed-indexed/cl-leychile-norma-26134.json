@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-26134",
+  "type": "statute",
+  "title": "ELEVA A LA CATEGORIA DE MAYOR CUANTIA EL ACTUAL JUZGADO DE LETRAS DE MENOR CUANTIA DE LOTA",
+  "short_name": "Ley 9555",
+  "status": "in_force",
+  "issued_date": "1949-12-31",
+  "in_force_date": "1950-01-01",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26134",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Elévase a la categoría de Mayor Cuantía el actual Juzgado de Letras de Menor Cuantía de Lota, cuyo territorio jurisdiccional será el que corresponde a la comuna de su nombre.\nEste Juzgado tendrá la siguiente planta: un Juez, un Secretario, un Oficial 1.o, un Oficial 2.o y un Oficial de Sala, con los sueldos asignados al personal de los Juzgados de cabecera de departamento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o El mayor gasto que demande esta ley se consultará en la Ley de Presupuestos para el año 1950."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Elimínase del inciso 1.o del artículo 29 del Código Orgánico de Tribunales la palabra \"Lota\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o La presente ley regirá desde el 1.o de Enero de 1950."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "Artículos transitorios\nArtículo 1.o Las causas de que actualmente conoce el Juzgado de Letras de Coronel y que de acuerdo con lo dispuesto en el artículo 1.o de esta ley serán de la competencia del Juzgado de Letras de Mayor Cuantía de Lota, pasarán al conocimiento de este último."
+    },
+    {
+      "provision_ref": "art2-transitorio",
+      "section": "2 Transitorio",
+      "title": "Artículo 2 Transitorio",
+      "content": "Artículo 2.o El personal del Juzgado de Letras de Menor Cuantía de Lota pasará a desempeñar los cargos respectivos de la planta fijada por el artículo 1.o. El Receptor del mismo Juzgado pasará a ser Receptor de Mayor Cuantía."
+    }
+  ],
+  "definitions": []
+}

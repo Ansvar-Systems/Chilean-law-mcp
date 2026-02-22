@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22539",
+  "type": "statute",
+  "title": "COMPRA DE CASA EN LA CIUDAD DE CAUQUENES",
+  "short_name": "Ley 1297",
+  "status": "in_force",
+  "issued_date": "1899-12-26",
+  "in_force_date": "1899-12-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22539",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Autorízase al Presidente de la República para adquirir hasta por la suma de $ 40,000 la casa de propiedad de don Roberto Lazo, ubicada en la ciudad de Cauquenes, con el objeto de instalar en ella las oficinas de la Intendencia i demas servicios públicos de la localidad.\nEl vendedor recibirá como parte de precio los créditos que el Fisco tiene contra don Ricargo Rios, Tesorero Fiscal de Cauquenes, quedando, por tanto, dicho crédito definitivamente cancelado."
+    }
+  ],
+  "definitions": []
+}

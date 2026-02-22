@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25445",
+  "type": "statute",
+  "title": "DECLARA QUE LOS NOTARIOS, CONSERVADORES DE BIENES\nRAICES, DE COMERCIO Y MINAS Y ARCHIVEROS JUDICIALES,\nQUEDAN SUJETOS A LA OBLIGACION DE IMPONER A LA CAJA\nNACIONAL DE EMPLEADOS PUBLICOS Y PERIODISTAS",
+  "short_name": "Ley 7149",
+  "status": "in_force",
+  "issued_date": "1941-12-31",
+  "in_force_date": "1942-02-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25445",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Para los efectos del artículo 16 de la Ley N.o 6,417, de 15 de Septiembre de 1939, se declara que los funcionarios judiciales comprendidos en esa disposición han quedado sujetos a la obligación de imponer a la Caja Nacional de Empleados Públicos y Periodistas y a ésta exigirles efectúen la diferencia de imposiciones correspondientes a los sueldos bases consignados en el citado artículo 16, a contar desde la vigencia de la Ley N.o 6,417, o sea, desde el 6 de Mayo de 1939."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Derógase el artículo 2.o de la Ley N.o 5,948, de 7 de Octubre de 1936."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Esta ley regirá desde su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

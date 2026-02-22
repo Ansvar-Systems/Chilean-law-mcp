@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22432",
+  "type": "statute",
+  "title": "Suplemento para pagar a la Compañía de Consumidores;de Gas de Santiago",
+  "short_name": "Ley 1149",
+  "status": "in_force",
+  "issued_date": "1898-12-28",
+  "in_force_date": "1899-01-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22432",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Autorízase al Presidente de la República para que invierta hasta la suma de veintiocho mil trescientos cincuenta i ocho pesos cincuenta i seis centavos, en cancelar a la Compañía de Consumidores de Gas de Santiago las cuentas que se le adeudan por el gas consumido en los años 1896 i 1897 en los cuarteles i oficinas del Ministerio de Guerra i secciones de su dependencia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Concédese un suplemento de veintidos mil ciento setenta i seis pesos cuarenta i ocho centavos al ítem 36 de la partida 21 del presupuesto del Ministerio de Guerra, que se destinará esclusivamente a pagar las cuentas provenientes de consumo de gas habido en el presente año en las oficinas del Ministerio de Guerra i en las secciones i cuarteles de su dependencia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. 3.° Esta lei rejirá desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

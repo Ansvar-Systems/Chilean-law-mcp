@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24425",
+  "type": "statute",
+  "title": "LEI NUM. 4.040, QUE AUTORIZA LA ENAJENACION DE CUADROS DEL MUSEO DE BELLAS ARTES",
+  "short_name": "Ley 4040",
+  "status": "in_force",
+  "issued_date": "1924-09-10",
+  "in_force_date": "1924-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24425",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para que, de acuerdo con la comision de Bellas Artes, proceda a enajenar en pública subasta los cuadros que, a juicio de esa comision, convenga retirar de las colecciones del Museo de Bellas Artes.\nEl producto de la enajenación se destinará esclusivamente a la adquisicion de nuevas obras de arte nacionales o estranjeras.\nEsta enajenacion se efectuará en conformidad al reglamento que dicte la Comision de Bellas Artes con aprobación del Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

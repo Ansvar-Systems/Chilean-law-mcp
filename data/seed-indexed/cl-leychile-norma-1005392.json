@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1005392",
+  "type": "statute",
+  "title": "INTRODUCE MODIFICACIONES AL CÓDIGO ORGÁNICO DE TRIBUNALES Y A LA LEY Nº 19.913, EN LA REGULACIÓN DE CIERTOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA",
+  "short_name": "Ley 20371",
+  "status": "amended",
+  "issued_date": "2009-08-18",
+  "in_force_date": "2009-08-26",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1005392",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Agrégase en el N° 2° del artículo 6° del Código Orgánico de Tribunales, antes del punto y coma (;) el siguiente párrafo: \"y el cohecho a funcionarios públicos extranjeros, cuando sea cometido por un chileno o por una persona que tenga residencia habitual en Chile\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- Modifícase la letra a) del artículo 27 de la ley N° 19.913 en el siguiente sentido:\n1) Sustitúyese, a continuación del número \"6\", la conjunción \"y\" por una coma (,).\n2) Intercálase entre el guarismo \"9\" y la frase \"del Título\", la siguiente expresión: \"y 9 bis\".\"."
+    }
+  ],
+  "definitions": []
+}

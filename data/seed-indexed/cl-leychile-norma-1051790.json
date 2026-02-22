@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1051790",
+  "type": "statute",
+  "title": "INCREMENTA EL MONTO DE LA ASIGNACIÓN MENSUAL QUE PERCIBEN LOS SOLDADOS CONSCRIPTOS",
+  "short_name": "Ley 20676",
+  "status": "in_force",
+  "issued_date": "2013-05-30",
+  "in_force_date": "2013-06-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1051790",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1º.- Establécense los siguientes montos para los grados que indica del artículo 1º del decreto ley Nº 2.546, de 1979, que fija la Escala de Sueldos para las Fuerzas Armadas:\nGrados Montos\n23 $95.282\n24 $93.269\n25 $91.256\n26 $89.243\n27 $87.232\n28 $85.219\n29 $83.206\n30 $81.195\n31 $79.184\n32 $75.158\nLa aplicación de los nuevos montos a los cálculos de sueldo, asignaciones o gratificaciones que se deban pagar en conformidad a esta escala de sueldos, se hará efectiva a contar del día 1º de abril de 2013."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- El mayor gasto fiscal que demande la aplicación de esta ley durante el primer año de entrada en vigencia, se financiará con cargo a los presupuestos institucionales de las Fuerzas Armadas, y en lo que faltare con recursos provenientes de la Partida Tesoro Público. En los años siguientes, se financiará con cargo a los recursos que disponga la respectiva Ley de Presupuestos del Sector Público.\"."
+    }
+  ],
+  "definitions": []
+}

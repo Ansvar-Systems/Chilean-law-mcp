@@ -1,0 +1,49 @@
+{
+  "id": "cl-leychile-norma-23370",
+  "type": "statute",
+  "title": "SUSTITUYE LOS ARTICULOS 3.° I 4.° I MODIFICA VARIOS INCISOS DE LOS ARTS. 6.°, 7.° I 8.° DE LA LEI DE 19 DE NOVIEMBRE DE 1874 SOBRE FRANQUEO DE LA CORRESPONDENCIA.",
+  "short_name": "Ley 2579",
+  "status": "in_force",
+  "issued_date": "1911-12-06",
+  "in_force_date": "1911-12-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23370",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Sustitúyese los artículos 3.° i 4.° de la lei de 19 de Noviembre de 1874 por los siguientes:\n\"ART. 3.°- Las cartas ordinarias que se dirijan de un departamento a otro de la República pagarán diez centavos por los primeros veinte gramos, i cinco centavos mas por cada veinte gramos o fraccion de exceso\".\nART. 4.°- Las cartas ordinarias que se dirijan dentro de un departamento pagarán cuatro centavos por los primeros veinte gramos, i dos centavos mas por cada veinte gramos o fraccion de exceso\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. II.- Modifícase el primer inciso del artículo 6.° en la forma siguiente:\n\"Las tarjetas postales para el interior de la República pagarán cuatro centavos, i dos centavos las destinadas a circular impresas\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ART. III.- Modifícase el primer inciso del artículo 7.° en la forma siguiente:\n\" Las muestras que jiren entre un punto i otro de la República pagarán diez centavos por cada cincuenta gramos o fraccion\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ART. IV.- Modifícase el primero, tercero i quinto incisos del artículo 8.° en los siguientes términos:\n\"Las cartas circulares, las tarjetas de visita i demas impresos que no esten destinados a la luz pública, sino a individuos determinados pagarán dos centavos por cada ejemplar.\nLos folletos, libros, obras que se publiquen por entregas i las obras impresas, litografías, papeles de música etc., pagarán dos centavos por los primeros cincuenta gramos i un centavo mas por cada cincuenta gramos o fraccion de exceso.\nLos espedientes judiciales, hasta cien gramos, pagarán treinta centavos; i los que excedan de este peso, diez centavos por cada cincuenta gramos o fraccion de exceso\"."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ART. V.- Esta lei empezará a rejir en todo el territorio de la República cuarenta días despues de su publicacion en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art1-transitorio",
+      "section": "1 Transitorio",
+      "title": "Artículo 1 Transitorio",
+      "content": "ARTICULO TRANSITORIO.- El Presidente de la República ordenará que la lei de 19 de Noviembre de 1874 se publique en el Boletín de las Leyes en la forma en que queda con las modificaciones establecidas en la presente."
+    }
+  ],
+  "definitions": []
+}

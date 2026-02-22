@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-1088402",
+  "type": "statute",
+  "title": "AUMENTA LAS SANCIONES POR NO USO DE DISPOSITIVOS DE SEGURIDAD PARA MENORES DE EDAD EN VEHÍCULOS PARTICULARES",
+  "short_name": "Ley 20904",
+  "status": "in_force",
+  "issued_date": "2016-02-29",
+  "in_force_date": "2016-03-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=1088402",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "ÚNICO",
+      "title": "Artículo ÚNICO",
+      "content": "\"Artículo único.- Introdúcense las siguientes modificaciones en la ley Nº18.290, de Tránsito, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº1, de 2007, del Ministerio de Transportes y Telecomunicaciones y del Ministerio de Justicia:\n1.- Modifícase el artículo 75 de la siguiente forma:\na) En el inciso tercero, sustitúyese la palabra \"ocho\" por \"doce\".\nb) En el inciso cuarto:\ni.- Elimínase la coma que sigue a la palabra \"conductores\".\nii.- Reemplázase la palabra \"sillas\" por la expresión \"sistema de retención infantil\".\niii.- Sustitúyese la expresión \"menores de cuatro años\" por la frase \"de hasta 8 años, inclusive, o estatura de 135 centímetros y 33 kilogramos de peso\".\niv.- Intercálase entre el punto seguido y la expresión \"Se exceptúan\", la oración \"Asimismo, este reglamento establecerá las categorías de los sistemas de retención infantil, de acuerdo a la edad, peso y estatura de los menores.\".\n2.- Agrégase, en el artículo 199, el siguiente número 3:\n\"3.- Conducir un vehículo infringiendo lo dispuesto en los incisos tercero y cuarto del artículo 75.\".\n3.- Reemplázase, en el artículo 200, el número 31 por el siguiente:\n\"31.- Conducir un vehículo infringiendo lo dispuesto en el número 10 y en el inciso segundo del artículo 75;\"."
+    },
+    {
+      "provision_ref": "arttransitorio",
+      "section": "Transitorio",
+      "title": "Artículo Transitorio",
+      "content": "Artículo transitorio.- Las obligaciones contempladas en el artículo 75, inciso cuarto, serán exigibles transcurridos doce meses contados desde la publicación de esta ley.\"."
+    }
+  ],
+  "definitions": []
+}

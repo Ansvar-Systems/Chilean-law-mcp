@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23326",
+  "type": "statute",
+  "title": "AUTORIZA LA CANCELACION DE PAGARES SUSCRITOS POR EL VALOR DE LOS DERECHOS DE ADUANA DE OBRAS DE ARTE, MENAJE DE LA INTENDENCIA DE VALPARAISO I ESTAMPILLAS DE CORREO.",
+  "short_name": "Ley 2466",
+  "status": "in_force",
+  "issued_date": "1911-02-01",
+  "in_force_date": "1911-02-09",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23326",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Se autoriza al Presidente de la República para decretar la cancelacion de los pagarées que se han suscrito, con autorizacion del Ministerio de Hacienda, por el valor de los derechos de aduana correspondientes para el despacho a almacenes de particulares de las obras de arte donadas a varias ciudades de la República por las colonias estranjeras residentes en el pais, en conmemoracion del Centenario Nacional; para diversos efectos de menaje u otros artículos para la Intendencia de Valparaiso i para las estampillas de correos internadas por el Ministerio del Interior."
+    }
+  ],
+  "definitions": []
+}

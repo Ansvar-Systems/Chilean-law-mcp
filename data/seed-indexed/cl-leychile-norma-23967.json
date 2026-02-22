@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-23967",
+  "type": "statute",
+  "title": "LEI NÚM. 3.435, QUE AUTORIZA OBRAS DE PAVIMENTACION CON EL SOBRANTE DEL UNO POR MIL ADICIONAL SOBRE EL IMPUESTO DE HABERES ESTABLECIDO POR LA LEI NÚM. 2.324",
+  "short_name": "Ley 3435",
+  "status": "in_force",
+  "issued_date": "1918-11-18",
+  "in_force_date": "1918-11-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23967",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.° Autorízase al Presidente de la República para que una vez efectuado, con el producto del uno por mil adicional sobre el impuesto de haberes establecido por lei número 2,324, de 18 de Julio de 1910, el servicio anual del empréstito contratado en virtud de esa lei, invierta el sobrante en la conservacion de los pavimentos que se han ejecutado en conformidad a dicha lei; en la reparaciones de las calzadas pavimentadas con asfalto trinidad i en la ejecución de nuevos pavimentos; rijiendo para estos últimos trabajos las disposiciones de la lei número 2,324, de 18 de Julio de 1910."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Derógase el inciso tercero del artículo segundo; el artículo tercero i el inciso tercero del artículo cuarto de la lei número 2,324, de 18 de Julio de 1910."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° La Direccion del Alcantarillado i Pavimentacion de Santiago formulará las cuentas a los vecinos por la parte que, por vía de contribucion, les corresponda pagar por la pavimentacion que se ejecute en conformidad a la presente lei i los recibos formulados al efecto por dicha oficina tendrán mérito ejecutivo i su percepcion judicial se hará por la Tesorería Fiscal de Santiago.\nQuedan subsistentes las disposiciones de las leyes número 2,324, de 18 de Julio de 1910 i número 3,041, de 20 de Diciembre de 1915, en lo que no fueren contrarias a la presente lei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.° El Presidente de la República reglamentará la forma de inversion de las sumas que, en conformidad al artículo 1.°, se destinen a la conservacion i ejecucion de nuevos pavimentos."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.° La presente lei comenzará a rejir desde su publicacion en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

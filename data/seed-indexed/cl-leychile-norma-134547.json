@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-134547",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1219",
+  "status": "in_force",
+  "issued_date": "1899-07-01",
+  "in_force_date": "1899-07-03",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=134547",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Declárase de abono, para los efectos de su retiro, al coronel don Florencio Baeza, los cuatro años i diez meses que permaneció como cadete en la Escuela Militar, desde el 1.º de febrero de 1867 hasta el 30 de diciembre de 1871.\""
+    }
+  ],
+  "definitions": []
+}

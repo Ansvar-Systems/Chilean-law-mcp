@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-25989",
+  "type": "statute",
+  "title": "DISPONE QUE LOS PROPIETARIOS DE PREDIOS QUE INDICA,\nDE LA CIUDAD DE SAN FERNANDO, QUE HAN SIDO AFECTADOS POR\nEL NUEVO TRAZADO DEL CAMINO LONGITUDINAL AL SUR, PODRAN\nACOGERSE A LOS BENEFICIOS DE LA LEY 6,640",
+  "short_name": "Ley 9294",
+  "status": "in_force",
+  "issued_date": "1949-01-13",
+  "in_force_date": "1949-02-21",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=25989",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1°.- Los propietarios de predios con frente a la calle Laja, futura Avenida Bernardo O'Higgins de la ciudad de San Fernando, que han sufrido perjuicios o en cualquier forma han sido afectados con el nuevo trazado del camino Longitudinal al Sur, podrán acogerse a los beneficios que otorga la ley 6,640 y sus modificaciones posteriores."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°.- El Presidente de la República entregará a la Corporación de Reconstrucción y Auxilio la cantidad de $ 2.000.000 que se destinarán en forma exclusiva a la atención de los fines de la presente ley.\nEl gasto se cargará a los saldos sobrantes de los fondos de la ley N° 7,144, correspondientes a 1947."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°.- Esta ley regirá desde la fecha de su publicación en el Diario Oficial\"."
+    }
+  ],
+  "definitions": []
+}

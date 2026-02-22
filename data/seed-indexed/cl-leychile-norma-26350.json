@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-26350",
+  "type": "statute",
+  "title": "LIBERA DE TODO DERECHO DE INTERNACION A LAS\nMAQUINARIAS Y MERCADERIAS QUE SEÑALA, QUE EL PRESIDENTE\nDE LA REPUBLICA AUTORICE INTERNAR A LA EMBAJADA DE\nESTADOS UNIDOS DE NORTE AMERICA",
+  "short_name": "Ley 10328",
+  "status": "in_force",
+  "issued_date": "1952-04-25",
+  "in_force_date": "1952-05-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=26350",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.° Libérase de derechos de internación, estadística y almacenaje, de los impuestos establecidos en el decreto supremo N.° 2,772, de 18 de Agosto de 1943, que fijó el texto refundido de las disposiciones sobre el impuesto a la internación, producción y cifra de negocios, y de los establecidos o que, establezcan en virtud de las disposiciones legales que lo modifiquen o complementen, y, en general, de todo derecho o contribución a los aviones, vehículos, maquinarias y demás instrumentos, como asimismo a los artículos de subsistencia, que el Presidente de la República autorice a la Embajada de Estados Unidos de Norte América internar al país para ser destinados a los trabajos de la carta topográfica del territorio nacional."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "\"Artículo 2.° El Presidente de la República otorgará tal autorización mediante decretos supremos en que determinará expresamente, en cada caso, los elementos a que se refiere el artículo anterior que deban liberarse de derechos e impuestos, por estar destinados exclusivamente al levantamiento topográfico del país."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "\"Artículo 3.° Facúltase, asimismo, al Presidente de la República para autorizar, previo informe del Instituto Geográfico Militar, la enajenación de las maquinarias y elementos a que se refiere el artículo 1.° de la presente ley, cuando por su desgaste u otras causas no puedan seguir empleándose en los fines para los cuales fueron internados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "\"Artículo 4.° La presente ley regirá desde el 7 de Marzo de 1947, fecha de la firma del Convenio suscrito entre los Gobiernos de Chile y de los Estados Unidos de Norte América\"."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-137936",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 2808",
+  "status": "in_force",
+  "issued_date": "1913-09-10",
+  "in_force_date": "1913-09-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=137936",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.º Se autoriza al Presidente de la República para elevar a ciento cincuenta mil libras esterlinas (L 150,000) el empréstito a que se refiere el artículo 15 de la lei número 2,658, de 7 de junio de 1912, quedando vijentes las demas disposiciones de ese artículo.\nLa suma en que se aumenta el empréstito anterior, se invertirá con arreglo al artículo 18 de la lei citada.\nUn cuarenta i uno noventa i uno por ciento en la construccion de la Casa Consistorial;\nUn treinta i uno cuarenta i uno por ciento en la construccion de un Matadero Modelo;\nUn doce cincuenta i seis por ciento en el pago de espropiaciones i de deuda;\nUn diez cuarenta i seis por ciento en reformas i mejoras al edificio del Mercado; i\nUn tres sesenta i seis por ciento para iniciar la construccion de un teatro-circo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.º Este aumento del empréstito se servirá por la Tesorería Fiscal de Concepcion con el producto del tres por mil del impuesto municipal ordinario de haberes que esa Tesorería percibe."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.º El producto total de la venta de los bonos que haga la Municipalidad será percibido por la Tesorería Fiscal de Concepcion i depositado por ella en las instituciones bancarias, en la forma i condiciones que acuerde la corporacion."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.º El tesorero fiscal no tendrá derecho a retribucion alguna por atender a la percepcion de los fondos i al servicio de este empréstito."
+    }
+  ],
+  "definitions": []
+}

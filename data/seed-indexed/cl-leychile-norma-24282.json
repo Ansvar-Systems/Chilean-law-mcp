@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24282",
+  "type": "statute",
+  "title": "LEI NUM. 3,833, QUE CONDONA INTERESES PENALES A LOS COLONOS ESTRANJEROS I A LOS REMATANTES DE TERRENOS FISCALES SITUADOS AL SUR DEL BIO-BIO",
+  "short_name": "Ley 3833",
+  "status": "in_force",
+  "issued_date": "1922-01-26",
+  "in_force_date": "1922-02-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24282",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°.- Condónanse los intereses penales que a la fecha de la promulgacion de esta lei, adeuden al Estado los colonos estranjeros i los rematantes de tierras fiscales, situadas al Sur del rio Bio-Bío, hasta la provincia de Llanquihue inclusive, siempre que pagaren el total de sus obligaciones por capital, en el plazo de seis meses, contados desde la publicacion de esta lei en el Diario Oficial."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.° Si en el plazo que se concede no se hubiere pagado lo que se adeuda al Fisco por capital, sin intereses penales, se hará exijible el total de la obligacion i se procederá a la venta de los predios hipotecados en la forma dispuesta en el artículo 2.° de la lei núm. 1,725, de 31 de Enero de 1905."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-24985",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4988",
+  "status": "in_force",
+  "issued_date": "1931-09-14",
+  "in_force_date": "1931-09-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24985",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Se amplía a cuatro años el plazo de dos años a que se refiere el artículo 226 del Código de Minería."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Las pertenencias manifestadas durante la vigencia del actual Código de Minería, y cuyos plazos para construir el hito de referencia, y para solicitar la mensura, estuvieren vigentes al entrar a regir la presente ley, podrán cumplir esas obligaciones dentro del plazo de dieciocho meses, contado en la forma que señala el inciso 1.o del artículo 40 del mencionado Código.\nLas pertenencias que se manifiesten antes del 1.o de Enero de 1932, tendrán también el plazo de dieciocho meses, para los fines expresados en el inciso precedente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o Se suspenden hasta el 30 de Junio de 1932, los efectos de lo dispuesto en los artículos 50 y 51 del Código de Minería."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

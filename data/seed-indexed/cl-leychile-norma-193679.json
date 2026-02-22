@@ -1,0 +1,37 @@
+{
+  "id": "cl-leychile-norma-193679",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4495",
+  "status": "in_force",
+  "issued_date": "1928-12-07",
+  "in_force_date": "1929-07-02",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=193679",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º Apruébase el siguiente Presupuesto de Gastos Extraordinarios para 1929:\nMinisterio del Interior $ 12.149,797\nMinisterio de Hacienda 6.565,500\nMinisterio de Educación Pública 22.565,900\nMinisterio de Justicia 5.200,000\nMinisterio de Marina 65.059,405\nMinisterio de Fomento 62.450,000\nMinisterio de Bienestar Social 29.839,789\nPérdidas y gastos de la emisión 21.169,609\nTotal $ 225.000,000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2º Se autoriza al Presidente de la República para contratar, durante 1929, un empréstito hasta por doscientos veinticinco millones de pesos, cuyo producto se invertirá en la realización del Presupuesto de Gastos Extraordinarios a que se refiere el artículo anterior. Este empréstito podrá ser externo o interno; en el primer caso, el interés no excederá de 6 por ciento anual y, en el segundo de 7 por ciento, siendo en ambos casos la amortización de 1 por ciento, también anual."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3º Autorízase al Presidente de la República para efectuar, dentro de un mismo ítem, traspasos de saldos de los fondos en él consultados."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4º Esta ley comenzará a regir desde el 1º de Enero de 1929."
+    }
+  ],
+  "definitions": []
+}

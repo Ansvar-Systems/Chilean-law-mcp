@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22987",
+  "type": "statute",
+  "title": "LEI NUM. 1,892 QUE PERMITE LA RESIDENCIA DEL EJERCITO EN EL LUGAR DE SESIONES DEL CONGRESO",
+  "short_name": "Ley 1892",
+  "status": "in_force",
+  "issued_date": "1906-12-12",
+  "in_force_date": "1906-12-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22987",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único . Permítese, por el término de un año, la residencia de los cuerpos del ejército permanente en el lugar de las sesiones del Congreso Nacional i diez leguas a su circunferencia."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23061",
+  "type": "statute",
+  "title": "LEI NUM. 2,002 QUE TRASLADA A PUERTO VARAS LA CABECERA DE LA COMUNA DE FRUTILLAR DEL DEPARTAMENTO DE LLANQUIHUE.",
+  "short_name": "Ley 2002",
+  "status": "in_force",
+  "issued_date": "1907-09-04",
+  "in_force_date": "1907-09-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23061",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único. Trasládase a Puerto Varas la cabecera del territorio municipal de Frutillar, del departamento de Llanquihue."
+    }
+  ],
+  "definitions": []
+}

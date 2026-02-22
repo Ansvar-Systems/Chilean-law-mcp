@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-252828",
+  "type": "statute",
+  "title": "MODIFICA LA LEY Nº 19.518, PERMITIENDO QUE LAS MUNICIPALIDADES PUEDAN ACTUAR COMO ORGANISMOS TECNICOS DE CAPACITACION",
+  "short_name": "Ley 20121",
+  "status": "in_force",
+  "issued_date": "2006-08-31",
+  "in_force_date": "2006-09-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=252828",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "\"Artículo único.- Intercálase en el artículo 12 de la ley N°19.518, entre las frases \"Ministerio de Educación,\" y \"registrados para estos efectos\", la expresión \"las municipalidades\" seguida de una coma (,)."
+    },
+    {
+      "provision_ref": "arttransitorio-transitorio",
+      "section": "TRANSITORIO Transitorio",
+      "title": "Artículo TRANSITORIO Transitorio",
+      "content": "Artículo transitorio.- Las municipalidades que, a la fecha de vigencia de la presente ley, se encuentren inscritas en el Registro Nacional contemplado en el artículo 19 de la ley N° 19.518, dispondrán de un plazo de 24 meses para ajustarse a los requisitos contemplados en el numeral 2° del artículo 21 de la mencionada ley. Cumplido ese plazo, a los municipios que no se hayan ajustado a las exigencias antes indicadas, se les cancelará automáticamente su inscripción en el Registro Nacional.\"."
+    }
+  ],
+  "definitions": []
+}

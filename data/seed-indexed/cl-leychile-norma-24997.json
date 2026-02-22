@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24997",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 5014",
+  "status": "in_force",
+  "issued_date": "1931-12-17",
+  "in_force_date": "1931-12-17",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24997",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Traspásase a 08/08/04/i/1 la suma de ciento veinte mil pesos ($ 120,000), que se deducirá de 08/05/04/j)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Esta ley comenzará a regir desde su publicación en el Diario Oficial\""
+    }
+  ],
+  "definitions": []
+}

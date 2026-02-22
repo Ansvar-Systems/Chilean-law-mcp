@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22971",
+  "type": "statute",
+  "title": "LEI NUM. 1,870 QUE DECLARA QUE EL TIEMPO DE ABONO CONCEDIDO AL CAPITAN DON JUAN CARLOS ABUSTOS LE SERVIRA PARA LOS EFECTOS DE SU RETIRO",
+  "short_name": "Ley 1870",
+  "status": "in_force",
+  "issued_date": "1906-07-31",
+  "in_force_date": "1907-06-18",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22971",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Decláranse, por gracia, que los dos años de servicios que se le abonaron al capitan retirado don Juan Cárlos Abustos, en conformidad al artículo 2.° de la lei de 1.° de octubre de 1859, le servirán tambien para los efectos de su retiro."
+    }
+  ],
+  "definitions": []
+}

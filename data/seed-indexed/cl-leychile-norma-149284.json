@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-149284",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 4440",
+  "status": "in_force",
+  "issued_date": "1928-10-08",
+  "in_force_date": "1928-10-13",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=149284",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "\"Artículo 1.o Reemplázase el artículo 22 de la ley número 4,174, de 10 de Septiembre de 1927, por el siguiente:\n\"Artículo .. Quedan exentos de toda contribución fiscal o municipal los predios cuyo avalúo sea inferior a tres mil pesos.\nPara gozar de esta exención bastará la propia declaración, hecha por el interesado, ante la Oficina de Impuestos Internos correspondiente, de que sólo posee el bien raíz para el cual solicita el beneficio.\nSi la Dirección de Impuestos Internos comprueba una declaración falsa, la sancionará con una multa equivalente al doble de la suma adeudada.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Se condonan las contribuciones fiscales y municipales a los predios de un avalúo inferior a cinco mil pesos, y que se adeudaren a la fecha de la promulgación de la presente ley."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.o La Tesorería General de la República podrá autorizar el cobro de las contribuciones a domicilio, determinando, en cada caso, las condiciones en que éste debe llevarse a efecto."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Art. 4.o Se autoriza al Presidente de la República para organizar el cobro de las contribuciones de los deudores morosos, pudiendo destinarse a este objeto hasta un cinco por ciento de las sumas que ingresaren en arcas fiscales con motivo de la presente ley.\nPara los efectos del cobro judicial de las contribuciones, se entenderán por morosos aquellos deudores que no hubieren satisfecho el impuesto en el término de dos meses, contados desde la fecha en que dicho impuesto sea exigible.\nEl Presidente de la República dictará el Reglamento a que deba sujetarse el cobro a los deudores morosos."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Art. 5.o Esta ley comenzará a regir desde su publicación en el Diario Oficial.\""
+    }
+  ],
+  "definitions": []
+}

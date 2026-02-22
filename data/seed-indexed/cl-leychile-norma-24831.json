@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-24831",
+  "type": "statute",
+  "title": "AUTORIZA LA INVERSION DE $ 150,000 EN LAS INSTALACIONES QUE NECESITE EL INSTITUTO BACTERIOLOGICO DE CHILE.",
+  "short_name": "Ley 4686",
+  "status": "in_force",
+  "issued_date": "1929-11-13",
+  "in_force_date": "1929-11-16",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24831",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Autorízase al Presidente de la República para invertir la suma de ciento cincuenta mil pesos, ($ 150,000) en las instalaciones que necesite el Instituto Bacteriológico de Chile."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2.o Este gasto se imputará al ítem 05, Capítulo 13, Partida 06-31 del Presupuesto del Ministerio de Hacienda vigente, que consulta seis millones setecientos tres mil ciento cincuenta y seis pesos, para el canje de billetes fiscales por billetes del Banco Central.\nEsta ley comenzará a regir desde su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

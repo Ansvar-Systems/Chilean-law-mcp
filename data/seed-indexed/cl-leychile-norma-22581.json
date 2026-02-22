@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-22581",
+  "type": "statute",
+  "title": "CONCEDE FONDOS PARA GASTOS FERROCARRILEROS",
+  "short_name": "Ley 1349",
+  "status": "in_force",
+  "issued_date": "1900-08-31",
+  "in_force_date": "1900-09-12",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22581",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO. Se autoriza al Presidente de la República para que invierta hasta la suma de dos millones quinientos mil pesos, moneda corriente, en la construccion en el pais i en el encargo al estranjero del equipo que se necesita para esplotar las vías férreas del Estado, de trocha de un metro i de un metro setenta i ocho centímetros.\nEl Presidente de la República, prévio informe de la Direccion Jeneral de los Ferrocarriles del Estado, fijará el número de carros de pasajeros i de carga que sea útil adquirir fuera del pais."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.° Se autoriza igualmente al Presidente de la República para que invierta hasta las sumas de ciento treinta mil pesos i de setenta i cinco mil pesos, respectivamente, en la adquisicion de repuestos i en los trabajos de reparacion del material rodante existente en las referidas líneas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Art. 3.° Esta autorizacion durará por el término de diez i ocho meses."
+    }
+  ],
+  "definitions": []
+}

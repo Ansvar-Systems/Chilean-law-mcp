@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-135547",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley 1890",
+  "status": "in_force",
+  "issued_date": "1906-12-05",
+  "in_force_date": "1906-12-10",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=135547",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Se declaran de utilidad pública los terrenos necesarios para la via, estaciones i demas dependencias de los ferrocarriles de Inca a Copiapó i Rayado a Los Vilos i del túnel de la Gurupa, en conformidad a los planos aprobados por el Presidente de la República."
+    }
+  ],
+  "definitions": []
+}

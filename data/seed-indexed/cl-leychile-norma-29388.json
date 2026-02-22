@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-29388",
+  "type": "statute",
+  "title": "ORDENA QUE LOS PRESTAMOS QUE INDICA SEAN IMPUTADOS\nAL SALDO A PAGAR POR LOS ASIGNATARIOS DE TIERRAS DE LA\nCORPORACION DE LA REFORMA AGRARIA.",
+  "short_name": "Ley 17951",
+  "status": "in_force",
+  "issued_date": "1973-07-10",
+  "in_force_date": "1973-07-20",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=29388",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Los préstamos anuales para gastos de operación y los préstamos de la sequía que recibieron los asentamientos y las Cooperativas de Reforma Agraria de la provincia de Coquimbo durante la sequía, serán imputados al saldo a pagar en el valor de la tierra asignada."
+    }
+  ],
+  "definitions": []
+}

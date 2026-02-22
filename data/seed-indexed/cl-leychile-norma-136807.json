@@ -1,0 +1,31 @@
+{
+  "id": "cl-leychile-norma-136807",
+  "type": "statute",
+  "title": "",
+  "short_name": "Ley S/N",
+  "status": "in_force",
+  "issued_date": "1893-02-01",
+  "in_force_date": "1893-02-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=136807",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Art. 1.º Concédese á las municipalidades de Traiguén, Temuco, Angol, Cañete, Victoria y Nueva Imperial la propiedad de todos los sitios que, estando comprendidos en el radio urbano de dichas poblaciones, no hayan sido hasta la fecha concedidos á título provisorio y la de aquellos que, entregados á terceros á este título, hubieren de volver á poder del Fisco por no haber cumplido los concesionarios con las obligaciones que el decreto respectivo les imponía.\nNo se entenderán comprendidas en la disposición anterior las propiedades que en la actualidad estén destinadas ó que dentro de un plazo de sesenta días se destinaren por el Presidente de la República á algún servicio público.\nSe concederá título provisorio de los sitios á que se refiere el inciso 1.º á las personas que tengan casa construída en ellos antes del 1.º de Junio de 1889, circunstancia que calificará una comisión compuesta del primer alcalde de la Municipalidad respectiva y de un ingeniero nombrado por el Supremo Gobierno."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "2.º Las municipalidades á que se refiere el artículo precedente enajenarán dentro de un plazo de tres años los sitios que les hayan correspondido."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "3.º La presente ley principiará á regir desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

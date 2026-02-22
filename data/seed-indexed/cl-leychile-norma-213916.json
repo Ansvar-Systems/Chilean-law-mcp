@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-213916",
+  "type": "statute",
+  "title": "FIJA NORMAS PARA EL PAGO DE INDEMNIZACION A EMPLEADOS DE\nEMPRESAS PERIODISTICAS Y ORDENA DEVOLVER A DICHAS\nEMPRESAS LO PERCIBIDO POR LA CAJA RESPECTIVA, POR EL\nAPORTE DEL 8.33 %",
+  "short_name": "Ley 6192",
+  "status": "repealed",
+  "issued_date": "1938-02-15",
+  "in_force_date": "1981-08-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=213916",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1.o Después del 1.o de Enero de 1937 los empleados de empresas periodísticas que no tengan derecho a jubilación y que dejen de prestar sus servicios por renuncia, vacancia o cualquier otra causa, que no sea la destitución por comisión de crimen o simple delito de acción pública, tendrán derecho a que se les pague por el empleador una indemnización equivalente a un mes de sueldo por cada año de servicios o fracción mayor de seis meses.\nEl sueldo mensual será el término medio de los sueldos, sobresueldos y comisiones o de las comisiones solamente, de los últimos seis meses trabajados.\nPara estos efectos, se considerará exclusivamente hasta una remuneración mensual máxima de tres mil quinientos pesos ($ 3,500)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2.o Los desahucios e indemnizaciones anteriores al 1.o de Enero de 1937 se liquidarán en conformidad con lo establecido en el Código del Trabajo."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3.o No regirán para las empresas periodísticas las disposiciones de los Arts. 29 y 30 de la Ley N.o 6,020, de 8 de Febrero de 1937."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4.o La Caja respectiva devolverá a dichas empresas lo percibido por el aporte del 8.33% en doce mensualidades iguales vencidas y sin intereses.\nLa Caja previamente practicará una liquidación deduciendo los gastos administrativos que la aplicación de la referida ley le haya demandado, los que serán prorrateados entre las diversas empresas. Asimismo, de la suma que se devuelva a cada empresa se rebajará lo pagado por concepto de desahucio a los empleados que hayan quedado cesantes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5.o La presente Ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

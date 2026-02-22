@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24130",
+  "type": "statute",
+  "title": "LEI NUM. 3,635, QUE CONCEDE FONDOS PARA ADQUISICION I CONSTRUCCION DE EDIFICIOS DEPENDIENTES DEL MINISTERIO DE GUERRA.",
+  "short_name": "Ley 3635",
+  "status": "in_force",
+  "issued_date": "1920-07-26",
+  "in_force_date": "1920-07-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24130",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República para invertir hasta la suma de un millon de pesos ($ 1.000,000) en la adquisicion i construccion de edificios dependientes del Ministerio de la Guerra i en atender a aquellas reparaciones urjentes que tengan por objeto la conservacion de ellos.\nEl gasto que importa esta lei se imputará a la entrada que obtenga el Fisco por el sobreprecio del oro sobre el cálculo para el presente año."
+    }
+  ],
+  "definitions": []
+}

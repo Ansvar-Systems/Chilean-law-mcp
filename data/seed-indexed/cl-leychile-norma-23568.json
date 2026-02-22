@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-23568",
+  "type": "statute",
+  "title": "SEGREGA DE LA SUBDELEGACION CHUCHUNCO EL DISTRITO DENOMINADO \"LO TAGLE\" I LO ANEXA A LA SUBDELEGACION \"UGARTE\" DE LA CIUDAD DE SANTIAGO.",
+  "short_name": "Ley 2888",
+  "status": "in_force",
+  "issued_date": "1914-02-08",
+  "in_force_date": "1914-02-19",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23568",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.- Segrégase de la subdelegacion 9.a rural \"Chuchunco\" del departamento de Santiago, el distrito número 3 denominado \"Lo Tagle\", que se agregará con el número 4 a la subdelegacion 25 urbana \"Ugarte\" del mismo departamento.\nEste distrito así anexado, formará parte de la circunscripcion 4.a \"Estacion\" del territorio municipal de Santiago."
+    }
+  ],
+  "definitions": []
+}

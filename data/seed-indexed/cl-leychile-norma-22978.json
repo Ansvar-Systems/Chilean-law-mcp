@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22978",
+  "type": "statute",
+  "title": "LEI NUM. 1,880, AUTORIZA LA INVERSION DE  L 200,000 EN REPARACIONES DEL ACORAZADO CAPITAN PRAT",
+  "short_name": "Ley 1880",
+  "status": "in_force",
+  "issued_date": "1906-08-31",
+  "in_force_date": "1906-11-15",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22978",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "Artículo único.- Autorízase al Presidente de la República, para que invierta hasta la suma de doscientas mil libras esterlinas en atender a los gastos que demanden las siguientes reparaciones que deben efectuarse en el acorazado \"Capitan Prat\": cambio de las calderas, cambio de la coraza del reducto central i de la de las torres, trasformacion de la arboladura, cambio del forro de madera, proteccion de los ascensores i recorrida jeneral del casco."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cl-leychile-norma-27175",
+  "type": "statute",
+  "title": "FIJA NORMAS PARA EL PAGO DE PATENTES MINERAS ACLARA EL ARTICULO 115° DEL CODIGO DE MINERIA.",
+  "short_name": "Ley 12576",
+  "status": "repealed",
+  "issued_date": "1957-10-01",
+  "in_force_date": "1983-10-14",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=27175",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1° Los cambios de roles de patentes mineras que se produzcan como consecuencia de modificaciones de límites departamentales o comunales surtirán efectos después que sean publicados por dos veces en los Boletines Oficiales de Minería correspondientes a las comunas afectadas por ellos.\nLas publicaciones deberán hacerse a solicitud de cualesquiera de los Tesoreros, cuyas comunas han experimentado cambios de límites."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2° Mientras no se hagan las publicaciones previstas en el artículo anterior, se considerará válido el pago de las patentes mineras que se continúe haciendo en la Tesorería de la comuna respectiva."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3° Las disposiciones contenidas en los dos artículos anteriores se estimarán como interpretativas o aclaratorias del artículo 115° del Código de Minería."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4° Declárase que los dueños de pertenencias mineras que hayan sido afectadas por cambios de límites departamentales o comunales antes de la publicación de esta ley han amparado su dominio sobre ellas mediante el pago de las patentes mineras, sea que éste se haya hecho en la Tesorería de la comuna primitiva o en la de la nueva."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5° No será necesaria la publicación establecida en el artículo 1° respecto de aquellas pertenencias mineras afectadas por cambios de límites, que, a la fecha de promulgación de esta ley, ya se encuentran enroladas en la Tesorería de la nueva comuna de que han pasado a formar parte."
+    }
+  ],
+  "definitions": []
+}

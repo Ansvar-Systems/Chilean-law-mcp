@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-208919",
+  "type": "statute",
+  "title": "LEY NUM. 4,879",
+  "short_name": "Ley 4879",
+  "status": "in_force",
+  "issued_date": "1930-08-25",
+  "in_force_date": "1930-08-27",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=208919",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º Se declara que la incompatibilidad establecida por el artículo 8º de la ley número 4,565, a contar desde la fecha de su vigencia, no rige para el juez de menor cuantía y oficial civil de La Calera."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Art. 2º Esta ley regirá desde la fecha de su publicación en el Diario Oficial."
+    }
+  ],
+  "definitions": []
+}

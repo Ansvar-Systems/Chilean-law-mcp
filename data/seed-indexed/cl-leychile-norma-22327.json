@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22327",
+  "type": "statute",
+  "title": "EXENCION DE DERECHOS DE IMPORTACION DE CIERTOS ARTICULOS",
+  "short_name": "Ley 990",
+  "status": "in_force",
+  "issued_date": "1898-01-03",
+  "in_force_date": "1898-01-04",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22327",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO. Declárase exentos de derechos de importacion, hasta el año 1920, los hilados de algodon i las maquinarias que las fábricas de tejidos de algodon internen al pais para el servicio i uso de esa industria."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-22905",
+  "type": "statute",
+  "title": "PENSION DE DOÑA EMILIA HERRERA",
+  "short_name": "Ley 1774",
+  "status": "in_force",
+  "issued_date": "1905-11-24",
+  "in_force_date": "1905-11-25",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=22905",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.-Concédese, por gracia, a doña Emilia Herrera, nieta del sarjento mayor graduado de la independencia, don José María Manterola, una pension equivalente al montepío de capitan."
+    }
+  ],
+  "definitions": []
+}

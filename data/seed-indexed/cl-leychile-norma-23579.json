@@ -1,0 +1,25 @@
+{
+  "id": "cl-leychile-norma-23579",
+  "type": "statute",
+  "title": "CONCEDE FONDOS PARA OBSEQUIAR UN GRUPO ESCULTORICO AL PALACIO DE PAZ DE LA HAYA I PARA CONTRIBUIR A LA ERECCION DE UN MONUMENTO A VASCO NUÑEZ DE BALBOA.",
+  "short_name": "Ley 2900",
+  "status": "in_force",
+  "issued_date": "1914-07-15",
+  "in_force_date": "1914-08-07",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=23579",
+  "provisions": [
+    {
+      "provision_ref": "artprimero",
+      "section": "PRIMERO",
+      "title": "Artículo PRIMERO",
+      "content": "ARTICULO PRIMERO.- Autorízase al Presidente de la República para invertir la cantidad de dieciseis mil pesos, oro de 18 peniques, en los gastos de fundicion, trasporte y colocacion del grupo escultórico que obsequiará el Gobierno de Chile al Palacio de Paz de La Haya."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ART. 2.°- Autorízase igualmente al Presidente de la República, para contribuir en nombre del Gobierno de Chile con la suma de trece mil doscientos cincuenta pesos, oro de 18 peniques, a la ereccion de un monumento, al borde del Canal de Panamá, al descubridor del Océano Pacífico, Vasco Núñez de Balboa."
+    }
+  ],
+  "definitions": []
+}

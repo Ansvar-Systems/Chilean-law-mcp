@@ -1,0 +1,19 @@
+{
+  "id": "cl-leychile-norma-24322",
+  "type": "statute",
+  "title": "LEI NUM. 3,887, QUE DECLARA FERIADO EL DIA 7 DE SETIEMBRE DE 1922",
+  "short_name": "Ley 3887",
+  "status": "in_force",
+  "issued_date": "1922-09-06",
+  "in_force_date": "1922-09-06",
+  "url": "https://www.bcn.cl/leychile/navegar?idNorma=24322",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO",
+      "content": "ARTICULO UNICO.-En homenaje a los Estados Unidos del Brasil, declárase feriado el dia 7 del presente mes, fecha del Centenario de su Independencia."
+    }
+  ],
+  "definitions": []
+}
