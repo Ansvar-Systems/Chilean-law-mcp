@@ -43,6 +43,14 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_documents: safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents'),
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
+    disclaimer: 'This is a research tool, not legal advice. Verify critical citations against official sources.',
+    network: {
+      name: 'Ansvar MCP Network',
+      open_law: 'https://ansvar.eu/open-law',
+      directory: 'https://ansvar.ai/mcp',
+      total_servers: 83,
+      law_jurisdictions: 70,
+    },
     data_source: {
       name: 'LeyChile',
       authority: 'Biblioteca del Congreso Nacional de Chile (BCN)',
