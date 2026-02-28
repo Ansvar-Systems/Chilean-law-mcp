@@ -9,3 +9,5 @@ coverage/
 data/source/fulltext-ingest-state.json
 data/source/indexed/
 data/source/fulltext-ingest.log
+.claude/
+.serena/
