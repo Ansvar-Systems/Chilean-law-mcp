@@ -88,6 +88,7 @@ export const TOOLS: Tool[] = [
       'Retrieve the full text of a specific provision (section) from a Chilean statute. ' +
       'Specify a document_id (Act title, abbreviation, or internal ID) and optionally a section or provision_ref. ' +
       'Omit section/provision_ref to get ALL provisions in the statute (use sparingly — can be large). ' +
+      'Subsection references like "13(1)" or "s29(2)(a)" resolve to the parent section. ' +
       'Returns provision text, chapter, section number, and metadata. ' +
       'Supports Act title references (e.g., "Privacy Act 1988"), abbreviations, and full titles. ' +
       'Use this when you know WHICH provision you want. For discovery, use search_legislation instead.',
@@ -299,20 +300,36 @@ export const TOOLS: Tool[] = [
   },
 ];
 
+const EU_TOOL_NAMES = new Set([
+  'get_eu_basis',
+  'get_chilean_implementations',
+  'search_eu_implementations',
+  'get_provision_eu_basis',
+  'validate_eu_compliance',
+]);
+
 export function buildTools(
   db?: InstanceType<typeof Database>,
   context?: AboutContext,
 ): Tool[] {
-  const tools = [...TOOLS, LIST_SOURCES_TOOL];
+  let hasEuData = false;
 
   if (db) {
+    // Check if EU reference tables exist AND have data
     try {
-      db.prepare('SELECT 1 FROM definitions LIMIT 1').get();
-      // Could add a get_definitions tool here when definitions table exists
+      const row = db.prepare('SELECT COUNT(*) as cnt FROM eu_references').get() as { cnt: number };
+      if (row.cnt > 0) hasEuData = true;
     } catch {
-      // definitions table doesn't exist
+      // Table doesn't exist — EU tools will be hidden
     }
   }
+
+  const tools = TOOLS.filter(t => {
+    if (EU_TOOL_NAMES.has(t.name) && !hasEuData) return false;
+    return true;
+  });
+
+  tools.push(LIST_SOURCES_TOOL);
 
   if (context) {
     tools.push(ABOUT_TOOL);

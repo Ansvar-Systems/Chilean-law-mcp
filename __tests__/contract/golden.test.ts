@@ -1,25 +1,32 @@
 /**
  * Golden contract tests for Chilean Law MCP.
  * Validates core tool functionality against seed data.
+ *
+ * Skipped in CI when database.db is not available (e.g. npm-only installs).
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
 import Database from 'better-sqlite3';
 import * as path from 'path';
+import * as fs from 'fs';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
+const DB_EXISTS = fs.existsSync(DB_PATH);
+
+const describeIf = DB_EXISTS ? describe : describe.skip;
 
 let db: InstanceType<typeof Database>;
 
 beforeAll(() => {
+  if (!DB_EXISTS) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('journal_mode = DELETE');
 });
 
-describe('Database integrity', () => {
+describeIf('Database integrity', () => {
   it('should include core corpus and indexed national law documents', () => {
     const row = db.prepare(`
       SELECT
@@ -46,7 +53,7 @@ describe('Database integrity', () => {
   });
 });
 
-describe('Article retrieval', () => {
+describeIf('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
       "SELECT content FROM legal_provisions WHERE document_id = 'cl-ley-18168-telecomunicaciones' AND section = '1'"
@@ -56,7 +63,7 @@ describe('Article retrieval', () => {
   });
 });
 
-describe('Search', () => {
+describeIf('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
       "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'datos'"
@@ -65,7 +72,7 @@ describe('Search', () => {
   });
 });
 
-describe('Negative tests', () => {
+describeIf('Negative tests', () => {
   it('should return no results for fictional document', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-law-2099'"
@@ -81,7 +88,7 @@ describe('Negative tests', () => {
   });
 });
 
-describe('All 10 laws are present', () => {
+describeIf('All 10 laws are present', () => {
   const expectedDocs = [
     'cl-ley-18168-telecomunicaciones',
     'cl-ley-19039-propiedad-industrial-secretos',
@@ -105,9 +112,22 @@ describe('All 10 laws are present', () => {
   }
 });
 
-describe('list_sources', () => {
+describeIf('list_sources', () => {
   it('should have db_metadata table', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM db_metadata').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThan(0);
+  });
+});
+
+describeIf('Census validation', () => {
+  it('should have census.json matching database counts', () => {
+    const censusPath = path.resolve(__dirname, '../../data/census.json');
+    if (!fs.existsSync(censusPath)) return;
+    const census = JSON.parse(fs.readFileSync(censusPath, 'utf-8'));
+    const dbLaws = db.prepare('SELECT COUNT(*) as cnt FROM legal_documents').get() as { cnt: number };
+    const dbProvisions = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
+    expect(census.total_laws).toBe(dbLaws.cnt);
+    expect(census.total_provisions).toBe(dbProvisions.cnt);
+    expect(census.jurisdiction).toBe('CL');
   });
 });
