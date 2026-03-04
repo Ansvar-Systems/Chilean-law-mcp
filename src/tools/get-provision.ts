@@ -50,7 +50,8 @@ export async function getProvision(
   // Specific provision lookup
   const ref = input.provision_ref ?? input.section;
   if (ref) {
-    const refTrimmed = ref.trim();
+    // Strip subsection references: "13(1)" -> "13", "s13(2)(a)" -> "s13"
+    const refTrimmed = ref.trim().replace(/(\([\dA-Za-z]+\))+$/, '');
 
     // Try direct provision_ref match
     let provision = db.prepare(

@@ -115,9 +115,11 @@ export async function validateCitationTool(
   }
 
   if (parsed.sectionRef) {
+    // Strip subsection references: "13(1)" -> "13", "s13(2)(a)" -> "s13"
+    const sectionBare = parsed.sectionRef.replace(/(\([\dA-Za-z]+\))+$/, '');
     const provision = db.prepare(
-      "SELECT provision_ref FROM legal_provisions WHERE document_id = ? AND (provision_ref = ? OR provision_ref = ? OR section = ?)"
-    ).get(docId, parsed.sectionRef, `s${parsed.sectionRef}`, parsed.sectionRef) as { provision_ref: string } | undefined;
+      "SELECT provision_ref FROM legal_provisions WHERE document_id = ? AND (provision_ref = ? OR provision_ref = ? OR provision_ref = ? OR section = ? OR provision_ref = ? OR provision_ref = ? OR section = ?)"
+    ).get(docId, parsed.sectionRef, `s${parsed.sectionRef}`, `art${parsed.sectionRef}`, parsed.sectionRef, sectionBare, `s${sectionBare}`, sectionBare) as { provision_ref: string } | undefined;
 
     if (!provision) {
       return {

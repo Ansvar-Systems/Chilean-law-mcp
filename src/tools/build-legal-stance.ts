@@ -3,7 +3,7 @@
  */
 
 import type Database from '@ansvar/mcp-sqlite';
-import { buildFtsQueryVariants, sanitizeFtsInput } from '../utils/fts-query.js';
+import { buildFtsQueryVariants, buildLikePattern, sanitizeFtsInput } from '../utils/fts-query.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface BuildLegalStanceInput {
@@ -68,5 +68,42 @@ export async function buildLegalStance(
     }
   }
 
-  return { results: [], _metadata: generateResponseMetadata(db) };
+  
+  // LIKE fallback — last resort when all FTS5 variants return empty
+  {
+    const likePattern = buildLikePattern(input.query);
+    let sql = `
+      SELECT
+        lp.document_id,
+        ld.title as document_title,
+        lp.provision_ref,
+        lp.section,
+        lp.title,
+        substr(lp.content, 1, 200) as snippet,
+        0 as relevance
+      FROM legal_provisions lp
+      JOIN legal_documents ld ON ld.id = lp.document_id
+      WHERE lp.content LIKE ? COLLATE NOCASE
+    `;
+    const params: (string | number)[] = [likePattern];
+
+    if (input.document_id) {
+      sql += ' AND lp.document_id = ?';
+      params.push(input.document_id);
+    }
+
+    sql += ' LIMIT ?';
+    params.push(limit);
+
+    try {
+      const rows = db.prepare(sql).all(...params) as LegalStanceResult[];
+      if (rows.length > 0) {
+        return { results: rows, _metadata: generateResponseMetadata(db) };
+      }
+    } catch {
+      // LIKE query failed — fall through to empty return
+    }
+  }
+
+return { results: [], _metadata: generateResponseMetadata(db) };
 }
