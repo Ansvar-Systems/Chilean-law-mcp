@@ -3,4 +3,5 @@ node_modules
 *.md
 tests
 data/seed
-scripts
+scripts/*
+!scripts/download-db.sh
