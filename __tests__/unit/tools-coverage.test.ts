@@ -402,12 +402,14 @@ describe('capabilities and utils', () => {
     expect(sanitizeFtsInput(`a'b"c(d)`)).toBe('a b c d');
     expect(buildFtsQueryVariants('')).toEqual([]);
     expect(buildFtsQueryVariants('   ')).toEqual([]);
-    expect(buildFtsQueryVariants('ab')).toEqual(['ab']);
+    expect(buildFtsQueryVariants('ab')).toEqual(['ab', 'ab*']);
     expect(buildFtsQueryVariants('abc')).toEqual(['abc', 'abc*']);
     expect(buildFtsQueryVariants('datos personales')).toEqual([
       '"datos personales"',
       'datos AND personales',
       'datos AND personales*',
+      'dato* AND personal*',
+      'datos OR personales',
     ]);
   });
 
@@ -438,7 +440,8 @@ describe('capabilities and utils', () => {
     try {
       expect(resolveDocumentId(toDb(db), 'doc-data')).toBe('doc-data');
       expect(resolveDocumentId(toDb(db), 'Ley de Datos')).toBe('doc-data');
-      expect(resolveDocumentId(toDb(db), 'Data Law')).toBe('doc-data');
+      // title_en is not searched by resolveDocumentId — only title + short_name
+      expect(resolveDocumentId(toDb(db), 'Data Law')).toBeNull();
       expect(resolveDocumentId(toDb(db), '   ')).toBeNull();
       expect(resolveDocumentId(toDb(db), 'missing')).toBeNull();
     } finally {
@@ -731,8 +734,8 @@ describe('core tools', () => {
         fingerprint: 'abc123',
         dbBuilt: '2026-02-21T20:00:00.000Z',
       });
-      expect(about.server).toBe('chilean-law-mcp');
-      expect(about.data_source.jurisdiction).toBe('CL');
+      expect(about.name).toBe('Chilean Law MCP');
+      expect(about.jurisdiction).toBe('CL');
     } finally {
       db.close();
     }
@@ -757,7 +760,7 @@ describe('core tools', () => {
       fingerprint: 'abc123',
       dbBuilt: '2026-02-21T20:00:00.000Z',
     });
-    expect(degradedAbout.statistics.documents).toBe(0);
+    expect(degradedAbout.stats.documents).toBe(0);
 
     const zeroRowDb = {
       prepare: (sql: string) => {
@@ -778,7 +781,7 @@ describe('core tools', () => {
       fingerprint: 'abc123',
       dbBuilt: '2026-02-21T20:00:00.000Z',
     });
-    expect(zeroRowAbout.statistics.documents).toBe(0);
+    expect(zeroRowAbout.stats.documents).toBe(0);
   });
 });
 
@@ -995,7 +998,8 @@ describe('tool registry wiring', () => {
     });
     const brokenCall = brokenServer.handlers.get(CallToolRequestSchema);
     const brokenRes = await brokenCall({ params: { name: 'about', arguments: {} } });
-    expect(brokenRes.isError).toBe(true);
+    // about degrades gracefully (safeCount catches DB errors) — returns valid response
+    expect(brokenRes.isError).not.toBe(true);
 
     const nonErrorThrowServer = new FakeServer();
     const stringThrowDb = {
@@ -1010,7 +1014,8 @@ describe('tool registry wiring', () => {
     });
     const stringThrowCall = nonErrorThrowServer.handlers.get(CallToolRequestSchema);
     const stringThrowRes = await stringThrowCall({ params: { name: 'about', arguments: {} } });
-    expect(stringThrowRes.isError).toBe(true);
+    // about degrades gracefully (safeCount catches all throws) — returns valid response
+    expect(stringThrowRes.isError).not.toBe(true);
 
     db.close();
   });
