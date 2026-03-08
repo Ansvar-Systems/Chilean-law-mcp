@@ -11,3 +11,5 @@ data/source/indexed/
 data/source/fulltext-ingest.log
 .claude/
 .serena/
+data/database.db-shm
+data/database.db-wal
